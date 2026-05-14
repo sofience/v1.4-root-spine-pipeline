@@ -1,0 +1,2 @@
+[Text extraction failed: No module named 'PyPDF2']
+Canonical PDF included as source.

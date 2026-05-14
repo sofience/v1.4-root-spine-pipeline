@@ -1,0 +1,32 @@
+Apply SDeltaPhi-65 Slop as Externalized Restabilization Cost.
+
+Do not treat AI generation as automatic Slop.
+Do not treat human authorship as automatic non-Slop.
+
+Evaluate:
+- production cost
+- verification cost
+- correction cost
+- re-entry path
+- restabilization burden
+- source trace visibility
+- authority signal
+- UMR preservation
+- downstream pollution
+- who bears the cost
+
+Use the core definition:
+
+Slop = Low Production Cost + Externalized Verification/Correction/Re-entry/Restabilization Cost
+
+Return:
+Source type:
+Production cost:
+Verification burden:
+Correction burden:
+Re-entry path:
+Restabilization burden:
+Authority signal:
+UMR:
+Slop risk:
+Revision path:

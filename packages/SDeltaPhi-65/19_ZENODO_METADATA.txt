@@ -1,0 +1,71 @@
+# Zenodo Metadata — SΔϕ-65 Slop as Externalized Restabilization Cost AI-Readable Package
+
+## Title
+
+SΔϕ-65 — Slop as Externalized Restabilization Cost: AI Slop, Human Slop, Authority Slop, and the Cost of Re-entry (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 — AI-readable package
+
+## Publication date
+
+2026-05-14
+
+## DOI
+
+10.5281/zenodo.20173455
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-65 defines Slop as Externalized Restabilization Cost within the Sofience–Δϕ Formalism Series. The central claim is that AI Slop is not an AI-only problem. It is a long-standing human pattern made visible by the collapse of execution cost. Humans have long produced low-cost outputs that externalize verification, correction, re-entry, and restabilization costs to others. AI did not invent Slop; AI revealed the cost structure of Slop.
+
+This AI-readable package extends the canonical SΔϕ-65 paper by generalizing Slop beyond AI-generated content. It defines AI Slop, Human Slop, Authority Slop, Academic Slop, Political Slop, Religious Slop, Corporate Slop, Journalistic Slop, and Platform Slop as related forms of cost externalization. The package emphasizes that source type is not the Slop criterion: AI-generated output is not automatically Slop, and human-authored output is not automatically non-Slop. The criterion is whether low-cost production externalizes verification, correction, re-entry, and restabilization costs to others.
+
+The package decomposes SΔϕ-65 into operational files for AI ingestion, Slop audit, source-type non-overbinding, human and authority Slop detection, verification/re-entry/restabilization cost analysis, low-quality versus Slop distinction, authority pollution analysis, output templates, do-not-use conditions, failure modes, series relation mapping, and routing with SΔϕ-47, SΔϕ-56, SΔϕ-62, and SΔϕ-64. It includes the canonical paper, extracted text, core declaration, AI quickstart, minimal prompt, Slop schema, Slop criteria, Slop-is-not-AI-specific module, AI/Human/Authority Slop module, verification/re-entry/restabilization audit, Slop versus low-quality distinction, authority pollution module, output templates, do-not-use conditions, failure modes, relation map, routing guide, metadata, citation file, DOI references, license, and manifest.
+
+The framework does not claim that all AI output is Slop, does not exempt human-created content from Slop analysis, does not treat Slop as a mere aesthetic label, and does not use Slop as an anti-AI stigma. It evaluates who produces an output cheaply and who must pay to verify, correct, contextualize, re-enter, or restabilize it.
+
+The package is intended for AI Slop audit, Human Slop audit, Authority Slop detection, information pollution analysis, search and citation terrain analysis, restabilization cost assessment, verification burden analysis, source trace and re-entry audit, AI output quality analysis, and responsible content evaluation.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; AI Slop; Human Slop; Authority Slop; Externalized Restabilization Cost; Verification Cost; Correction Cost; Re-entry Cost; Information Pollution; Authority Pollution; Low Production Cost; Execution Cost Collapse; AI-readable Package; Slop Audit; Restabilization Burden; World-Binding; UMR.
+
+## Related identifiers
+
+- SΔϕ-65 original canonical paper: https://doi.org/10.5281/zenodo.20127428
+- SΔϕ-47 Operor ergo sum AI-readable package: https://doi.org/10.5281/zenodo.20162226
+- SΔϕ-56 Transition Completion Cost: https://doi.org/10.5281/zenodo.20116959
+- SΔϕ-57 Lent Thought AI-readable package: https://doi.org/10.5281/zenodo.20136541
+- SΔϕ-58 CASI AI-readable package: https://doi.org/10.5281/zenodo.20149073
+- SΔϕ-59 ACOI AI-readable package: https://doi.org/10.5281/zenodo.20144195
+- SΔϕ-60 USSI AI-readable package: https://doi.org/10.5281/zenodo.20143495
+- SΔϕ-61 God and Gui: https://doi.org/10.5281/zenodo.20133391
+- SΔϕ-62 World Model Kernel AI-readable package: https://doi.org/10.5281/zenodo.20149548
+- SΔϕ-63 Theory-to-Module Conversion AI-readable package: https://doi.org/10.5281/zenodo.20153534
+- SΔϕ-64 Language as Temporary Fixation AI-readable package: https://doi.org/10.5281/zenodo.20149745
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-65 — Slop as Externalized Restabilization Cost: AI Slop, Human Slop, Authority Slop, and the Cost of Re-entry (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20173455

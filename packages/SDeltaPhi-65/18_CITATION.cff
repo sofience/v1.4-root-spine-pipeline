@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "SΔϕ-65 — Slop as Externalized Restabilization Cost: AI Slop, Human Slop, Authority Slop, and the Cost of Re-entry"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-14"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-65. It defines Slop as externalized restabilization cost and argues that AI Slop is not an AI-only problem but a long-standing human pattern made visible by the collapse of execution cost."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - AI Slop
+  - Human Slop
+  - Authority Slop
+  - Externalized Restabilization Cost
+  - Verification Cost
+  - Re-entry Cost
+  - Information Pollution
+  - Authority Pollution
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20173455"
+url: "https://doi.org/10.5281/zenodo.20173455"
