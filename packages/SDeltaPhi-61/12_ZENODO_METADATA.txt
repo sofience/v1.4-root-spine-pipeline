@@ -1,0 +1,39 @@
+Title:
+SΔϕ-61 — God and Gui: Non-Transactional Divinity, Transactional Transcendent Actors, and the Cost Terrain of Sacred Authority (v1.0, AI-Readable Module Package)
+
+Upload type:
+Publication
+
+Publication type:
+Working paper
+
+Creator:
+Sofience
+
+Version:
+v1.0
+
+Publication date:
+2026-05-09
+
+Language:
+English
+
+License:
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Description:
+SΔϕ-61 introduces the God-Gui separation within the Sofience–Δϕ Formalism. God is preserved as a non-transactional omnipotent condition and UMR: not measured, scored, proved, disproved, reduced, or used as a final human adjudicator. Gui is introduced as a technical operational term for a transactional transcendent actor or sacred-authority operation that enters human cost-attribution paths through command, obedience, punishment, reward, offering, covenant, ritual obligation, taboo, protection, institutional authority, exit cost, or blocked correction.
+
+The document does not judge religious truth, rank religions, mock religious believers, or replace theology. It asks a narrower operational question: when a transcendent claim enters human transaction, what cost terrain does it create? The central formula is: God is not invoked. Gui is invoked. What is invoked can be audited.
+
+This AI-readable module package decomposes the canonical paper into lower-cost operational files, including README, core declaration, AI quickstart, minimal prompt, schema, transaction test, do-not-use and misreadings guide, output templates, relation map, metadata, citation file, and manifest.
+
+Keywords:
+SΔϕ; Sofience-DeltaPhi Formalism; God; Gui; sacred authority; transactional transcendent actor; non-transactional divinity; cost attribution; UMR; sacred marker; theology; folk religion; ritual exchange; obedience cost; exit cost; AI-readable module.
+
+Suggested citation:
+Sofience. (2026). SΔϕ-61 — God and Gui: Non-Transactional Divinity, Transactional Transcendent Actors, and the Cost Terrain of Sacred Authority (v1.0, AI-Readable Module Package). Zenodo. DOI to be assigned.
+
+Notes:
+This package is an AI-readable decomposition of SΔϕ-61. It is not a proof or disproof of God, not a religious ranking system, not a cult label, and not a replacement for theology or religious studies. It is a cost-attribution audit module for sacred-authority invocations.

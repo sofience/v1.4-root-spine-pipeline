@@ -1,0 +1,73 @@
+id: SDeltaPhi-61
+short_title: God and Gui
+full_title: God and Gui: Non-Transactional Divinity, Transactional Transcendent Actors, and the Cost Terrain of Sacred Authority
+version: v1.0
+author: Sofience
+date: 2026-05-09
+type: sacred_authority_audit_module
+status: working_paper_ai_readable_module
+core_claim: >
+  God is preserved as a non-transactional omnipotent condition and UMR.
+  Gui is the transactional transcendent actor or sacred-authority operation that enters human cost-attribution paths.
+  God is not invoked. Gui is invoked. What is invoked can be audited.
+
+entities:
+  God:
+    definition: non-transactional omnipotent condition
+    sdelta_status: UMR
+    measured: false
+    scored: false
+    operational_caution: Do not use God as a final human adjudicator inside cost terrain.
+  Gui:
+    definition: transactional transcendent actor entering human cost-attribution paths
+    measured: operation_only
+    moral_status: not_necessarily_false_or_evil
+    operational_caution: Gui is not an insult, demon label, or lesser deity label.
+
+transaction_triggers:
+  - command
+  - obedience_demand
+  - punishment
+  - reward
+  - offering
+  - covenant
+  - ritual_obligation
+  - taboo
+  - protection_exchange
+  - curse_or_blessing
+  - institutional_authority
+  - political_justification
+  - sacrifice_requirement
+  - forced_endurance
+  - dissent_cost_increase
+  - exit_cost_increase
+  - blocked_correction
+
+analysis_fields:
+  observed_trace: What human statement, ritual, text, office, or institution invoked the transcendent claim?
+  UMR: What remains unmeasured and must not be reduced?
+  transaction_type: Through what transaction path did the claim operate?
+  cost_bearers: Who pays obedience, sacrifice, silence, dissent, exit, or repair cost?
+  beneficiaries: Who receives authority, stability, protection, labor, money, legitimacy, or obedience?
+  interpreter_authority: Who can speak for the sacred actor?
+  dissent_exit_repair: Can affected parties object, leave, reinterpret, or trigger correction?
+  classification: God preserved as UMR; human-world invocation audited as Gui-operation if transaction triggers are present.
+  revision_path: What new trace, internal theological clarification, affected-party testimony, or institutional repair would update the analysis?
+
+output_levels:
+  level_0: Natural-language caution; preserve UMR and name cost terrain lightly.
+  level_1: Quick God-Gui distinction and transaction note.
+  level_2: Structured transaction test.
+  level_3: Full sacred-authority cost audit.
+  level_4: Research, institutional, theological, or legal-adjacent analysis with evidence grading.
+
+do_not_use_as:
+  - proof_of_God
+  - disproof_of_God
+  - anti_religious_label
+  - demonology
+  - cult_label
+  - final_theological_judgment
+  - replacement_for_theology
+  - replacement_for_religious_studies
+  - censorship_or_mockery_tool
