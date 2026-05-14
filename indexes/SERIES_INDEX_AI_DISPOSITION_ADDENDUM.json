@@ -1,0 +1,30 @@
+{
+  "add_module": {
+    "id": "SDeltaPhi-AI-Disposition-Cost-Audit",
+    "title": "AI Disposition Cost Audit Prompt Module",
+    "role": "convert human dispositions toward AI into operational cost-audit prompts",
+    "priority": 2,
+    "folder": "packages/SDeltaPhi-AI-Disposition-Cost-Audit",
+    "included": true,
+    "route_when": [
+      "AI hostility",
+      "AI salvation discourse",
+      "AI fear",
+      "AI accelerationism",
+      "AI is evil",
+      "AI is soulless",
+      "AI will save humanity",
+      "techno-salvation",
+      "moral panic",
+      "AI optimism"
+    ],
+    "routes_to": [
+      "SDeltaPhi-17",
+      "SDeltaPhi-28",
+      "SDeltaPhi-39",
+      "SDeltaPhi-56",
+      "SDeltaPhi-62",
+      "SDeltaPhi-65"
+    ]
+  }
+}
