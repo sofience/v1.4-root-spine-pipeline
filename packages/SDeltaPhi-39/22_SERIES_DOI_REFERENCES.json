@@ -1,0 +1,47 @@
+{
+  "package": {
+    "id": "SDeltaPhi-39-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20176747",
+    "url": "https://doi.org/10.5281/zenodo.20176747",
+    "record_url": "https://zenodo.org/records/20176747",
+    "type": "AI-readable package",
+    "version": "v1.1"
+  },
+  "canonical_paper": {
+    "id": "SDeltaPhi-39",
+    "title": "Hallucination as Weak World-Binding Overclaimed as Fact",
+    "type": "canonical paper generated in package",
+    "version": "v1.1",
+    "source_version": "v1.0"
+  },
+  "related": [
+    {
+      "id": "SDeltaPhi-47",
+      "title": "Operor ergo sum AI-readable package",
+      "doi": "10.5281/zenodo.20162226",
+      "url": "https://doi.org/10.5281/zenodo.20162226"
+    },
+    {
+      "id": "SDeltaPhi-48",
+      "title": "Drift and AI Transition Instability",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-49",
+      "title": "Corrective Re-entry after Failure",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel AI-readable package",
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548"
+    },
+    {
+      "id": "SDeltaPhi-65",
+      "title": "Slop as Externalized Restabilization Cost AI-readable package",
+      "doi": "10.5281/zenodo.20173455",
+      "url": "https://doi.org/10.5281/zenodo.20173455"
+    }
+  ]
+}

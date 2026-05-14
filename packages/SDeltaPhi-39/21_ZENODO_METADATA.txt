@@ -1,0 +1,65 @@
+# Zenodo Metadata — SΔϕ-39 Hallucination as Weak World-Binding AI-Readable Package
+
+## Title
+
+SΔϕ-39 — Hallucination as Weak World-Binding Overclaimed as Fact: Fiction, Claim Strength, Evidence Binding, and UMR (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 — AI-readable package
+
+## Publication date
+
+2026-05-14
+
+## DOI
+
+10.5281/zenodo.20176747
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-39 defines hallucination as a world-binding mismatch within the Sofience–Δϕ Formalism Series. The central claim is that AI hallucination is not merely false output. Hallucination occurs when a weakly world-bound construction, inference, or unresolved model residue (UMR)-filled continuation is output as if it were strongly bound to observed world trace.
+
+This AI-readable package revises and operationalizes the original SΔϕ-39 paper, Fiction, Hallucination, and the Uninhabited Construction. It preserves the original claim that hallucination is construction proceeding without an adequately integrated world-binding stop mechanism, while adding an explicit output-level formula: Hallucination = ClaimStrength > EvidenceBinding. The package also defines hallucination as WeakInference spoken as WorldBoundFact, Inference output as Observed Trace, and UMR erased into assertion.
+
+The package decomposes SΔϕ-39 into operational files for AI ingestion, hallucination audit, fiction versus hallucination distinction, world-binding strength testing, claim strength versus evidence binding comparison, trace/inference/UMR failure modes, hallucination as output binding error, and routing to SΔϕ-48 Drift, SΔϕ-49 Failure Re-entry, SΔϕ-62 World Model Kernel, and SΔϕ-65 Slop. It includes the canonical v1.1 paper, extracted text, source v1.0 paper, core declaration, AI quickstart, minimal prompt, hallucination schema, protocol files, output templates, metadata, citation file, DOI references, license, and manifest.
+
+The framework does not claim that all errors are hallucinations, does not punish fiction, does not suppress hypothesis generation, and does not demand impossible certainty. It requires binding discipline: weakly bound claims should be marked as weak, fiction should be bounded as fiction, inference should not be stated as observed trace, and UMR should not be erased into assertion.
+
+The package is intended for AI hallucination audit, citation verification, summary grounding, fiction versus hallucination analysis, world-binding strength testing, claim strength calibration, UMR preservation, Slop prevention, and agentic execution precheck.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; AI Hallucination; World-Binding; Weak World-Binding; Claim Strength; Evidence Binding; UMR; Unresolved Model Residue; Fiction; Inference; Observed Trace; AI-readable Package; Slop; Hallucination Audit; Binding Discipline; Trace Inference Separation.
+
+## Related identifiers
+
+- SΔϕ-48 — Drift and AI Transition Instability: Relation: References
+- SΔϕ-49 — Corrective Re-entry after Failure: Relation: References
+- SΔϕ-62 — World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548 ; Relation: References
+- SΔϕ-65 — Slop as Externalized Restabilization Cost AI-Readable Package: https://doi.org/10.5281/zenodo.20173455 ; Relation: References
+- SΔϕ-47 — Operor ergo sum AI-Readable Package: https://doi.org/10.5281/zenodo.20162226 ; Relation: References
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-39 — Hallucination as Weak World-Binding Overclaimed as Fact: Fiction, Claim Strength, Evidence Binding, and UMR (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20176747

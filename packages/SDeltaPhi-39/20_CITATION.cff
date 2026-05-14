@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "SΔϕ-39 — Hallucination as Weak World-Binding Overclaimed as Fact: Fiction, Claim Strength, Evidence Binding, and UMR"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-14"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-39. It defines hallucination as weak world-binding overclaimed as fact and operationalizes hallucination as a mismatch where claim strength exceeds evidence binding."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - AI Hallucination
+  - World-Binding
+  - Weak World-Binding
+  - Claim Strength
+  - Evidence Binding
+  - UMR
+  - Fiction
+  - Inference
+  - Observed Trace
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20176747"
+url: "https://doi.org/10.5281/zenodo.20176747"

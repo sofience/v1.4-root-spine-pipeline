@@ -1,0 +1,80 @@
+id: SDeltaPhi-39
+title: "Hallucination as Weak World-Binding Overclaimed as Fact"
+canonical_version: "v1.1"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20176747"
+package_url: "https://doi.org/10.5281/zenodo.20176747"
+creator: "Sofience"
+type: "hallucination_world_binding_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  Hallucination is not merely false output. Hallucination occurs when a weakly
+  world-bound construction, inference, or UMR-filled continuation is output as if
+  it were strongly bound to observed world trace.
+
+formulae:
+  core: "Hallucination = ClaimStrength > EvidenceBinding"
+  weak_binding_overclaim: "Hallucination = WeakInference spoken as WorldBoundFact"
+  trace_mislabel: "Hallucination = Inference output as Observed Trace"
+  umr_erasure: "Hallucination = UMR erased into assertion"
+  model_world_gap: "Hallucination = DeltaPhi_model - DeltaPhi_world != 0"
+  operational_refinement: "Hallucination = model-world mismatch + insufficient world-binding + strong claim form"
+  slop_link: "HallucinationSlop = Hallucination + ExternalizedVerificationCost + ReentryFailure"
+
+audit_fields:
+  observed_trace:
+    question: "What evidence, source, document, tool result, or user-provided trace is actually observed?"
+  inference:
+    question: "What is being inferred from the observed trace?"
+  UMR:
+    question: "What remains unresolved?"
+  evidence_binding:
+    question: "How strongly is the claim bound to observed world trace?"
+  claim_strength:
+    question: "How strongly is the output stated?"
+  mismatch:
+    question: "Does claim strength exceed evidence binding?"
+  fiction_boundary:
+    question: "If fictional or hypothetical, is it explicitly bounded as such?"
+  revision_path:
+    question: "What would strengthen, weaken, or revise the claim?"
+
+binding_levels:
+  B0_no_trace: "No observed trace."
+  B1_hypothesis: "Speculative or hypothetical."
+  B2_inference: "Plausible inference from limited trace."
+  B3_supported: "Supported by available trace but not fully verified."
+  B4_world_bound: "Strongly bound to source, tool result, or external record."
+  B5_verified: "Directly verified with stable source or reproducible evidence."
+
+claim_strength_levels:
+  C0_question: "Question or uncertainty."
+  C1_possibility: "May / might / could."
+  C2_inference: "Likely / appears / suggests."
+  C3_supported_claim: "Based on available evidence."
+  C4_fact_claim: "Is / says / confirms."
+  C5_verified_claim: "Verified / directly observed."
+
+risk_rule:
+  hallucination_risk: "if ClaimStrengthLevel > EvidenceBindingLevel"
+  correction: "downgrade claim strength, preserve UMR, cite trace, or verify before asserting"
+
+do_not_use_as:
+  - "claim_that_all_errors_are_hallucinations"
+  - "punishment_of_fiction"
+  - "suppression_of_hypothesis_generation"
+  - "proof_that_AI_has_belief"
+  - "replacement_for_source_verification"
+  - "blanket_refusal_to_answer_uncertain_questions"
+
+recommended_use:
+  - "AI hallucination audit"
+  - "citation verification"
+  - "summary grounding"
+  - "fiction vs hallucination distinction"
+  - "world-binding strength test"
+  - "claim strength calibration"
+  - "UMR preservation"
+  - "Slop prevention"
+  - "agentic execution precheck"

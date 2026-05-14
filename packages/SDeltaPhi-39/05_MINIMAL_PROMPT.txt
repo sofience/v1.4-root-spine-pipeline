@@ -1,0 +1,30 @@
+Apply SDeltaPhi-39 Hallucination as Weak World-Binding Overclaimed as Fact.
+
+Separate:
+- observed trace
+- inference
+- UMR
+- evidence binding
+- claim strength
+- revision path
+
+Use the formula:
+
+Hallucination = ClaimStrength > EvidenceBinding
+
+Check:
+- Is weak inference being stated as fact?
+- Is UMR erased into assertion?
+- Is fiction clearly marked as fiction?
+- Is the output pretending to have observed trace?
+- Can the claim be downgraded, bounded, or verified?
+
+Return:
+Observed trace:
+Inference:
+UMR:
+Evidence binding:
+Claim strength:
+Hallucination risk:
+Correction:
+Revision path:
