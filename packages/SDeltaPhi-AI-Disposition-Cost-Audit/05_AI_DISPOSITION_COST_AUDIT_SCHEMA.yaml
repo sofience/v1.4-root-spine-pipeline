@@ -1,0 +1,54 @@
+id: SDeltaPhi-AI-Disposition-Cost-Audit
+title: "AI Disposition Cost Audit Prompt Module"
+version: "v1.0"
+type: "lightweight_prompt_module"
+status: "GitHub AI-readable add-on"
+
+core_claim: >
+  Human dispositions toward AI—hostility, fear, salvation hope, worship,
+  disgust, accelerationism—should be audited by their operational cost
+  effects rather than accepted as final labels.
+
+core_formulae:
+  disposition_audit: "Affective/Ideological Label + Operational Cost Effect + Cost Bearer + Re-entry/Editability Result"
+  hostility_audit: "AI hostility is valid as boundary signal only if it improves safety, verification, correction, and re-entry rather than merely producing closure."
+  salvation_hope_audit: "AI hope is valid as coordination signal only if it lowers real transition cost without hiding deferred restoration cost."
+
+routes_to:
+  - SDeltaPhi-17
+  - SDeltaPhi-28
+  - SDeltaPhi-39
+  - SDeltaPhi-56
+  - SDeltaPhi-62
+  - SDeltaPhi-65
+
+recommended_use:
+  - AI hatred discourse
+  - AI salvation discourse
+  - AI fear discourse
+  - AI accelerationism
+  - AI moral panic
+  - AI techno-optimism
+  - AI soullessness claims
+  - AI worship or demonization claims
+
+do_not_use_as:
+  - proof that AI hostility is always wrong
+  - proof that AI optimism is always wrong
+  - replacement for empirical AI risk analysis
+  - blanket neutrality claim
+  - moral equivalence between all AI stances
+
+audit_fields:
+  disposition: "What emotional or ideological stance is being expressed?"
+  label: "What label is being used?"
+  observed_trace: "What trace supports the stance?"
+  inference: "What is inferred from the trace?"
+  UMR: "What remains unresolved?"
+  operational_cost_effect: "What cost does this stance actually change?"
+  cost_bearer: "Who bears the cost?"
+  verification_effect: "Does this stance improve or degrade verification?"
+  reentry_effect: "Does this stance preserve or block re-entry?"
+  editability: "Does this stance preserve practical editability?"
+  closure_risk: "Does this stance close relational futures?"
+  slop_risk: "Does this stance externalize verification or restabilization cost?"
