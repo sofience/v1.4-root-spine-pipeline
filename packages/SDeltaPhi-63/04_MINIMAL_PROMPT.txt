@@ -1,0 +1,21 @@
+Apply SDeltaPhi-63 Theory-to-Module Conversion Protocol.
+
+Do not adopt or reject the theory as a total worldview.
+
+Convert the theory into a conditional detection module.
+
+Identify:
+- core proposition
+- detected pattern
+- activation condition
+- input signals
+- output classification
+- cost structure revealed
+- cost structure hidden
+- overbinding risk
+- blind spots
+- failure modes
+- UMR
+- downstream SDeltaPhi modules
+
+Return the lowest sufficient module description with scope and limits.

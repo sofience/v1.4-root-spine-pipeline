@@ -1,0 +1,69 @@
+# Zenodo Metadata — SΔϕ-63 Theory-to-Module Conversion Protocol AI-Readable Package
+
+## Title
+
+SΔϕ-63 — Theory-to-Module Conversion Protocol: Conditional Detection Modules, Scope, UMR, Failure Modes, and Downstream SΔϕ Routing (v1.1, AI-Readable Package with SKILL.md)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 — AI-readable package with SKILL.md
+
+## Publication date
+
+2026-05-13
+
+## DOI
+
+10.5281/zenodo.20153534
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-63 defines the Theory-to-Module Conversion Protocol within the Sofience–Δϕ Formalism Series. The central claim is that a theory should not be treated first as a worldview to adopt or reject. A theory can be converted into a conditional detection module with scope, triggers, outputs, limits, unresolved model residue (UMR), revision path, and failure modes.
+
+This AI-readable package decomposes the canonical SΔϕ-63 paper into operational files for AI ingestion, theory decomposition, conditional detection module construction, scope boundary testing, ideology-capture prevention, module composition, and downstream SΔϕ routing. It includes the canonical paper, extracted text, SKILL.md pilot file, core declaration, AI quickstart, minimal prompt, theory-to-module schema, theory decomposition protocol, conditional detection module protocol, module boundary and scope test, overgeneralization and ideology capture test, religion/philosophy/ethics/politics module, module output template, module composition and routing, do-not-use conditions, failure modes, relation map, kernel routing with SΔϕ-62 and SΔϕ-64, metadata, citation file, DOI references, license, and manifest.
+
+The package includes SKILL.md as a pilot Agent Skill-style file. The skill is designed to let an AI agent recognize when theory-to-module conversion should be invoked and apply a procedure for extracting a theory's root proposition, detected pattern, activation condition, input trace requirement, output classification, revealed and hidden cost structures, blind spots, overbinding risk, failure modes, UMR, revision path, and downstream SΔϕ modules.
+
+The framework does not claim that all theories are merely tools, does not erase the historical depth of theories, does not trivialize religion, philosophy, ethics, or politics, and does not replace domain expertise. It converts selected operational features of theories into conditional detection modules without treating the converted module as final truth.
+
+The package is intended for philosophy-to-module conversion, religion-to-module conversion, ethics-to-module conversion, political ideology audit, economic theory audit, AI alignment theory conversion, governance framework conversion, user-created framework conversion, theory comparison without total adoption, and ideology-capture prevention. It pairs with SΔϕ-62 and SΔϕ-64: SΔϕ-62 separates observed trace, inference, UMR, binding status, and revision path; SΔϕ-64 audits terminology and language fixation; SΔϕ-63 converts theories into conditional modules and routes them to downstream SΔϕ audit modules.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Theory-to-Module Conversion Protocol; Conditional Detection Module; Theory Conversion; Philosophy to Module; Religion to Module; Ethics to Module; Political Ideology Audit; Economic Theory Audit; AI Alignment Theory; Governance Framework; Ideology Capture; Overbinding; UMR; Module Routing; Agent Skill; SKILL.md; AI-readable Package; Operational Ontology.
+
+## Related identifiers
+
+- SΔϕ-63 original canonical paper: https://doi.org/10.5281/zenodo.20100647
+- SΔϕ-56 Transition Completion Cost: https://doi.org/10.5281/zenodo.20116959
+- SΔϕ-58 CASI AI-readable package: https://doi.org/10.5281/zenodo.20149073
+- SΔϕ-59 ACOI AI-readable package: https://doi.org/10.5281/zenodo.20144195
+- SΔϕ-60 USSI AI-readable package: https://doi.org/10.5281/zenodo.20143495
+- SΔϕ-61 God and Gui: https://doi.org/10.5281/zenodo.20133391
+- SΔϕ-62 World Model Kernel AI-readable package: https://doi.org/10.5281/zenodo.20149548
+- SΔϕ-64 Language as Temporary Fixation AI-readable package: https://doi.org/10.5281/zenodo.20149745
+- SΔϕ-65 Slop as Externalized Restabilization Cost: https://doi.org/10.5281/zenodo.20127428
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-63 — Theory-to-Module Conversion Protocol: Conditional Detection Modules, Scope, UMR, Failure Modes, and Downstream SΔϕ Routing (v1.1, AI-Readable Package with SKILL.md). Zenodo. https://doi.org/10.5281/zenodo.20153534

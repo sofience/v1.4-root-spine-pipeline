@@ -1,0 +1,73 @@
+{
+  "package": {
+    "id": "SDeltaPhi-63-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20153534",
+    "url": "https://doi.org/10.5281/zenodo.20153534",
+    "record_url": "https://zenodo.org/records/20153534",
+    "type": "AI-readable package with SKILL.md",
+    "version": "v1.1"
+  },
+  "canonical_paper": {
+    "id": "SDeltaPhi-63",
+    "doi": "10.5281/zenodo.20100647",
+    "url": "https://doi.org/10.5281/zenodo.20100647",
+    "record_url": "https://zenodo.org/records/20100647",
+    "type": "canonical paper",
+    "version": "v1.0"
+  },
+  "skill": {
+    "file": "SKILL.md",
+    "name": "sdelta-phi-theory-to-module-conversion",
+    "type": "pilot agent skill manifest"
+  },
+  "related": [
+    {
+      "id": "SDeltaPhi-56",
+      "title": "Transition Completion Cost v1.3",
+      "doi": "10.5281/zenodo.20116959",
+      "url": "https://doi.org/10.5281/zenodo.20116959"
+    },
+    {
+      "id": "SDeltaPhi-58",
+      "title": "CASI AI-readable package",
+      "doi": "10.5281/zenodo.20149073",
+      "url": "https://doi.org/10.5281/zenodo.20149073"
+    },
+    {
+      "id": "SDeltaPhi-59",
+      "title": "ACOI AI-readable package",
+      "doi": "10.5281/zenodo.20144195",
+      "url": "https://doi.org/10.5281/zenodo.20144195"
+    },
+    {
+      "id": "SDeltaPhi-60",
+      "title": "USSI AI-readable package",
+      "doi": "10.5281/zenodo.20143495",
+      "url": "https://doi.org/10.5281/zenodo.20143495"
+    },
+    {
+      "id": "SDeltaPhi-61",
+      "title": "God and Gui",
+      "doi": "10.5281/zenodo.20133391",
+      "url": "https://doi.org/10.5281/zenodo.20133391"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel AI-readable package",
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548"
+    },
+    {
+      "id": "SDeltaPhi-64",
+      "title": "Language as Temporary Fixation AI-readable package",
+      "doi": "10.5281/zenodo.20149745",
+      "url": "https://doi.org/10.5281/zenodo.20149745"
+    },
+    {
+      "id": "SDeltaPhi-65",
+      "title": "Slop as Externalized Restabilization Cost",
+      "doi": "10.5281/zenodo.20127428",
+      "url": "https://doi.org/10.5281/zenodo.20127428"
+    }
+  ]
+}
