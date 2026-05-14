@@ -1,0 +1,85 @@
+id: SDeltaPhi-28
+title: "Default Power as Low-Cost Path Assignment"
+canonical_version: "v1.0"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20175534"
+package_url: "https://doi.org/10.5281/zenodo.20175534"
+creator: "Sofience"
+type: "default_power_and_low_cost_path_assignment_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  Default power operates not by abolishing alternatives, but by assigning one path
+  as the cheapest continuation while making alternatives frictional, obscure,
+  costly, or practically ineditable.
+
+tcc_underlayer: >
+  SDeltaPhi-28 is supported by SDeltaPhi-56 Transition Completion Cost.
+  A default path is the available path with the lowest transition completion cost.
+
+formulae:
+  default_path: "P_default = argmin TCC(P_i)"
+  original_default_path: "P_default = argmin C_op(P_i)"
+  default_power: "DefaultPower = TCC(P_alt) - TCC(P_default)"
+  repeated_default_fixation: "R(P_default) ↑ -> F(P_default) ↑"
+  restoration_cost_explosion: "F(P_default) ↑ -> C_rest(P_alt) ↑"
+  invisible_fixation: "FormalChoice == true and TCC(P_alt) >> TCC(P_default)"
+  editability_collapse: "TCC(P_alt) exceeds practical editability threshold"
+  new_command: "not 'you must' but 'this is easiest'"
+
+audit_fields:
+  default_path:
+    question: "Which path is assigned as the cheapest continuation?"
+  alternative_paths:
+    question: "Which alternatives formally remain available?"
+  tcc_default:
+    question: "What is the transition completion cost of the default path?"
+  tcc_alternatives:
+    question: "What are the transition completion costs of non-default paths?"
+  tcc_gap:
+    question: "How large is the cost gap between default and alternatives?"
+  discovery_cost:
+    question: "How costly is it to discover the alternative?"
+  switching_cost:
+    question: "How costly is it to switch?"
+  learning_cost:
+    question: "How costly is it to understand or maintain the alternative?"
+  restoration_cost:
+    question: "How costly is it to restore practical editability?"
+  repetition:
+    question: "Does repeated default use increase fixation?"
+  editability:
+    question: "Do non-default paths remain practically editable?"
+  beneficiary:
+    question: "Who benefits from default selection?"
+  cost_bearer:
+    question: "Who pays the switching, restoration, or loss-of-editability cost?"
+  revision_path:
+    question: "What would make the default editable, reversible, or auditable?"
+
+classification:
+  neutral_default: "Default lowers cost without materially reducing alternative editability."
+  soft_default_power: "Default lowers one path's TCC while alternatives remain editable."
+  strong_default_power: "Default creates large TCC gap and raises restoration cost."
+  invisible_fixation: "Formal choice remains but practical editability collapses."
+  coercive_default: "Default combines low-cost path assignment with penalties, lock-in, or blocked re-entry."
+
+do_not_use_as:
+  - "proof_that_all_defaults_are_coercive"
+  - "proof_that_convenience_is_always_domination"
+  - "anti_platform_label_without_cost_audit"
+  - "replacement_for_user_research"
+  - "replacement_for_policy_or_legal_analysis"
+  - "moral_label_detached_from_TCC"
+
+recommended_use:
+  - "platform default audit"
+  - "interface and UX power analysis"
+  - "AI agent default behavior audit"
+  - "recommendation system audit"
+  - "opt-in opt-out path analysis"
+  - "privacy setting analysis"
+  - "subscription cancellation friction analysis"
+  - "policy default analysis"
+  - "invisible fixation detection"
+  - "editability and restoration cost analysis"

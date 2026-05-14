@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "SΔϕ-28 — Default Power as Low-Cost Path Assignment: TCC, Invisible Fixation, and Practical Editability"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-14"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-28. It defines default power as low-cost path assignment and connects it to Transition Completion Cost, invisible fixation, restoration cost, and practical editability."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Default Power
+  - Default-Setting Power
+  - Low-Cost Path Assignment
+  - Transition Completion Cost
+  - TCC
+  - Invisible Fixation
+  - Practical Editability
+  - Platform Defaults
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20175534"
+url: "https://doi.org/10.5281/zenodo.20175534"

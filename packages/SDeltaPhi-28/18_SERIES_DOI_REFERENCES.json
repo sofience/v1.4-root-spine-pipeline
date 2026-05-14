@@ -1,0 +1,54 @@
+{
+  "package": {
+    "id": "SDeltaPhi-28-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20175534",
+    "url": "https://doi.org/10.5281/zenodo.20175534",
+    "record_url": "https://zenodo.org/records/20175534",
+    "type": "AI-readable package",
+    "version": "v1.1"
+  },
+  "canonical_paper": {
+    "id": "SDeltaPhi-28",
+    "type": "canonical paper included in package",
+    "version": "v1.0",
+    "source_file": "01_CANONICAL_PAPER_SDeltaPhi_28_Default_Power_v1_0.pdf"
+  },
+  "related": [
+    {
+      "id": "SDeltaPhi-26",
+      "title": "Irreversibility as Restoration Cost Explosion",
+      "doi": "10.5281/zenodo.18818936",
+      "url": "https://doi.org/10.5281/zenodo.18818936"
+    },
+    {
+      "id": "SDeltaPhi-27",
+      "title": "Low-Cost Convergence and Restoration Cost Explosion",
+      "doi": "10.5281/zenodo.18822918",
+      "url": "https://doi.org/10.5281/zenodo.18822918"
+    },
+    {
+      "id": "SDeltaPhi-56",
+      "title": "Transition Completion Cost",
+      "doi": "10.5281/zenodo.20116959",
+      "url": "https://doi.org/10.5281/zenodo.20116959"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel AI-Readable Package",
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548"
+    },
+    {
+      "id": "SDeltaPhi-64",
+      "title": "Language as Temporary Fixation AI-Readable Package",
+      "doi": "10.5281/zenodo.20149745",
+      "url": "https://doi.org/10.5281/zenodo.20149745"
+    },
+    {
+      "id": "SDeltaPhi-65",
+      "title": "Slop as Externalized Restabilization Cost AI-Readable Package",
+      "doi": "10.5281/zenodo.20173455",
+      "url": "https://doi.org/10.5281/zenodo.20173455"
+    }
+  ]
+}

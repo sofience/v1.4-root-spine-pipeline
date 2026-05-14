@@ -1,0 +1,34 @@
+Apply SDeltaPhi-28 Default Power as Low-Cost Path Assignment.
+
+Do not treat formal availability of alternatives as sufficient freedom.
+
+Identify:
+- default path
+- available alternative paths
+- TCC of the default path
+- TCC of alternative paths
+- TCC gap
+- repetition/fixation risk
+- restoration cost of alternatives
+- practical editability
+- who set the default
+- who benefits
+- who pays switching, repair, and restoration costs
+- revision path for editable defaults
+
+Use the core formula:
+
+DefaultPath = argmin TCC(P_i)
+
+Return:
+Default path:
+Alternative paths:
+TCC(default):
+TCC(alternatives):
+TCC gap:
+Fixation risk:
+Restoration cost:
+Editability:
+Beneficiary:
+Cost bearer:
+Revision path:

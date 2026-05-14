@@ -1,0 +1,66 @@
+# Zenodo Metadata — SΔϕ-28 Default Power as Low-Cost Path Assignment AI-Readable Package
+
+## Title
+
+SΔϕ-28 — Default Power as Low-Cost Path Assignment: TCC, Invisible Fixation, and Practical Editability (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 — AI-readable package
+
+## Publication date
+
+2026-05-14
+
+## DOI
+
+10.5281/zenodo.20175534
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-28 defines Default Power as Low-Cost Path Assignment within the Sofience–Δϕ Formalism Series. The central claim is that power increasingly operates not by prohibition, command, or punishment, but by assigning one path as the cheapest continuation while leaving formal alternatives intact. A default is not a neutral setting; it is a low-cost assignment of continuation.
+
+This AI-readable package extends the canonical SΔϕ-28 paper by explicitly linking Default Power to SΔϕ-56 Transition Completion Cost (TCC). It defines the default path as the available path with the lowest transition completion cost: P_default = argmin TCC(P_i). Default power is then measured by the gap between the TCC of non-default paths and the TCC of the default path. Invisible fixation occurs when formal choice remains intact while the TCC of alternatives becomes much higher than the TCC of the default path, causing practical editability to shrink.
+
+The package decomposes SΔϕ-28 into operational files for AI ingestion, default path audit, TCC underlayer analysis, editability and restoration cost testing, platform/interface/AI applications, output templates, do-not-use conditions, failure modes, relation mapping, and routing with SΔϕ-26, SΔϕ-27, SΔϕ-56, SΔϕ-62, and SΔϕ-64. It includes the canonical paper, extracted text, core declaration, AI quickstart, minimal prompt, default power schema, default path audit, TCC underlayer file, editability/restoration cost test, platform/interface/AI application guide, output templates, do-not-use conditions, failure modes, relation map, routing guide, metadata, citation file, DOI references, license, and manifest.
+
+The framework does not claim that all defaults are coercive or that convenience is always domination. It evaluates when a default becomes power by lowering the cost of one continuation while making alternatives frictional, obscure, costly, or practically ineditable.
+
+The package is intended for platform default audit, interface and UX power analysis, AI agent default behavior audit, recommendation system audit, opt-in/opt-out path analysis, privacy setting analysis, subscription cancellation friction analysis, policy default analysis, invisible fixation detection, and editability/restoration cost analysis.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Default Power; Default-Setting Power; Low-Cost Path Assignment; Transition Completion Cost; TCC; Choice Architecture; Invisible Fixation; Practical Editability; Restoration Cost; Platform Defaults; Interface Design; AI Agent Defaults; Recommendation Systems; Opt-out Friction; Path Fixation; AI-readable Package.
+
+## Related identifiers
+
+- SΔϕ-26 — Irreversibility as Restoration Cost Explosion: https://doi.org/10.5281/zenodo.18818936
+- SΔϕ-27 — Low-Cost Convergence and Restoration Cost Explosion: https://doi.org/10.5281/zenodo.18822918
+- SΔϕ-56 — Transition Completion Cost: https://doi.org/10.5281/zenodo.20116959
+- SΔϕ-62 — World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548
+- SΔϕ-64 — Language as Temporary Fixation AI-Readable Package: https://doi.org/10.5281/zenodo.20149745
+- SΔϕ-65 — Slop as Externalized Restabilization Cost AI-Readable Package: https://doi.org/10.5281/zenodo.20173455
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-28 — Default Power as Low-Cost Path Assignment: TCC, Invisible Fixation, and Practical Editability (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20175534
