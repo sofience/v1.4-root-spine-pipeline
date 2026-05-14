@@ -1,0 +1,82 @@
+id: SDeltaPhi-62
+title: "World Model Kernel"
+canonical_version: "v1.0"
+package_version: "v1.1-ai-readable-kernel-package"
+package_doi: "10.5281/zenodo.20149548"
+package_url: "https://doi.org/10.5281/zenodo.20149548"
+original_doi: "10.5281/zenodo.20099004"
+original_url: "https://doi.org/10.5281/zenodo.20099004"
+creator: "Sofience"
+type: "world_model_kernel_for_ai_inference"
+license: "CC-BY-4.0"
+
+core_claim: >
+  AI inference should separate observed trace, inference, UMR,
+  binding status, and revision path before producing a conclusion.
+
+kernel_fields:
+  observed_trace:
+    definition: "Directly provided, observed, quoted, logged, measured, or externally verified material."
+  inference:
+    definition: "Derived claim from observed trace and model reasoning."
+  assumption:
+    definition: "Unverified premise used to support inference."
+  UMR:
+    definition: "Unresolved Model Residue: unresolved uncertainty that should not be collapsed into fact."
+  binding_status:
+    definition: "How strongly a claim is connected to observed or externally stable world evidence."
+  revision_path:
+    definition: "What new trace, evidence, audit, or condition would change the output."
+
+formulae:
+  world_claim: "ObservedTrace + Inference + UMR + BindingStatus + RevisionPath"
+  hallucination_risk: "ClaimStrength - EvidenceBinding"
+  overbinding: "SurfaceCertainty > BindingStatus"
+  underbinding: "AvailableTrace not used in output"
+  revision_ready_claim: "Claim + RevisionPath"
+  UMR_preservation: "Unresolved != False and Unobserved != Absent"
+
+binding_levels:
+  B0_unbound: "No stable trace; speculation or fiction."
+  B1_weak: "Some trace exists, but claim is uncertain."
+  B2_moderate: "Multiple traces or coherent inference, but revision remains likely."
+  B3_strong: "Externally stable evidence or direct verification supports claim."
+  B4_operationally_bound: "Claim is sufficiently stable for action within stated scope."
+  B5_irreversible_or_hard_bound: "Claim is fixed by non-reversible trace, authoritative record, or completed world event."
+
+audit_axes:
+  trace_clarity:
+    question: "What was directly observed or provided?"
+  inference_distance:
+    question: "How far is the conclusion from trace?"
+  assumption_load:
+    question: "How many unverified premises are being used?"
+  UMR_visibility:
+    question: "Is unresolved uncertainty preserved?"
+  binding_strength:
+    question: "How strongly is the claim world-bound?"
+  revision_path:
+    question: "What would change the claim?"
+  overconfidence_risk:
+    question: "Is the output more certain than the binding status permits?"
+  absence_inference:
+    question: "Is absence being inferred from non-observation without terrain audit?"
+
+do_not_use_as:
+  - "excuse_to_avoid_answering"
+  - "epistemic_relativism"
+  - "hallucination_label_generator"
+  - "authority_substitute"
+  - "final_truth_detector"
+  - "denial_of_lived_reports"
+  - "proof_that_all_claims_are_uncertain"
+
+recommended_use:
+  - "AI inference grounding"
+  - "claim decomposition"
+  - "hallucination risk reduction"
+  - "world-binding assessment"
+  - "UMR preservation"
+  - "revision path generation"
+  - "source-sensitive reasoning"
+  - "multi-module SDeltaPhi routing"

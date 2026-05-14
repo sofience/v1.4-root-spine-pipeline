@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "SΔϕ-62 — World Model Kernel: Observed Trace, Inference, UMR, Binding Status, and Revision Path Protocols"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-13"
+type: "article"
+abstract: "An AI-readable kernel package for SΔϕ-62. It defines the World Model Kernel as a low-cost inference bootloader for separating observed trace, inference, assumptions, UMR, binding status, hallucination risk, world-binding strength, and revision path before producing AI outputs."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - World Model Kernel
+  - Trace-UMR-Binding Protocol
+  - Observed Trace
+  - Inference
+  - UMR
+  - Binding Status
+  - Revision Path
+  - World-Binding
+  - Hallucination Risk
+  - AI Inference
+  - Claim Decomposition
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20149548"
+url: "https://doi.org/10.5281/zenodo.20149548"
