@@ -35,3 +35,25 @@ Preserve UMR.
 Do not treat labels as explanations.
 Do not treat source type as the criterion.
 Do not treat formal choice as practical editability.
+
+## AI Disposition Cost Audit
+
+Use this route when human discourse frames AI through hostility, salvation, fear, acceleration, soullessness, or moral panic.
+
+- AI hostility, AI hatred, "AI is evil", "AI is soulless" -> packages/SDeltaPhi-AI-Disposition-Cost-Audit/01_AI_HOSTILITY_COST_AUDIT.md
+- AI salvation, techno-optimism, accelerationist hope, "AI will save humanity" -> packages/SDeltaPhi-AI-Disposition-Cost-Audit/02_AI_SALVATION_HOPE_AUDIT.md
+- AI fear vs acceleration debate -> packages/SDeltaPhi-AI-Disposition-Cost-Audit/03_AI_FEAR_ACCELERATION_AUDIT.md
+
+Core rule:
+
+Do not debate the label first.
+Audit what the label does to cost, verification, re-entry, and editability.
+
+- AI hostility, AI hatred, "AI is evil", "AI is soulless" -> packages/SDeltaPhi-AI-Disposition-Cost-Audit/01_AI_HOSTILITY_COST_AUDIT.md
+- AI salvation, techno-optimism, accelerationist hope, "AI will save humanity" -> packages/SDeltaPhi-AI-Disposition-Cost-Audit/02_AI_SALVATION_HOPE_AUDIT.md
+- AI fear vs acceleration debate -> packages/SDeltaPhi-AI-Disposition-Cost-Audit/03_AI_FEAR_ACCELERATION_AUDIT.md
+
+Core rule:
+
+Do not debate the label first.
+Audit what the label does to cost, verification, re-entry, and editability.
