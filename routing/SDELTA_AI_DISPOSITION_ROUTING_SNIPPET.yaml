@@ -1,0 +1,30 @@
+# Add-on routing snippet for SΔϕ AI Disposition Cost Audit
+
+routes:
+  - when:
+      - AI hatred
+      - AI hostility
+      - AI is evil
+      - AI is soulless
+      - AI must be destroyed
+      - anti-AI moral panic
+    use:
+      - SDeltaPhi-AI-Disposition-Cost-Audit
+      - SDeltaPhi-17
+      - SDeltaPhi-39
+      - SDeltaPhi-62
+      - SDeltaPhi-65
+
+  - when:
+      - AI salvation
+      - AI will save humanity
+      - AI is progress
+      - techno-salvation
+      - AI optimism
+      - AI accelerationism
+    use:
+      - SDeltaPhi-AI-Disposition-Cost-Audit
+      - SDeltaPhi-28
+      - SDeltaPhi-56
+      - SDeltaPhi-62
+      - SDeltaPhi-65
