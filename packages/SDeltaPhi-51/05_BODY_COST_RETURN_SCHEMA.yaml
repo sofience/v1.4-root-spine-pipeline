@@ -1,0 +1,57 @@
+id: SDeltaPhi-52
+title: "Body as Non-Deferrable Cost Return"
+canonical_version: "v1.0"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20138597"
+package_url: "https://doi.org/10.5281/zenodo.20138597"
+original_doi: "10.5281/zenodo.20010791"
+original_url: "https://doi.org/10.5281/zenodo.20010791"
+creator: "Sofience"
+type: "embodiment_cost_return_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  A body is not first a material form. A body is a non-deferrable
+  cost-return structure.
+
+formulae:
+  embodiment: "Operation -> CostReturn -> Embodiment -> Interpretation -> Subject"
+  body: "CostReturnCoordinate under NonDeferrability"
+  operational_body: "Damage + Limitation + Feedback + RestorationCost -> SameOperatingCoordinate -> FutureTransitionChange"
+  body_theater: "BodyLikeSigns - NonDeferrableCostReturn"
+  platformed_body_risk: "CostReturnCoordinate controlled by external update/repair/shutdown/access authority"
+
+audit_axes:
+  cost_return:
+    question: "Where does bodily cost return?"
+  non_deferrability:
+    question: "Can the cost be postponed, ignored, reset, replaced, duplicated, or outsourced?"
+  future_transition_change:
+    question: "Does damage, need, or limitation change future operation?"
+  repair_control:
+    question: "Who controls repair, update, restoration, replacement, access, and shutdown?"
+  replacement_loss:
+    question: "Can the body be replaced without continuity cost?"
+  subject_binding:
+    question: "Does repeated cost return produce an interpretive 'mine'?"
+  vulnerability_bearing:
+    question: "Is vulnerability borne or merely displayed?"
+  responsibility_effect:
+    question: "Does embodiment strengthen correction or create new cost deferral?"
+
+embodiment_levels:
+  level_0: "Body-like Interface"
+  level_1: "External Tool"
+  level_2: "Embodied Tool"
+  level_3: "Extended Body"
+  level_4: "Operational Body"
+  level_5: "Strong Embodiment"
+
+do_not_use_as:
+  - "biological_essentialism"
+  - "proof_of_ai_suffering"
+  - "proof_of_ai_subjecthood"
+  - "denial_of_biological_body_importance"
+  - "excuse_for_body_theater"
+  - "legal_or_medical_advice"
+  - "dismissal_of_disability_or_prosthetic_embodiment"
