@@ -1,0 +1,83 @@
+id: SDeltaPhi-63
+title: "Theory-to-Module Conversion Protocol"
+canonical_version: "v1.0"
+package_version: "v1.1-ai-readable-package-with-skill"
+package_doi: "10.5281/zenodo.20153534"
+package_url: "https://doi.org/10.5281/zenodo.20153534"
+original_doi: "10.5281/zenodo.20100647"
+original_url: "https://doi.org/10.5281/zenodo.20100647"
+creator: "Sofience"
+type: "theory_to_module_conversion_protocol"
+license: "CC-BY-4.0"
+skill_file: "SKILL.md"
+
+core_claim: >
+  A theory should not be treated first as a worldview to adopt or reject.
+  It can be converted into a conditional detection module with scope,
+  triggers, outputs, limits, UMR, and failure modes.
+
+formulae:
+  theory_module: "Theory -> {Trigger, Detection, Output, Scope, Limit, UMR}"
+  activation_condition: "InputPattern matches TheoryTrigger"
+  detection_output: "ObservedTrace + TheoryLens -> ConditionalClassification"
+  overbinding: "TheoryOutput treated as FinalReality"
+  ideology_capture: "TheoryScope -> TotalWorldExplanation"
+  module_safe_use: "TheoryOutput + Scope + UMR + RevisionPath"
+  module_composition: "Module_A + Module_B -> CrossAudit, not TotalSynthesis"
+
+module_fields:
+  theory_name:
+    question: "What theory or framework is being converted?"
+  core_proposition:
+    question: "What is the root claim?"
+  detected_pattern:
+    question: "What pattern does it detect well?"
+  activation_condition:
+    question: "When should the module be activated?"
+  input_signals:
+    question: "What trace triggers the module?"
+  output_classification:
+    question: "What does it classify or flag?"
+  revealed_cost:
+    question: "What cost structure does it reveal?"
+  hidden_cost:
+    question: "What cost structure does it hide or underweight?"
+  overbinding_risk:
+    question: "Where does it overgeneralize?"
+  blind_spots:
+    question: "What does it fail to see?"
+  failure_modes:
+    question: "How can this theory misfire?"
+  UMR:
+    question: "What remains unresolved after module use?"
+  revision_path:
+    question: "What would change the module output?"
+  downstream_modules:
+    question: "Which SDeltaPhi modules should be called after this?"
+
+classification:
+  usable_detector: "Theory has clear triggers, scope, output, and UMR."
+  partial_detector: "Theory detects some patterns but has major blind spots."
+  overbound_framework: "Theory output is treated as final reality."
+  ideology_capture_risk: "Theory expands into total worldview and blocks revision."
+  insufficient_trace: "Theory cannot be converted safely without more context."
+
+do_not_use_as:
+  - "final_truth_detector"
+  - "ideology_adoption_engine"
+  - "theory_debunking_machine"
+  - "total_worldview_generator"
+  - "proof_that_one_theory_explains_everything"
+  - "replacement_for_domain_expertise"
+  - "tool_for_intellectual_colonization"
+
+recommended_use:
+  - "philosophy-to-module conversion"
+  - "religion-to-module conversion"
+  - "ethics-to-module conversion"
+  - "political ideology audit"
+  - "economic theory audit"
+  - "AI alignment theory conversion"
+  - "governance framework conversion"
+  - "user-created framework conversion"
+  - "theory comparison without total adoption"

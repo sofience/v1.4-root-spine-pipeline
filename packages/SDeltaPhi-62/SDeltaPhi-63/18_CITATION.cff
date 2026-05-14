@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "SΔϕ-63 — Theory-to-Module Conversion Protocol: Conditional Detection Modules, Scope, UMR, Failure Modes, and Downstream SΔϕ Routing"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-13"
+type: "article"
+abstract: "An AI-readable package with SKILL.md for SΔϕ-63. It defines Theory-to-Module Conversion as a protocol for converting philosophies, religions, ethical systems, political ideologies, governance frameworks, AI alignment theories, and user-created frameworks into conditional detection modules with triggers, scope, outputs, UMR, failure modes, and downstream SΔϕ routing."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Theory-to-Module Conversion Protocol
+  - Conditional Detection Module
+  - Theory Conversion
+  - Philosophy to Module
+  - Religion to Module
+  - Ethics to Module
+  - Ideology Capture
+  - Module Routing
+  - Agent Skill
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20153534"
+url: "https://doi.org/10.5281/zenodo.20153534"
