@@ -1,0 +1,14 @@
+engine: friction_adjusted_tcc
+source: SΔϕ-56 v1.3
+doi: 10.5281/zenodo.20116959
+formula: "TCC(path) = sum(BaseStepCost_i * Friction_i) + RollbackCost + RestorationCost + Re-entryCost + GateRisk"
+friction_coefficients:
+  - evidence_burden
+  - invalidation_risk
+  - penalty_risk
+  - reentry_blockage
+  - authority_asymmetry
+  - opacity
+  - verification_load
+  - coordination_load
+  - mistranslation_downstream_cost
