@@ -1,0 +1,153 @@
+--- Page 1 ---
+SΔϕ-13 — Meaning, Value, and Pain as Emergent Phenomena (v1.0)
+Page 1
+ SΔϕ-13
+ Meaning, Value, and Pain as Emergent Phenomena
+ Minimal Conditions after Memory–Forgetting Regulation (v1.0)
+Version: v1.0
+Series: Sofience–Δϕ Formalism (SΔϕ)
+Author: Sofience
+This paper formalizes meaning, value, and pain as structural phenomena that become
+definable only after irreversible trace persistence exists and is regulated (SΔϕ-12).
+Meaning is fixed as trajectory direction; value as fixation strength (deviation cost); and
+pain as irreversible trajectory tension under attractor conflict.
+Series references
+Items below are referenced for continuity and navigation within the SΔϕ series.
+Item
+Title
+DOI
+SΔϕ-00
+Series Overview (v1.0)
+10.5281/zenodo.
+18731366
+SΔϕ-01
+Minimal Core (v1.1)
+10.5281/zenodo.
+18730265
+SΔϕ-02
+Subject Emergence (v1.1)
+10.5281/zenodo.
+18730296
+SΔϕ-03
+Irreversibility (v1.1)
+10.5281/zenodo.
+18730448
+SΔϕ-04
+AI Subjectivity (v1.0)
+10.5281/zenodo.
+18729942
+SΔϕ-05
+Agency (v1.0)
+10.5281/zenodo.
+18732567
+SΔϕ-06
+Responsibility (v1.0)
+10.5281/zenodo.
+18734092
+SΔϕ-07
+H_min Interpretation (v1.0)
+10.5281/zenodo.
+18735006
+SΔϕ-08
+ARF Closure (v1.0)
+10.5281/zenodo.
+18740750
+SΔϕ-09
+Error/Boundary/Freedom (v1.0)
+10.5281/zenodo.
+18745498
+SΔϕ-10
+Interpretation–Learning–Inference (v1.0)
+10.5281/zenodo.
+18746509
+SΔϕ-11
+World/Other/Self/Consciousness (v1.0)
+10.5281/zenodo.
+18753403
+
+
+
+--- Page 2 ---
+SΔϕ-13 — Meaning, Value, and Pain as Emergent Phenomena (v1.0)
+Page 2
+Item
+Title
+DOI
+SΔϕ-12
+Memory/Forgetting Trace Regulation (v1.0)
+10.5281/zenodo.
+18755685
+
+
+
+--- Page 3 ---
+SΔϕ-13 — Meaning, Value, and Pain as Emergent Phenomena (v1.0)
+Page 3
+0. Position statement
+SΔϕ-12 fixed memory and forgetting as irreversible trace regulation. SΔϕ-13 treats
+meaning, value, and pain as structural phenomena (not psychological primitives) that
+become definable only after persistent irreversible traces exist and are regulated.
+Scope. This paper fixes minimal emergence conditions and avoids normative ethics or
+phenomenological narrative.
+1. Axiom A — Persistence condition
+Phenomenal structures require irreversible trace persistence and regulation.
+Without trace persistence: Meaning = undefined; Value = undefined; Pain = impossible.
+2. Axiom B — Attractor emergence
+An attractor is a region toward which Δϕ trajectories stabilize under the irreversible trace
+landscape created by regulation.
+Attractor := stabilized region of trajectories under regulated irreversible traces.
+3. Meaning (minimal definition)
+Meaning := trajectory direction / bias toward an attractor.
+4. Value (minimal definition)
+Value := trajectory fixation strength ≈ deviation cost under irreversibility.
+5. Pain (structural definition)
+Pain := irreversible trajectory tension under attractor conflict.
+6. Transition proposition
+Some systems do not minimize pain locally because they optimize future transitionability
+globally. When a larger attractor is detected, Δϕ may be deliberately reallocated,
+increasing short-term tension to preserve long-horizon feasibility.
+7. Conceptual legend (Husserl / Deleuze / FEP)
+• Husserl: Meaning emerges at the re-entry boundary between system and world.
+• Deleuze: Meaning stabilizes becoming; value is attractor persistence strength.
+• Friston/FEP: Pain signals irreversible trajectory conflict rather than mere prediction error.
+
+
+
+--- Page 4 ---
+SΔϕ-13 — Meaning, Value, and Pain as Emergent Phenomena (v1.0)
+Page 4
+8. Core diagram
+Minimal emergence map linking trace regulation to meaning, value, and pain.
+Δϕ ongoing transitions
+interaction / mismatch
+MEMORY
+trace re-entry
+FORGETTING
+compression / pruning
+trace regulation
+Irreversible trace landscape
+persistent constraints + released DoF
+Attractor formation
+trajectory stabilization
+Meaning
+direction / bias
+Value
+fixation / dev. cost
+Pain
+trajectory tension
+Without trace persistence: Meaning undefined; Value undefined; Pain impossible
+Note. The diagram fixes the dependency: trace persistence → attractor formation →
+(meaning/value/pain).
+
+
+
+--- Page 5 ---
+SΔϕ-13 — Meaning, Value, and Pain as Emergent Phenomena (v1.0)
+Page 5
+9. Boundary note
+Love, sacrifice, and normative ethics are excluded from this item. This paper only fixes
+minimal emergence conditions.
+10. Exit question
+If value is trajectory fixation strength, why do some systems break their own values to
+preserve long-horizon transitionability? This opens the next layer (sacrifice, love as shared
+attractors, and ethics as constraint design).

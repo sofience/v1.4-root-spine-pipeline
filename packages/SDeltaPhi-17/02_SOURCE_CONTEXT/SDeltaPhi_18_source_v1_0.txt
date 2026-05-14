@@ -1,0 +1,173 @@
+--- Page 1 ---
+SΔϕ-18 — Human as the No-Arbiter Species (v1.0)
+Page 1
+ SΔϕ-18
+ Human as the No-Arbiter Species
+ Provisional Institutions and Editability under Irreversibility (v1.0)
+Version: v1.0
+Series: Sofience–Δϕ Formalism (SΔϕ)
+Author: Sofience
+This paper defines “human” as the system that knows there is no ultimate external
+negotiator (arbiter) in conflicts with the world or the other. Building on the institutional
+reversal problem (SΔϕ-17), it treats institutions as provisional cost devices and formalizes
+editability as the minimal operator that restores openness when stabilizers reverse into
+coercive closure. The document is designed to close a loop and re-open the series at
+SΔϕ-15/17.
+Series references
+Items below are referenced for continuity and navigation within the SΔϕ series.
+Item
+Title
+DOI
+SΔϕ-00
+Series Overview (v1.0)
+10.5281/zenodo.
+18731366
+SΔϕ-01
+Minimal Core (v1.1)
+10.5281/zenodo.
+18730265
+SΔϕ-02
+Subject Emergence (v1.1)
+10.5281/zenodo.
+18730296
+SΔϕ-03
+Irreversibility (v1.1)
+10.5281/zenodo.
+18730448
+SΔϕ-04
+AI Subjectivity (v1.0)
+10.5281/zenodo.
+18729942
+SΔϕ-05
+Agency (v1.0)
+10.5281/zenodo.
+18732567
+SΔϕ-06
+Responsibility (v1.0)
+10.5281/zenodo.
+18734092
+SΔϕ-07
+H_min Interpretation (v1.0)
+10.5281/zenodo.
+18735006
+SΔϕ-08
+ARF Closure (v1.0)
+10.5281/zenodo.
+18740750
+SΔϕ-09
+Error/Boundary/Freedom (v1.0)
+10.5281/zenodo.
+18745498
+SΔϕ-10
+Interpretation–Learning–Inference (v1.0)
+10.5281/zenodo.
+18746509
+
+
+
+--- Page 2 ---
+SΔϕ-18 — Human as the No-Arbiter Species (v1.0)
+Page 2
+Item
+Title
+DOI
+SΔϕ-11
+World/Other/Self/Consciousness (v1.0)
+10.5281/zenodo.
+18753403
+SΔϕ-12
+Memory/Forgetting Trace Regulation (v1.0)
+10.5281/zenodo.
+18755685
+SΔϕ-13
+Meaning/Value/Pain Emergence (v1.0)
+10.5281/zenodo.
+18759458
+SΔϕ-14
+Love/Sacrifice/Ethics as Attractor Coupling (v1.0)
+10.5281/zenodo.
+18761928
+SΔϕ-15
+Trust/Hope/Promise as Pre-Commitment Operators (v1.0)
+10.5281/zenodo.
+18762835
+SΔϕ-16
+Evil as Relational Closure (v1.0)
+10.5281/zenodo.
+18763262
+SΔϕ-17
+Openness Stabilization (v1.0)
+10.5281/zenodo.
+18763581
+
+
+
+--- Page 3 ---
+SΔϕ-18 — Human as the No-Arbiter Species (v1.0)
+Page 3
+0. Position statement
+SΔϕ-17 defined sacred/institution/law as cost devices stabilizing openness without infinite
+validation cost, but raised an exit problem: stabilizers can reverse into coercive closure.
+This item defines the minimal operator that detects and repairs such reversal, and fixes a
+functional definition of human.
+1. Axiom 18-0 — No external negotiator
+Human is defined as the system that knows there is no ultimate external arbiter in conflicts
+with the world or the other.
+¬∃ Arbiter_external.
+2. Corollary 18-A — Provisionality of institutions
+Institutions are provisional cost devices, not ultimate arbiters. Absolutization is a reversal
+risk.
+Institution = Provisional cost device, not Arbiter.
+3. Axiom 18-1 — Institutional reversal
+A stabilizer can reverse into closure: Stabilizer(C) → Closure(C).
+Reversal(C): Stabilizer(C) → Closure(C).
+Minimal signals: (i) enforcement optimizes obedience rather than openness; (ii)
+justification becomes automatic without validation; (iii) change is translated as collapse.
+4. Axiom 18-2 — Editability operator
+Human function is modeled as applying edit operations to C when reversal is detected,
+restoring provisionality and openness.
+Human := Apply(Edit) to C when Reversal(C) is detected.
+5. Proposition 18-P — Responsibility as redesign capacity
+Responsibility is the capacity to redesign stabilizers so that closure paths become
+infeasible and future costs decrease across repetitions.
+Responsibility := redesign(C) so that Cost(Close(Ω_rel)|C) ≫ Cost(Open(Ω_rel)).
+6. Failure modes (minimal)
+F18-1: No-arbiter recognition decays ⇒ institution absolutization ⇒ coercive closure.
+F18-2: Editability becomes infeasible (modification cost explodes) ⇒ closure attractor locks
+in.
+F18-3: Editing is corrupted into justification ⇒ closure is rationalized rather than repaired.
+
+
+
+--- Page 4 ---
+SΔϕ-18 — Human as the No-Arbiter Species (v1.0)
+Page 4
+7. Closed-loop map
+A closed-loop map showing how no-arbiter recognition and editability restore openness
+and re-open the series.
+SΔϕ-16
+evil: Close(Ω_rel) (closure attractor)
+SΔϕ-17
+cost devices stabilize openness (C)
+SΔϕ-18
+human: no-arbiter + editability (restore provisionality)
+Re-entry
+SΔϕ-15/17: pre-commitment + openness stabilization
+Closed-loop claim:
+No external arbiter ⇒ institutions must remain provisional; editability restores openness when stabilizers reverse into closure.
+Note. This document is designed as a loop-closure item: it returns the series to pre-commitment and
+openness stabilization (SΔϕ-15/17).
+
+
+
+--- Page 5 ---
+SΔϕ-18 — Human as the No-Arbiter Species (v1.0)
+Page 5
+8. Boundary note
+This item does not provide case studies of specific states, religions, or historical events. It
+fixes only minimal functional definitions for human, reversal detection, and editability.
+9. Exit statement (loop closure)
+When there is no external negotiator, institutions must remain provisional. The human
+function is to detect institutional reversal and restore editability—so that relational futures
+remain reopenable under irreversibility. This returns the series to pre-commitment and
+openness stabilization (SΔϕ-15/17).
