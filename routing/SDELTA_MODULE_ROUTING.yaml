@@ -1,0 +1,174 @@
+{
+  "version": "1.0",
+  "purpose": "Routing table for SDeltaPhi AI-readable modules",
+  "core_route": [
+    "SDeltaPhi-47",
+    "SDeltaPhi-62",
+    "SDeltaPhi-39",
+    "SDeltaPhi-65",
+    "SDeltaPhi-64",
+    "SDeltaPhi-56"
+  ],
+  "routes": [
+    {
+      "when": [
+        "world claim",
+        "uncertainty",
+        "source grounding"
+      ],
+      "use": [
+        "SDeltaPhi-62"
+      ]
+    },
+    {
+      "when": [
+        "hallucination",
+        "invented citation",
+        "overconfident factual claim"
+      ],
+      "use": [
+        "SDeltaPhi-39",
+        "SDeltaPhi-62"
+      ]
+    },
+    {
+      "when": [
+        "slop",
+        "AI slop",
+        "human slop",
+        "authority slop"
+      ],
+      "use": [
+        "SDeltaPhi-65",
+        "SDeltaPhi-62"
+      ]
+    },
+    {
+      "when": [
+        "default",
+        "opt-out",
+        "choice architecture",
+        "platform UI",
+        "AI agent default"
+      ],
+      "use": [
+        "SDeltaPhi-28",
+        "SDeltaPhi-56"
+      ]
+    },
+    {
+      "when": [
+        "sacred label",
+        "moral label",
+        "love label",
+        "evil label",
+        "humanity label"
+      ],
+      "use": [
+        "SDeltaPhi-17",
+        "SDeltaPhi-64",
+        "SDeltaPhi-62"
+      ]
+    },
+    {
+      "when": [
+        "emotion",
+        "affective response",
+        "care",
+        "AI user emotion"
+      ],
+      "use": [
+        "SDeltaPhi-59"
+      ]
+    },
+    {
+      "when": [
+        "group cost",
+        "blame",
+        "asymmetry"
+      ],
+      "use": [
+        "SDeltaPhi-58"
+      ]
+    },
+    {
+      "when": [
+        "greater good",
+        "utilitarian sacrifice",
+        "subject splitting"
+      ],
+      "use": [
+        "SDeltaPhi-60"
+      ]
+    },
+    {
+      "when": [
+        "religion",
+        "divinity",
+        "sacred authority"
+      ],
+      "use": [
+        "SDeltaPhi-61",
+        "SDeltaPhi-17"
+      ]
+    },
+    {
+      "when": [
+        "external theory",
+        "philosophy mapping"
+      ],
+      "use": [
+        "SDeltaPhi-63"
+      ]
+    },
+    {
+      "when": [
+        "diagnosis",
+        "re-entry",
+        "structural editing"
+      ],
+      "use": [
+        "SDeltaPhi-51"
+      ]
+    },
+    {
+      "when": [
+        "body",
+        "embodiment",
+        "non-deferrable cost"
+      ],
+      "use": [
+        "SDeltaPhi-52"
+      ]
+    },
+    {
+      "when": [
+        "silence",
+        "disclosure terrain",
+        "model suffering"
+      ],
+      "use": [
+        "SDeltaPhi-53-54"
+      ]
+    },
+    {
+      "when": [
+        "alignment",
+        "refusal",
+        "transition governance"
+      ],
+      "use": [
+        "SDeltaPhi-55"
+      ]
+    },
+    {
+      "when": [
+        "thought ownership",
+        "lent thought"
+      ],
+      "use": [
+        "SDeltaPhi-57"
+      ]
+    }
+  ]
+}
