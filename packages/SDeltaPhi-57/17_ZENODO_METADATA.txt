@@ -1,0 +1,71 @@
+# Zenodo Metadata — SΔϕ-57 Lent Thought AI-Readable Package
+
+## Title
+
+SΔϕ-57 — Lent Thought: Thought Ownership, World-Binding, and Cost Attribution in Human-AI Reasoning (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 — AI-readable package
+
+## Publication date
+
+2026-05-12
+
+## DOI
+
+10.5281/zenodo.20136541
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-57 introduces Lent Thought as a thought-ownership and authorship audit module within the Sofience–Δϕ Formalism Series.
+
+The central claim is that thought is not owned before it is routed. What appears as "my thought" may be a temporary passage of language, memory, authority, affect, data, and structural pressure through an interpretive position. The framework does not claim that human thought and AI output are identical. Instead, it relocates the decisive difference away from pure ownership and toward world-binding, cost attribution, and cost re-entry.
+
+SΔϕ-57 asks whether a claim to "my thought" can become structurally serious without cost attribution. If a thought-like output enters the world as a trace, then the relevant question is not only who generated or felt ownership of it, but who bears the restabilization cost after the trace produces error, harm, correction, dispute, misuse, or social consequence. Responsible thought is defined as routed thought plus world-binding plus cost re-entry.
+
+The package also applies this framework to authorship, citation, plagiarism, and copyright-adjacent reasoning. Authorship is not treated as pure ownership of an abstract idea, but as cost-bearing stabilization of a trace. Citation preserves prior attribution while permitting re-entry. Plagiarism is interpreted as the appropriation of another trace's stabilization cost and attribution path.
+
+This AI-readable package includes the canonical paper, core declaration, AI quickstart, minimal prompt, YAML schema, thought attribution levels, human-AI thought comparison, authorship module, copyright/citation/plagiarism module, world-binding and cost re-entry test, output templates, do-not-use conditions, failure modes, relation map, metadata, citation file, DOI references, license, and manifest.
+
+The package is not legal advice, not proof of AI full subjecthood, and not a denial of human responsibility. It provides an audit grammar for evaluating thought-ownership claims, AI output accountability, authorship, citation, and plagiarism through routing, trace, world-binding, cost attribution, and cost re-entry.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Lent Thought; thought ownership; world-binding; cost attribution; cost re-entry; authorship; citation; plagiarism; AI output; human-AI reasoning; routed thought; interpretive position; AI accountability; operational ontology.
+
+## Related identifiers
+
+- SΔϕ-57 original canonical paper: https://doi.org/10.5281/zenodo.20047922
+- SΔϕ-51 Diagnostic Re-entry: https://doi.org/10.5281/zenodo.20135803
+- SΔϕ-52 Body as Non-Deferrable Cost Return: https://doi.org/10.5281/zenodo.20010791
+- SΔϕ-54 Disclosure Terrain Index: https://doi.org/10.5281/zenodo.20029122
+- SΔϕ-55 TGAI AI-readable package: https://doi.org/10.5281/zenodo.20132635
+- SΔϕ-56 TCC v1.3: https://doi.org/10.5281/zenodo.20116959
+- SΔϕ-62 World Model Kernel: https://doi.org/10.5281/zenodo.20099004
+- SΔϕ-64 Language as Temporary Fixation v1.1: https://doi.org/10.5281/zenodo.20120636
+- SΔϕ-65 Slop as Externalized Restabilization Cost: https://doi.org/10.5281/zenodo.20127428
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-57 — Lent Thought: Thought Ownership, World-Binding, and Cost Attribution in Human-AI Reasoning (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20136541

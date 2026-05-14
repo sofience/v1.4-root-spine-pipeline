@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "SΔϕ-57 — Lent Thought: Thought Ownership, World-Binding, and Cost Attribution in Human-AI Reasoning"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-12"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-57. It defines Lent Thought as a thought-ownership and authorship audit module, relocating responsible thought from felt ownership to routed structure, world-binding, cost attribution, and cost re-entry."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Lent Thought
+  - thought ownership
+  - world-binding
+  - cost attribution
+  - cost re-entry
+  - authorship
+  - citation
+  - plagiarism
+  - AI output
+  - human-AI reasoning
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20136541"
+url: "https://doi.org/10.5281/zenodo.20136541"

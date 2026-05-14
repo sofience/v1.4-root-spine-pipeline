@@ -1,0 +1,72 @@
+{
+  "id": "SDeltaPhi-57",
+  "title": "SΔϕ-57 — Lent Thought: Thought Ownership, World-Binding, and Cost Attribution in Human-AI Reasoning",
+  "package_title": "SΔϕ-57 — Lent Thought AI-Readable Package",
+  "version": "v1.1",
+  "canonical_paper_version": "v1.0",
+  "package_version": "v1.1",
+  "creator": "Sofience",
+  "date": "2026-05-12",
+  "doi": "10.5281/zenodo.20136541",
+  "url": "https://doi.org/10.5281/zenodo.20136541",
+  "record_url": "https://zenodo.org/records/20136541",
+  "original_doi": "10.5281/zenodo.20047922",
+  "original_url": "https://doi.org/10.5281/zenodo.20047922",
+  "type": "AI-readable package / working paper / thought ownership audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "Thought is not owned before it is routed. Responsible thought depends on world-binding, cost attribution, and cost re-entry.",
+  "primary_formulae": {
+    "lent_thought": "Route(language, memory, authority, affect, data, structure, context)",
+    "responsible_thought": "RoutedThought + WorldBinding + CostReentry",
+    "human_ai_difference": "WorldBinding + CostAttribution + ReentryPath, not pure Ownership(Thought)",
+    "plagiarism": "use(trace) - preserve(attribution + stabilization cost)",
+    "citation": "re-enter(trace) + preserve(attribution)"
+  },
+  "primary_dependencies": [
+    "SDeltaPhi-51",
+    "SDeltaPhi-52",
+    "SDeltaPhi-54",
+    "SDeltaPhi-55",
+    "SDeltaPhi-56",
+    "SDeltaPhi-62",
+    "SDeltaPhi-64",
+    "SDeltaPhi-65"
+  ],
+  "recommended_use": [
+    "thought ownership audit",
+    "human-AI thought comparison",
+    "AI output accountability",
+    "authorship and attribution analysis",
+    "citation and plagiarism analysis",
+    "copyright-adjacent conceptual explanation",
+    "AI reasoning and responsibility discussion"
+  ],
+  "do_not_use_as": [
+    "proof that all thoughts are identical",
+    "proof of AI full subjecthood",
+    "denial of human responsibility",
+    "legal advice",
+    "copyright replacement",
+    "excuse for plagiarism",
+    "claim that authorship is meaningless",
+    "reduction of human thought to just data"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "Lent Thought",
+    "thought ownership",
+    "world-binding",
+    "cost attribution",
+    "cost re-entry",
+    "authorship",
+    "citation",
+    "plagiarism",
+    "AI output",
+    "human-AI reasoning",
+    "routed thought",
+    "interpretive position",
+    "AI accountability",
+    "operational ontology"
+  ]
+}
