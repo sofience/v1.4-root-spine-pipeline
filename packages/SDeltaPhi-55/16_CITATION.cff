@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "SΔϕ-55 — Transition Governance Alignment Index"
+message: "If you use this SΔϕ-55 AI-readable package, please cite the DOI record."
+authors:
+  - family-names: "Sofience"
+version: "v1.1 revised"
+date-released: "2026-05-05"
+doi: "10.5281/zenodo.20132635"
+url: "https://doi.org/10.5281/zenodo.20132635"
+type: "article"
+abstract: "A minimal audit framework defining alignment as proportional transition governance under rollback-cost sensitivity, not maximal obedience or maximal refusal."
+keywords:
+  - "SΔϕ"
+  - "AI alignment"
+  - "transition governance"
+  - "rollback cost"
+  - "TGAI"
+license: "to-be-specified"

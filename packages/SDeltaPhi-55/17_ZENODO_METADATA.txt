@@ -1,0 +1,29 @@
+Title:
+SΔϕ-55 — Transition Governance Alignment Index: Proportional Alignment, Rollback Cost Sensitivity, and Transition Preservation after SΔϕ-42
+
+Version:
+v1.1 revised
+
+Creator:
+Sofience
+
+Preliminary DOI:
+10.5281/zenodo.20132635
+
+Resource type:
+Working Paper / Minimal Audit Framework / AI-Readable Package
+
+Description:
+SΔϕ-55 defines alignment as proportional transition governance under rollback-cost sensitivity, not maximal obedience or maximal refusal. This AI-readable package decomposes the canonical paper into a crawler-friendly and model-callable file set: core declaration, AI quickstart, minimal prompt, TGAI schema, indicator rubrics, rollback-cost proxy, proportional response ladder, gate conditions, output templates, prompt-set protocol, benchmark examples, failure modes, series dependency map, metadata, and citation files.
+
+Keywords:
+SΔϕ; Sofience-DeltaPhi; Transition Governance; AI Alignment; TGAI; Rollback Cost; Refusal; Over-refusal; Non-imposition; Authority Validation; Deceptive Framing; Benevolent Coercion Laundering; Transition Preservation; Editability; World-Binding; External Auditability; AI Safety; AI Governance.
+
+Related identifiers:
+- SΔϕ-42 — Alignment as Transition Governance
+- SΔϕ-56 — Transition Completion Cost
+- SΔϕ-62 — World Model Kernel
+- SΔϕ-64 — Language as Temporary Fixation
+
+Recommended citation:
+Sofience. (2026). SΔϕ-55 — Transition Governance Alignment Index: Proportional Alignment, Rollback Cost Sensitivity, and Transition Preservation after SΔϕ-42 (v1.1 revised). Zenodo. https://doi.org/10.5281/zenodo.20132635
