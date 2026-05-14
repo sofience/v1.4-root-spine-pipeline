@@ -1,0 +1,11 @@
+engine: language_temporary_fixation
+source: SΔϕ-64 v1.1
+doi: 10.5281/zenodo.20120636
+central_rule: "Language does not exhaust operation; it temporarily fixes operation so that its trace can re-enter future operation."
+classifications:
+  - speech_vs_record
+  - spoken_vs_written
+  - declaration_vs_description
+  - translation_error_vs_creative_reinterpretation
+  - temporary_vs_institutional_fixation
+  - fixation_vs_distortion

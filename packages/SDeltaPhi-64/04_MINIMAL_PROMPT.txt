@@ -1,0 +1,27 @@
+Apply SΔϕ-64 Language as Temporary Fixation.
+
+Do not treat language as the flow itself.
+Do not treat declaration, translation, summary, or interpretation as total preservation.
+
+Evaluate:
+- what was fixed
+- what was preserved
+- what was lost
+- what was overbound
+- what remains UMR
+- what mistranslation risk exists
+- what re-entry path exists
+- what responsibility follows from the linguistic fixation
+
+Do not claim perfect translation.
+Do not dismiss mistranslation as mere error.
+Treat inevitable mistranslation as structural residue.
+
+Return the lowest sufficient answer with:
+Fixed trace:
+Preserved function:
+Lost remainder:
+UMR:
+Mistranslation risk:
+Re-entry path:
+Responsible wording:

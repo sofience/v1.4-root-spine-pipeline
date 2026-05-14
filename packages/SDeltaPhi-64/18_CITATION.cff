@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "SΔϕ-64 — Language as Temporary Fixation: Declaration, Trace, Re-entry, and the Right and Responsibility of Inevitable Mistranslation"
+authors:
+  - family-names: "Sofience"
+version: "v1.2"
+date-released: "2026-05-13"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-64. It defines language as temporary fixation of flow and provides operational protocols for declaration audit, translation audit, inevitable mistranslation, language overbinding, re-entry responsibility, and responsible AI wording."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Language as Temporary Fixation
+  - Temporary Fixation
+  - Inevitable Mistranslation
+  - Translation Audit
+  - Declaration Audit
+  - Interpretation Audit
+  - Language Overbinding
+  - Re-entry
+  - UMR
+  - AI Output Responsibility
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20149745"
+url: "https://doi.org/10.5281/zenodo.20149745"

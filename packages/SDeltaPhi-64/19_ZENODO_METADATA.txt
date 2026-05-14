@@ -1,0 +1,69 @@
+# Zenodo Metadata — SΔϕ-64 Language as Temporary Fixation AI-Readable Package
+
+## Title
+
+SΔϕ-64 — Language as Temporary Fixation: Declaration, Trace, Re-entry, and the Right and Responsibility of Inevitable Mistranslation (v1.2, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.2 — AI-readable package
+
+## Publication date
+
+2026-05-13
+
+## DOI
+
+10.5281/zenodo.20149745
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-64 defines Language as Temporary Fixation within the Sofience–Δϕ Formalism Series. The central claim is that language is not the flow itself. Language temporarily fixes flow into communicable trace, preserving some structure while losing, compressing, or distorting other remainder. Every linguistic act fixes something, loses something, and creates a re-entry obligation.
+
+This AI-readable package decomposes the canonical SΔϕ-64 v1.1 paper into operational files for AI ingestion, translation audit, declaration audit, interpretation audit, summary audit, meaning dispute analysis, language overbinding detection, mistranslation risk preservation, cross-language term transfer, and responsible AI wording. It includes the canonical paper, extracted text, canonical engine file, core declaration, AI quickstart, minimal prompt, language fixation schema, declaration/trace/re-entry protocol, inevitable mistranslation protocol, right and responsibility of mistranslation module, language binding rubric, translation and interpretation audit, declaration overbinding test, output templates, do-not-use conditions, failure modes, relation map, kernel routing with SΔϕ-62, metadata, citation file, DOI references, license, and manifest.
+
+The framework does not claim that language is meaningless, does not excuse careless translation, does not deny truth, authorship, harm, or responsibility, and does not treat every interpretation as equally valid. It evaluates what language fixes, what it preserves, what it loses, what it overbinds, what remains UMR, what mistranslation risk exists, how correction can re-enter, and what responsibility follows from the linguistic fixation.
+
+The package is intended for AI translation, AI summarization, declaration drafting, DOI metadata wording, philosophical term transfer, policy language audit, religious language analysis, emotional language interpretation, cross-language SΔϕ term mapping, and AI output responsibility. It pairs with SΔϕ-62: SΔϕ-62 separates observed trace, inference, UMR, binding status, and revision path; SΔϕ-64 audits how those layers are fixed into language.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Language as Temporary Fixation; Temporary Fixation; Inevitable Mistranslation; Right of Mistranslation; Responsibility of Mistranslation; Translation Audit; Declaration Audit; Interpretation Audit; Summary Audit; Language Overbinding; Re-entry; UMR; AI Output Responsibility; Operational Ontology; Cross-language Transfer; Meaning Dispute; Language Binding.
+
+## Related identifiers
+
+- SΔϕ-64 canonical v1.1: https://doi.org/10.5281/zenodo.20120636
+- SΔϕ-64 v1.0: https://doi.org/10.5281/zenodo.20119686
+- SΔϕ-51 Diagnostic Re-entry: https://doi.org/10.5281/zenodo.20135803
+- SΔϕ-52 Body as Non-Deferrable Cost Return AI-readable package: https://doi.org/10.5281/zenodo.20138597
+- SΔϕ-57 Lent Thought AI-readable package: https://doi.org/10.5281/zenodo.20136541
+- SΔϕ-58 CASI AI-readable package: https://doi.org/10.5281/zenodo.20149073
+- SΔϕ-59 ACOI AI-readable package: https://doi.org/10.5281/zenodo.20144195
+- SΔϕ-60 USSI AI-readable package: https://doi.org/10.5281/zenodo.20143495
+- SΔϕ-61 God and Gui: https://doi.org/10.5281/zenodo.20133391
+- SΔϕ-62 World Model Kernel AI-readable package: https://doi.org/10.5281/zenodo.20149548
+- SΔϕ-65 Slop as Externalized Restabilization Cost: https://doi.org/10.5281/zenodo.20127428
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-64 — Language as Temporary Fixation: Declaration, Trace, Re-entry, and the Right and Responsibility of Inevitable Mistranslation (v1.2, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20149745

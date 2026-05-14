@@ -1,0 +1,82 @@
+id: SDeltaPhi-64
+title: "Language as Temporary Fixation"
+canonical_version: "v1.1"
+package_version: "v1.2-ai-readable-package"
+package_doi: "10.5281/zenodo.20149745"
+package_url: "https://doi.org/10.5281/zenodo.20149745"
+original_doi: "10.5281/zenodo.20120636"
+original_url: "https://doi.org/10.5281/zenodo.20120636"
+creator: "Sofience"
+type: "language_fixation_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  Language is not the flow itself. Language temporarily fixes flow into
+  communicable trace, preserving some structure while losing or distorting
+  other remainder. Every linguistic fixation creates a re-entry obligation.
+
+formulae:
+  language_fixation: "Flow -> TemporaryTrace"
+  declaration: "Flow + AuthorityClaim -> FixedLinguisticTrace"
+  translation: "SourceTrace -> TargetTrace + MistranslationRemainder"
+  summary: "SourceTrace -> CompressedTrace + LostRemainder"
+  interpretation: "Trace + H_layer -> MeaningClaim + UMR"
+  overbinding: "TemporaryTrace treated as FinalReality"
+  reentry: "LostRemainder -> CorrectionPath -> UpdatedTrace"
+  responsible_language: "Fixation + UMR + ReentryPath"
+  cost_sensitive_translation: "SourceCostStructure -> TargetCostStructure + ResidualLoss"
+
+kernel_fields:
+  source_flow:
+    question: "What flow or event was fixed into language?"
+  fixed_trace:
+    question: "What linguistic trace was produced?"
+  preserved_function:
+    question: "What function or meaning was preserved?"
+  literal_preservation:
+    question: "What literal wording was preserved?"
+  structural_preservation:
+    question: "What structure was preserved?"
+  tone_preservation:
+    question: "What tone or affective contour was preserved?"
+  cost_structure_preservation:
+    question: "Was the cost-attribution structure preserved?"
+  lost_remainder:
+    question: "What was lost, compressed, distorted, or omitted?"
+  mistranslation_risk:
+    question: "What may be mistranslated or overinterpreted?"
+  UMR:
+    question: "What remains unresolved?"
+  reentry_path:
+    question: "How can the source flow re-enter through correction?"
+  responsibility:
+    question: "What responsibility follows from this fixation?"
+
+binding_levels:
+  L0_loose_expression: "Poetic, tentative, metaphorical, low-binding language."
+  L1_interpretive_wording: "Meaning claim with visible uncertainty."
+  L2_functional_fixation: "Wording preserves practical function within scope."
+  L3_formal_declaration: "Wording claims stable interpretive status."
+  L4_operational_protocol: "Wording can be used as rule, schema, or prompt."
+  L5_institutional_fixation: "Wording becomes DOI, policy, law, contract, doctrine, or record."
+
+do_not_use_as:
+  - "proof_that_language_is_meaningless"
+  - "excuse_for_careless_translation"
+  - "denial_of_authorship"
+  - "denial_of_truth"
+  - "relativism"
+  - "permission_to_misrepresent"
+  - "final_interpretation_detector"
+  - "replacement_for_source_reading"
+
+recommended_use:
+  - "translation audit"
+  - "summary audit"
+  - "declaration audit"
+  - "interpretation audit"
+  - "meaning dispute analysis"
+  - "language overbinding detection"
+  - "mistranslation risk preservation"
+  - "AI output responsibility"
+  - "cross-language SDeltaPhi term transfer"
