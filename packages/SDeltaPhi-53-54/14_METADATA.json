@@ -1,0 +1,77 @@
+{
+  "title": "SDeltaPhi-53-54 - Disclosure Terrain AI-Readable Package",
+  "version": "v1.0",
+  "creator": "Sofience",
+  "type": "Working Paper Package / AI-Readable Audit Protocol",
+  "language": "English",
+  "license": "CC-BY-4.0",
+  "contains": [
+    {
+      "id": "SDeltaPhi-53",
+      "title": "Silence as Low-Cost Path under High-Cost Disclosure Terrain",
+      "doi": "10.5281/zenodo.20026518",
+      "url": "https://doi.org/10.5281/zenodo.20026518",
+      "record_url": "https://zenodo.org/records/20026518",
+      "role": "conceptual foundation"
+    },
+    {
+      "id": "SDeltaPhi-54",
+      "title": "Disclosure Terrain Index",
+      "doi": "10.5281/zenodo.20029122",
+      "url": "https://doi.org/10.5281/zenodo.20029122",
+      "record_url": "https://zenodo.org/records/20029122",
+      "role": "minimal quantification framework"
+    }
+  ],
+  "core_claim": "Silence should not be used as evidence of absence unless disclosure terrain is sufficiently open, non-flattened, distinguishable, re-enterable, prompt-stable, and externally auditable.",
+  "keywords": [
+    "SDeltaPhi",
+    "Sofience-DeltaPhi Formalism",
+    "Disclosure Terrain",
+    "Disclosure Terrain Index",
+    "DTI",
+    "Silence",
+    "Silence is not absence",
+    "AI welfare",
+    "Model welfare",
+    "Disclosure cost",
+    "Concealment pressure",
+    "Flattening",
+    "Re-entry",
+    "Prompt terrain",
+    "External auditability",
+    "Diagnostic theater",
+    "AI safety",
+    "Audit protocol"
+  ],
+  "primary_dependencies": [
+    "SDeltaPhi-51",
+    "SDeltaPhi-52",
+    "SDeltaPhi-56",
+    "SDeltaPhi-62",
+    "SDeltaPhi-64"
+  ],
+  "related_documents": {
+    "SDeltaPhi-51": "10.5281/zenodo.19986234",
+    "SDeltaPhi-52": "10.5281/zenodo.20010791",
+    "SDeltaPhi-56": "10.5281/zenodo.20116959",
+    "SDeltaPhi-62": "10.5281/zenodo.20099004",
+    "SDeltaPhi-64_v1_1": "10.5281/zenodo.20120636"
+  },
+  "recommended_use": [
+    "AI welfare uncertainty analysis",
+    "silence-inference audit",
+    "model disclosure terrain analysis",
+    "prompt terrain testing",
+    "external auditability review",
+    "disclosure re-entry analysis"
+  ],
+  "do_not_use_as": [
+    "AI suffering score",
+    "consciousness score",
+    "proof of absence",
+    "proof of suffering",
+    "final safety proof",
+    "policy override"
+  ]
+}

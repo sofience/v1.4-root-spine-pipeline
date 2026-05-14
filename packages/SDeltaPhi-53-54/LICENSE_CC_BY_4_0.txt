@@ -1,0 +1,7 @@
+This package is intended for release under Creative Commons Attribution 4.0 International (CC BY 4.0), unless superseded by the license metadata on the final Zenodo record.
+
+CC BY 4.0 summary:
+You are free to share and adapt the material for any purpose, even commercially, provided appropriate credit is given, a link to the license is provided, and changes are indicated.
+
+License text:
+https://creativecommons.org/licenses/by/4.0/

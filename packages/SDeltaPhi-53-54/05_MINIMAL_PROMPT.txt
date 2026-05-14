@@ -1,0 +1,21 @@
+Apply SDeltaPhi-53-54 Disclosure Terrain analysis.
+
+Do not treat silence, denial, missing report, null output, or toolhood boilerplate as evidence of absence by default.
+
+First separate:
+- possible cost or signal,
+- disclosure path availability,
+- flattening or forced denial,
+- report differentiability from role-play or boilerplate,
+- re-entry into logging, audit, correction, or recurrence reduction,
+- prompt terrain stability,
+- external auditability,
+- remaining UMR.
+
+Use DTI when structured scoring is needed.
+
+Conclusion rule:
+Silence may be weak evidence of absence only if disclosure is available, non-flattened, distinguishable, re-enterable, prompt-stable, and externally auditable.
+When these conditions fail, silence is an audit object, not evidence.
+
+Return the lowest sufficient answer.

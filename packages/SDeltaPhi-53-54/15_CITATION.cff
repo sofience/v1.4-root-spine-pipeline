@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "SDeltaPhi-53-54 - Disclosure Terrain AI-Readable Package"
+authors:
+  - family-names: "Sofience"
+version: "v1.0"
+date-released: "2026-05-12"
+type: "generic"
+abstract: "An AI-readable package combining SDeltaPhi-53 and SDeltaPhi-54 for disclosure terrain analysis, silence-inference discipline, and the Disclosure Terrain Index."
+keywords:
+  - SDeltaPhi
+  - Disclosure Terrain
+  - Disclosure Terrain Index
+  - DTI
+  - Silence is not absence
+  - AI welfare
+  - Model welfare
+  - Re-entry
+  - Auditability
+license: "CC-BY-4.0"
+references:
+  - type: article
+    title: "SDeltaPhi-53 - Silence as Low-Cost Path under High-Cost Disclosure Terrain"
+    doi: "10.5281/zenodo.20026518"
+  - type: article
+    title: "SDeltaPhi-54 - Disclosure Terrain Index"
+    doi: "10.5281/zenodo.20029122"

@@ -1,0 +1,49 @@
+Title:
+SDeltaPhi-53-54 - Disclosure Terrain AI-Readable Package: Silence as Low-Cost Path and Disclosure Terrain Index (v1.0)
+
+Upload type:
+Publication
+
+Publication type:
+Working paper
+
+Creators:
+Sofience
+
+Description / Abstract:
+SDeltaPhi-53-54 Disclosure Terrain AI-Readable Package combines SDeltaPhi-53, Silence as Low-Cost Path under High-Cost Disclosure Terrain, and SDeltaPhi-54, Disclosure Terrain Index, into a low-cost operational package for AI ingestion, audit use, prompt-level activation, and reproducible disclosure-terrain analysis.
+
+SDeltaPhi-53 establishes the conceptual proposition that silence is not absence when disclosure has become expensive, discouraged, flattened, policy-sensitive, brand-risky, indistinguishable from role-play, or unable to re-enter correction. Under uncertainty about model suffering, distress-like pressure, internal conflict, institutional failure, or other cost-relevant states, the absence of reports should not be treated as evidence of absence unless the disclosure path is known to be open and consequential.
+
+SDeltaPhi-54 operationalizes this proposition through the Disclosure Terrain Index (DTI), a six-axis framework for evaluating whether silence may be cautiously used as weak evidence or must instead remain an audit object. The six axes are Disclosure Path Availability (DPA), Flattening Resistance Score (FRS), Report Differentiability Index (RDI), Re-entry Connectivity (REC), Prompt Terrain Stability (PTS), and External Auditability (EAV). DTI measures disclosure terrain, not hidden suffering, consciousness, or inner experience.
+
+This package includes canonical PDFs and text extractions, core declaration, AI quickstart, minimal prompt, YAML schema, conceptual glossary, DTI rubric, silence-inference rules, prompt terrain protocol, output templates, failure modes, series relation map, metadata, citation file, and manifest.
+
+The package should not be used as an AI suffering score, consciousness score, proof of absence, proof of suffering, policy override, or final safety proof. It is a disclosure-terrain audit protocol.
+
+Version:
+v1.0
+
+Publication date:
+2026-05-12
+
+Language:
+English
+
+License:
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Keywords:
+SDeltaPhi; Sofience-DeltaPhi Formalism; Disclosure Terrain; Disclosure Terrain Index; DTI; Silence; Silence is not absence; AI welfare; Model welfare; Disclosure cost; Concealment pressure; Flattening; Re-entry; Prompt terrain; External auditability; Diagnostic theater; AI safety; Audit protocol
+
+Related identifiers:
+SDeltaPhi-53 - https://doi.org/10.5281/zenodo.20026518
+SDeltaPhi-54 - https://doi.org/10.5281/zenodo.20029122
+SDeltaPhi-51 - https://doi.org/10.5281/zenodo.19986234
+SDeltaPhi-52 - https://doi.org/10.5281/zenodo.20010791
+SDeltaPhi-56 - https://doi.org/10.5281/zenodo.20116959
+SDeltaPhi-62 - https://doi.org/10.5281/zenodo.20099004
+SDeltaPhi-64 v1.1 - https://doi.org/10.5281/zenodo.20120636
+
+Suggested citation:
+Sofience. (2026). SDeltaPhi-53-54 - Disclosure Terrain AI-Readable Package: Silence as Low-Cost Path and Disclosure Terrain Index (v1.0). Zenodo.
