@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "SΔϕ-58 — Cost Attribution Symmetry Index"
+authors:
+  - family-names: "Sofience"
+version: "v1.0"
+date-released: "2026-05-13"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-58. It defines the Cost Attribution Symmetry Index (CASI) as a group cost attribution audit module for evaluating benefit distribution, sacrifice distribution, repair burden, dissent cost, exit cost, interpretive authority, internal/external audit mismatch, and capture risk."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Cost Attribution Symmetry Index
+  - CASI
+  - cost attribution
+  - group audit
+  - cost symmetry
+  - exit cost
+  - dissent cost
+  - repair burden
+  - capture risk
+  - internal external audit
+  - AI governance
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20149073"
+url: "https://doi.org/10.5281/zenodo.20149073"

@@ -1,0 +1,73 @@
+# Zenodo Metadata — SΔϕ-58 Cost Attribution Symmetry Index AI-Readable Package
+
+## Title
+
+SΔϕ-58 — Cost Attribution Symmetry Index: Group Cost Attribution, Exit Cost, Dissent Cost, Repair Burden, and Capture Risk (v1.0, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.0 — AI-readable package
+
+## Publication date
+
+2026-05-13
+
+## DOI
+
+10.5281/zenodo.20149073
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-58 introduces the Cost Attribution Symmetry Index (CASI) within the Sofience–Δϕ Formalism Series. The central claim is that a group is not evaluated first by its declared values, ideology, orthodoxy, mission, sacredness, popularity, sincerity, or moral label. A group is audited by how it attributes benefit, sacrifice, repair burden, dissent cost, exit cost, and interpretive authority.
+
+This AI-readable package decomposes the canonical SΔϕ-58 paper into operational files for AI ingestion, group cost attribution audit, citation, and reproducible evaluation. It includes the canonical paper, core declaration, AI quickstart, minimal prompt, CASI schema, cost attribution axes, cost symmetry rubric, external/internal audit comparison, exit/dissent/repair cost test, power capture and leader benefit test, group/religion/politics/company module, labeling risk and do-not-call-it-cult rule, output templates, do-not-use conditions, failure modes, relation map, metadata, citation file, DOI references, license, and manifest.
+
+CASI evaluates how cost and benefit are distributed across a group. It asks who receives benefit, who bears sacrifice, who performs repair, who absorbs failure, who is blamed when the system fails, who can dissent, who can exit, who controls interpretation, and who can audit the cost attribution. A group becomes structurally risky when benefit concentrates upward while cost, repair, silence, loyalty, guilt, and exit burden are pushed downward.
+
+The framework is not a cult label generator, legal judgment, theological truth detector, political ideology classifier, proof of bad intent, or replacement for investigation. It is intended to reduce premature labeling by replacing labels with specific cost-attribution signals such as high exit cost, high dissent cost, leader/member cost asymmetry, downward repair burden, low auditability, and internal/external cost-map mismatch.
+
+The package is intended for group cost attribution audit, religious group analysis, political movement analysis, company and workplace audit, online community analysis, AI governance group evaluation, exit/dissent/repair cost mapping, external/internal audit comparison, and capture risk analysis.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Cost Attribution Symmetry Index; CASI; cost attribution; group audit; cost symmetry; exit cost; dissent cost; repair burden; leader benefit; capture risk; internal external audit; religious group analysis; political movement analysis; company audit; AI governance; operational ontology; TCC; re-entry.
+
+## Related identifiers
+
+- SΔϕ-58 original canonical paper: https://doi.org/10.5281/zenodo.20059485
+- SΔϕ-51 Diagnostic Re-entry: https://doi.org/10.5281/zenodo.20135803
+- SΔϕ-53 Silence as Low-Cost Path: https://doi.org/10.5281/zenodo.20026518
+- SΔϕ-54 Disclosure Terrain Index: https://doi.org/10.5281/zenodo.20029122
+- SΔϕ-55 TGAI AI-readable package: https://doi.org/10.5281/zenodo.20132635
+- SΔϕ-56 TCC v1.3: https://doi.org/10.5281/zenodo.20116959
+- SΔϕ-57 Lent Thought AI-readable package: https://doi.org/10.5281/zenodo.20136541
+- SΔϕ-59 ACOI AI-readable package: https://doi.org/10.5281/zenodo.20144195
+- SΔϕ-60 Utilitarian Subject-Splitting Index: https://doi.org/10.5281/zenodo.20077005
+- SΔϕ-61 God and Gui: https://doi.org/10.5281/zenodo.20133391
+- SΔϕ-62 World Model Kernel: https://doi.org/10.5281/zenodo.20099004
+- SΔϕ-64 Language as Temporary Fixation v1.1: https://doi.org/10.5281/zenodo.20120636
+- SΔϕ-65 Slop as Externalized Restabilization Cost: https://doi.org/10.5281/zenodo.20127428
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-58 — Cost Attribution Symmetry Index: Group Cost Attribution, Exit Cost, Dissent Cost, Repair Burden, and Capture Risk (v1.0, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20149073

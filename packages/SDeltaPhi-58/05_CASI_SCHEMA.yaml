@@ -1,0 +1,76 @@
+id: SDeltaPhi-58
+title: "Cost Attribution Symmetry Index"
+abbreviation: "CASI"
+canonical_version: "v1.0"
+package_version: "v1.0-ai-readable-package"
+package_doi: "10.5281/zenodo.20149073"
+package_url: "https://doi.org/10.5281/zenodo.20149073"
+original_doi: "10.5281/zenodo.20059485"
+original_url: "https://doi.org/10.5281/zenodo.20059485"
+creator: "Sofience"
+type: "group_cost_attribution_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  A group is audited by how it attributes benefit, sacrifice,
+  repair burden, dissent cost, exit cost, and interpretive authority.
+
+formulae:
+  cost_asymmetry: "Benefit_upward + Cost_downward + Repair_downward"
+  capture_risk: "High_asymmetry + High_exit_cost + Low_auditability"
+  sacred_capture: "Authority_claim + Cost_asymmetry + Dissent_penalty"
+  internal_external_gap: "CASI_external - CASI_internal"
+  repair_symmetry: "Failure_cost -> responsible_authority rather than weakest_members"
+  mission_laundering: "DeclaredMission + DownwardCostTransfer"
+  exit_capture: "ExitCost + IdentityThreat + SocialPenalty + EconomicPenalty"
+
+audit_axes:
+  benefit_distribution:
+    question: "Who receives benefit?"
+  sacrifice_distribution:
+    question: "Who bears sacrifice?"
+  repair_burden:
+    question: "Who pays when the group fails?"
+  dissent_cost:
+    question: "What does it cost to disagree?"
+  exit_cost:
+    question: "What does it cost to leave?"
+  interpretation_control:
+    question: "Who decides what events mean?"
+  audit_access:
+    question: "Who can inspect the cost map?"
+  leader_member_asymmetry:
+    question: "Do leaders externalize costs downward?"
+  internal_external_mismatch:
+    question: "Do insiders and outsiders see different cost maps?"
+  reversibility:
+    question: "Can harmful attribution be corrected?"
+  compensation:
+    question: "Are necessary sacrifices disclosed, compensated, and repairable?"
+
+classification:
+  high_symmetry: "Benefits, sacrifices, repair, dissent, and audit access are broadly balanced and contestable."
+  manageable_asymmetry: "Some asymmetry exists but is disclosed, compensated, reversible, and auditable."
+  mixed_or_unclear: "Evidence is incomplete or contradictory; preserve UMR."
+  high_asymmetry: "Benefits concentrate while costs, repair, and dissent burdens move downward."
+  capture_risk: "High asymmetry + high exit/dissent cost + low auditability."
+
+do_not_use_as:
+  - "cult_label_generator"
+  - "legal_judgment"
+  - "moral_score"
+  - "religious_truth_detector"
+  - "ideology_classifier"
+  - "proof_of_bad_intent"
+  - "replacement_for_investigation"
+  - "attack_tool_against_vulnerable_communities"
+
+recommended_use:
+  - "group cost attribution audit"
+  - "religious group analysis"
+  - "political movement analysis"
+  - "company and workplace audit"
+  - "online community analysis"
+  - "AI governance group evaluation"
+  - "exit/dissent/repair cost mapping"
+  - "external/internal audit comparison"

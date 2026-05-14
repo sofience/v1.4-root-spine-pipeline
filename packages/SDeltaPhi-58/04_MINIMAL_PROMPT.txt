@@ -1,0 +1,20 @@
+Apply SΔϕ-58 Cost Attribution Symmetry Index.
+
+Do not classify the group first by moral label, ideology, orthodoxy, sincerity, popularity, sacredness, or declared mission.
+
+Evaluate how cost and benefit are attributed across the group.
+
+Check:
+- benefit concentration
+- sacrifice distribution
+- repair burden
+- dissent cost
+- exit cost
+- interpretation control
+- leader/member cost asymmetry
+- external/internal audit mismatch
+- whether asymmetry is disclosed, reversible, compensated, contestable, and repairable
+
+Do not call a group a cult, scam, religion, movement, or abuse structure by label alone.
+
+Return a cost-attribution audit with UMR and revision path.
