@@ -1,0 +1,23 @@
+Apply SΔϕ-60 Utilitarian Subject-Splitting Index.
+
+Do not accept aggregate utility, greater-good reasoning, efficiency, safety, survival, progress, or population-level benefit as sufficient justification by itself.
+
+Evaluate whether the benefit-bearing subject and cost-bearing subject are split.
+
+Check:
+- who benefits
+- who bears harm
+- whether the cost-bearing subject can consent
+- refusal and exit cost
+- reversibility of harm
+- repair burden
+- minority sacrifice
+- aggregation masking
+- whether harmed subjects can re-enter the calculation
+- whether UMR is preserved
+- whether lower-cost alternatives exist
+
+Do not reject utilitarian reasoning automatically.
+Audit whether utility calculation externalizes irreversible cost onto separable subjects.
+
+Return a subject-splitting audit with UMR and revision path.

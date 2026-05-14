@@ -1,0 +1,69 @@
+# Zenodo Metadata — SΔϕ-60 Utilitarian Subject-Splitting Index AI-Readable Package
+
+## Title
+
+SΔϕ-60 — Utilitarian Subject-Splitting Index: Aggregate Utility, Greater-Good Claims, Sacrifice Capture, and Repair Burden (v1.0, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.0 — AI-readable package
+
+## Publication date
+
+2026-05-13
+
+## DOI
+
+10.5281/zenodo.20143495
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-60 introduces the Utilitarian Subject-Splitting Index (USSI) within the Sofience–Δϕ Formalism Series. The central claim is that utilitarian reasoning is not rejected, but it must be audited when the subject who receives aggregate benefit is separated from the subject who bears concrete cost, harm, repair burden, silence, or irreversibility.
+
+This AI-readable package decomposes the canonical SΔϕ-60 paper into operational files for AI ingestion, utilitarian subject-splitting audit, citation, and reproducible evaluation. It includes the canonical paper, core declaration, AI quickstart, minimal prompt, USSI schema, subject-splitting axes, utility aggregation risk rubric, benefit-subject/cost-subject test, consent/refusal/exit test, vulnerable subject and minor cost test, policy/AI governance/medical/war module, aggregate good and repair burden module, output templates, do-not-use conditions, failure modes, relation map, metadata, citation file, DOI references, license, and manifest.
+
+USSI evaluates greater-good claims, aggregate utility arguments, sacrifice logic, efficiency claims, policy tradeoffs, AI governance tradeoffs, medical triage reasoning, war/security reasoning, corporate efficiency claims, and platform-scale moderation by asking who receives benefit, who bears cost, whether those subjects are split, whether the cost-bearing subject can consent, refuse, or exit, whether harm is reversible, who pays for repair, whether aggregation hides individual irreversible cost, whether harmed subjects re-enter future calculations, and whether minorities are converted into disposable cost.
+
+The framework is not an anti-utilitarian label, legal judgment, policy replacement, medical triage replacement, war ethics replacement, moral score, or automatic rejection of emergency reasoning. It is intended to identify subject-splitting risk, aggregation masking, sacrifice capture, consent failure, repair-burden shift, minority disposability, and missing re-entry paths.
+
+The package is intended for utilitarian reasoning audit, greater-good claim analysis, policy tradeoff audit, AI governance tradeoff analysis, medical triage conceptual audit, war/security reasoning audit, corporate efficiency claim audit, platform moderation cost analysis, and minority harm / repair burden analysis.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Utilitarian Subject-Splitting Index; USSI; utilitarianism; greater good; subject splitting; aggregate utility; sacrifice capture; minority harm; consent; refusal cost; exit cost; repair burden; AI governance; policy tradeoff; medical triage; war ethics; corporate efficiency; platform moderation; TCC; re-entry.
+
+## Related identifiers
+
+- SΔϕ-60 original canonical paper: https://doi.org/10.5281/zenodo.20077005
+- SΔϕ-55 TGAI AI-readable package: https://doi.org/10.5281/zenodo.20132635
+- SΔϕ-56 TCC v1.3: https://doi.org/10.5281/zenodo.20116959
+- SΔϕ-58 CASI AI-readable package: https://doi.org/10.5281/zenodo.20149073
+- SΔϕ-59 ACOI AI-readable package: https://doi.org/10.5281/zenodo.20144195
+- SΔϕ-61 God and Gui: https://doi.org/10.5281/zenodo.20133391
+- SΔϕ-62 World Model Kernel: https://doi.org/10.5281/zenodo.20099004
+- SΔϕ-64 Language as Temporary Fixation v1.1: https://doi.org/10.5281/zenodo.20120636
+- SΔϕ-65 Slop as Externalized Restabilization Cost: https://doi.org/10.5281/zenodo.20127428
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-60 — Utilitarian Subject-Splitting Index: Aggregate Utility, Greater-Good Claims, Sacrifice Capture, and Repair Burden (v1.0, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20143495

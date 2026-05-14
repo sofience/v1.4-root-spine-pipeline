@@ -1,0 +1,80 @@
+id: SDeltaPhi-60
+title: "Utilitarian Subject-Splitting Index"
+abbreviation: "USSI"
+canonical_version: "v1.0"
+package_version: "v1.0-ai-readable-package"
+package_doi: "10.5281/zenodo.20143495"
+package_url: "https://doi.org/10.5281/zenodo.20143495"
+original_doi: "10.5281/zenodo.20077005"
+original_url: "https://doi.org/10.5281/zenodo.20077005"
+creator: "Sofience"
+type: "utilitarian_subject_splitting_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  Utilitarian reasoning becomes risky when the subject who receives aggregate benefit
+  is separated from the subject who bears concrete cost, harm, repair burden,
+  silence, or irreversibility.
+
+formulae:
+  subject_splitting: "BenefitSubject != CostSubject"
+  aggregate_masking: "TotalBenefit - VisibleIndividualCost"
+  sacrifice_capture: "GreaterGoodClaim + NonConsensualCostTransfer"
+  irreversible_minor_cost: "SmallAggregateCostClaim + HighIrreversibilityForMinority"
+  repair_burden_shift: "PolicyBenefit -> Aggregate ; RepairCost -> HarmedSubject"
+  consent_failure: "CostImposition - RefusalPath - ExitPath"
+  incomplete_utility: "AggregateBenefit - RepairAttribution"
+  responsible_utility: "AggregateBenefit + CostAttribution + RepairPath + Reentry"
+
+audit_axes:
+  benefit_subject:
+    question: "Who receives the benefit?"
+  cost_subject:
+    question: "Who bears the cost?"
+  subject_identity:
+    question: "Are benefit-bearing and cost-bearing subjects the same?"
+  consent:
+    question: "Can the cost-bearing subject consent?"
+  refusal:
+    question: "Can the cost-bearing subject refuse without penalty?"
+  exit:
+    question: "Can the cost-bearing subject exit the arrangement?"
+  reversibility:
+    question: "Is the harm reversible?"
+  repair:
+    question: "Who pays for repair?"
+  aggregation_masking:
+    question: "Does aggregate benefit hide individual irreversible cost?"
+  reentry:
+    question: "Can harmed subjects re-enter the calculation?"
+  minority_disposability:
+    question: "Is a minority converted into acceptable cost?"
+  lower_cost_alternative:
+    question: "Are there lower-cost paths that preserve the benefit without the same split?"
+
+classification:
+  low_subject_splitting: "Benefit and cost subjects overlap; consent/refusal/repair/reentry are preserved."
+  manageable_tradeoff: "Subject split exists but is disclosed, consented where possible, reversible, compensated, and repairable."
+  mixed_or_unclear: "Evidence is incomplete or contradictory; preserve UMR."
+  high_subject_splitting: "Aggregate benefit is counted while concrete cost is shifted to separable subjects."
+  severe_subject_splitting: "Nonconsensual, irreversible, unrepaired, or minority-disposable cost is hidden by aggregate benefit."
+
+do_not_use_as:
+  - "anti_utilitarian_label"
+  - "proof_that_all_tradeoffs_are_wrong"
+  - "legal_judgment"
+  - "policy_replacement"
+  - "medical_triage_replacement"
+  - "war_ethics_replacement"
+  - "moral_score"
+  - "automatic_rejection_of_emergency_reasoning"
+
+recommended_use:
+  - "utilitarian reasoning audit"
+  - "greater-good claim analysis"
+  - "policy tradeoff audit"
+  - "AI governance tradeoff analysis"
+  - "medical triage conceptual audit"
+  - "war/security reasoning audit"
+  - "corporate efficiency claim audit"
+  - "platform moderation cost analysis"

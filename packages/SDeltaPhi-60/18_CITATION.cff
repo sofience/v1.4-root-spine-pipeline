@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "SΔϕ-60 — Utilitarian Subject-Splitting Index"
+authors:
+  - family-names: "Sofience"
+version: "v1.0"
+date-released: "2026-05-13"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-60. It defines the Utilitarian Subject-Splitting Index (USSI) as an audit module for evaluating utilitarian reasoning, greater-good claims, sacrifice logic, policy tradeoffs, AI governance, medical triage, war/security reasoning, and platform-scale decisions by checking whether aggregate benefit splits from concrete cost-bearing subjects."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Utilitarian Subject-Splitting Index
+  - USSI
+  - utilitarianism
+  - greater good
+  - subject splitting
+  - aggregate utility
+  - sacrifice capture
+  - minority harm
+  - repair burden
+  - AI governance
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20143495"
+url: "https://doi.org/10.5281/zenodo.20143495"
