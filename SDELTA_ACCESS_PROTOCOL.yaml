@@ -1,0 +1,27 @@
+canonical_archive:
+  provider: Zenodo
+  purpose:
+    - DOI
+    - citation
+    - preservation
+    - versioning
+
+ai_readable_mirror:
+  provider: GitHub or static repository
+  purpose:
+    - Markdown ingestion
+    - YAML/JSON schema ingestion
+    - prompt-level use
+    - module routing
+    - low-cost AI access
+
+access_rule:
+  - cite Zenodo DOI
+  - ingest Markdown/YAML/JSON/TXT from this repository
+  - verify against package metadata and DOI map
+  - treat this repository as mirror/access layer, not canonical archival layer
+
+fallback:
+  - if Zenodo files are binary-only or rate-limited, use this mirror
+  - if mirror content and Zenodo differ, cite Zenodo and inspect mirror status
+  - if package metadata is missing, use SERIES_INDEX.json and package README files
