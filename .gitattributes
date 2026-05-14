@@ -1,0 +1,18 @@
+# Normalize text for AI-readable ingestion
+* text=auto eol=lf
+
+# Keep binary artifacts binary
+*.pdf binary
+*.zip binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+
+# Prefer readable diffs for structured files
+*.md diff=markdown
+*.txt diff
+*.json diff
+*.yaml diff
+*.yml diff
+*.cff diff
