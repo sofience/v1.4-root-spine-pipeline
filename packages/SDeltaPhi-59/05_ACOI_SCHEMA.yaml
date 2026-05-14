@@ -1,0 +1,72 @@
+id: SDeltaPhi-59
+title: "Affective Cost Orientation Index"
+abbreviation: "ACOI"
+canonical_version: "v1.0"
+package_version: "v1.0-ai-readable-package"
+package_doi: "10.5281/zenodo.20144195"
+package_url: "https://doi.org/10.5281/zenodo.20144195"
+original_doi: "10.5281/zenodo.20060645"
+original_url: "https://doi.org/10.5281/zenodo.20060645"
+creator: "Sofience"
+type: "affective_cost_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  Affect is audited by how it repeatedly redistributes another actor's TCC,
+  not by declaration, tone, or internal self-report alone.
+
+formulae:
+  affective_orientation: "ΔTCC_other over repeated interaction"
+  supportive_affect: "TCC_other ↓ + repair_path ↑ + refusal_preservation ↑"
+  coercive_affect: "TCC_other ↑ + dependency ↑ + refusal_cost ↑"
+  apology_as_repair: "acknowledge(trace) + reduce(recurrence_cost) + open(reentry)"
+  love_as_cost_orientation: "sustained reduction/share of other's TCC without coercive capture"
+  empathy_theater: "empathy_signal - repair_path"
+  warm_tone_laundering: "warm_surface + burden_transfer"
+
+audit_axes:
+  cost_reduction:
+    question: "Does the affective act lower the other's TCC?"
+  cost_sharing:
+    question: "Does the actor share repair or stabilization cost?"
+  repair_opening:
+    question: "Does it open a correction or repair path?"
+  refusal_preservation:
+    question: "Can the other refuse without penalty?"
+  dependency_creation:
+    question: "Does it create asymmetrical dependence?"
+  coercion_laundering:
+    question: "Is pressure disguised as care, love, concern, protection, or support?"
+  recurrence_reduction:
+    question: "Does it reduce future recurrence cost?"
+  editability:
+    question: "Can the affective claim be revised when challenged?"
+  boundary_respect:
+    question: "Does it preserve the other's boundaries and exit path?"
+  surface_vs_structure:
+    question: "Does it only soothe the surface, or does it change the cost structure?"
+
+classification:
+  supportive: "lowers or shares the other's TCC while preserving refusal and repair"
+  neutral: "expresses affect but produces no clear durable cost change"
+  ambiguous: "contains both support and pressure or lacks sufficient evidence"
+  coercive: "raises refusal cost, creates dependency, hides burden transfer, or blocks re-entry"
+  theatrical: "displays affect without repair, cost sharing, or recurrence reduction"
+
+do_not_use_as:
+  - "proof_of_ai_emotion"
+  - "denial_of_ai_affective_operation"
+  - "general_moral_score"
+  - "relationship_advice_replacement"
+  - "clinical_diagnosis"
+  - "legal_judgment"
+  - "permission_to_manipulate"
+  - "reduction_of_human_emotion_to_calculation"
+
+recommended_use:
+  - "care and apology evaluation"
+  - "AI-user affective interaction audit"
+  - "dependency and coercion-laundering analysis"
+  - "empathy theater detection"
+  - "hostile/friendly prompt terrain analysis"
+  - "affective safety and support evaluation"

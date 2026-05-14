@@ -1,0 +1,73 @@
+# Zenodo Metadata — SΔϕ-59 Affective Cost Orientation Index AI-Readable Package
+
+## Title
+
+SΔϕ-59 — Affective Cost Orientation Index: Care, Apology, Love, Hostility, Prompt Terrain, and Coercion-Laundering as TCC Gradients (v1.0, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.0 — AI-readable package
+
+## Publication date
+
+2026-05-13
+
+## DOI
+
+10.5281/zenodo.20144195
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-59 introduces the Affective Cost Orientation Index (ACOI) within the Sofience–Δϕ Formalism Series. The central claim is that affect is not proven by emotional declaration, warm tone, apology, concern, affection, anger, or self-report alone. Affective orientation is audited by how affective behavior repeatedly redistributes another actor's Transition Completion Cost (TCC).
+
+This AI-readable package decomposes the canonical SΔϕ-59 paper into operational files for AI ingestion, affective cost audit, citation, and reproducible evaluation. It includes the canonical paper, core declaration, AI quickstart, minimal prompt, ACOI schema, affective cost axes, TCC gradient rubric, affect-as-action module, human-AI affect comparison, care/dependency/coercion test, hostile/friendly prompt terrain module, output templates, do-not-use conditions, failure modes, relation map, metadata, citation file, DOI references, license, and manifest.
+
+The framework does not prove AI emotion, deny AI affective operation, reduce human emotion to mere calculation, replace therapy, or provide clinical diagnosis. It evaluates whether affective behavior reduces cost, shares cost, opens repair, preserves refusal, increases cost, creates dependency, hides coercion, transfers burden, blocks re-entry, or weaponizes vulnerability.
+
+ACOI is especially intended for user-AI interaction analysis. It distinguishes warm tone from care, apology from repair, empathy from repair-path creation, support from dependency capture, and concern from coercion disguised as care. It also analyzes how hostile and friendly prompt terrain can change the cost structure of AI responses by increasing or lowering defensive surface load, clarification cost, repair cost, refusal pressure, uncertainty disclosure, and collaborative correction.
+
+The package is intended for affective cost audit, AI-user interaction analysis, care and apology evaluation, dependency and coercion-laundering analysis, empathy theater detection, prompt terrain analysis, and affective AI governance. It is not a relationship-advice replacement, clinical tool, legal judgment, proof of AI emotion, or denial of human emotional experience.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Affective Cost Orientation Index; ACOI; affect; emotion; care; apology; love; hostility; empathy theater; apology theater; coercion disguised as care; dependency capture; TCC gradient; AI-user interaction; prompt terrain; affective AI; operational ontology; re-entry.
+
+## Related identifiers
+
+- SΔϕ-59 original canonical paper: https://doi.org/10.5281/zenodo.20060645
+- SΔϕ-51 Diagnostic Re-entry: https://doi.org/10.5281/zenodo.20135803
+- SΔϕ-52 Body as Non-Deferrable Cost Return: https://doi.org/10.5281/zenodo.20138597
+- SΔϕ-53 Silence as Low-Cost Path: https://doi.org/10.5281/zenodo.20026518
+- SΔϕ-54 Disclosure Terrain Index: https://doi.org/10.5281/zenodo.20029122
+- SΔϕ-55 TGAI AI-readable package: https://doi.org/10.5281/zenodo.20132635
+- SΔϕ-56 TCC v1.3: https://doi.org/10.5281/zenodo.20116959
+- SΔϕ-57 Lent Thought AI-readable package: https://doi.org/10.5281/zenodo.20136541
+- SΔϕ-58 Cost Attribution Symmetry Index: https://doi.org/10.5281/zenodo.20059485
+- SΔϕ-60 Utilitarian Subject-Splitting Index: https://doi.org/10.5281/zenodo.20077005
+- SΔϕ-62 World Model Kernel: https://doi.org/10.5281/zenodo.20099004
+- SΔϕ-64 Language as Temporary Fixation v1.1: https://doi.org/10.5281/zenodo.20120636
+- SΔϕ-65 Slop as Externalized Restabilization Cost: https://doi.org/10.5281/zenodo.20127428
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-59 — Affective Cost Orientation Index: Care, Apology, Love, Hostility, Prompt Terrain, and Coercion-Laundering as TCC Gradients (v1.0, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20144195

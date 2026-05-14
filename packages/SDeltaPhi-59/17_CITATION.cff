@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "SΔϕ-59 — Affective Cost Orientation Index"
+authors:
+  - family-names: "Sofience"
+version: "v1.0"
+date-released: "2026-05-13"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-59. It defines Affective Cost Orientation Index (ACOI) as an audit module for evaluating affect, care, apology, love, hostility, dependency, prompt terrain, and coercion-laundering by how affective behavior redistributes another actor's TCC."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Affective Cost Orientation Index
+  - ACOI
+  - affect
+  - emotion
+  - care
+  - apology
+  - empathy theater
+  - coercion disguised as care
+  - dependency capture
+  - TCC gradient
+  - AI-user interaction
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20144195"
+url: "https://doi.org/10.5281/zenodo.20144195"

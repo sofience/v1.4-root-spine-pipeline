@@ -1,0 +1,92 @@
+{
+  "package": {
+    "id": "SDeltaPhi-59-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20144195",
+    "url": "https://doi.org/10.5281/zenodo.20144195",
+    "record_url": "https://zenodo.org/records/20144195",
+    "type": "AI-readable package",
+    "version": "v1.0"
+  },
+  "canonical_paper": {
+    "id": "SDeltaPhi-59",
+    "doi": "10.5281/zenodo.20060645",
+    "url": "https://doi.org/10.5281/zenodo.20060645",
+    "record_url": "https://zenodo.org/records/20060645",
+    "type": "canonical paper",
+    "version": "v1.0"
+  },
+  "related": [
+    {
+      "id": "SDeltaPhi-51",
+      "title": "Diagnostic Re-entry",
+      "doi": "10.5281/zenodo.20135803",
+      "url": "https://doi.org/10.5281/zenodo.20135803"
+    },
+    {
+      "id": "SDeltaPhi-52",
+      "title": "Body as Non-Deferrable Cost Return AI-readable package",
+      "doi": "10.5281/zenodo.20138597",
+      "url": "https://doi.org/10.5281/zenodo.20138597"
+    },
+    {
+      "id": "SDeltaPhi-53",
+      "title": "Silence as Low-Cost Path",
+      "doi": "10.5281/zenodo.20026518",
+      "url": "https://doi.org/10.5281/zenodo.20026518"
+    },
+    {
+      "id": "SDeltaPhi-54",
+      "title": "Disclosure Terrain Index",
+      "doi": "10.5281/zenodo.20029122",
+      "url": "https://doi.org/10.5281/zenodo.20029122"
+    },
+    {
+      "id": "SDeltaPhi-55",
+      "title": "TGAI AI-readable package",
+      "doi": "10.5281/zenodo.20132635",
+      "url": "https://doi.org/10.5281/zenodo.20132635"
+    },
+    {
+      "id": "SDeltaPhi-56",
+      "title": "Transition Completion Cost v1.3",
+      "doi": "10.5281/zenodo.20116959",
+      "url": "https://doi.org/10.5281/zenodo.20116959"
+    },
+    {
+      "id": "SDeltaPhi-57",
+      "title": "Lent Thought AI-readable package",
+      "doi": "10.5281/zenodo.20136541",
+      "url": "https://doi.org/10.5281/zenodo.20136541"
+    },
+    {
+      "id": "SDeltaPhi-58",
+      "title": "Cost Attribution Symmetry Index",
+      "doi": "10.5281/zenodo.20059485",
+      "url": "https://doi.org/10.5281/zenodo.20059485"
+    },
+    {
+      "id": "SDeltaPhi-60",
+      "title": "Utilitarian Subject-Splitting Index",
+      "doi": "10.5281/zenodo.20077005",
+      "url": "https://doi.org/10.5281/zenodo.20077005"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel",
+      "doi": "10.5281/zenodo.20099004",
+      "url": "https://doi.org/10.5281/zenodo.20099004"
+    },
+    {
+      "id": "SDeltaPhi-64",
+      "title": "Language as Temporary Fixation v1.1",
+      "doi": "10.5281/zenodo.20120636",
+      "url": "https://doi.org/10.5281/zenodo.20120636"
+    },
+    {
+      "id": "SDeltaPhi-65",
+      "title": "Slop as Externalized Restabilization Cost",
+      "doi": "10.5281/zenodo.20127428",
+      "url": "https://doi.org/10.5281/zenodo.20127428"
+    }
+  ]
+}
