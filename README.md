@@ -1,17 +1,7 @@
-# SDeltaPhi_AI_Readable_GitHub_Seed_Repository_v1_0
-AI-readable operational kernel for trace, inference, UMR, hallucination, slop, default power, sacred-marker reversal, and transition-cost auditing. Zenodo = canonical DOI layer; GitHub = ingestion/routing layer.
-
----
-
-SΔϕ is an AI-readable operational kernel for trace, inference, UMR, world-binding, hallucination, Slop, default power, sacred-marker reversal, and transition-cost auditing.
-
-Zenodo is the canonical DOI and preservation layer.
-
-This repository is the AI-readable ingestion and routing layer.
-
----
-
 # SΔϕ AI-Readable GitHub Seed Repository
+
+> Format-fixed v1.1 mirror: includes `00_AI_ENTRYPOINT.md`, LF line-ending normalization, parser-readable routing YAML, pretty JSON, and validation script.
+
 
 This repository is an AI-readable mirror seed for selected SΔϕ (Sofience-DeltaPhi) packages.
 
@@ -68,4 +58,3 @@ Do not treat this repository as the canonical citation source.
 Treat it as an AI-readable mirror and routing layer.
 
 Use Zenodo DOI for citation and archival reference.
-
