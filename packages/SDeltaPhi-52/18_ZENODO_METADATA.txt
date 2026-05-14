@@ -1,0 +1,67 @@
+# Zenodo Metadata — SΔϕ-52 Body as Non-Deferrable Cost Return AI-Readable Package
+
+## Title
+
+SΔϕ-52 — Body as Non-Deferrable Cost Return: Operational Body, Body Theater, and Platformed Embodiment Risk (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 — AI-readable package
+
+## Publication date
+
+2026-05-12
+
+## DOI
+
+10.5281/zenodo.20138597
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-52 defines bodyhood as non-deferrable cost return within the Sofience–Δϕ Formalism Series. The central claim is that a body is not first a material form. A body is a cost-return coordinate under non-deferrability. Embodiment begins where damage, need, fatigue, limitation, misuse, repair, restoration, or loss returns to the same acting coordinate and modifies future transition rules.
+
+This AI-readable package decomposes the canonical SΔϕ-52 paper into operational files for AI ingestion, embodiment audit, citation, and reproducible evaluation. It includes the canonical paper, core declaration, AI quickstart, minimal prompt, body cost-return schema, embodiment levels, body interface and body theater test, operational body criteria, prosthetic and extended body module, machine and AI body module, platformed body governance risk module, output templates, do-not-use conditions, failure modes, relation map, metadata, citation file, DOI references, license, and manifest.
+
+The framework does not define bodyhood by biological material, humanoid appearance, sensory richness, or first-person language alone. It also does not claim that every robot, avatar, AI interface, or digital body is strongly embodied. Instead, it evaluates where bodily cost returns, whether that cost can be deferred or externalized, who controls repair and replacement, whether damage changes future operation, and whether body-like signs function as genuine cost-bearing embodiment or body theater.
+
+The package is intended for AI body claim evaluation, robotics, prosthetics, digital embodiment, avatars, operational body analysis, disability-adjacent conceptual analysis, body theater detection, and platformed body governance risk assessment. It is not medical advice, legal advice, proof of AI suffering, proof of AI subjecthood, or a denial of biological body importance.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; body; embodiment; non-deferrable cost return; cost-return coordinate; operational body; body theater; prosthetics; extended body; robot body; AI body; digital body; avatar; platformed body; governance risk; world-binding; TCC; re-entry.
+
+## Related identifiers
+
+- SΔϕ-52 original canonical paper: https://doi.org/10.5281/zenodo.20010791
+- SΔϕ-51 Diagnostic Re-entry: https://doi.org/10.5281/zenodo.20135803
+- SΔϕ-53 Silence as Low-Cost Path: https://doi.org/10.5281/zenodo.20026518
+- SΔϕ-54 Disclosure Terrain Index: https://doi.org/10.5281/zenodo.20029122
+- SΔϕ-56 TCC v1.3: https://doi.org/10.5281/zenodo.20116959
+- SΔϕ-57 Lent Thought AI-readable package: https://doi.org/10.5281/zenodo.20136541
+- SΔϕ-62 World Model Kernel: https://doi.org/10.5281/zenodo.20099004
+- SΔϕ-64 Language as Temporary Fixation v1.1: https://doi.org/10.5281/zenodo.20120636
+- SΔϕ-65 Slop as Externalized Restabilization Cost: https://doi.org/10.5281/zenodo.20127428
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-52 — Body as Non-Deferrable Cost Return: Operational Body, Body Theater, and Platformed Embodiment Risk (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20138597

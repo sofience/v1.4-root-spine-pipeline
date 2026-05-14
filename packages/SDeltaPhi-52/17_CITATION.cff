@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "SΔϕ-52 — Body as Non-Deferrable Cost Return"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-12"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-52. It defines bodyhood as non-deferrable cost return and provides an audit module for embodiment, operational body, prosthetics, AI body claims, body theater, and platformed body governance risk."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - body
+  - embodiment
+  - non-deferrable cost return
+  - cost-return coordinate
+  - operational body
+  - body theater
+  - prosthetics
+  - AI body
+  - robot body
+  - digital body
+  - platformed body
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20138597"
+url: "https://doi.org/10.5281/zenodo.20138597"
