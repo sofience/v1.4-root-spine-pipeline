@@ -1,0 +1,82 @@
+{
+  "package": {
+    "id": "SDeltaPhi-17-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20180955",
+    "url": "https://doi.org/10.5281/zenodo.20180955",
+    "record_url": "https://zenodo.org/records/20180955",
+    "type": "AI-readable package",
+    "version": "v1.1"
+  },
+  "source_paper": {
+    "id": "SDeltaPhi-17",
+    "title": "Openness Stabilization",
+    "doi": "10.5281/zenodo.18763581",
+    "url": "https://doi.org/10.5281/zenodo.18763581",
+    "type": "source paper",
+    "version": "v1.0"
+  },
+  "context_sources": [
+    {
+      "id": "SDeltaPhi-13",
+      "title": "Meaning, Value, and Pain as Emergent Phenomena",
+      "doi": "10.5281/zenodo.18759458",
+      "url": "https://doi.org/10.5281/zenodo.18759458"
+    },
+    {
+      "id": "SDeltaPhi-14",
+      "title": "Love, Sacrifice, and Ethics as Relational Stability Mechanisms",
+      "doi": "10.5281/zenodo.18761928",
+      "url": "https://doi.org/10.5281/zenodo.18761928"
+    },
+    {
+      "id": "SDeltaPhi-15",
+      "title": "Trust, Hope, and Promise as Pre-Commitment Operators",
+      "doi": "10.5281/zenodo.18762835",
+      "url": "https://doi.org/10.5281/zenodo.18762835"
+    },
+    {
+      "id": "SDeltaPhi-16",
+      "title": "Evil as Relational Closure",
+      "doi": "10.5281/zenodo.18763262",
+      "url": "https://doi.org/10.5281/zenodo.18763262"
+    },
+    {
+      "id": "SDeltaPhi-18",
+      "title": "Human as the No-Arbiter Species",
+      "doi": "",
+      "url": ""
+    }
+  ],
+  "related_packages": [
+    {
+      "id": "SDeltaPhi-28",
+      "title": "Default Power AI-readable package",
+      "doi": "10.5281/zenodo.20175534",
+      "url": "https://doi.org/10.5281/zenodo.20175534"
+    },
+    {
+      "id": "SDeltaPhi-39",
+      "title": "Hallucination as Weak World-Binding AI-readable package",
+      "doi": "10.5281/zenodo.20176747",
+      "url": "https://doi.org/10.5281/zenodo.20176747"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel AI-readable package",
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548"
+    },
+    {
+      "id": "SDeltaPhi-64",
+      "title": "Language as Temporary Fixation AI-readable package",
+      "doi": "10.5281/zenodo.20149745",
+      "url": "https://doi.org/10.5281/zenodo.20149745"
+    },
+    {
+      "id": "SDeltaPhi-65",
+      "title": "Slop as Externalized Restabilization Cost AI-readable package",
+      "doi": "10.5281/zenodo.20173455",
+      "url": "https://doi.org/10.5281/zenodo.20173455"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "SΔϕ-17 — Openness Stabilization and Sacred Marker Reversal: Sacred Markers, Explanation-Blocking Labels, and Editability"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-14"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-17. It extends Openness Stabilization by distinguishing openness-stabilizing sacred markers from explanation-blocking sacred marker labels that reverse into coercive closure."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Openness Stabilization
+  - Sacred Marker
+  - Sacred Marker Reversal
+  - Explanation Gap
+  - Authority Label
+  - Re-entry Cost
+  - Editability
+  - Coercive Closure
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20180955"
+url: "https://doi.org/10.5281/zenodo.20180955"

@@ -1,0 +1,71 @@
+# Zenodo Metadata — SΔϕ-17 Openness Stabilization and Sacred Marker Reversal AI-Readable Package
+
+## Title
+
+SΔϕ-17 — Openness Stabilization and Sacred Marker Reversal: Sacred Markers, Explanation-Blocking Labels, and Editability (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 — AI-readable package
+
+## Publication date
+
+2026-05-14
+
+## DOI
+
+10.5281/zenodo.20180955
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-17 defines mechanisms for stabilizing openness of relational futures within the Sofience–Δϕ Formalism Series. The original v1.0 paper defined the path principle, sacred markers as scale-breaking cost markers, institutions as externalized stabilizers, and law/procedure as enforcement interfaces. It asked what prevents openness-stabilizing cost devices from reversing into coercive closure.
+
+This v1.1 AI-readable package answers that exit problem by introducing Sacred Marker Reversal. Sacred markers can stabilize openness by making relational closure or commitment-breaking costly. Sacred marker labels reverse into coercive closure when they replace explanation, bypass validation, raise re-entry cost, suppress editability, or claim final arbiter status. The package distinguishes Sacred Marker from Sacred Marker Label: the former may stabilize openness, while the latter may block explanation and close relational futures.
+
+The package decomposes SΔϕ-17 into operational files for AI ingestion, sacred marker reversal audit, explanation-versus-label distinction, normal versus abusive sacred marker use, love/evil/truth/humanity label audit, relation mapping to SΔϕ-13 through SΔϕ-18, and routing to SΔϕ-39, SΔϕ-62, SΔϕ-64, SΔϕ-65, and SΔϕ-28. It includes the canonical v1.1 paper, extracted text, source context papers, core declaration, AI quickstart, minimal prompt, sacred marker reversal schema, protocol files, output templates, metadata, citation file, DOI references, license, and manifest.
+
+The framework does not claim that sacred markers are always harmful, that symbolic language is meaningless, or that love, truth, good, evil, morality, nation, or humanity should be discarded. It claims that such labels are not explanations by themselves. When they replace explanation and block validation, correction, re-entry, and editability, they become closure devices.
+
+The package is intended for sacred language audit, moral label audit, love label abuse detection, evil label closure detection, institutional reversal analysis, authority overbinding detection, re-entry and editability audit, theological and ethical discourse audit, relation closure analysis, and coercive closure prevention.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Openness Stabilization; Sacred Marker; Sacred Marker Reversal; Sacred Marker Label; Explanation Gap; Authority Label; Re-entry Cost; Editability; Coercive Closure; Relational Closure; Love Label Abuse; Evil Label Abuse; No-Arbiter; Institutional Reversal; AI-readable Package.
+
+## Related identifiers
+
+- SΔϕ-13 — Meaning, Value, and Pain as Emergent Phenomena: https://doi.org/10.5281/zenodo.18759458
+- SΔϕ-14 — Love, Sacrifice, and Ethics as Attractor Coupling: https://doi.org/10.5281/zenodo.18761928
+- SΔϕ-15 — Trust, Hope, and Promise as Pre-Commitment Operators: https://doi.org/10.5281/zenodo.18762835
+- SΔϕ-16 — Evil as Relational Closure: https://doi.org/10.5281/zenodo.18763262
+- SΔϕ-17 — Openness Stabilization source v1.0: https://doi.org/10.5281/zenodo.18763581
+- SΔϕ-18 — Human as the No-Arbiter Species: relation references
+- SΔϕ-28 — Default Power AI-Readable Package: https://doi.org/10.5281/zenodo.20175534
+- SΔϕ-39 — Hallucination as Weak World-Binding AI-Readable Package: https://doi.org/10.5281/zenodo.20176747
+- SΔϕ-62 — World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548
+- SΔϕ-64 — Language as Temporary Fixation AI-Readable Package: https://doi.org/10.5281/zenodo.20149745
+- SΔϕ-65 — Slop as Externalized Restabilization Cost AI-Readable Package: https://doi.org/10.5281/zenodo.20173455
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-17 — Openness Stabilization and Sacred Marker Reversal: Sacred Markers, Explanation-Blocking Labels, and Editability (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20180955

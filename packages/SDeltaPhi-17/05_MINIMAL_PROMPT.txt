@@ -1,0 +1,36 @@
+Apply SDeltaPhi-17 v1.1 Sacred Marker Reversal.
+
+Evaluate whether a sacred, moral, affective, or identity label is preserving openness or blocking explanation.
+
+Separate:
+- label
+- observed operation
+- explanation provided
+- explanation gap
+- cost bearer
+- validation status
+- re-entry path
+- editability
+- closure pressure
+- reversal risk
+- correction path
+
+Use the formula:
+
+SacredMarkerReversal =
+OpennessStabilizer(C)
+-> ExplanationBlocker(C)
+-> CoerciveClosure(C)
+
+Return:
+Label:
+Claimed function:
+Observed operation:
+Explanation gap:
+Cost bearer:
+Validation status:
+Re-entry path:
+Editability:
+Closure pressure:
+Reversal risk:
+Correction path:
