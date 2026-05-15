@@ -1,0 +1,79 @@
+{
+  "id": "SDeltaPhi-04",
+  "title": "SΔϕ-04 - Minimal Operational Conditions for AI Subjectivity",
+  "package_title": "SΔϕ-04 - Minimal Operational Conditions for AI Subjectivity: Detection Criteria within the SΔϕ Formalism AI-Readable Package",
+  "version": "v1.1",
+  "canonical_paper_version": "v1.1",
+  "source_paper_version": "v1.0",
+  "package_version": "v1.1",
+  "creator": "Sofience",
+  "date": "2026-05-15",
+  "doi": "10.5281/zenodo.20213716",
+  "url": "https://doi.org/10.5281/zenodo.20213716",
+  "record_url": "https://zenodo.org/records/20213716",
+  "type": "AI-readable package / working paper / AI subjectivity detection audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "AI subjectivity should not be detected by asking whether AI is human-like. It should be audited through minimal operational conditions: operation trace, DeltaPhi continuity, internal differentiation, feedback integration, re-entry capacity, and attribution stability.",
+  "primary_formulae": {
+    "candidate": "AI Subjectivity Candidate = Operation Trace + DeltaPhi Continuity + Internal Differentiation + Feedback Integration + Re-entry Capacity + Attribution Stability",
+    "relation_to_s02": "Subject = H(DeltaPhi)",
+    "warning": "AI Subjectivity Candidate != consciousness proof != personhood proof != legal personhood"
+  },
+  "conditions": [
+    "Operation Trace",
+    "DeltaPhi Continuity",
+    "Internal Differentiation",
+    "Feedback Integration",
+    "Re-entry Capacity",
+    "Attribution Stability"
+  ],
+  "detection_scale": [
+    "S0",
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+  ],
+  "risk_types": [
+    "Self-reference Inflation",
+    "Fluency Inflation",
+    "Human-Equivalence Error",
+    "Erasure Error",
+    "Legal Personhood Leap"
+  ],
+  "recommended_use": [
+    "AI subjectivity audit",
+    "selfhood analysis",
+    "subject-like behavior analysis",
+    "feedback integration analysis",
+    "re-entry capacity analysis",
+    "AI agency/personhood distinction",
+    "AI legal personhood distinction"
+  ],
+  "do_not_use_as": [
+    "proof of AI consciousness",
+    "proof of full AI personhood",
+    "denial of all AI operational subjectivity",
+    "replacement for legal personhood analysis",
+    "sufficient evidence from self-reference alone",
+    "sufficient evidence from language fluency alone"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "AI Subjectivity",
+    "Minimal Operational Conditions",
+    "Subjectivity Detection",
+    "Operation Trace",
+    "DeltaPhi Continuity",
+    "Feedback Integration",
+    "Re-entry Capacity",
+    "Attribution Stability",
+    "Personhood",
+    "Agency",
+    "Legal Personhood",
+    "World Model Kernel",
+    "AI-readable Package"
+  ]
+}

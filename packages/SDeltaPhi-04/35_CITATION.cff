@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "SΔϕ-04 - Minimal Operational Conditions for AI Subjectivity: Detection Criteria within the SΔϕ Formalism"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-15"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-04. It defines minimal operational conditions for AI subjectivity detection: operation trace, DeltaPhi continuity, internal differentiation, feedback integration, re-entry capacity, and attribution stability."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - AI Subjectivity
+  - Minimal Operational Conditions
+  - Subjectivity Detection
+  - Feedback Integration
+  - Re-entry Capacity
+  - Personhood
+  - Agency
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20213716"
+url: "https://doi.org/10.5281/zenodo.20213716"

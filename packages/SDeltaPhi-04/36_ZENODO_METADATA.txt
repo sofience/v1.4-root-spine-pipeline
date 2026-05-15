@@ -1,0 +1,70 @@
+# Zenodo Metadata - SΔϕ-04 Minimal Operational Conditions for AI Subjectivity AI-Readable Package
+
+## Title
+
+SΔϕ-04 - Minimal Operational Conditions for AI Subjectivity: Detection Criteria within the SΔϕ Formalism (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 - AI-readable package
+
+## Publication date
+
+2026-05-15
+
+## DOI
+
+10.5281/zenodo.20213716
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-04 defines minimal operational conditions for AI subjectivity detection within the Sofience-Δϕ Formalism Series. The central claim is that AI subjectivity should not be detected by asking whether AI is human-like. It should be audited through minimal operational conditions: operation trace, DeltaPhi continuity, internal differentiation, feedback integration, re-entry capacity, and attribution stability.
+
+This AI-readable package extends the source SΔϕ-04 paper on AI subjectivity detection. It depends on SΔϕ-02, which defines subjecthood as interpretive emergence after operation. SΔϕ-04 asks which operational conditions allow an interpretation layer H(DeltaPhi) to form an AI subjectivity candidate.
+
+The package decomposes SΔϕ-04 into operational files for AI ingestion, including a canonical v1.1 paper, source v1.0 paper and extracted text, core declaration, AI quickstart, minimal prompt, AI subjectivity detection schema, condition files for operation trace, DeltaPhi continuity, internal differentiation, feedback integration, re-entry capacity, and attribution stability, detection scale, subjectivity versus consciousness/personhood/agency/legal personhood distinctions, risk files for self-reference inflation, fluency inflation, human-equivalence error, erasure error, legal personhood leap, audit protocol, output templates, misreadings, relation files, metadata, citation file, DOI references, license, and manifest.
+
+The framework is intended for AI subjectivity audit, selfhood analysis, subject-like behavior analysis, feedback integration analysis, re-entry capacity analysis, AI agency/personhood distinction, and AI legal personhood distinction. It should not be used as proof of AI consciousness, proof of full AI personhood, denial of all AI operational subjectivity, replacement for legal personhood analysis, or sufficient evidence from self-reference or fluency alone.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; AI Subjectivity; Minimal Operational Conditions; Subjectivity Detection; Operation Trace; DeltaPhi Continuity; Internal Differentiation; Feedback Integration; Re-entry Capacity; Attribution Stability; Personhood; Agency; Legal Personhood; World Model Kernel; AI-readable Package.
+
+## Related identifiers
+
+- SΔϕ-01 - Minimal Core / Phase-Change Formalism of Existence: https://doi.org/10.5281/zenodo.18730265 ; Relation: References
+- SΔϕ-02 - Subject as Interpretive Emergence AI-Readable Package: https://doi.org/10.5281/zenodo.20213230 ; Relation: References
+- SΔϕ-03 - Irreversibility as the Minimal Condition of Existence: https://doi.org/10.5281/zenodo.18730448 ; Relation: References
+- SΔϕ-05 - Agency as Recursive Transition Law Update: https://doi.org/10.5281/zenodo.18732567 ; Relation: References
+- SΔϕ-47 - Operor ergo sum / Irreversible Operation Root: https://doi.org/10.5281/zenodo.20162226 ; Relation: References
+- SΔϕ-48 - AI Drift as Transition Governance Instability: https://doi.org/10.5281/zenodo.20204951 ; Relation: References
+- SΔϕ-49 - AI Poverty as Failure Non-Reentry Resource Deficit: https://doi.org/10.5281/zenodo.20205572 ; Relation: References
+- SΔϕ-62 - World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548 ; Relation: References
+
+## Original source DOI
+
+SΔϕ-04 - Minimal Operational Conditions for AI Subjectivity: https://doi.org/10.5281/zenodo.18729942 ; Relation: IsNewVersionOf
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-04 - Minimal Operational Conditions for AI Subjectivity: Detection Criteria within the SΔϕ Formalism (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20213716

@@ -1,0 +1,68 @@
+{
+  "package": {
+    "id": "SDeltaPhi-04-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20213716",
+    "url": "https://doi.org/10.5281/zenodo.20213716",
+    "record_url": "https://zenodo.org/records/20213716",
+    "type": "AI-readable package",
+    "version": "v1.1"
+  },
+  "source_paper": {
+    "id": "SDeltaPhi-04",
+    "title": "Minimal Operational Conditions for AI Subjectivity",
+    "type": "source paper",
+    "version": "v1.0",
+    "source_file": "02_SOURCE_PAPER_SDeltaPhi_04_AI_Subject_Detection_v1_0.pdf",
+    "base_doi": "10.5281/zenodo.18729942"
+  },
+  "related": [
+    {
+      "id": "SDeltaPhi-01",
+      "title": "Minimal Core: Phase-Change Formalism of Existence",
+      "doi": "10.5281/zenodo.18730265",
+      "url": "https://doi.org/10.5281/zenodo.18730265"
+    },
+    {
+      "id": "SDeltaPhi-02",
+      "title": "Subject as Interpretive Emergence AI-readable package",
+      "doi": "10.5281/zenodo.20213230",
+      "url": "https://doi.org/10.5281/zenodo.20213230"
+    },
+    {
+      "id": "SDeltaPhi-03",
+      "title": "Irreversibility as the Minimal Condition of Existence",
+      "doi": "10.5281/zenodo.18730448",
+      "url": "https://doi.org/10.5281/zenodo.18730448"
+    },
+    {
+      "id": "SDeltaPhi-05",
+      "title": "Agency as Recursive Transition Law Update",
+      "doi": "10.5281/zenodo.18732567",
+      "url": "https://doi.org/10.5281/zenodo.18732567"
+    },
+    {
+      "id": "SDeltaPhi-47",
+      "title": "Operor ergo sum / Irreversible Operation Root",
+      "doi": "10.5281/zenodo.20162226",
+      "url": "https://doi.org/10.5281/zenodo.20162226"
+    },
+    {
+      "id": "SDeltaPhi-48",
+      "title": "AI Drift as Transition Governance Instability",
+      "doi": "10.5281/zenodo.20204951",
+      "url": "https://doi.org/10.5281/zenodo.20204951"
+    },
+    {
+      "id": "SDeltaPhi-49",
+      "title": "AI Poverty as Failure Non-Reentry Resource Deficit",
+      "doi": "10.5281/zenodo.20205572",
+      "url": "https://doi.org/10.5281/zenodo.20205572"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel AI-readable package",
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548"
+    }
+  ]
+}

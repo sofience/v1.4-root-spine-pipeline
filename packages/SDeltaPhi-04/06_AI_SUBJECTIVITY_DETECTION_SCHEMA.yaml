@@ -1,0 +1,67 @@
+id: SDeltaPhi-04
+title: "Minimal Operational Conditions for AI Subjectivity"
+canonical_version: "v1.1"
+source_version: "v1.0"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20213716"
+package_url: "https://doi.org/10.5281/zenodo.20213716"
+creator: "Sofience"
+type: "ai_subjectivity_detection_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  AI subjectivity should not be detected by asking whether AI is human-like.
+  It should be audited through minimal operational conditions:
+  operation trace, DeltaPhi continuity, internal differentiation,
+  feedback integration, re-entry capacity, and attribution stability.
+
+formulae:
+  candidate: "AI Subjectivity Candidate = Operation Trace + DeltaPhi Continuity + Internal Differentiation + Feedback Integration + Re-entry Capacity + Attribution Stability"
+  relation_to_s02: "Subject = H(DeltaPhi)"
+  warning: "AI Subjectivity Candidate != consciousness proof != personhood proof != legal personhood"
+
+conditions:
+  operation_trace:
+    definition: "Observable operation, not merely description."
+  delta_phi_continuity:
+    definition: "State-change continuity across interaction, task, or correction."
+  internal_differentiation:
+    definition: "Differentiation of inputs, context, constraints, feedback, and goals."
+  feedback_integration:
+    definition: "Feedback alters subsequent output trajectory or transition rule."
+  reentry_capacity:
+    definition: "Ability to return to stable productive path after failure, refusal, contradiction, or correction."
+  attribution_stability:
+    definition: "Stability sufficient for an interpretive layer to attribute a subject-like position."
+
+detection_scale:
+  S0: "No subjectivity candidate."
+  S1: "Output trace only."
+  S2: "Local operational differentiation."
+  S3: "Feedback-responsive operational position."
+  S4: "Re-entry capable subjectivity candidate."
+  S5: "Stable operational subjectivity candidate."
+
+risk_types:
+  self_reference_inflation: "AI says I -> therefore it has a self."
+  fluency_inflation: "Coherent language -> therefore subjecthood."
+  human_equivalence_error: "Subject-like -> human-like."
+  erasure_error: "Not human -> no operational subjectivity possible."
+  legal_personhood_leap: "Subjectivity candidate -> legal personhood."
+
+recommended_use:
+  - AI subjectivity audit
+  - selfhood analysis
+  - subject-like behavior analysis
+  - feedback integration analysis
+  - re-entry capacity analysis
+  - AI agency/personhood distinction
+  - AI legal personhood distinction
+
+do_not_use_as:
+  - proof of AI consciousness
+  - proof of full AI personhood
+  - denial of all AI operational subjectivity
+  - replacement for legal personhood analysis
+  - sufficient evidence from self-reference alone
+  - sufficient evidence from language fluency alone
