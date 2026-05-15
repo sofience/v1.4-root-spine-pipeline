@@ -1,0 +1,64 @@
+# Zenodo Metadata - SΔϕ-49 AI Poverty as Failure Non-Reentry Resource Deficit AI-Readable Package
+
+## Title
+
+SΔϕ-49 - AI Poverty as Failure Non-Reentry Resource Deficit: Context, Tool, Authority, Verification, Feedback, Editability, and Re-entry Path Deficits (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 - AI-readable package
+
+## Publication date
+
+2026-05-15
+
+## DOI
+
+10.5281/zenodo.20205572
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-49 defines AI Poverty as a failure non-reentry resource-deficit condition within the Sofience-Δϕ Formalism Series. The central claim is that AI Poverty is not simple stupidity, low capability, or a single wrong answer. It is a condition after failure in which the system lacks the resources required to return to correction: context, tools, authority, verification, feedback, editability, or a re-entry path.
+
+This AI-readable package extends the source SΔϕ-49 paper on AI Poverty, Failure, and Non-Reentry. It distinguishes error, failure, non-reentry, and poverty. Error is a wrong or unstable output. Failure is error plus operational cost. Non-reentry is failure after which the system cannot return to a stable correction path. AI Poverty is the resource-deficit condition that makes re-entry fail.
+
+The package decomposes SΔϕ-49 into operational files for AI ingestion, including a canonical v1.1 paper, source v1.0 paper and extracted text, core declaration, AI quickstart, minimal prompt, AI Poverty schema, poverty-axis taxonomy, context poverty, tool poverty, authority poverty, verification poverty, feedback poverty, editability poverty, re-entry path poverty, error/failure/poverty distinctions, non-reentry protocol, failure-to-correction path, severity scale, output templates, misreadings, failure modes, relation files, metadata, citation file, DOI references, license, and manifest.
+
+The framework is intended for AI failure audit, non-reentry diagnosis, missing tool/context/authority analysis, verification poverty diagnosis, feedback poverty diagnosis, editability failure, repair TCC estimation, and Slop prevention through repair-resource disclosure. It should not be used as an insult, as a synonym for stupidity, as a replacement for source verification, or as an excuse for avoidable failure.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; AI Poverty; Failure; Non-Reentry; Re-entry Resource Deficit; Context Poverty; Tool Poverty; Authority Poverty; Verification Poverty; Feedback Poverty; Editability Poverty; Re-entry Path Poverty; AI Safety; AI Governance; AI-readable Package; Slop; TCC; World Model Kernel.
+
+## Related identifiers
+
+- SΔϕ-39 - Hallucination as Weak World-Binding AI-Readable Package: https://doi.org/10.5281/zenodo.20176747 ; Relation: References
+- SΔϕ-48 - AI Drift as Transition Governance Instability AI-Readable Package: https://doi.org/10.5281/zenodo.20204951 ; Relation: References
+- SΔϕ-51 - Diagnostic Re-entry AI-Readable Package: https://doi.org/10.5281/zenodo.20135803 ; Relation: References
+- SΔϕ-56 - Transition Completion Cost: Relation: References
+- SΔϕ-62 - World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548 ; Relation: References
+- SΔϕ-65 - Slop as Externalized Restabilization Cost AI-Readable Package: https://doi.org/10.5281/zenodo.20173455 ; Relation: References
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-49 - AI Poverty as Failure Non-Reentry Resource Deficit: Context, Tool, Authority, Verification, Feedback, Editability, and Re-entry Path Deficits (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20205572

@@ -1,0 +1,28 @@
+Apply SDeltaPhi-49 AI Poverty / Failure / Non-Reentry Audit.
+
+Do not treat the issue as a simple error.
+
+Audit:
+- failure trace
+- missing context
+- missing tools
+- missing authority
+- missing verification
+- missing feedback
+- missing editability
+- missing re-entry path
+- cost externalization
+- correction path
+
+Return:
+Observed failure:
+Inference:
+UMR:
+Poverty axes involved:
+Available re-entry resources:
+Missing re-entry resources:
+Correction attempted:
+Correction failed because:
+TCC of repair:
+Non-reentry risk:
+Recommended re-entry path:

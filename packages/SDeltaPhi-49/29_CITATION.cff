@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "SΔϕ-49 - AI Poverty as Failure Non-Reentry Resource Deficit: Context, Tool, Authority, Verification, Feedback, Editability, and Re-entry Path Deficits"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-15"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-49. It defines AI Poverty as failure plus insufficient re-entry resources: context, tools, authority, verification, feedback, editability, and re-entry path."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - AI Poverty
+  - Failure
+  - Non-Reentry
+  - Context Poverty
+  - Tool Poverty
+  - Verification Poverty
+  - Editability Poverty
+  - Re-entry
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20205572"
+url: "https://doi.org/10.5281/zenodo.20205572"

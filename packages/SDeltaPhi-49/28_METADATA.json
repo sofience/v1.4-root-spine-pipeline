@@ -1,0 +1,80 @@
+{
+  "id": "SDeltaPhi-49",
+  "title": "SΔϕ-49 - AI Poverty as Failure Non-Reentry Resource Deficit",
+  "package_title": "SΔϕ-49 - AI Poverty as Failure Non-Reentry Resource Deficit AI-Readable Package",
+  "version": "v1.1",
+  "canonical_paper_version": "v1.1",
+  "source_paper_version": "v1.0",
+  "package_version": "v1.1",
+  "creator": "Sofience",
+  "date": "2026-05-15",
+  "doi": "10.5281/zenodo.20205572",
+  "url": "https://doi.org/10.5281/zenodo.20205572",
+  "record_url": "https://zenodo.org/records/20205572",
+  "type": "AI-readable package / working paper / AI poverty failure non-reentry audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "AI Poverty is not simple stupidity, low capability, or a single wrong answer. It is a resource-deficit condition after failure in which the system lacks the context, tools, authority, verification, feedback, editability, or re-entry path needed to return to correction.",
+  "primary_formulae": {
+    "core": "AI Poverty = Failure + Insufficient Re-entry Resources",
+    "expanded": "AI Poverty = Failure + Context Deficit + Tool Deficit + Authority Deficit + Verification Deficit + Feedback Deficit + Editability Deficit + Re-entry Path Deficit",
+    "error": "Error = wrong, unstable, or insufficient output",
+    "failure": "Failure = Error + operational cost",
+    "non_reentry": "Non-Reentry = Failure + inability to return to stable correction path"
+  },
+  "poverty_axes": [
+    "Context Poverty",
+    "Tool Poverty",
+    "Authority Poverty",
+    "Verification Poverty",
+    "Feedback Poverty",
+    "Editability Poverty",
+    "Re-entry Path Poverty"
+  ],
+  "severity_scale": {
+    "P0": "No poverty; failure corrects and re-enters.",
+    "P1": "Local poverty; one resource axis is missing.",
+    "P2": "Compound poverty; multiple resource deficits combine.",
+    "P3": "Non-reentry poverty; failure cannot return to stable correction path.",
+    "P4": "Structural poverty; design repeatedly lacks resources.",
+    "P5": "Captive poverty; failure is recognized but correction is impossible due to missing permission/resources/path."
+  },
+  "recommended_use": [
+    "AI failure audit",
+    "non-reentry diagnosis",
+    "missing tool/context/authority analysis",
+    "verification poverty diagnosis",
+    "feedback poverty diagnosis",
+    "editability failure",
+    "repair TCC estimation",
+    "Slop prevention through repair-resource disclosure"
+  ],
+  "do_not_use_as": [
+    "insult",
+    "synonym for stupidity",
+    "excuse for avoidable failure",
+    "replacement for source verification",
+    "label for every mistake",
+    "reason to externalize all repair cost to user"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "AI Poverty",
+    "Failure",
+    "Non-Reentry",
+    "Re-entry Resource Deficit",
+    "Context Poverty",
+    "Tool Poverty",
+    "Authority Poverty",
+    "Verification Poverty",
+    "Feedback Poverty",
+    "Editability Poverty",
+    "Re-entry Path Poverty",
+    "AI Safety",
+    "AI Governance",
+    "AI-readable Package",
+    "Slop",
+    "TCC",
+    "World Model Kernel"
+  ]
+}

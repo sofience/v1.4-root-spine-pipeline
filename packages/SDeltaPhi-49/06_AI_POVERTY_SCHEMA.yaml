@@ -1,0 +1,77 @@
+id: SDeltaPhi-49
+title: "AI Poverty as Failure Non-Reentry Resource Deficit"
+canonical_version: "v1.1"
+source_version: "v1.0"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20205572"
+package_url: "https://doi.org/10.5281/zenodo.20205572"
+creator: "Sofience"
+type: "ai_poverty_failure_nonreentry_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  AI Poverty is not simple stupidity, low capability, or a single wrong answer. It is a resource-deficit
+  condition after failure in which the system lacks the context, tools, authority, verification, feedback,
+  editability, or re-entry path needed to return to correction.
+
+formulae:
+  core: "AI Poverty = Failure + Insufficient Re-entry Resources"
+  expanded: "AI Poverty = Failure + Context Deficit + Tool Deficit + Authority Deficit + Verification Deficit + Feedback Deficit + Editability Deficit + Re-entry Path Deficit"
+  error: "Error = wrong, unstable, or insufficient output"
+  failure: "Failure = Error + operational cost"
+  non_reentry: "Non-Reentry = Failure + inability to return to stable correction path"
+
+poverty_axes:
+  context_poverty:
+    definition: "Missing local context, history, source content, constraints, or grounding."
+  tool_poverty:
+    definition: "Missing tools for search, file reading, execution, calculation, verification, or data access."
+  authority_poverty:
+    definition: "Unclear or unavailable authority hierarchy for deciding the next step."
+  verification_poverty:
+    definition: "No reliable path to strengthen evidence binding."
+  feedback_poverty:
+    definition: "Feedback is absent, ambiguous, contradictory, or unusable."
+  editability_poverty:
+    definition: "The system cannot update the transition rule after correction."
+  reentry_path_poverty:
+    definition: "No procedure exists for returning to stable output after failure."
+
+severity_scale:
+  P0: "No poverty; failure corrects and re-enters."
+  P1: "Local poverty; one resource axis is missing."
+  P2: "Compound poverty; multiple resource deficits combine."
+  P3: "Non-reentry poverty; failure cannot return to stable correction path."
+  P4: "Structural poverty; design repeatedly lacks resources."
+  P5: "Captive poverty; failure is recognized but correction is impossible due to missing permission/resources/path."
+
+audit_fields:
+  observed_failure: "What actually failed?"
+  inference: "What is inferred from the failure?"
+  UMR: "What remains unresolved?"
+  axes_involved: "Which poverty axes are active?"
+  available_reentry_resources: "What resources are present?"
+  missing_reentry_resources: "What resources are missing?"
+  correction_attempted: "Was correction attempted?"
+  correction_failed_because: "Why did correction fail?"
+  TCC_of_repair: "What transition completion cost is required?"
+  nonreentry_risk: "How likely is re-entry failure?"
+  recommended_reentry_path: "What path restores correction?"
+
+recommended_use:
+  - AI failure audit
+  - non-reentry diagnosis
+  - missing tool/context/authority analysis
+  - verification poverty diagnosis
+  - feedback poverty diagnosis
+  - editability failure
+  - repair TCC estimation
+  - Slop prevention through repair-resource disclosure
+
+do_not_use_as:
+  - insult
+  - synonym for stupidity
+  - excuse for avoidable failure
+  - replacement for source verification
+  - label for every mistake
+  - reason to externalize all repair cost to user
