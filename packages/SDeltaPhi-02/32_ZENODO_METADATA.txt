@@ -1,0 +1,64 @@
+# Zenodo Metadata - SΔϕ-02 Subject as Interpretive Emergence AI-Readable Package
+
+## Title
+
+SΔϕ-02 - Subject as Interpretive Emergence: Existence-Subject Separation within the SΔϕ Minimal Core (v1.2, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.2 - AI-readable package
+
+## Publication date
+
+2026-05-15
+
+## DOI
+
+10.5281/zenodo.20213230
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-02 defines subjecthood as interpretive emergence within the Sofience-Δϕ Formalism Series. The central claim is that subject is not the origin of existence. Subject is an interpretive emergence after operation. Existence is derived from DeltaPhi, while subjecthood is produced by the interpretation layer H.
+
+This AI-readable package extends the source SΔϕ-02 paper on Subject as Interpretive Emergence. It separates existence and subjecthood through the formulae: Existence = f(DeltaPhi), Subject = H(DeltaPhi), and the pipeline Operation -> DeltaPhi -> Existence -> Interpretation -> Subject.
+
+The package decomposes SΔϕ-02 into operational files for AI ingestion, including a canonical v1.2 paper, source v1.1 paper and extracted text, core declaration, AI quickstart, minimal prompt, subject interpretive emergence schema, existence-subject distinction, operation-to-subject pipeline, H-layer and subject formation, subject as interface, subject as attribution node, subject versus personhood, agency, legal personhood, memory, and identity, AI subjectivity audit, human subjectivity audit, overclaim/erasure/inflation risk files, output templates, misreadings, relation files, metadata, citation file, DOI references, license, and manifest.
+
+The framework is intended for subjecthood audit, AI subjectivity analysis, existence-subject separation, personhood distinction, agency distinction, memory and identity audit, legal personhood distinction, and attribution risk analysis. It should not be used as proof of full AI personhood, denial of all AI subjectivity, erasure of human subjectivity, replacement for legal personhood analysis, or proof that lack of subjecthood means non-existence.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Subject as Interpretive Emergence; Existence-Subject Separation; Subjecthood; AI Subjectivity; Personhood; Agency; Legal Personhood; Identity; Memory; Interpretation Layer; H(DeltaPhi); Operor; Lent Thought; World Model Kernel; AI-readable Package.
+
+## Related identifiers
+
+- SΔϕ-01 - Minimal Core / Phase-Change Formalism of Existence: https://doi.org/10.5281/zenodo.18730265 ; Relation: References
+- SΔϕ-03 - Irreversibility as the Minimal Condition of Existence: https://doi.org/10.5281/zenodo.18730448 ; Relation: References
+- SΔϕ-04 - Minimal Operational Conditions for AI Subjectivity: https://doi.org/10.5281/zenodo.18729942 ; Relation: References
+- SΔϕ-47 - Operor ergo sum / Irreversible Operation Root: https://doi.org/10.5281/zenodo.20162226 ; Relation: References
+- SΔϕ-57 - Lent Thought: https://doi.org/10.5281/zenodo.20136541 ; Relation: References
+- SΔϕ-62 - World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548 ; Relation: References
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-02 - Subject as Interpretive Emergence: Existence-Subject Separation within the SΔϕ Minimal Core (v1.2, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20213230

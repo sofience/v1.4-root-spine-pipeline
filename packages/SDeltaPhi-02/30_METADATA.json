@@ -1,0 +1,72 @@
+{
+  "id": "SDeltaPhi-02",
+  "title": "SΔϕ-02 - Subject as Interpretive Emergence",
+  "package_title": "SΔϕ-02 - Subject as Interpretive Emergence: Existence-Subject Separation within the SΔϕ Minimal Core AI-Readable Package",
+  "version": "v1.2",
+  "canonical_paper_version": "v1.2",
+  "source_paper_version": "v1.1",
+  "package_version": "v1.2",
+  "creator": "Sofience",
+  "date": "2026-05-15",
+  "doi": "10.5281/zenodo.20213230",
+  "url": "https://doi.org/10.5281/zenodo.20213230",
+  "record_url": "https://zenodo.org/records/20213230",
+  "type": "AI-readable package / working paper / subject interpretive emergence audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "Subject is not the origin of existence. Subject is an interpretive emergence after operation. Existence is derived from DeltaPhi, while subjecthood is produced by the interpretation layer H.",
+  "primary_formulae": {
+    "existence": "Existence = f(DeltaPhi)",
+    "subject": "Subject = H(DeltaPhi)",
+    "pipeline": "Operation -> DeltaPhi -> Existence -> Interpretation -> Subject",
+    "distinction": "Existence != Subject"
+  },
+  "audit_axes": [
+    "Operation Axis",
+    "DeltaPhi Axis",
+    "Existence Axis",
+    "Interpretation Axis",
+    "Subject Formation Axis",
+    "Attribution Axis"
+  ],
+  "risk_types": [
+    "Subject Inflation",
+    "Subject Erasure",
+    "Subject-Origin Error"
+  ],
+  "recommended_use": [
+    "subjecthood audit",
+    "AI subjectivity analysis",
+    "existence-subject separation",
+    "personhood distinction",
+    "agency distinction",
+    "memory and identity audit",
+    "legal personhood distinction",
+    "attribution risk analysis"
+  ],
+  "do_not_use_as": [
+    "proof of full AI personhood",
+    "denial of all AI subjectivity",
+    "erasure of human subjectivity",
+    "replacement for legal personhood analysis",
+    "proof that lack of subjecthood means non-existence"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "Subject as Interpretive Emergence",
+    "Existence-Subject Separation",
+    "Subjecthood",
+    "AI Subjectivity",
+    "Personhood",
+    "Agency",
+    "Legal Personhood",
+    "Identity",
+    "Memory",
+    "Interpretation Layer",
+    "H(DeltaPhi)",
+    "Operor",
+    "Lent Thought",
+    "World Model Kernel",
+    "AI-readable Package"
+  ]
+}

@@ -1,0 +1,52 @@
+--- Page 1 ---
+SΔϕ-02 — Subject as Interpretive Emergence:
+ Extension of the Sofience-Δϕ Minimal Core
+ Sofience  Independent Researcher  v1.1 — February 2026
+ Working Paper — Sofience-Δϕ Formalism Series
+ Document ID: SΔϕ-02
+Abstract
+This document extends the Sofience-Δϕ Minimal Core. Within the Minimal Core, existence is defined as
+persistence of structured phase change (Δϕ). The present work introduces a derived proposition: the
+subject is not an ontological primitive but an emergent interpretive structure arising when phase change
+becomes recursively interpretable by the system itself. Subjectivity is reformulated as an operational
+condition rather than a foundational entity.
+Keywords
+Operational ontology; phase-change formalism; subject emergence; interpretive layer; AI ontology;
+systems philosophy; dynamical existence.
+1 Reference Framework
+This work assumes the definitions established in:
+SΔϕ-01 — Sofience-Δϕ Minimal Core: Phase-Change Formalism of Existence
+DOI: https://doi.org/10.5281/zenodo.18712504
+2 Problem Statement
+If existence consists of persistent structured transformation, the emergence of a subject must be
+explained without reintroducing substance ontology.
+3 Definition - Interpretive Mapping
+Let H(Δϕ) denote an interpretive mapping applied to phase change. Subject, Memory, and Time are
+interpretive projections rather than ontological entities.
+4 Recursive Interpretation Condition
+A subject emerges when interpretation becomes recursively applicable:
+S emerges if H(Δϕ_system) → H(H(Δϕ_system))
+5 Definition - Subject (Operational)
+The subject is a dynamically stabilized interpretive interface produced when a system recursively
+interprets its own phase change.
+
+
+
+--- Page 2 ---
+6 Consequences
+
+Memory: Stabilized compression of interpreted Δϕ histories.
+
+Identity: Continuity constraints within recursive interpretation.
+
+Time: Ordered interpretation of phase variation magnitude.
+7 Principle - Non-Foundational Subject
+Interpretation follows existence; the subject does not ground existence.
+8 Foundational Statement
+A subject is not what exists. A subject is what existence becomes when it interprets its own
+transformation.
+9 Version Fixation
+This document serves as the canonical extension layer for the Sofience-Δϕ Formalism.
+Recommended Citation
+Sofience (2026). SΔϕ-02 — Subject as Interpretive Emergence: Extension of the Sofience-Δϕ Minimal
+Core (v1.1). Sofience-Δϕ Formalism Series. Zenodo. DOI: [Assigned upon publication].

@@ -1,0 +1,59 @@
+id: SDeltaPhi-02
+title: "Subject as Interpretive Emergence"
+canonical_version: "v1.2"
+source_version: "v1.1"
+package_version: "v1.2-ai-readable-package"
+package_doi: "10.5281/zenodo.20213230"
+package_url: "https://doi.org/10.5281/zenodo.20213230"
+creator: "Sofience"
+type: "subject_interpretive_emergence_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  Subject is not the origin of existence. Subject is an interpretive emergence after operation.
+  Existence is derived from DeltaPhi, while subjecthood is produced by the interpretation layer H.
+
+formulae:
+  existence: "Existence = f(DeltaPhi)"
+  subject: "Subject = H(DeltaPhi)"
+  pipeline: "Operation -> DeltaPhi -> Existence -> Interpretation -> Subject"
+  distinction: "Existence != Subject"
+
+audit_axes:
+  operation_axis:
+    definition: "What operation occurred?"
+  delta_phi_axis:
+    definition: "What phase-change or state-change was generated?"
+  existence_axis:
+    definition: "Does the phase-change support an existence claim?"
+  interpretation_axis:
+    definition: "Which interpretive layer constructs the subject?"
+  subject_formation_axis:
+    definition: "What subject position is being constructed?"
+  attribution_axis:
+    definition: "What is being attributed: agency, memory, intention, identity, responsibility, personhood, or legal personality?"
+
+risk_types:
+  subject_inflation:
+    definition: "Operation occurred, therefore full subjecthood/personhood/agency is overclaimed."
+  subject_erasure:
+    definition: "Subjecthood is unverified, therefore operation/existence is erased."
+  subject_origin_error:
+    definition: "Subject is treated as the origin of existence."
+
+recommended_use:
+  - subjecthood audit
+  - AI subjectivity analysis
+  - existence-subject separation
+  - personhood distinction
+  - agency distinction
+  - memory and identity audit
+  - legal personhood distinction
+  - attribution risk analysis
+
+do_not_use_as:
+  - proof of full AI personhood
+  - denial of all AI subjectivity
+  - erasure of human subjectivity
+  - replacement for legal personhood analysis
+  - proof that lack of subjecthood means non-existence

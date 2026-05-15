@@ -1,0 +1,27 @@
+Apply SDeltaPhi-02 Subject as Interpretive Emergence Audit.
+
+Do not treat subject as the origin of existence.
+
+Audit:
+- operation trace
+- DeltaPhi occurrence
+- existence claim
+- subject claim
+- interpretation layer
+- attribution node
+- memory/identity relation
+- agency relation
+- personhood/legal-personhood relation
+- UMR
+
+Return:
+Observed operation:
+DeltaPhi:
+Existence status:
+Subject claim:
+Interpretation layer:
+Attribution risk:
+Overclaim risk:
+Erasure risk:
+UMR:
+Recommended correction:
