@@ -1,0 +1,85 @@
+{
+  "id": "SDeltaPhi-06",
+  "title": "SΔϕ-06 - Responsibility as Irreversible Cost Internalization",
+  "package_title": "SΔϕ-06 - Responsibility as Irreversible Cost Internalization: Cost Attribution, Repair TCC, and Responsibility Completion AI-Readable Package",
+  "version": "v1.1",
+  "canonical_paper_version": "v1.1",
+  "source_paper_version": "v1.0",
+  "package_version": "v1.1",
+  "creator": "Sofience",
+  "date": "2026-05-15",
+  "doi": "10.5281/zenodo.20214954",
+  "url": "https://doi.org/10.5281/zenodo.20214954",
+  "record_url": "https://zenodo.org/records/20214954",
+  "type": "AI-readable package / working paper / responsibility irreversible cost internalization audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "Responsibility is not blame, guilt, apology, punishment, personhood, or legal liability by itself. Responsibility is irreversible cost internalization through attribution, repair/re-entry, and recurrence-cost reduction.",
+  "primary_formulae": {
+    "core": "Responsibility = Irreversible Cost Internalization",
+    "expanded": "Responsibility = Irreversibility + Cost Attribution + Cost Internalization + Repair/Re-entry + Recurrence-Cost Reduction",
+    "short": "Responsibility = ownership of irreversible path constraint",
+    "tcc_underlayer": "Use SDeltaPhi-56 v1.3 to measure repair/re-entry/disclosure TCC."
+  },
+  "conditions": [
+    "Irreversible Cost Produced",
+    "Cost Attribution",
+    "Cost Internalization",
+    "Repair / Re-entry Path",
+    "Recurrence-Cost Reduction"
+  ],
+  "responsibility_status_scale": [
+    "R0",
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5"
+  ],
+  "risk_types": [
+    "Responsibility Theater",
+    "Blame Substitution",
+    "Apology Substitution",
+    "Punishment Substitution",
+    "AI Responsibility Deflection",
+    "Repair Cost Externalization"
+  ],
+  "recommended_use": [
+    "responsibility audit",
+    "cost internalization analysis",
+    "repair and re-entry audit",
+    "apology vs responsibility distinction",
+    "blame vs responsibility distinction",
+    "AI liability routing",
+    "institutional failure analysis",
+    "recurrence-cost reduction audit"
+  ],
+  "do_not_use_as": [
+    "synonym for blame",
+    "synonym for guilt",
+    "proof of legal liability",
+    "proof that apology completes responsibility",
+    "proof that punishment completes responsibility",
+    "excuse for AI responsibility deflection",
+    "replacement for agency audit",
+    "replacement for TCC analysis when repair is central"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "Responsibility",
+    "Irreversible Cost Internalization",
+    "Cost Attribution",
+    "Cost Internalization",
+    "Repair TCC",
+    "Disclosure-to-Re-entry Cost",
+    "FIP Differential",
+    "Recurrence-Cost Reduction",
+    "Responsibility Theater",
+    "AI Responsibility",
+    "AI Liability",
+    "Institutional Responsibility",
+    "Transition Completion Cost",
+    "AI Governance",
+    "AI-readable Package"
+  ]
+}

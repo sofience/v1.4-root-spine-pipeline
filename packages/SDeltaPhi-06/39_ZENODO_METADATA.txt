@@ -1,0 +1,74 @@
+# Zenodo Metadata - SΔϕ-06 Responsibility as Irreversible Cost Internalization AI-Readable Package
+
+## Title
+
+SΔϕ-06 - Responsibility as Irreversible Cost Internalization: Cost Attribution, Repair TCC, and Responsibility Completion (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 - AI-readable package
+
+## Publication date
+
+2026-05-15
+
+## DOI
+
+10.5281/zenodo.20214954
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-06 defines responsibility as irreversible cost internalization within the Sofience-Δϕ Formalism Series. The central claim is that responsibility is not blame, guilt, apology, punishment, personhood, or legal liability by itself. Responsibility becomes operational when irreversible cost is attributed to a responsible path and then internalized through repair, re-entry, disclosure, correction, compensation, governance update, or recurrence-cost reduction.
+
+This AI-readable package extends the source SΔϕ-06 paper on Responsibility as Irreversible Cost Internalization. It distinguishes responsibility declaration from responsibility completion. A system, person, organization, institution, or AI-related operator is not responsible merely because it apologizes, admits fault, is blamed, or is punished. Responsibility is completed only when the responsible path internalizes the cost and reduces repair, re-entry, or recurrence cost.
+
+SΔϕ-56 v1.3 is included as the underlayer cost engine for this package. SΔϕ-06 defines the responsibility structure; SΔϕ-56 measures the Transition Completion Cost (TCC), friction coefficients, disclosure-to-re-entry cost, and FIP differential required for responsibility to become repair, disclosure, re-entry, and recurrence-cost reduction.
+
+The package decomposes SΔϕ-06 into operational files for AI ingestion, including a canonical v1.1 paper, source v1.0 paper and extracted text, core declaration, AI quickstart, minimal prompt, responsibility cost-internalization schema, condition files for irreversible cost, cost attribution, cost internalization, repair/re-entry, recurrence-cost reduction, responsibility status scale, declaration/apology/blame/punishment/legal liability distinctions, risk files for AI responsibility deflection, responsibility theater, repair cost externalization, disclosure-to-re-entry TCC, FIP differential, AI and institutional audit protocols, output templates, misreadings, relation files, metadata, citation file, DOI references, license, and manifest.
+
+The framework is intended for responsibility audit, cost internalization analysis, repair and re-entry audit, apology versus responsibility distinction, blame versus responsibility distinction, AI liability routing, institutional failure analysis, and recurrence-cost reduction audit. It should not be used as a synonym for blame or guilt, proof of legal liability, proof that apology or punishment completes responsibility, excuse for AI responsibility deflection, replacement for agency audit, or replacement for TCC analysis when repair is central.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Responsibility; Irreversible Cost Internalization; Cost Attribution; Cost Internalization; Repair TCC; Disclosure-to-Re-entry Cost; FIP Differential; Recurrence-Cost Reduction; Responsibility Theater; AI Responsibility; AI Liability; Institutional Responsibility; Transition Completion Cost; AI Governance; AI-readable Package.
+
+## Related identifiers
+
+- SΔϕ-01 - Minimal Core / Phase-Change Formalism of Existence: https://doi.org/10.5281/zenodo.18730265 ; Relation: References
+- SΔϕ-03 - Irreversibility as the Minimal Condition of Existence: https://doi.org/10.5281/zenodo.18730448 ; Relation: References
+- SΔϕ-05 - Agency as Recursive Transition Law Update AI-Readable Package: https://doi.org/10.5281/zenodo.20214446 ; Relation: References
+- SΔϕ-47 - Operor ergo sum / Irreversible Operation Root: https://doi.org/10.5281/zenodo.20162226 ; Relation: References
+- SΔϕ-48 - AI Drift as Transition Governance Instability: https://doi.org/10.5281/zenodo.20204951 ; Relation: References
+- SΔϕ-49 - AI Poverty as Failure Non-Reentry Resource Deficit: https://doi.org/10.5281/zenodo.20205572 ; Relation: References
+- SΔϕ-56 - Transition Completion Cost: Friction Coefficients, Disclosure-to-Re-entry Cost, and FIP as TCC Differential (v1.3): https://doi.org/10.5281/zenodo.20116959 ; Relation: References
+- SΔϕ-58 - Cost Attribution Symmetry Index: https://doi.org/10.5281/zenodo.20059485 ; Relation: References
+- SΔϕ-62 - World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548 ; Relation: References
+- SΔϕ-65 - Slop as Externalized Restabilization Cost: https://doi.org/10.5281/zenodo.20173455 ; Relation: References
+
+## Original source DOI
+
+SΔϕ-06 - Responsibility as Irreversible Cost Internalization: https://doi.org/10.5281/zenodo.18734092 ; Relation: IsNewVersionOf
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-06 - Responsibility as Irreversible Cost Internalization: Cost Attribution, Repair TCC, and Responsibility Completion (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20214954

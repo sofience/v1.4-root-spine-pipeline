@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "SΔϕ-06 - Responsibility as Irreversible Cost Internalization: Cost Attribution, Repair TCC, and Responsibility Completion"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-15"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-06. It defines responsibility as irreversible cost internalization through cost attribution, repair/re-entry, and recurrence-cost reduction, with SΔϕ-56 v1.3 as the underlayer TCC engine."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Responsibility
+  - Irreversible Cost Internalization
+  - Cost Attribution
+  - Repair TCC
+  - Disclosure-to-Re-entry Cost
+  - AI Responsibility
+  - Transition Completion Cost
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20214954"
+url: "https://doi.org/10.5281/zenodo.20214954"

@@ -1,0 +1,70 @@
+id: SDeltaPhi-06
+title: "Responsibility as Irreversible Cost Internalization"
+canonical_version: "v1.1"
+source_version: "v1.0"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20214954"
+package_url: "https://doi.org/10.5281/zenodo.20214954"
+creator: "Sofience"
+type: "responsibility_irreversible_cost_internalization_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  Responsibility is not blame, guilt, apology, punishment, personhood, or legal liability by itself.
+  Responsibility is irreversible cost internalization: an irreversible cost is attributed to a responsible path
+  and then internalized through repair, re-entry, disclosure, correction, compensation, governance update,
+  or recurrence-cost reduction.
+
+formulae:
+  core: "Responsibility = Irreversible Cost Internalization"
+  expanded: "Responsibility = Irreversibility + Cost Attribution + Cost Internalization + Repair/Re-entry + Recurrence-Cost Reduction"
+  short: "Responsibility = ownership of irreversible path constraint"
+  tcc_underlayer: "Use SDeltaPhi-56 v1.3 to measure repair/re-entry/disclosure TCC."
+
+conditions:
+  irreversible_cost_produced:
+    definition: "An action, omission, default, output, decision, or system path produces cost that cannot be fully undone."
+  cost_attribution:
+    definition: "The cost is traced to an actor, operator, institution, model, tool chain, default setting, or governance path."
+  cost_internalization:
+    definition: "The attributed path absorbs the cost rather than leaving it externalized."
+  repair_reentry_path:
+    definition: "A damaged relation, system, or cost terrain re-enters a corrected or stabilized path if possible."
+  recurrence_cost_reduction:
+    definition: "Future recurrence becomes less likely, less costly, or more recoverable."
+
+responsibility_status_scale:
+  R0: "No responsibility transition."
+  R1: "Declaration only."
+  R2: "Attribution established."
+  R3: "Partial internalization."
+  R4: "Repair/re-entry in progress."
+  R5: "Recurrence-cost reduction achieved."
+
+risk_types:
+  responsibility_theater: "Responsibility is declared, but no cost is internalized."
+  blame_substitution: "Blame is assigned, therefore responsibility is treated as complete."
+  apology_substitution: "Apology is treated as responsibility completion."
+  punishment_substitution: "Punishment is treated as responsibility completion."
+  ai_responsibility_deflection: "The AI did it -> operator responsibility disappears."
+  repair_cost_externalization: "Responsible path declares responsibility while pushing repair TCC onto others."
+
+recommended_use:
+  - responsibility audit
+  - cost internalization analysis
+  - repair and re-entry audit
+  - apology vs responsibility distinction
+  - blame vs responsibility distinction
+  - AI liability routing
+  - institutional failure analysis
+  - recurrence-cost reduction audit
+
+do_not_use_as:
+  - synonym for blame
+  - synonym for guilt
+  - proof of legal liability
+  - proof that apology completes responsibility
+  - proof that punishment completes responsibility
+  - excuse for AI responsibility deflection
+  - replacement for agency audit
+  - replacement for TCC analysis when repair is central
