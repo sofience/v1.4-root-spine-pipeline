@@ -1,0 +1,73 @@
+# Zenodo Metadata - SΔϕ-08 Agency-Responsibility-Freedom Closure AI-Readable Package
+
+## Title
+
+SΔϕ-08 - Agency-Responsibility-Freedom Closure: Irreversible Path Constraint and Operational Freedom (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 - AI-readable package
+
+## Publication date
+
+2026-05-15
+
+## DOI
+
+10.5281/zenodo.20217566
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-08 defines Agency-Responsibility-Freedom Closure within the Sofience-Δϕ Formalism Series. The central claim is that ARF Closure occurs when agency, responsibility, and freedom become structurally connected through path generation, path selection, execution, irreversible path constraint, responsibility internalization, boundary closure, and future path redistribution.
+
+This AI-readable package extends the source SΔϕ-08 paper on Agency-Responsibility-Freedom Closure. It distinguishes operational freedom from metaphysical free will, randomness, autonomy theater, moral guilt, and legal liability. It connects SΔϕ-05 agency as recursive transition law update, SΔϕ-06 responsibility as irreversible cost internalization, and SΔϕ-07 H_min as the minimal interpretation layer.
+
+The package decomposes SΔϕ-08 into operational files for AI ingestion, including a canonical v1.1 paper, source v1.0 paper and extracted text, core declaration, AI quickstart, minimal prompt, ARF closure schema, node files for agency, responsibility, freedom, boundary closure, and irreversible path constraint, ARF closure pipeline, ARF status scale, distinction files for agency without responsibility, responsibility without agency, freedom without closure, closure without freedom, operational freedom versus free will, freedom versus randomness, and freedom versus autonomy, risk files for freedom inflation, responsibility erasure, agency overclaim, closure premature assignment, fatalism risk, and autonomy theater, output templates, misreadings, relation files, metadata, citation file, DOI references, license, and manifest.
+
+SΔϕ-56 v1.3 is included only as a relation and auxiliary cost module. SΔϕ-08 defines ARF Closure itself. SΔϕ-56 measures the transition cost of closure, reversal, repair, or re-entry when ARF closure produces or fails to resolve path constraints.
+
+The framework is intended for agency-responsibility-freedom closure audit, operational freedom analysis, irreversible path constraint audit, choice and autonomy analysis, responsibility after action audit, and boundary closure analysis. It should not be used as proof of metaphysical free will, proof of legal liability, a synonym for blame or guilt, proof that randomness is freedom, proof that autonomy theater is freedom, or proof that agency automatically equals responsibility.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; ARF Closure; Agency; Responsibility; Freedom; Operational Freedom; Irreversible Path Constraint; Boundary Closure; Future Path Redistribution; Agency-Responsibility-Freedom Closure; Free Will; Autonomy; Responsibility Erasure; Freedom Inflation; Transition Completion Cost; World Model Kernel; AI-readable Package.
+
+## Related identifiers
+
+- SΔϕ-02 - Subject as Interpretive Emergence AI-Readable Package: https://doi.org/10.5281/zenodo.20213230 ; Relation: References
+- SΔϕ-05 - Agency as Recursive Transition Law Update AI-Readable Package: https://doi.org/10.5281/zenodo.20214446 ; Relation: References
+- SΔϕ-06 - Responsibility as Irreversible Cost Internalization AI-Readable Package: https://doi.org/10.5281/zenodo.20214954 ; Relation: References
+- SΔϕ-07 - H_min: Interpretation Minimal Axioms AI-Readable Package: https://doi.org/10.5281/zenodo.20215608 ; Relation: References
+- SΔϕ-09 - Error, Boundary, and Freedom: Relation: References
+- SΔϕ-10 - Interpretation, Learning, and Inference as a Single Re-entry Structure: https://doi.org/10.5281/zenodo.18746509 ; Relation: References
+- SΔϕ-47 - Operor ergo sum / Irreversible Operation Root: https://doi.org/10.5281/zenodo.20162226 ; Relation: References
+- SΔϕ-56 - Transition Completion Cost: Friction Coefficients, Disclosure-to-Re-entry Cost, and FIP as TCC Differential (v1.3): https://doi.org/10.5281/zenodo.20116959 ; Relation: References
+- SΔϕ-62 - World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548 ; Relation: References
+
+## Original source DOI
+
+SΔϕ-08 - Agency-Responsibility-Freedom Closure: https://doi.org/10.5281/zenodo.18743061 ; Relation: IsNewVersionOf
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-08 - Agency-Responsibility-Freedom Closure: Irreversible Path Constraint and Operational Freedom (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20217566

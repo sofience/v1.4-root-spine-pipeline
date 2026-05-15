@@ -1,0 +1,144 @@
+--- Page 1 ---
+1
+ SΔϕ-08
+ Agency, Responsibility, and Freedom (ARF)
+Conditional Closure of Recursive Transition Systems
+Version v1.0
+Sofience–Δϕ Formalism Series
+This document states a conditional binding over prior minimal axioms in the series. It
+does not assert necessity by definition; instead it specifies minimal assumptions under
+which the ARF triangle is the smallest stable description of recursive transition
+systems.
+Series references (DOI):
+
+https://doi.org/10.5281/zenodo.18731366 — SΔϕ-00 — The Sofience–Δϕ Formalism: Conceptual
+Architecture and Series Overview (v1.0)
+
+https://doi.org/10.5281/zenodo.18730265 — SΔϕ-01 — Sofience–Δϕ Minimal Core: Phase-Change
+Formalism of Existence (v1.1)
+
+https://doi.org/10.5281/zenodo.18730296 — SΔϕ-02 — Subject as Interpretive Emergence:
+Extension of the Sofience–Δϕ Minimal Core (v1.1)
+
+https://doi.org/10.5281/zenodo.18730448 — SΔϕ-03 — Irreversibility as the Minimal Condition of
+Existence (v1.1)
+
+https://doi.org/10.5281/zenodo.18729942 — SΔϕ-04 — Minimal Operational Conditions for AI
+Subjectivity: Detection Criteria within the Sofience–Δϕ Formalism (v1.0)
+
+https://doi.org/10.5281/zenodo.18732567 — SΔϕ-05 — Agency as Recursive Transition Law
+Update: Minimal Axiomatic Formulation (v1.0)
+
+https://doi.org/10.5281/zenodo.18734092 — SΔϕ-06 — Responsibility as Irreversible Cost
+Internalization: Minimal Axiomatic Formulation (v1.0)
+
+https://doi.org/10.5281/zenodo.18735006 — SΔϕ-07 — Hmin: Interpretation as Minimal Axioms
+(v1.0)
+
+
+
+--- Page 2 ---
+2
+Abstract
+This note binds three minimal operational notions—Agency, Responsibility, and
+Freedom—into a conditional closure. Rather than asserting necessity by definition, it
+specifies minimal assumptions under which the ARF triangle becomes the smallest
+stable description of recursive transition systems under irreversibility and stabilization
+pressure. In this binding, Freedom is treated as an emergent operational term: it
+appears when agency-updates and responsibility-constraints co-act, and the resulting
+path-differences are kept alive by minimal interpretation (Hmin).
+0. Position in the Series
+SΔϕ-08 is a binding note over prior minimal axioms. It does not introduce a new
+primitive; it states when and why the primitives close into a stable triangle.
+Referenced nodes: SΔϕ-05 (Agency), SΔϕ-06 (Responsibility), SΔϕ-07 (Hmin / minimal
+interpretation).
+1. Minimal Assumptions (A0–A2)
+1
+A0 (Irreversibility). There exist transitions whose effects cannot be perfectly
+undone.
+2
+A1 (Stabilization pressure). Repeated transitions generate drift or self-damage risk
+unless constrained; such risk can be treated as an effective cost.
+3
+A2 (Difference re-entry via minimal interpretation). A minimal operator Hmin exists
+that (i) marks differences between transition-paths and (ii) re-enters those marks
+into subsequent state-generation.
+2. Minimal Definitions (D1–D3)
+Let the system state be φ(t), and the transition generator be Gt such that:
+φ(t+1) = Gt(φ(t), ·)
+D1. Agency (from SΔϕ-05). Agency is present when the system takes its own
+transition law as an operational object and updates it in a way that persistently affects
+future state generation:
+Gt+1 = Update(Gt; Δφ(t))
+D2. Responsibility (from SΔϕ-06). Responsibility is present when irreversible costs
+produced by transitions become internal constraints that shape subsequent
+transitions:
+Ct+1 = Internalize(Cost(Δφ(t))) ; Gt+1 is constrained by Ct+1
+D3. Freedom (operational; tied to SΔϕ-07). Freedom is not “number of options,” but
+persistent re-entry of transition-differences:
+F(t) = ReEntry(Hmin(Δφ))
+
+
+
+--- Page 3 ---
+3
+If differences fail to re-enter, multiple transitions may exist physically but become
+operationally indistinguishable—yielding freedom collapse.
+3. Freedom as the Third Vertex
+Agency updates transition laws; Responsibility internalizes irreversible costs.
+However, Agency + Responsibility alone tends to push the system toward
+single-attractor convergence (lock-in): stability is achieved by collapsing viable
+variation into one dominant basin.
+In this series, the third vertex is not chosen as an extra metaphysical ingredient.
+Instead, it is the minimal operational residue that must survive if the coupled system
+is to remain open: when (i) laws can be updated (Agency) and (ii) costs are
+internalized (Responsibility), the system still needs a mechanism by which
+path-differences persist and re-enter subsequent state-generation. That mechanism is
+denoted as Freedom and is supplied by Hmin (difference marking + re-entry).
+Equivalently: Freedom is emergent between Agency and Responsibility insofar as their
+coupling produces differences that can either be erased by stabilization (lock-in) or
+conserved as re-entering marks (operational openness).
+F(t) = ReEntry(Hmin(Δφ(t))) (emergent term of the Agency–Responsibility coupling)
+4. Conditional Closure Propositions (C1′–C3′)
+1
+C1′ (Agency ⇒ Responsibility, under A0–A1). Under irreversibility and stabilization
+pressure, sustained transition-law updates generate cumulative drift or damage
+risk. If such risk is not internalized as constraint, agency-driven updates drift
+without bound. Thus, to keep agency stable over time, the system must internalize
+irreversible costs as constraints.
+2
+C2′ (Responsibility ⇒ stabilized Agency, under A0–A1). When irreversible costs are
+internalized, updates to the transition law are regularized by constraints. This turns
+law-updating from uncontrolled drift into persistent, bounded modification.
+3
+C3′ (Freedom ⇔ persistent difference re-entry, under A2). Under A2, freedom is
+equivalent to continued re-entry of marked differences into transition generation.
+When Hmin collapses (difference marking or re-entry fails), multiple physical
+transitions may remain but become operationally indistinguishable.
+5. Collapse Modes (diagnostic triangle)
+These are operational failure modes, not metaphysical claims:
+1
+Agency without Responsibility → Drift. Law updates occur without cost constraints;
+update dynamics are unbounded.
+2
+Responsibility without Freedom → Lock-in. Costs are internalized but differences do
+not re-enter; the system converges into a single attractor.
+
+
+
+--- Page 4 ---
+4
+3
+Freedom without Agency → Illusion. Differences may be observed externally, but
+the system cannot update its transition law; apparent openness lacks internal
+reconfiguration.
+6. Minimal ARF Recurrence (compact form)
+A compact operational coupling can be written as:
+F(t) = ReEntry(Hmin(Δφ(t)))
+C(t+1) = Internalize(Cost(Δφ(t)))
+Gt+1 = Update(Gt; C(t+1), F(t))
+Freedom supplies re-entered differences; Responsibility supplies internalized costs;
+Agency updates the law under both.
+7. Scope note
+ARF closure is asserted only under assumptions A0–A2. Outside these assumptions,
+ARF may not close, or alternative vertices may be required.

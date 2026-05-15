@@ -1,0 +1,64 @@
+id: SDeltaPhi-08
+title: "Agency-Responsibility-Freedom Closure"
+canonical_version: "v1.1"
+source_version: "v1.0"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20217566"
+package_url: "https://doi.org/10.5281/zenodo.20217566"
+creator: "Sofience"
+type: "agency_responsibility_freedom_closure_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  ARF Closure occurs when agency, responsibility, and freedom become structurally connected
+  through path generation, path selection, execution, irreversible path constraint,
+  responsibility internalization, boundary closure, and future path redistribution.
+
+formulae:
+  core: "ARF Closure = Agency + Responsibility + Freedom + Boundary Closure + Irreversible Path Constraint"
+  operational: "Path Generation -> Path Selection -> Execution -> Irreversible Path Constraint -> Cost Internalization -> Boundary Closure -> Future Path Redistribution"
+  warning: "ARF Closure is not metaphysical free will, moral guilt, legal liability, randomness, or autonomy theater."
+
+nodes:
+  agency_node:
+    definition: "Path generation, selection, execution, feedback, and transition-law update."
+  responsibility_node:
+    definition: "Irreversible cost attribution, internalization, repair, re-entry, and recurrence-cost reduction."
+  freedom_node:
+    definition: "Pre-closure condition where possible paths have not yet collapsed into irreversible path constraint."
+  boundary_closure_node:
+    definition: "Selection and execution seal or redistribute future path availability."
+  irreversible_path_constraint:
+    definition: "Selected path changes future cost, possibility, relation, or responsibility structure in a way that cannot simply be reset."
+
+closure_scale:
+  ARF0: "No closure."
+  ARF1: "Agency trace only."
+  ARF2: "Agency with weak responsibility."
+  ARF3: "Responsibility attribution without closure."
+  ARF4: "Partial ARF closure."
+  ARF5: "Full operational ARF closure."
+
+risk_types:
+  freedom_inflation: "Options existed -> therefore freedom existed."
+  responsibility_erasure: "No metaphysical free will -> no responsibility."
+  agency_overclaim: "Output or automation -> agency."
+  closure_premature_assignment: "A choice was made -> path closure occurred."
+  fatalism_risk: "Structure determined path -> freedom and responsibility disappear."
+  autonomy_theater: "Surface autonomy -> operational freedom."
+
+recommended_use:
+  - agency-responsibility-freedom closure audit
+  - operational freedom analysis
+  - irreversible path constraint audit
+  - choice and autonomy analysis
+  - responsibility after action audit
+  - boundary closure analysis
+
+do_not_use_as:
+  - proof of metaphysical free will
+  - proof of legal liability
+  - synonym for blame or guilt
+  - proof that randomness is freedom
+  - proof that autonomy theater is freedom
+  - proof that agency automatically equals responsibility

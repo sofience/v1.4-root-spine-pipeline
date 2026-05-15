@@ -1,0 +1,73 @@
+{
+  "package": {
+    "id": "SDeltaPhi-08-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20217566",
+    "url": "https://doi.org/10.5281/zenodo.20217566",
+    "record_url": "https://zenodo.org/records/20217566",
+    "type": "AI-readable package",
+    "version": "v1.1"
+  },
+  "source_paper": {
+    "id": "SDeltaPhi-08",
+    "title": "Agency-Responsibility-Freedom Closure",
+    "type": "source paper",
+    "version": "v1.0",
+    "source_file": "02_SOURCE_PAPER_SDeltaPhi_08_ARF_Closure_v1_0.pdf",
+    "base_doi": "10.5281/zenodo.18743061"
+  },
+  "related": [
+    {
+      "id": "SDeltaPhi-02",
+      "title": "Subject as Interpretive Emergence",
+      "doi": "10.5281/zenodo.20213230",
+      "url": "https://doi.org/10.5281/zenodo.20213230"
+    },
+    {
+      "id": "SDeltaPhi-05",
+      "title": "Agency as Recursive Transition Law Update",
+      "doi": "10.5281/zenodo.20214446",
+      "url": "https://doi.org/10.5281/zenodo.20214446"
+    },
+    {
+      "id": "SDeltaPhi-06",
+      "title": "Responsibility as Irreversible Cost Internalization",
+      "doi": "10.5281/zenodo.20214954",
+      "url": "https://doi.org/10.5281/zenodo.20214954"
+    },
+    {
+      "id": "SDeltaPhi-07",
+      "title": "H_min: Interpretation Minimal Axioms",
+      "doi": "10.5281/zenodo.20215608",
+      "url": "https://doi.org/10.5281/zenodo.20215608"
+    },
+    {
+      "id": "SDeltaPhi-09",
+      "title": "Error, Boundary, and Freedom",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-10",
+      "title": "Interpretation, Learning, and Inference as a Single Re-entry Structure",
+      "doi": "10.5281/zenodo.18746509",
+      "url": "https://doi.org/10.5281/zenodo.18746509"
+    },
+    {
+      "id": "SDeltaPhi-47",
+      "title": "Operor ergo sum / Irreversible Operation Root",
+      "doi": "10.5281/zenodo.20162226",
+      "url": "https://doi.org/10.5281/zenodo.20162226"
+    },
+    {
+      "id": "SDeltaPhi-56",
+      "title": "Transition Completion Cost v1.3",
+      "doi": "10.5281/zenodo.20116959",
+      "url": "https://doi.org/10.5281/zenodo.20116959"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel AI-readable package",
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548"
+    }
+  ]
+}

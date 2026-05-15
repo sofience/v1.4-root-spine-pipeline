@@ -1,0 +1,81 @@
+{
+  "id": "SDeltaPhi-08",
+  "title": "SΔϕ-08 - Agency-Responsibility-Freedom Closure",
+  "package_title": "SΔϕ-08 - Agency-Responsibility-Freedom Closure: Irreversible Path Constraint and Operational Freedom AI-Readable Package",
+  "version": "v1.1",
+  "canonical_paper_version": "v1.1",
+  "source_paper_version": "v1.0",
+  "package_version": "v1.1",
+  "creator": "Sofience",
+  "date": "2026-05-15",
+  "doi": "10.5281/zenodo.20217566",
+  "url": "https://doi.org/10.5281/zenodo.20217566",
+  "record_url": "https://zenodo.org/records/20217566",
+  "type": "AI-readable package / working paper / agency-responsibility-freedom closure audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "ARF Closure occurs when agency, responsibility, and freedom become structurally connected through path generation, path selection, execution, irreversible path constraint, responsibility internalization, boundary closure, and future path redistribution.",
+  "primary_formulae": {
+    "core": "ARF Closure = Agency + Responsibility + Freedom + Boundary Closure + Irreversible Path Constraint",
+    "operational": "Path Generation -> Path Selection -> Execution -> Irreversible Path Constraint -> Cost Internalization -> Boundary Closure -> Future Path Redistribution",
+    "warning": "ARF Closure is not metaphysical free will, moral guilt, legal liability, randomness, or autonomy theater."
+  },
+  "nodes": [
+    "Agency Node",
+    "Responsibility Node",
+    "Freedom Node",
+    "Boundary Closure Node",
+    "Irreversible Path Constraint"
+  ],
+  "closure_scale": [
+    "ARF-0",
+    "ARF-1",
+    "ARF-2",
+    "ARF-3",
+    "ARF-4",
+    "ARF-5"
+  ],
+  "risk_types": [
+    "Freedom Inflation",
+    "Responsibility Erasure",
+    "Agency Overclaim",
+    "Closure Premature Assignment",
+    "Fatalism Risk",
+    "Autonomy Theater"
+  ],
+  "recommended_use": [
+    "agency-responsibility-freedom closure audit",
+    "operational freedom analysis",
+    "irreversible path constraint audit",
+    "choice and autonomy analysis",
+    "responsibility after action audit",
+    "boundary closure analysis"
+  ],
+  "do_not_use_as": [
+    "proof of metaphysical free will",
+    "proof of legal liability",
+    "synonym for blame or guilt",
+    "proof that randomness is freedom",
+    "proof that autonomy theater is freedom",
+    "proof that agency automatically equals responsibility"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "ARF Closure",
+    "Agency",
+    "Responsibility",
+    "Freedom",
+    "Operational Freedom",
+    "Irreversible Path Constraint",
+    "Boundary Closure",
+    "Future Path Redistribution",
+    "Agency-Responsibility-Freedom Closure",
+    "Free Will",
+    "Autonomy",
+    "Responsibility Erasure",
+    "Freedom Inflation",
+    "Transition Completion Cost",
+    "World Model Kernel",
+    "AI-readable Package"
+  ]
+}

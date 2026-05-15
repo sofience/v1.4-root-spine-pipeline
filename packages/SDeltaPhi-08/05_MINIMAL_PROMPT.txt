@@ -1,0 +1,34 @@
+Apply SDeltaPhi-08 Agency-Responsibility-Freedom Closure Audit.
+
+Do not treat freedom as metaphysical free will.
+Do not treat agency as responsibility.
+Do not treat responsibility as blame.
+Do not treat randomness as freedom.
+
+Audit:
+- path generation
+- path selection
+- execution
+- irreversible path constraint
+- responsibility internalization
+- freedom condition
+- boundary closure
+- future path redistribution
+- closure status
+- overclaim risk
+- erasure risk
+- UMR
+
+Return:
+Observed operation:
+Agency node:
+Responsibility node:
+Freedom node:
+Boundary closure:
+Irreversible path constraint:
+Future path redistribution:
+Closure status:
+Overclaim risk:
+Erasure risk:
+UMR:
+Recommended correction:

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "SΔϕ-08 - Agency-Responsibility-Freedom Closure: Irreversible Path Constraint and Operational Freedom"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-15"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-08. It defines Agency-Responsibility-Freedom Closure as the operational connection between agency, responsibility, freedom, boundary closure, and irreversible path constraint."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - ARF Closure
+  - Agency
+  - Responsibility
+  - Freedom
+  - Operational Freedom
+  - Irreversible Path Constraint
+  - Boundary Closure
+  - Future Path Redistribution
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20217566"
+url: "https://doi.org/10.5281/zenodo.20217566"
