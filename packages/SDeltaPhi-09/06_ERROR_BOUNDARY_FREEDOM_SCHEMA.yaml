@@ -1,0 +1,68 @@
+id: SDeltaPhi-09
+title: "Error, Boundary, and Freedom"
+canonical_version: "v1.1"
+source_version: "v1.0"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20218139"
+package_url: "https://doi.org/10.5281/zenodo.20218139"
+creator: "Sofience"
+type: "error_boundary_freedom_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  Error is not merely failure. Error can be a phase-limit indicator,
+  non-viable transition path marker, and boundary residual that becomes re-entry material.
+
+formulae:
+  core: "Error = Phase-Limit Indicator = Non-viable Transition Path Marker = Boundary Residual"
+  ebf_structure: "EBF Structure = Error Node + Transition Gap + Boundary Residual + Boundary Emergence + Freedom Reconfiguration + Re-entry Material"
+  pipeline: "ARF Closure -> Predicted Transition -> Realized Transition -> Residual/Error -> Boundary Detection -> Freedom Reconfiguration -> Re-entry Material"
+  warning: "Error is not mere failure; boundary is not prohibition; freedom is not unlimited possibility; residual is not noise by default."
+
+nodes:
+  error_node:
+    definition: "Identifies whether apparent failure is phase-limit indicator, non-viable transition marker, or surface mistake."
+  transition_gap:
+    definition: "Compares predicted transition with realized transition."
+  boundary_residual:
+    definition: "Residual left by the gap between predicted and realized transition."
+  boundary_emergence:
+    definition: "New or revealed boundary produced by the error."
+  freedom_reconfiguration:
+    definition: "Redistribution of possible future paths after boundary emergence."
+  reentry_material:
+    definition: "Residual that can re-enter interpretation, learning, inference, repair, or governance correction."
+
+ebf_scale:
+  EBF0: "No error structure detected."
+  EBF1: "Surface failure only."
+  EBF2: "Transition gap detected."
+  EBF3: "Boundary residual identified."
+  EBF4: "Freedom reconfiguration detected."
+  EBF5: "Re-entry material stabilized."
+
+risk_types:
+  error_erasure: "Error occurred -> delete it and move on."
+  error_punishment: "Error occurred -> punish actor or system."
+  boundary_overclaim: "Path failed -> path is permanently impossible."
+  freedom_inflation: "New path after error -> freedom is proven."
+  fatalism_risk: "Boundary appeared -> everything was determined."
+  residual_waste: "Error residual is not re-entered into next cycle."
+
+recommended_use:
+  - error audit
+  - boundary residual audit
+  - failure diagnosis
+  - hallucination-like breakdown analysis
+  - transition failure audit
+  - re-entry material extraction
+  - freedom reconfiguration analysis
+
+do_not_use_as:
+  - proof that every error is meaningful
+  - erasure of error as mere failure
+  - punishment without boundary diagnosis
+  - proof that boundary equals prohibition
+  - proof that freedom means unlimited possibility
+  - proof that residual is noise by default
+  - replacement for hallucination audit

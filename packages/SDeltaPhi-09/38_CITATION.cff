@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "SΔϕ-09 - Error, Boundary, and Freedom: Boundary Residuals, Phase-Limit Indicators, and Re-entry Materials after ARF Closure"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-15"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-09. It defines error as phase-limit indicator, non-viable transition path marker, and boundary residual that can become re-entry material."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Error
+  - Boundary
+  - Freedom
+  - Phase-Limit Indicator
+  - Boundary Residual
+  - Re-entry Material
+  - Transition Gap
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20218139"
+url: "https://doi.org/10.5281/zenodo.20218139"

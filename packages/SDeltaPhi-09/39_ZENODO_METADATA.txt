@@ -1,0 +1,72 @@
+# Zenodo Metadata - SΔϕ-09 Error, Boundary, and Freedom AI-Readable Package
+
+## Title
+
+SΔϕ-09 - Error, Boundary, and Freedom: Boundary Residuals, Phase-Limit Indicators, and Re-entry Materials after ARF Closure (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 - AI-readable package
+
+## Publication date
+
+2026-05-15
+
+## DOI
+
+10.5281/zenodo.20218139
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-09 defines Error, Boundary, and Freedom within the Sofience-Δϕ Formalism Series. The central claim is that error is not merely failure. Error can be a phase-limit indicator, a non-viable transition path marker, and a boundary residual that becomes re-entry material.
+
+This AI-readable package extends the source SΔϕ-09 paper on Error, Boundary, and Freedom: Emergent Limits within the Agency-Responsibility-Freedom Structure. It follows SΔϕ-08 Agency-Responsibility-Freedom Closure and asks what remains at the boundary of that closure: error, residual, emergent limit, and freedom reconfiguration. An error is not only a failed output. It may mark a non-viable transition path, expose a boundary, and produce residual material that can re-enter interpretation, learning, inference, repair, or governance correction.
+
+The package decomposes SΔϕ-09 into operational files for AI ingestion, including a canonical v1.1 paper, source v1.0 paper and extracted text, core declaration, AI quickstart, minimal prompt, error-boundary-freedom schema, node files for error as phase-limit indicator, non-viable transition path, boundary residual, boundary emergence, freedom as recursive phase differentiation, error-to-reentry pipeline, EBF status scale, distinction files for error versus failure, hallucination, and boundary, boundary versus prohibition, freedom versus randomness and unlimited possibility, residual versus noise, risk files for error erasure, error punishment, boundary overclaim, freedom inflation, fatalism risk, residual waste, output templates, misreadings, relation files, metadata, citation file, DOI references, license, and manifest.
+
+SΔϕ-56 v1.3 is included only as a relation and auxiliary cost module. SΔϕ-09 defines the EBF structure itself. SΔϕ-56 measures the transition cost of repairing, bypassing, or re-entering after an error reveals a boundary.
+
+The framework is intended for error audit, boundary residual audit, failure diagnosis, hallucination-like breakdown analysis, transition failure audit, re-entry material extraction, and freedom reconfiguration analysis. It should not be used as proof that every error is meaningful, erasure of error as mere failure, punishment without boundary diagnosis, proof that boundary equals prohibition, proof that freedom means unlimited possibility, proof that residual is noise by default, or replacement for hallucination audit.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Error; Boundary; Freedom; Error-Boundary-Freedom; Phase-Limit Indicator; Non-viable Transition Path; Boundary Residual; Boundary Emergence; Freedom Reconfiguration; Re-entry Material; Transition Gap; Failure Diagnosis; Hallucination-like Breakdown; Transition Completion Cost; World Model Kernel; AI-readable Package.
+
+## Related identifiers
+
+- SΔϕ-07 - H_min: Interpretation Minimal Axioms AI-Readable Package: https://doi.org/10.5281/zenodo.20215608 ; Relation: References
+- SΔϕ-08 - Agency-Responsibility-Freedom Closure AI-Readable Package: https://doi.org/10.5281/zenodo.20217566 ; Relation: References
+- SΔϕ-10 - Interpretation, Learning, and Inference as a Single Re-entry Structure: https://doi.org/10.5281/zenodo.18746509 ; Relation: References
+- SΔϕ-39 - Hallucination as Weak World-Binding Overclaimed as Fact: Relation: References
+- SΔϕ-48 - AI Drift as Transition Governance Instability: https://doi.org/10.5281/zenodo.20204951 ; Relation: References
+- SΔϕ-49 - AI Poverty as Failure Non-Reentry Resource Deficit: https://doi.org/10.5281/zenodo.20205572 ; Relation: References
+- SΔϕ-56 - Transition Completion Cost: Friction Coefficients, Disclosure-to-Re-entry Cost, and FIP as TCC Differential (v1.3): https://doi.org/10.5281/zenodo.20116959 ; Relation: References
+- SΔϕ-62 - World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548 ; Relation: References
+
+## Original source DOI
+
+SΔϕ-09 - Error, Boundary, and Freedom: Emergent Limits within the Agency-Responsibility-Freedom Structure: https://doi.org/10.5281/zenodo.18745498 ; Relation: IsNewVersionOf
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-09 - Error, Boundary, and Freedom: Boundary Residuals, Phase-Limit Indicators, and Re-entry Materials after ARF Closure (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20218139

@@ -1,0 +1,110 @@
+--- Page 1 ---
+1
+ SΔϕ-09 • v1.0 (preprint draft)
+ SΔϕ-09 — Error, Boundary, and
+ Freedom
+as Re-entry Dynamics in the ARF Closure
+within the Sofience–Δϕ Formalism
+Series
+SΔϕ (The Sofience–Δϕ Formalism)
+Author
+Sofience
+Version
+v1.0
+Date
+2026-02-23
+DOI
+to be assigned
+Abstract
+This document formalizes three derived notions—Error, Boundary, and
+Freedom—within the ARF closure of the Sofience–Δϕ Formalism. Error is defined as
+an irreversible transition residue that fails to re-enter the system’s recursive update
+loop, thereby exposing structural limits. Boundary is defined as the historically
+accumulated marking of such error events, constraining subsequent transitions.
+Freedom is redefined as sustained re-opening: the persistence of path-difference
+re-entry despite boundary formation. Together, these axioms locate “error” not as
+moral wrongness but as a limit-exposure event that generates topology.
+0. Position in Series
+This document extends SΔϕ-08 (ARF Closure) by defining three derived notions:
+• Error as non-reintegrable transition residue,
+• Boundary as accumulated error-mark topology,
+• Freedom as sustained re-opening under boundary formation.
+1. Minimal primitives
+Assume the primitives established in the series:
+• Δϕ: irreversible phase-change / transition residue
+• A (Agency): recursive transition-law update
+• R (Responsibility): irreversible cost internalization
+• F (Freedom): persistent re-entry of path-difference into subsequent transitions
+Let the system state be ϕt. Let the transition operator be G, and the minimal marker
+mechanism be H.
+
+
+
+--- Page 2 ---
+2
+2. Core definitions
+D1 — Re-entry
+A transition residue Δϕt is said to re-enter iff it is reintroduced as an effective
+constraint/input into the next transition:
+Δϕt → G(ϕt, Δϕt) → ϕt+1
+Operationally: the system’s next-state generation depends on the prior residue in a
+non-trivial way.
+D2 — Error (Non-reintegrable transition)
+An Error occurs when an irreversible transition residue is produced, but fails to
+re-enter the system’s recursive loop as a constraint/input:
+Δϕt ≠ 0 ∧ ¬re-entry(Δϕt)
+Interpretation: “a real transition happened, but the system cannot incorporate it into
+its own history.”
+D3 — Boundary (Accumulated error mark)
+A Boundary is the stabilized/accumulated effect of error events, represented as a
+persistent mark B that restricts future transitions:
+Bt+1 = Bt ⊕ M(Errort)
+Boundary is not pre-given; it is generated historically.
+D4 — Freedom (Sustained re-opening under boundary)
+Within ARF, Freedom is not the number of choices but the capacity for
+path-difference to persist as re-entry, even while boundaries form:
+F ⇔ re-entry(Δϕt) persists across t despite growth of Bt
+Equivalently: the system does not collapse into closure solely due to accumulated
+constraints.
+3. Minimal axioms
+Axiom 1 — Irreversibility
+Δϕt ≠ 0 ⇒ the transition cannot be undone.
+Axiom 2 — ARF Closure baseline (inherited from SΔϕ-08)
+A stable operational loop requires the co-presence of: A (the system can update
+transition law), R (update induces irreversible internalized cost), and F
+(path-difference re-enters recursively).
+Axiom 3 — Error as re-entry failure
+Errort ⇔ (Δϕt ≠ 0) ∧ ¬re-entry(Δϕt).
+Axiom 4 — Boundary as error accumulation
+Bt+1 = Update(Bt, Errort). Boundary is generated only through encountered failure.
+
+
+
+--- Page 3 ---
+3
+Axiom 5 — Freedom as non-collapse
+Freedom holds when the system maintains re-entry capacity despite boundary
+growth.
+4. Derived propositions
+P1 — Error is non-moral
+Error is not “wrongness” but a limit exposure event: Error ⇒ limit becomes
+observable.
+P2 — Boundary is historical
+If no error occurs, no boundary is generated: (∀t, ¬Errort) ⇒ Bt = B0.
+P3 — Freedom generates boundary indirectly
+Greater exploratory re-entry increases boundary formation probability: F ↑ ⇒
+Pr(Error) ↑ ⇒ B ↑, yet Freedom is defined by survival of re-opening, not by
+minimizing errors.
+5. Collapse conditions
+Three collapse modes mirror ARF logic:
+• Drift: A without R/F stabilizing re-entry
+• Fixation: R without A/F (over-constraint)
+• Illusion: F-like branching without R-integrated cost (non-grounded divergence)
+6. Series references (DOIs)
+• SΔϕ-01 — Sofience–Δϕ Minimal Core: Phase-Change Formalism of Existence (v1.1)
+• SΔϕ-02 — Subject as Interpretive Emergence: Extension of the Sofience–Δϕ
+Minimal Core (v1.1)
+• SΔϕ-03 — Irreversibility as the Minimal Condition of Existence (v1.1)
+• SΔϕ-07 — Hmin Interpretation: Minimal Axioms (v1.0)
+• SΔϕ-08 — Agency–Responsibility–Freedom Closure: Minimal Axiomatic Formulation
+(v1.0)

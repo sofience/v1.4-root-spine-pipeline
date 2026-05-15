@@ -1,0 +1,33 @@
+Apply SDeltaPhi-09 Error, Boundary, and Freedom Audit.
+
+Do not treat error as mere failure.
+Do not erase error residuals.
+Do not treat boundary as prohibition.
+Do not treat freedom as unlimited possibility.
+
+Audit:
+- predicted transition
+- realized transition
+- transition gap
+- error marker
+- phase-limit indicator
+- non-viable path
+- boundary residual
+- boundary emergence
+- freedom reconfiguration
+- re-entry material
+- UMR
+
+Return:
+Predicted transition:
+Realized transition:
+Transition gap:
+Error status:
+Boundary residual:
+Boundary revealed:
+Freedom reconfiguration:
+Re-entry material:
+Overclaim risk:
+Erasure risk:
+UMR:
+Recommended correction:

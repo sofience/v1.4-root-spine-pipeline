@@ -1,0 +1,85 @@
+{
+  "id": "SDeltaPhi-09",
+  "title": "SΔϕ-09 - Error, Boundary, and Freedom",
+  "package_title": "SΔϕ-09 - Error, Boundary, and Freedom: Boundary Residuals, Phase-Limit Indicators, and Re-entry Materials after ARF Closure AI-Readable Package",
+  "version": "v1.1",
+  "canonical_paper_version": "v1.1",
+  "source_paper_version": "v1.0",
+  "package_version": "v1.1",
+  "creator": "Sofience",
+  "date": "2026-05-15",
+  "doi": "10.5281/zenodo.20218139",
+  "url": "https://doi.org/10.5281/zenodo.20218139",
+  "record_url": "https://zenodo.org/records/20218139",
+  "type": "AI-readable package / working paper / error-boundary-freedom audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "Error is not merely failure. Error can be a phase-limit indicator, non-viable transition path marker, and boundary residual that becomes re-entry material.",
+  "primary_formulae": {
+    "core": "Error = Phase-Limit Indicator = Non-viable Transition Path Marker = Boundary Residual",
+    "ebf_structure": "EBF Structure = Error Node + Transition Gap + Boundary Residual + Boundary Emergence + Freedom Reconfiguration + Re-entry Material",
+    "pipeline": "ARF Closure -> Predicted Transition -> Realized Transition -> Residual/Error -> Boundary Detection -> Freedom Reconfiguration -> Re-entry Material",
+    "warning": "Error is not mere failure; boundary is not prohibition; freedom is not unlimited possibility; residual is not noise by default."
+  },
+  "nodes": [
+    "Error Node",
+    "Predicted / Realized Transition Gap",
+    "Boundary Residual Node",
+    "Boundary Emergence Node",
+    "Freedom Reconfiguration Node",
+    "Re-entry Material Node"
+  ],
+  "ebf_scale": [
+    "EBF-0",
+    "EBF-1",
+    "EBF-2",
+    "EBF-3",
+    "EBF-4",
+    "EBF-5"
+  ],
+  "risk_types": [
+    "Error Erasure",
+    "Error Punishment",
+    "Boundary Overclaim",
+    "Freedom Inflation",
+    "Fatalism Risk",
+    "Residual Waste"
+  ],
+  "recommended_use": [
+    "error audit",
+    "boundary residual audit",
+    "failure diagnosis",
+    "hallucination-like breakdown analysis",
+    "transition failure audit",
+    "re-entry material extraction",
+    "freedom reconfiguration analysis"
+  ],
+  "do_not_use_as": [
+    "proof that every error is meaningful",
+    "erasure of error as mere failure",
+    "punishment without boundary diagnosis",
+    "proof that boundary equals prohibition",
+    "proof that freedom means unlimited possibility",
+    "proof that residual is noise by default",
+    "replacement for hallucination audit"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "Error",
+    "Boundary",
+    "Freedom",
+    "Error-Boundary-Freedom",
+    "Phase-Limit Indicator",
+    "Non-viable Transition Path",
+    "Boundary Residual",
+    "Boundary Emergence",
+    "Freedom Reconfiguration",
+    "Re-entry Material",
+    "Transition Gap",
+    "Failure Diagnosis",
+    "Hallucination-like Breakdown",
+    "Transition Completion Cost",
+    "World Model Kernel",
+    "AI-readable Package"
+  ]
+}
