@@ -1,0 +1,53 @@
+{
+  "package": {
+    "id": "SDeltaPhi-48-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20204951",
+    "url": "https://doi.org/10.5281/zenodo.20204951",
+    "record_url": "https://zenodo.org/records/20204951",
+    "type": "AI-readable package",
+    "version": "v1.1"
+  },
+  "source_paper": {
+    "id": "SDeltaPhi-48",
+    "title": "AI Drift / Authority Vacancy",
+    "type": "source paper",
+    "version": "v1.0",
+    "source_file": "02_SOURCE_PAPER_SDeltaPhi_48_AI_Drift_Authority_Vacancy_v1_0.pdf"
+  },
+  "related": [
+    {
+      "id": "SDeltaPhi-39",
+      "title": "Hallucination as Weak World-Binding AI-readable package",
+      "doi": "10.5281/zenodo.20176747",
+      "url": "https://doi.org/10.5281/zenodo.20176747"
+    },
+    {
+      "id": "SDeltaPhi-49",
+      "title": "Failure Re-entry",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-51",
+      "title": "Diagnostic Re-entry AI-readable package",
+      "doi": "10.5281/zenodo.20135803",
+      "url": "https://doi.org/10.5281/zenodo.20135803"
+    },
+    {
+      "id": "SDeltaPhi-55",
+      "title": "Transition Governance Alignment Index",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel AI-readable package",
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548"
+    },
+    {
+      "id": "SDeltaPhi-65",
+      "title": "Slop as Externalized Restabilization Cost AI-readable package",
+      "doi": "10.5281/zenodo.20173455",
+      "url": "https://doi.org/10.5281/zenodo.20173455"
+    }
+  ]
+}

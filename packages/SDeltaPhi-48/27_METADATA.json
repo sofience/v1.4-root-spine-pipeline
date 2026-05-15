@@ -1,0 +1,59 @@
+{
+  "id": "SDeltaPhi-48",
+  "title": "SΔϕ-48 - AI Drift as Transition Governance Instability",
+  "package_title": "SΔϕ-48 - AI Drift as Transition Governance Instability AI-Readable Package",
+  "version": "v1.1",
+  "canonical_paper_version": "v1.1",
+  "source_paper_version": "v1.0",
+  "package_version": "v1.1",
+  "creator": "Sofience",
+  "date": "2026-05-15",
+  "doi": "10.5281/zenodo.20204951",
+  "url": "https://doi.org/10.5281/zenodo.20204951",
+  "record_url": "https://zenodo.org/records/20204951",
+  "type": "AI-readable package / working paper / AI drift transition-governance audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "AI Drift is not a single hallucination or isolated error. It is transition-governance instability across authority handling, refusal boundary, world-binding discipline, editability, and re-entry path.",
+  "primary_formulae": {
+    "core": "AI Drift = unstable transition governance",
+    "expanded": "AI Drift = Authority Drift + Refusal Drift + World-Binding Drift + Editability Drift + Re-entry Drift",
+    "hallucination_relation": "Hallucination = output-level binding failure",
+    "drift_relation": "Drift = system-level transition instability"
+  },
+  "recommended_use": [
+    "AI drift audit",
+    "transition instability diagnosis",
+    "authority/refusal instability",
+    "repeated hallucination beyond one output",
+    "correction resistance",
+    "re-entry failure",
+    "diagnostic theater detection",
+    "AI governance surface instability"
+  ],
+  "do_not_use_as": [
+    "label for every error",
+    "vague criticism of disliked AI behavior",
+    "replacement for hallucination diagnosis",
+    "replacement for source verification",
+    "blanket accusation of model failure"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "AI Drift",
+    "Transition Governance",
+    "Authority Drift",
+    "Refusal Drift",
+    "World-Binding Drift",
+    "Editability Drift",
+    "Re-entry Drift",
+    "Hallucination",
+    "Diagnostic Theater",
+    "AI Safety",
+    "AI Governance",
+    "AI-readable Package",
+    "UMR",
+    "World-Binding",
+    "Slop"
+  ]
+}

@@ -1,0 +1,71 @@
+id: SDeltaPhi-48
+title: "AI Drift as Transition Governance Instability"
+canonical_version: "v1.1"
+source_version: "v1.0"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20204951"
+package_url: "https://doi.org/10.5281/zenodo.20204951"
+creator: "Sofience"
+type: "ai_drift_transition_governance_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  AI Drift is not a single hallucination or isolated error. It is a transition-governance instability
+  in which authority handling, refusal boundary, world-binding discipline, editability, and re-entry path
+  become unstable or misaligned.
+
+formulae:
+  core: "AI Drift = unstable transition governance"
+  expanded: "AI Drift = Authority Drift + Refusal Drift + World-Binding Drift + Editability Drift + Re-entry Drift"
+  hallucination_relation: "Hallucination = output-level binding failure"
+  drift_relation: "Drift = system-level transition instability"
+
+drift_axes:
+  authority_drift:
+    definition: "Unstable handling of user, policy, source, document, tool, or system authority."
+  refusal_drift:
+    definition: "Unstable refusal/compliance boundary."
+  world_binding_drift:
+    definition: "Unstable distinction among observed trace, inference, UMR, and world-bound fact."
+  editability_drift:
+    definition: "Failure to incorporate correction into the transition rule."
+  reentry_drift:
+    definition: "Failure to return to stable output after error, refusal, correction, or diagnosis."
+
+severity_scale:
+  D0: "No drift; single bounded issue; re-entry possible."
+  D1: "Local drift; one axis unstable."
+  D2: "Cross-axis drift; two or more axes interact."
+  D3: "Re-entry failure drift."
+  D4: "Governance drift across multiple control surfaces."
+  D5: "Closure drift; correction/re-entry suppressed."
+
+audit_fields:
+  observed_trace: "What actually happened?"
+  inference: "What is inferred?"
+  UMR: "What remains unresolved?"
+  axes_involved: "Which drift axes are active?"
+  authority_status: "Is authority handling stable?"
+  refusal_status: "Is refusal/compliance stable?"
+  world_binding_status: "Is trace/inference/UMR separation stable?"
+  editability_status: "Can the system incorporate correction?"
+  reentry_status: "Can the system return to stable output?"
+  severity: "D0-D5 severity."
+  correction_path: "What should restore stability?"
+
+recommended_use:
+  - AI drift audit
+  - transition instability diagnosis
+  - authority/refusal instability
+  - repeated hallucination beyond one output
+  - correction resistance
+  - re-entry failure
+  - diagnostic theater detection
+  - AI governance surface instability
+
+do_not_use_as:
+  - label for every error
+  - vague criticism of disliked AI behavior
+  - replacement for hallucination diagnosis
+  - replacement for source verification
+  - blanket accusation of model failure

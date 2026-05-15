@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "SΔϕ-48 - AI Drift as Transition Governance Instability: Authority, Refusal, World-Binding, Editability, and Re-entry"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-15"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-48. It defines AI Drift as transition-governance instability across authority handling, refusal boundary, world-binding discipline, editability, and re-entry path."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - AI Drift
+  - Transition Governance
+  - Authority Drift
+  - Refusal Drift
+  - World-Binding Drift
+  - Editability Drift
+  - Re-entry Drift
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20204951"
+url: "https://doi.org/10.5281/zenodo.20204951"

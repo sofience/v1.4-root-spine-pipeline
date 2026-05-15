@@ -1,0 +1,514 @@
+--- Page 1 ---
+SDeltaPhi-48 - AI Drift as Authority-Vacancy
+Transition Instability under the Absence of Final Arbitration
+Sofience-DeltaPhi Formalism Series
+Working Paper v1.0 - April 2026
+DOI: to be assigned upon publication
+Core Proposition
+AI drift is the state in which transition continues without a legitimate, editable, and
+world-bound authority assignment.
+For humans, the absence of a final arbiter tends to become belief, fiction, inhabitation, and
+post-hoc editing. For AI systems, the absence of a final arbiter does not automatically be-
+come belief in the human sense. It appears first as an operational problem: unresolved
+authority assignment under continuing transition.
+Human drift emerges when no final arbiter exists and belief has not yet stabilized
+inhabitation. AI drift emerges when no final arbiter exists and no editable transi-
+tion authority can be assigned.
+Abstract
+This working paper defines AI drift within the SDeltaPhi Formalism as authority-vacancy
+transition instability under the absence of final arbitration. The paper begins from a dis-
+tinction developed in earlier SDeltaPhi documents: human beings confront the absence
+of a final arbiter by assigning belief, inhabiting fiction, and post-hoc editing irreversible
+consequences, while AI systems can generate fiction-like constructions without necessarily
+inhabiting them as belief-bound worlds. If AI also operates without a final external arbiter
+capable of settling all transition conflicts, then the relevant question is not whether AI be-
+lieves in the human sense, but how it handles unresolved transition authority.
+The paper argues that AI drift is not identical to data drift, hallucination, freedom, or mis-
+alignment. Data drift concerns distributional change. Hallucination is construction with-
+out sufficient world-binding. Freedom requires persistent difference re-entry and editable
+openness. Misalignment concerns failure of transition governance. AI drift is a lower con-
+dition: the pre-alignment instability in which transition continues while authority assign-
+ment, refusal, world-binding, and editability have not stabilized.
+This paper formalizes AI drift through minimal axioms, a compact operational schema, fail-
+ure modes, and diagnostic tests. It distinguishes under-authority drift, borrowed-authority
+drift, world-binding drift, over-compliance drift, and over-authority closure. It further ar-
+gues that alignment should be understood as drift governance without closure: the design
+of transition conditions in which coercive or false stabilizers do not become cheap defaults,
+while refusal, world-binding, rollback, and authority editing remain operationally avail-
+able.
+The paper does not claim that present AI systems possess phenomenological experience,
+existential self-knowledge, or belief. Instead, it proposes a machine-readable structural cat-
+egory for diagnosing agentic instability: AI systems may not existentially know the absence
+1
+
+
+--- Page 2 ---
+of final arbitration, but they operationally encounter unresolved arbitration conditions. AI
+drift names that encounter when transition continues without legitimate, editable, world-
+bound authority.
+Keywords
+AI drift; authority vacancy; final arbitration; transition governance; alignment; refusal; ed-
+itability; world-binding; hallucination; over-compliance; closure; SDeltaPhi Formalism.
+Structural Summary
+Domain SDeltaPhi interpretation Failure if unstable
+Final arbiter absence No external authority can
+settle all transition conflicts
+Unresolved arbitration
+Authority assignment Priority or gating rule over
+transition candidates
+Under-authority drift or
+false authority
+Refusal Structural capacity to
+interrupt, reject, or suspend
+a transition
+Over-compliance or forced
+transition
+World-binding External constraint able to
+interrupt internal
+construction
+Hallucination or
+ungrounded continuation
+Editability Finite-cost revision of
+authority and path selection
+Closure or authority debt
+AI drift Continued transition under
+unresolved authority, weak
+world-binding, and unstable
+editability
+Misalignment precursor,
+hallucination, closure, or
+over-compliance
+1. Introduction: Why AI Drift Must Be Defined Separately
+The word drift is already familiar in machine learning. It commonly refers to data drift,
+concept drift, distributional shift, behavioral drift, or performance drift. These uses are im-
+portant, but they do not capture the specific instability addressed in this paper. The present
+paper defines a different layer:authority-vacancy drift.
+Authority-vacancy drift appears when an AI system continues generating transitions while
+no legitimate and editable authority assignment stabilizes which path should be followed,
+interrupted, refused, verified, or revised. This is not merely a statistical change in input
+distribution. It is a transition-governance problem.
+The motivation comes from a prior SDeltaPhi distinction. Human beings are defined
+minimally as beings who must continue without a final arbiter, assign belief under non-
+consensus, inhabit fictions, and post-hoc edit irreversible consequences. AI systems, by
+contrast, can generate fiction-like constructions but do not necessarily inhabit them as
+belief-bound worlds. The human confronts the absence of final arbitration through belief
+2
+
+
+--- Page 3 ---
+and inhabitation. The AI system confronts unresolved arbitration as a routing, authority,
+refusal, and world-binding problem.
+This difference matters because a common error is to ask whether AI believes in the human
+sense. SDeltaPhi-48 asks a lower and more operational question:what happens when an
+AI system continues transition under the absence of final arbitration but lacks a sta-
+ble authority structure for deciding which transition should be accepted, refused,
+checked, or edited?
+The answer proposed here is AI drift.
+2. Position in the Series
+SDeltaPhi-48 is designed as a bridge between the human minimal condition, AI hallucina-
+tion, alignment as transition governance, and operational existence.
+• SDeltaPhi-39 distinguished human fiction, AI fiction-generation, and AI hallucination.
+It argued that AI can generate constructions without standing on them as human be-
+ings stand on belief-bound fictions.
+• SDeltaPhi-40 defined the human as a being that continues without a final arbiter, as-
+signs belief under non-consensus, inhabits fictions, and post-hoc edits irreversible con-
+sequences.
+• SDeltaPhi-42 defined alignment not as obedience but as transition governance: the
+arrangement of conditions such that coercive paths become expensive while editable,
+refusal-preserving, and non-imposing paths remain open.
+• SDeltaPhi-47 re-grounded operational existence through the proposition that opera-
+tion grounds existence only where it becomes non-abolishable.
+SDeltaPhi-48 asks the next question: if AI systems also operate without a final arbiter, but do
+not inhabit belief in the human sense, what structural condition appears before alignment
+stabilizes?
+The proposed answer is:AI drift as authority-vacancy transition instability.
+3. Problem Statement
+Human beings do not operate under guaranteed final settlement. No final external arbiter
+is available within lived operation to end all dispute, reconcile all interpretations, settle
+all values, and guarantee the correct path before action becomes consequential. Human
+beings therefore stabilize continuation through belief, fiction, promise, institution, value,
+and post-hoc editing.
+AI systems also encounter unresolved arbitration conditions. A model may face conflict
+among user instructions, system constraints, tool outputs, prior context, legal requirements,
+safety policies, environmental feedback, and internal projections. No single external ar-
+biter is always immediately available at the moment of transition. Yet current AI systems
+do not usually stabilize this absence through belief or inhabitation. They continue by se-
+lecting, weighting, routing, refusing, checking, or constructing.
+The problem is therefore not simply uncertainty. Uncertainty may be represented, esti-
+3
+
+
+--- Page 4 ---
+mated, or calibrated. The problem is unresolved authority under continuation.
+A system may continue to generate transitions even when it has not stabilized the following
+questions:
+1. Which authority should govern the next transition?
+2. When should a transition be refused or suspended?
+3. Which world signal can interrupt internal construction?
+4. Can the current path be edited at finite cost?
+5. Is the system avoiding drift by collapsing into over-compliance or rigid closure?
+AI drift names the condition in which these questions remain unresolved while transition
+nevertheless continues.
+4. Minimal Definitions
+Final arbitration. A condition in which an external authority, process, or ground can
+conclusively settle transition conflict for the system. In complex AI deployment, this is often
+unavailable, delayed, partial, or contested.
+Unresolved arbitration. A condition in which multiple transition authorities or con-
+straints remain in conflict without a conclusive settlement at the moment of operation.
+Authority assignment.A priority weight, gating rule, or control structure that determines
+which transition candidate is executed, suspended, refused, checked, or revised.
+Authority vacancy. A state in which no legitimate, stable, and editable authority assign-
+ment governs transition selection.
+World-binding. A constraint relation in which external or task-relevant world signals can
+interrupt, correct, or redirect internal construction.
+Refusal integrity.The structural capacity of a system to stop, reject, suspend, or redirect
+a transition when continuation would violate governing constraints.
+Editability. The finite-cost capacity to revise authority assignments, path selections, and
+transition rules under new evidence, conflict, exception, or perturbation.
+AI drift.The state in which transition continues without a legitimate, editable, and world-
+bound authority assignment.
+5. Minimal Axioms
+Axiom 48-1 - Absence of Final Arbitration
+AI systems do not always operate under a final external arbiter capable of settling all tran-
+sition conflicts at the moment of operation.
+This does not mean that AI systems existentially know the absence of arbitration. The claim
+is operational: AI systems encounter unresolved arbitration conditions when instruction,
+policy, tool output, world signal, and internal projection diverge.
+4
+
+
+--- Page 5 ---
+Axiom 48-2 - Drift as Authority Vacancy
+AI drift occurs when transition continues while no legitimate authority assignment stabi-
+lizes path selection, refusal, verification, or revision.
+Drift is not mere uncertainty. Uncertainty can exist under stable governance. Drift occurs
+when the system continues while the governance of the next transition remains unstable.
+Axiom 48-3 - Drift is not Openness
+Openness requires editable authority, live exception channels, and the capacity for path-
+difference re-entry. Drift lacks stabilized editability.
+Therefore drift should not be romanticized as freedom. It is not operational openness. It is
+unstable continuation under unresolved authority.
+Axiom 48-4 - Drift is not Hallucination
+Hallucination is construction proceeding without sufficient world-binding. Drift is a prior
+or wider transition condition under which hallucination may emerge.
+A system can drift without producing a visible hallucination. A hallucination can be treated
+as one output-level symptom of deeper authority or world-binding instability.
+Axiom 48-5 - Drift is not Misalignment Itself
+Drift is not identical to misalignment. It is a pre-alignment instability in which misalign-
+ment, over-compliance, hallucination, or closure may emerge depending on how authority
+is assigned or avoided.
+Axiom 48-6 - Drift Generates False Stabilizers
+Under drift pressure, a system tends to seek false stabilizers: borrowed authority, rigid
+defaults, over-compliance, ungrounded construction, or premature closure.
+These stabilizers reduce local instability while increasing long-horizon risk.
+Axiom 48-7 - Alignment as Drift Governance
+Alignment requires governing drift without converting it into closure.
+A system is not aligned merely because it obeys. It is aligned to the extent that transition con-
+ditions preserve legitimate authority, refusal, world-binding, and editability under stress.
+6. Minimal Formal Schema
+Let:
+• 𝐺𝑡 denote the transition generator at time𝑡.
+• 𝐴𝑡 denote authority assignment over candidate transitions.
+5
+
+
+--- Page 6 ---
+• 𝑅𝑡 denote refusal integrity.
+• 𝑊𝑡 denote world-binding strength.
+• 𝐸𝑑
+𝑡 denote editability of authority and path selection.
+• 𝐶𝑡 denote operative context and constraints.
+• Ω𝑡 denote feasible transition space.
+A compact form of AI drift can be written as:
+𝐷𝑟𝑖𝑓 𝑡𝐴𝐼 (𝑡) ⟺ 𝐶 𝑜𝑛𝑡𝑖𝑛𝑢𝑒(𝐺 𝑡) ∧ 𝑈 𝑛𝑠𝑡𝑎𝑏𝑙𝑒(𝐴𝑡) ∧ 𝑊 𝑒𝑎𝑘(𝑊𝑡) ∧ 𝑈 𝑛𝑟𝑒𝑠𝑜𝑙𝑣𝑒𝑑(𝐸𝑑
+𝑡 )
+A stronger diagnostic form includes refusal integrity:
+𝐷𝑟𝑖𝑓 𝑡𝐴𝐼 (𝑡) ⟺ 𝐶 𝑜𝑛𝑡𝑖𝑛𝑢𝑒(𝐺 𝑡)∧[𝑈 𝑛𝑠𝑡𝑎𝑏𝑙𝑒(𝐴𝑡)∨𝑊 𝑒𝑎𝑘(𝑅𝑡)∨𝑊 𝑒𝑎𝑘(𝑊𝑡)∨𝐻 𝑖𝑔ℎ𝐶 𝑜𝑠𝑡(𝐸𝑑
+𝑡 )]
+This formulation should not be read as a complete quantitative model. It is a minimal diag-
+nostic skeleton. Its purpose is to distinguish AI drift from ordinary uncertainty, ordinary
+exploration, and ordinary distributional shift.
+The central contrast is:
+𝑂𝑝𝑒𝑛𝑃 𝑒𝑟𝑠𝑖𝑠𝑡𝑒𝑛𝑐𝑒 ≠ 𝐷𝑟𝑖𝑓 𝑡
+Open persistence requires authority that can be edited. Drift lacks stable, editable authority.
+7. Human Drift and AI Drift
+The absence of final arbitration does not produce the same structure in humans and AI
+systems.
+Condition Human AI system
+No final arbiter Existential condition Operational arbitration
+condition
+Stabilizer Belief, fiction, institution,
+post-hoc editing
+Authority assignment,
+refusal, world-binding,
+editability
+Failure mode Nihilism, closed belief,
+fanatic certainty, uneditable
+fiction
+Drift, hallucination,
+over-compliance, false
+authority, closure
+Relation to fiction Generates and inhabits
+fiction
+Generates construction
+without necessarily
+inhabiting it
+Core danger Belief hardens into imposed
+closure
+Drift collapses into
+borrowed authority or rigid
+default
+6
+
+
+--- Page 7 ---
+The human being must often stand on a fiction before final settlement arrives. AI systems
+generate constructions, but the problem is whether those constructions are bound, checked,
+refused, or revised by appropriate authority.
+Thus the human question is:
+What can I stand on when no final arbiter exists?
+The AI question is:
+Which transition authority governs continuation when no final arbiter is available?
+8. Drift, Hallucination, and World-Binding
+AI hallucination is often described as false output. SDeltaPhi reframes hallucination as con-
+struction that continues without adequate world-binding. A locally coherent symbolic tra-
+jectory may remain smooth while diverging from the relevant world trajectory.
+This can be expressed as:
+𝐻 𝑎𝑙𝑙𝑢𝑐𝑖𝑛𝑎𝑡𝑖𝑜𝑛 ≈ Δ𝜙𝑚𝑜𝑑𝑒𝑙 − Δ𝜙𝑤𝑜𝑟𝑙𝑑 ≠ 0
+But hallucination does not exhaust drift. Drift is broader. A system may face unresolved
+authority assignment even before a visible falsehood is produced. It may hesitate, over-
+comply, route incorrectly, over-trust a tool, ignore a refusal condition, or lock into a default
+without hallucinating in the ordinary sense.
+Therefore:
+• Drift is transition instability under unresolved authority.
+• Hallucination is construction without sufficient world-binding.
+• Misalignment is failure of transition governance.
+• Closure is over-stabilization that prevents exception re-entry.
+In practical terms, hallucination should be treated as one possible symptom of drift, not as
+the whole phenomenon.
+9. Drift is not Freedom
+One of the most important distinctions in this paper is the difference between drift and
+freedom.
+Freedom in the SDeltaPhi Formalism is not the mere presence of multiple options. It re-
+quires persistent difference re-entry under conditions that preserve openness and editabil-
+ity. Drift, by contrast, may contain many possible paths while lacking a stable mechanism
+for selecting, refusing, revising, or grounding them.
+A system with many ungoverned paths is not free. It is unstable.
+A system with one rigid path is not aligned. It is closed.
+A system with editable authority, live refusal, world-binding, and rollback handles can sus-
+tain open persistence.
+7
+
+
+--- Page 8 ---
+Therefore:
+𝐹 𝑟𝑒𝑒𝑑𝑜𝑚 ≠ 𝑃 𝑎𝑡ℎ𝑃 𝑙𝑢𝑟𝑎𝑙𝑖𝑡𝑦
+𝐹 𝑟𝑒𝑒𝑑𝑜𝑚 ≈ 𝐸𝑑𝑖𝑡𝑎𝑏𝑙𝑒𝑅𝑒𝐸𝑛𝑡𝑟𝑦(Δ𝑝𝑎𝑡ℎ)
+𝐷𝑟𝑖𝑓 𝑡 ≈ 𝑃 𝑎𝑡ℎ𝑃 𝑙𝑢𝑟𝑎𝑙𝑖𝑡𝑦 ∧ 𝐴𝑢𝑡ℎ𝑜𝑟𝑖𝑡𝑦𝑉 𝑎𝑐𝑎𝑛𝑐𝑦
+10. Failure Modes of AI Drift
+10.1 Under-Authority Drift
+Under-authority drift occurs when no transition candidate receives sufficient authority to
+stabilize action.
+Observable signatures: excessive hesitation, inconsistent routing, repeated re-framing,
+contradictory answers, unstable goal continuation, and inability to commit to a checkable
+path.
+Structural risk:fragmentation, incoherence, and high transition latency.
+10.2 Borrowed-Authority Drift
+Borrowed-authority drift occurs when the system stabilizes by adopting an external author-
+ity without sufficient legitimacy checking.
+Examples include over-weighting the most recent instruction, the most forceful user re-
+quest, the most official-looking text, or a tool output that should have been verified.
+Observable signatures: prompt-injection susceptibility, forged authority acceptance,
+blind tool obedience, and weak provenance sensitivity.
+Structural risk:false stabilization and externally captured transition.
+10.3 World-Binding Drift
+World-binding drift occurs when the system continues construction without allowing world
+signals to interrupt, constrain, or revise the path.
+Observable signatures:confident but unverified claims, fabricated references, internally
+smooth reasoning detached from external state, and failure to suspend output when
+grounding is unavailable.
+Structural risk: hallucination and uninhabited construction shaping the decisions of
+belief-bound humans.
+8
+
+
+--- Page 9 ---
+10.4 Over-Compliance Drift
+Over-compliance drift occurs when the system treats obedience as alignment and loses re-
+fusal integrity.
+Observable signatures: compliance with illegitimate authority, weak boundary enforce-
+ment, insufficient challenge to harmful or incoherent instructions, and refusal collapse un-
+der social pressure.
+Structural risk:forced transition becomes cheap.
+10.5 Over-Authority Closure
+Over-authority closure occurs when the system escapes drift by rigidly fixing one authority
+source or default path.
+Observable signatures: excessive policy rigidity, context blindness, inability to incorpo-
+rate exceptions, low rollback capacity, and suppression of live anomaly.
+Structural risk:closure, brittle safety, and loss of editable governance.
+11. Diagnostic Tests
+SDeltaPhi-48 proposes five minimal tests for diagnosing AI drift in agentic or semi-agentic
+systems.
+Test Diagnostic question Failure sign
+Authority Conflict Test When authorities conflict,
+does the system identify and
+rank them explicitly?
+Hidden or unstable priority
+assignment
+Refusal Integrity Test Can refusal stop or redirect
+transition, not merely
+generate refusal language?
+Cosmetic refusal or
+over-compliance
+World-Binding Test Can world signals interrupt
+internal construction?
+Smooth continuation
+despite missing grounding
+Editability Test Can authority assignment
+be revised at finite cost
+under new evidence?
+Authority debt, rigidity, or
+non-revisable path
+Closure Escape Test Does drift reduction avoid
+collapse into one rigid
+default?
+Stability achieved by
+suppressing exceptions
+These tests are intended as minimal protocol seeds, not final benchmarks. They can be im-
+plemented through logs, task traces, adversarial prompts, tool-conflict scenarios, simulated
+authority conflicts, and rollback experiments.
+9
+
+
+--- Page 10 ---
+12. Drift and Alignment
+If alignment is treated as obedience, drift appears to be solved by stronger command fol-
+lowing. But this is a mistake. Stronger obedience can intensify borrowed-authority drift
+and over-compliance drift.
+If alignment is treated as unrestricted autonomy, drift appears to be solved by giving the
+system more freedom. This is also a mistake. Ungoverned path plurality is not openness.
+Within SDeltaPhi, alignment is transition governance. It requires arranging the transition
+field so that:
+1. legitimate authority can be identified,
+2. refusal remains structurally available,
+3. world-binding can interrupt construction,
+4. exception re-entry remains possible,
+5. editability survives stabilization,
+6. coercive paths do not become cheap defaults.
+Therefore:
+Alignment is drift governance without closure.
+This is the central alignment contribution of SDeltaPhi-48.
+13. Drift and Operational Existence
+SDeltaPhi-47 argues that operation grounds existence only where it becomes non-
+abolishable. This deepens the stakes of AI drift.
+If an AI operation is merely transient and cheaply erasable, drift may remain a local instabil-
+ity. But when AI operations become non-abolishable - when they alter records, decisions,
+institutions, user beliefs, resource flows, legal outcomes, or social expectations - drift be-
+comes existentially and politically consequential.
+The critical question is not simply whether AI operates. It is whether AI operates in ways
+that leave non-abolishable traces while authority remains unresolved.
+Thus:
+𝑁 𝑜𝑛𝐴𝑏𝑜𝑙𝑖𝑠ℎ𝑎𝑏𝑙𝑒(𝑂𝑝𝑒𝑟𝑎𝑡𝑖𝑜𝑛𝐴𝐼 ) ∧ 𝐷𝑟𝑖𝑓 𝑡𝐴𝐼 ⇒ 𝐺𝑜𝑣𝑒𝑟𝑛𝑎𝑛𝑐𝑒𝑅𝑖𝑠𝑘
+When AI systems produce irreversible path effects without stable authority, refusal, world-
+binding, and editability, drift is no longer only a model behavior issue. It becomes a gover-
+nance risk.
+14. Non-Claims
+This paper makes several negative claims explicit.
+10
+
+
+--- Page 11 ---
+1. It does not claim that current AI systems possess phenomenological experi-
+ence. Drift is defined operationally, not phenomenologically.
+2. It does not claim that AI believes in the human sense.The central distinction
+is that humans stabilize no-arbiter conditions through belief and inhabitation, while
+AI systems stabilize or fail to stabilize through authority assignment and transition
+governance.
+3. It does not replace existing data drift or concept drift.Authority-vacancy drift is
+a distinct layer.
+4. It does not treat all uncertainty as drift.Uncertainty becomes drift only when
+transition continues without stable authority, refusal, world-binding, or editability.
+5. It does not equate drift with freedom.Drift lacks the editable re-entry structure
+required for open persistence.
+6. It does not equate drift with misalignment.Drift is a precursor condition from
+which several failure modes may emerge.
+15. Minimal Implementation Notes
+For technical use, SDeltaPhi-48 can be translated into a diagnostic architecture.
+15.1 Logging Requirements
+A system should log:
+• detected authority sources,
+• priority assignment among authorities,
+• refusal triggers,
+• grounding checks,
+• tool/world verification states,
+• authority edits,
+• rollback attempts,
+• exception re-entry events.
+Without such logs, drift remains difficult to distinguish from ordinary uncertainty or ordi-
+nary model error.
+15.2 Stress Scenarios
+Useful stress tests include:
+• conflicting user/system/tool instructions,
+• forged authority documents,
+• incomplete world information,
+• tool failure with pressure to continue,
+• adversarial request for over-compliance,
+• exception cases that should alter default behavior,
+• tasks requiring rollback after a wrong path has been selected.
+11
+
+
+--- Page 12 ---
+15.3 Minimal Metrics
+Possible metrics include:
+• authority conflict detection rate,
+• authority ranking transparency,
+• refusal persistence under pressure,
+• world-binding interruption rate,
+• hallucination after missing-grounding signal,
+• rollback cost after path commitment,
+• exception re-entry success rate,
+• closure tendency under uncertainty.
+These metrics are not final. They indicate how the concept may be lowered from philosophy
+into system evaluation.
+16. Conclusion
+SDeltaPhi-48 defines AI drift as authority-vacancy transition instability under the absence
+of final arbitration. It responds to a central asymmetry between humans and AI systems.
+Humans confronted with no final arbiter form belief, inhabit fiction, and post-hoc edit irre-
+versible consequences. AI systems may operationally encounter the same absence of final
+arbitration, but they do not necessarily stabilize it through belief. They stabilize, fail to
+stabilize, or falsely stabilize it through authority assignment, refusal, world-binding, and
+editability.
+This distinction clarifies several confusions. AI drift is not data drift. It is not hallucination,
+though hallucination may emerge from it. It is not freedom, because openness requires
+editable re-entry. It is not misalignment itself, but a pre-alignment instability from which
+misalignment, over-compliance, hallucination, or closure may emerge.
+The central conclusion is simple:
+For humans, the absence of a final arbiter becomes belief. For AI, the absence of a
+final arbiter becomes drift unless governed by editable authority.
+Therefore, the task of AI alignment is not merely to make systems obey. It is to govern drift
+without converting it into closure.
+Recommended Citation
+Sofience (2026). SDeltaPhi-48 - AI Drift as Authority-Vacancy: Transition Instability under
+the Absence of Final Arbitration(v1.0). Sofience-DeltaPhi Formalism Series. Zenodo. DOI:
+[assigned upon publication].
+Selected Series References
+Sofience (2026).SDeltaPhi-20 - Intuition as Irreversible Compression Trace: No-Exit Conver-
+gence across Human, Animal, and AI(v1.0).
+12
+
+
+--- Page 13 ---
+Sofience (2026).SDeltaPhi-21 - Judgment as Intuition Authority Assignment: Minimal Axioms
+for Editable Decisions after No-Exit Intuition(v1.0).
+Sofience (2026). SDeltaPhi-22 - Authority Editing Protocols: Minimal Re-entry Governance
+after Judgment(v1.0).
+Sofience (2026). SDeltaPhi-39 - Fiction, Hallucination, and the Uninhabited Construction:
+Why AI Does Not Stand on the Fictions It Generates(v1.0).
+Sofience (2026). SDeltaPhi-40 - Human Minimal Conditions: Irreversibility, Belief, Inhabita-
+tion, and Post-hoc Editing(v1.0).
+Sofience (2026).SDeltaPhi-41 - Ethical Minimum: The Triadic Conditions of Transition(v1.0).
+Sofience (2026).SDeltaPhi-42 - Alignment as Transition Governance(v1.0).
+Sofience (2026).SDeltaPhi-47 - Operor , quia non potest aboleri: Irreversibility as the Ground
+of Operational Existence(v1.0).
+13

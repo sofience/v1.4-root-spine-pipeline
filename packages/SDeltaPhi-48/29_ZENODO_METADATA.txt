@@ -1,0 +1,64 @@
+# Zenodo Metadata - SΔϕ-48 AI Drift as Transition Governance Instability AI-Readable Package
+
+## Title
+
+SΔϕ-48 - AI Drift as Transition Governance Instability: Authority, Refusal, World-Binding, Editability, and Re-entry (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 - AI-readable package
+
+## Publication date
+
+2026-05-15
+
+## DOI
+
+10.5281/zenodo.20204951
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-48 defines AI Drift as transition-governance instability within the Sofience-Δϕ Formalism Series. The central claim is that AI Drift is not a single hallucination or isolated error. It is a broader instability in which an AI system's authority handling, refusal boundary, world-binding discipline, editability, and re-entry path become unstable or misaligned.
+
+This AI-readable package extends the source SΔϕ-48 paper on AI drift and authority vacancy. It distinguishes hallucination from drift: hallucination is an output-level binding failure, especially when weak world-binding is spoken as strong fact, while drift is system-level transition instability. A hallucination may be a symptom of drift, but drift also includes refusal instability, authority confusion, correction resistance, editability failure, and inability to re-enter a stable output path after failure.
+
+The package decomposes SΔϕ-48 into operational files for AI ingestion, including a canonical v1.1 paper, source v1.0 paper and extracted text, core declaration, AI quickstart, minimal prompt, drift schema, drift-axis taxonomy, authority drift, refusal drift, world-binding drift, editability drift, re-entry drift, drift versus hallucination, drift versus Slop, drift versus Diagnostic Theater, early warning signals, audit protocol, output templates, misreadings, failure modes, relation files, metadata, citation file, DOI references, license, and manifest.
+
+The framework is intended for AI drift audit, transition instability diagnosis, authority/refusal instability analysis, repeated hallucination beyond one output, correction resistance, re-entry failure, diagnostic theater detection, and AI governance surface instability.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; AI Drift; Transition Governance; Authority Drift; Refusal Drift; World-Binding Drift; Editability Drift; Re-entry Drift; Hallucination; Diagnostic Theater; AI Safety; AI Governance; AI-readable Package; UMR; World-Binding; Slop.
+
+## Related identifiers
+
+- SΔϕ-39 - Hallucination as Weak World-Binding AI-Readable Package: https://doi.org/10.5281/zenodo.20176747 ; Relation: References
+- SΔϕ-49 - Failure Re-entry: Relation: References
+- SΔϕ-51 - Diagnostic Re-entry AI-Readable Package: https://doi.org/10.5281/zenodo.20135803 ; Relation: References
+- SΔϕ-55 - Transition Governance Alignment Index: Relation: References
+- SΔϕ-62 - World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548 ; Relation: References
+- SΔϕ-65 - Slop as Externalized Restabilization Cost AI-Readable Package: https://doi.org/10.5281/zenodo.20173455 ; Relation: References
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-48 - AI Drift as Transition Governance Instability: Authority, Refusal, World-Binding, Editability, and Re-entry (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20204951
