@@ -1,0 +1,79 @@
+{
+  "package": {
+    "id": "SDeltaPhi-10-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20218533",
+    "url": "https://doi.org/10.5281/zenodo.20218533",
+    "record_url": "https://zenodo.org/records/20218533",
+    "type": "AI-readable package",
+    "version": "v1.1"
+  },
+  "source_paper": {
+    "id": "SDeltaPhi-10",
+    "title": "Interpretation, Learning, and Inference as a Single Re-entry Structure",
+    "type": "source paper",
+    "version": "v1.0",
+    "source_file": "02_SOURCE_PAPER_SDeltaPhi_10_Reentry_Structure_v1_0.pdf",
+    "base_doi": "10.5281/zenodo.18746509"
+  },
+  "related": [
+    {
+      "id": "SDeltaPhi-05",
+      "title": "Agency as Recursive Transition Law Update",
+      "doi": "10.5281/zenodo.20214446",
+      "url": "https://doi.org/10.5281/zenodo.20214446"
+    },
+    {
+      "id": "SDeltaPhi-06",
+      "title": "Responsibility as Irreversible Cost Internalization",
+      "doi": "10.5281/zenodo.20214954",
+      "url": "https://doi.org/10.5281/zenodo.20214954"
+    },
+    {
+      "id": "SDeltaPhi-07",
+      "title": "H_min: Interpretation Minimal Axioms",
+      "doi": "10.5281/zenodo.20215608",
+      "url": "https://doi.org/10.5281/zenodo.20215608"
+    },
+    {
+      "id": "SDeltaPhi-08",
+      "title": "Agency-Responsibility-Freedom Closure",
+      "doi": "10.5281/zenodo.20217566",
+      "url": "https://doi.org/10.5281/zenodo.20217566"
+    },
+    {
+      "id": "SDeltaPhi-09",
+      "title": "Error, Boundary, and Freedom",
+      "doi": "10.5281/zenodo.20218139",
+      "url": "https://doi.org/10.5281/zenodo.20218139"
+    },
+    {
+      "id": "SDeltaPhi-39",
+      "title": "Hallucination as Weak World-Binding Overclaimed as Fact",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-48",
+      "title": "AI Drift as Transition Governance Instability",
+      "doi": "10.5281/zenodo.20204951",
+      "url": "https://doi.org/10.5281/zenodo.20204951"
+    },
+    {
+      "id": "SDeltaPhi-49",
+      "title": "AI Poverty as Failure Non-Reentry Resource Deficit",
+      "doi": "10.5281/zenodo.20205572",
+      "url": "https://doi.org/10.5281/zenodo.20205572"
+    },
+    {
+      "id": "SDeltaPhi-56",
+      "title": "Transition Completion Cost v1.3",
+      "doi": "10.5281/zenodo.20116959",
+      "url": "https://doi.org/10.5281/zenodo.20116959"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel AI-readable package",
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548"
+    }
+  ]
+}

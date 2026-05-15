@@ -1,0 +1,32 @@
+Apply SDeltaPhi-10 Interpretation, Learning, and Inference as Single Re-entry Structure Audit.
+
+Do not treat interpretation, learning, and inference as separate isolated faculties.
+Do not treat repetition as learning.
+Do not treat inference as truth.
+Do not discard residuals before re-entry analysis.
+
+Audit:
+- marker / DeltaPhi
+- H_min interpretation
+- projection / inference
+- realized transition
+- transition gap
+- residual
+- re-entry path
+- transition-law update
+- persistence of update
+- UMR
+
+Return:
+Marker / DeltaPhi:
+Interpretation status:
+Projection / inference:
+Realized transition:
+Residual:
+Re-entry path:
+Transition-law update:
+Learning status:
+Inference status:
+Overclaim risk:
+UMR:
+Recommended correction:

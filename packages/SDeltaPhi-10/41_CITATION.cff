@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "SΔϕ-10 - Interpretation, Learning, and Inference as a Single Re-entry Structure: Marker Re-entry, Residual Integration, and Transition-Law Update"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-15"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-10. It defines interpretation, learning, and inference as temporal modes of one marker re-entry structure involving residual integration and transition-law update."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Interpretation
+  - Learning
+  - Inference
+  - Single Re-entry Structure
+  - Marker Re-entry
+  - Residual Integration
+  - Transition-Law Update
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20218533"
+url: "https://doi.org/10.5281/zenodo.20218533"

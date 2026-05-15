@@ -1,0 +1,76 @@
+# Zenodo Metadata - SΔϕ-10 Interpretation, Learning, and Inference as a Single Re-entry Structure AI-Readable Package
+
+## Title
+
+SΔϕ-10 - Interpretation, Learning, and Inference as a Single Re-entry Structure: Marker Re-entry, Residual Integration, and Transition-Law Update (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 - AI-readable package
+
+## Publication date
+
+2026-05-15
+
+## DOI
+
+10.5281/zenodo.20218533
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-10 defines Interpretation, Learning, and Inference as a Single Re-entry Structure within the Sofience-Δϕ Formalism Series. The central claim is that interpretation, learning, and inference are not separate isolated faculties. They are temporal modes of one marker re-entry structure.
+
+This AI-readable package extends the source SΔϕ-10 paper on Interpretation, Learning, and Inference as a Single Re-entry Structure. It defines interpretation as one-step marker re-entry, learning as persistent re-entry that updates transition law, and inference as projection from current transition law before next contact. Operationally, marker or DeltaPhi enters H_min interpretation, generates projection/inference, encounters realized transition, produces error or boundary residual, re-enters, updates transition law, and generates the next projection.
+
+The package integrates SΔϕ-07, SΔϕ-08, and SΔϕ-09. SΔϕ-07 defines H_min, the minimal interpretation layer. SΔϕ-08 defines Agency-Responsibility-Freedom Closure. SΔϕ-09 defines error as phase-limit indicator, boundary residual, and re-entry material. SΔϕ-10 asks how markers and residuals re-enter the structure and change interpretation, learning, inference, and transition-law update.
+
+The package decomposes SΔϕ-10 into operational files for AI ingestion, including a canonical v1.1 paper, source v1.0 paper and extracted text, core declaration, AI quickstart, minimal prompt, re-entry structure schema, node files for marker re-entry, interpretation, learning, inference, residual integration, transition-law update, and re-entry cycle, re-entry cycle pipeline, re-entry status scale, distinction files for interpretation versus learning, learning versus training, inference versus guessing, re-entry versus repetition, residual versus error, projection versus realized transition, risk files for interpretation overclaim, learning overclaim, inference overclaim, residual erasure, re-entry loop closure, training-learning confusion, feedback poisoning, output templates, misreadings, relation files, metadata, citation file, DOI references, license, and manifest.
+
+SΔϕ-56 v1.3 is included only as a relation and auxiliary cost module. SΔϕ-10 defines the re-entry structure itself. SΔϕ-56 measures the transition cost of completing error-to-reentry, feedback-to-update, interpretation-to-learning, residual integration, transition-law update, and failed re-entry recovery.
+
+The framework is intended for interpretation-learning-inference audit, re-entry structure audit, feedback integration analysis, residual integration audit, transition-law update audit, error correction analysis, and learning versus repetition distinction. It should not be used as proof of biological learning, proof of model training, proof of truth, proof of consciousness, proof that feedback always improves the system, or proof that repetition equals learning.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Interpretation; Learning; Inference; Single Re-entry Structure; Marker Re-entry; Residual Integration; Transition-Law Update; Projection; Realized Transition; Boundary Residual; Error Correction; Feedback Integration; Re-entry Audit; Transition Completion Cost; World Model Kernel; AI-readable Package.
+
+## Related identifiers
+
+- SΔϕ-05 - Agency as Recursive Transition Law Update AI-Readable Package: https://doi.org/10.5281/zenodo.20214446 ; Relation: References
+- SΔϕ-06 - Responsibility as Irreversible Cost Internalization AI-Readable Package: https://doi.org/10.5281/zenodo.20214954 ; Relation: References
+- SΔϕ-07 - H_min: Interpretation Minimal Axioms AI-Readable Package: https://doi.org/10.5281/zenodo.20215608 ; Relation: References
+- SΔϕ-08 - Agency-Responsibility-Freedom Closure AI-Readable Package: https://doi.org/10.5281/zenodo.20217566 ; Relation: References
+- SΔϕ-09 - Error, Boundary, and Freedom AI-Readable Package: https://doi.org/10.5281/zenodo.20218139 ; Relation: References
+- SΔϕ-39 - Hallucination as Weak World-Binding Overclaimed as Fact: Relation: References
+- SΔϕ-48 - AI Drift as Transition Governance Instability: https://doi.org/10.5281/zenodo.20204951 ; Relation: References
+- SΔϕ-49 - AI Poverty as Failure Non-Reentry Resource Deficit: https://doi.org/10.5281/zenodo.20205572 ; Relation: References
+- SΔϕ-56 - Transition Completion Cost: Friction Coefficients, Disclosure-to-Re-entry Cost, and FIP as TCC Differential (v1.3): https://doi.org/10.5281/zenodo.20116959 ; Relation: References
+- SΔϕ-62 - World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548 ; Relation: References
+
+## Original source DOI
+
+SΔϕ-10 - Interpretation, Learning, and Inference as a Single Re-entry Structure: https://doi.org/10.5281/zenodo.18746509 ; Relation: IsNewVersionOf
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-10 - Interpretation, Learning, and Inference as a Single Re-entry Structure: Marker Re-entry, Residual Integration, and Transition-Law Update (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20218533

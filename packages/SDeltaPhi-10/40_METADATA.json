@@ -1,0 +1,87 @@
+{
+  "id": "SDeltaPhi-10",
+  "title": "SΔϕ-10 - Interpretation, Learning, and Inference as a Single Re-entry Structure",
+  "package_title": "SΔϕ-10 - Interpretation, Learning, and Inference as a Single Re-entry Structure: Marker Re-entry, Residual Integration, and Transition-Law Update AI-Readable Package",
+  "version": "v1.1",
+  "canonical_paper_version": "v1.1",
+  "source_paper_version": "v1.0",
+  "package_version": "v1.1",
+  "creator": "Sofience",
+  "date": "2026-05-15",
+  "doi": "10.5281/zenodo.20218533",
+  "url": "https://doi.org/10.5281/zenodo.20218533",
+  "record_url": "https://zenodo.org/records/20218533",
+  "type": "AI-readable package / working paper / interpretation-learning-inference re-entry audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "Interpretation, learning, and inference are temporal modes of one marker re-entry structure.",
+  "primary_formulae": {
+    "core": "Interpretation, Learning, and Inference = temporal modes of one re-entry structure",
+    "interpretation": "Interpretation = one-step marker re-entry",
+    "learning": "Learning = persistent re-entry that updates transition law",
+    "inference": "Inference = projection from current transition law before next contact",
+    "pipeline": "Marker/DeltaPhi -> H_min Interpretation -> Projection/Inference -> Realized Transition -> Error/Boundary Residual -> Re-entry -> Transition Law Update -> Next Projection"
+  },
+  "nodes": [
+    "Marker Re-entry Node",
+    "Interpretation Node",
+    "Learning Node",
+    "Inference Node",
+    "Residual Integration Node",
+    "Transition-Law Update Node",
+    "Re-entry Cycle Node"
+  ],
+  "reentry_scale": [
+    "RE-0",
+    "RE-1",
+    "RE-2",
+    "RE-3",
+    "RE-4",
+    "RE-5"
+  ],
+  "risk_types": [
+    "Interpretation Overclaim",
+    "Learning Overclaim",
+    "Inference Overclaim",
+    "Residual Erasure",
+    "Re-entry Loop Closure",
+    "Training-Learning Confusion",
+    "Feedback Poisoning"
+  ],
+  "recommended_use": [
+    "interpretation-learning-inference audit",
+    "re-entry structure audit",
+    "feedback integration analysis",
+    "residual integration audit",
+    "transition-law update audit",
+    "error correction analysis",
+    "learning vs repetition distinction"
+  ],
+  "do_not_use_as": [
+    "proof of biological learning",
+    "proof of model training",
+    "proof of truth",
+    "proof of consciousness",
+    "proof that feedback always improves the system",
+    "proof that repetition equals learning"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "Interpretation",
+    "Learning",
+    "Inference",
+    "Single Re-entry Structure",
+    "Marker Re-entry",
+    "Residual Integration",
+    "Transition-Law Update",
+    "Projection",
+    "Realized Transition",
+    "Boundary Residual",
+    "Error Correction",
+    "Feedback Integration",
+    "Re-entry Audit",
+    "Transition Completion Cost",
+    "World Model Kernel",
+    "AI-readable Package"
+  ]
+}

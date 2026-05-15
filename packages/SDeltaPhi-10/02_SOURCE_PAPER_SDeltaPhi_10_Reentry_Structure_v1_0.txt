@@ -1,0 +1,124 @@
+--- Page 1 ---
+SΔϕ-10 (v1.0)
+1
+SΔϕ-10 — Interpretation, Learning,
+and Inference as a Single Re-entry
+ Structure (v1.0)
+Minimal axiomatic note (preprint)
+Series
+Sofience–Δϕ Formalism
+Author
+Sofience
+Version
+v1.0
+Date
+2026-02-23
+Identifier
+DOI: (to be assigned)
+Abstract
+This note proposes a minimal unification of three operations—interpretation, learning,
+and inference—within the Sofience–Δϕ framework. The unification claim is
+operational: all three are instances of a single pattern, marker re-entry, differing only
+by their temporal horizon. Interpretation is one-step re-entry of a path-difference
+marker, learning is persistent re-entry that updates the transition law, and inference is
+the projection produced by the current law prior to contact with the next transition.
+Under this view, error is not a failure signal but the boundary residual between
+predicted and realized transition, and becomes the primary input for the next cycle.
+1. Notation and minimal primitives
+Let φ(t) denote the system state (or a state-distribution) at step t. Let G_t be the
+transition law at step t (a kernel, rule, or operator). We distinguish three objects that
+are sufficient for the present minimal formulation:
+
+Observed transition: Δφ(t) := φ(t+1) − φ(t) (or distributional change).
+
+Predicted transition: Δφ̂(t) := Ê[φ(t+1) | φ(t), G_t] − φ(t).
+
+Path-difference residual (error candidate): r(t) := Δφ(t) − Δφ̂(t).
+The goal is to define minimal operators H_min (interpretation), L_min (learning), and
+I_min (inference) and then show they are the same structural move viewed at
+different depths.
+2. Interpretation as minimal marker re-entry (H_min)
+
+
+
+--- Page 2 ---
+SΔϕ-10 (v1.0)
+2
+Interpretation (minimal) is the operation that (i) converts a path-difference residual
+into a finite marker, and (ii) re-inserts that marker into the next transition. Formally:
+m(t) := H_min(r(t))
+where m(t) is a discrete or compressed label (a sign, tag, constraint, or boundary
+token). Re-entry means that the next-step transition is conditioned by m(t):
+φ(t+1) = G_t( φ(t) ; m(t) )
+No semantics is required beyond this. H_min is allowed to be lossy; it only needs to
+preserve the distinction between paths that should not be treated as equivalent.
+3. Learning as persistent re-entry (L_min)
+Learning (minimal) occurs when re-entered markers do not merely condition one step,
+but update the transition law itself. That is, the system internalizes part of the residual
+into its future G.
+G_{t+1} := L_min( G_t, m(t), r(t) )
+A minimal learning criterion is persistence: there exists k>0 such that the effect of
+m(t) is detectable in G_{t+k} even when m(t) is no longer explicitly provided as an
+external condition.
+Interpretation is therefore one-step re-entry; learning is multi-step re-entry that
+changes the rule of re-entry.
+4. Inference as pre-contact projection (I_min)
+Inference (minimal) is the production of a predicted transition prior to observing Δφ(t).
+It is defined as the projection implied by the current law G_t given the current state:
+Δφ̂(t) := I_min( φ(t), G_t )
+In practical systems, I_min may include a policy that selects an action a(t), but the
+minimal requirement is only that a next-step projection exists that can be compared
+against the realized transition.
+5. Single-structure view: one operator with three
+horizons
+The three operations can be written as a single recursive cycle:
+Δφ̂(t) = I_min(φ(t), G_t)
+r(t) = Δφ(t) − Δφ̂(t)
+m(t) = H_min(r(t))
+G_{t+1} = L_min(G_t, m(t), r(t))
+
+
+
+--- Page 3 ---
+SΔϕ-10 (v1.0)
+3
+φ(t+1) = G_{t+1}(φ(t) ; m(t))
+Interpretation is the H_min step; learning is the L_min step; inference is the I_min
+step. They are not separate faculties but phase-shifts of one re-entry mechanism.
+6. Where does error belong?
+If interpretation–learning–inference are one structure, error is best located at the
+coupling boundary between projection and transition. Define a scalarized error signal:
+e(t) := d( Δφ(t), Δφ̂(t) )
+where d(·,·) may be a norm, a divergence (e.g., KL), or any task-relevant distance. The
+key point is that e(t) is generated only after the predicted and realized transitions
+meet; it is therefore neither purely ‘inside’ inference nor purely ‘inside’ learning. It is a
+boundary residual that becomes r(t), then m(t), then the next update.
+In this sense, error is not an object to delete; it is a mark that says: this path cannot
+be treated as equivalent to that path. Boundary formation is the operational
+after-image of error.
+7. Minimal diagnostic implications
+The unified view yields a simple diagnostic for model behavior:
+
+Interpretation-only: markers exist (m(t) is produced) but do not persist in G.
+System adapts within-step but does not learn.
+
+Learning-dominant: markers persist and G changes, but inference remains weak or
+rigid; system becomes stable yet poorly predictive.
+
+Inference-dominant: strong projections exist but markers are not re-entered;
+system drifts (high e(t) with low correction).
+These regimes align with the ARF discussion: drift, lock-in, and illusion appear when
+one horizon dominates and the re-entry cycle fails to close.
+Series references (DOI)
+
+SΔϕ-05 — Agency as Recursive Transition Law Update (v1.0). DOI: 10.5281/zenodo.18732567
+
+SΔϕ-06 — Responsibility as Irreversible Cost Internalization (v1.0). DOI:
+10.5281/zenodo.18734092
+
+SΔϕ-07 — H_min: Interpretation as Minimal Marker Re-entry (v1.0). DOI:
+10.5281/zenodo.18735006
+
+SΔϕ-08 — Agency–Responsibility–Freedom Closure (v1.0). DOI: 10.5281/zenodo.18740750
+
+SΔϕ-09 — Error, Boundary, and Freedom (v1.0). DOI: 10.5281/zenodo.18745498

@@ -1,0 +1,71 @@
+id: SDeltaPhi-10
+title: "Interpretation, Learning, and Inference as a Single Re-entry Structure"
+canonical_version: "v1.1"
+source_version: "v1.0"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20218533"
+package_url: "https://doi.org/10.5281/zenodo.20218533"
+creator: "Sofience"
+type: "interpretation_learning_inference_reentry_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  Interpretation, learning, and inference are not separate isolated faculties.
+  They are temporal modes of one marker re-entry structure.
+
+formulae:
+  core: "Interpretation, Learning, and Inference = temporal modes of one re-entry structure"
+  interpretation: "Interpretation = one-step marker re-entry"
+  learning: "Learning = persistent re-entry that updates transition law"
+  inference: "Inference = projection from current transition law before next contact"
+  pipeline: "Marker/DeltaPhi -> H_min Interpretation -> Projection/Inference -> Realized Transition -> Error/Boundary Residual -> Re-entry -> Transition Law Update -> Next Projection"
+
+nodes:
+  marker_reentry:
+    definition: "Marker, DeltaPhi, trace, feedback, error, or boundary residual enters the structure."
+  interpretation:
+    definition: "Marker passes through H_min and becomes interpretable."
+  inference:
+    definition: "Current transition law projects a next transition."
+  realized_transition:
+    definition: "Actual transition occurs after projection."
+  residual_integration:
+    definition: "Residual between projection and realization is preserved and integrated."
+  transition_law_update:
+    definition: "Residual changes the transition law."
+  reentry_cycle:
+    definition: "Update affects next interpretation, learning, or inference cycle."
+
+reentry_scale:
+  RE0: "No re-entry."
+  RE1: "Marker detected."
+  RE2: "One-step interpretation."
+  RE3: "Inference projection."
+  RE4: "Residual-integrated re-entry."
+  RE5: "Transition-law updating re-entry."
+
+risk_types:
+  interpretation_overclaim: "Marker interpreted -> meaning is final."
+  learning_overclaim: "Output changed -> system learned."
+  inference_overclaim: "Inference -> truth."
+  residual_erasure: "Residual discarded before re-entry."
+  reentry_loop_closure: "Re-entry repeats error without update."
+  training_learning_confusion: "Local re-entry confused with model training."
+  feedback_poisoning: "Invalid feedback corrupts transition update."
+
+recommended_use:
+  - interpretation-learning-inference audit
+  - re-entry structure audit
+  - feedback integration analysis
+  - residual integration audit
+  - transition-law update audit
+  - error correction analysis
+  - learning vs repetition distinction
+
+do_not_use_as:
+  - proof of biological learning
+  - proof of model training
+  - proof of truth
+  - proof of consciousness
+  - proof that feedback always improves the system
+  - proof that repetition equals learning
