@@ -1,0 +1,67 @@
+{
+  "package": {
+    "id": "SDeltaPhi-07-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20215608",
+    "url": "https://doi.org/10.5281/zenodo.20215608",
+    "record_url": "https://zenodo.org/records/20215608",
+    "type": "AI-readable package",
+    "version": "v1.1"
+  },
+  "source_paper": {
+    "id": "SDeltaPhi-07",
+    "title": "H_min: Interpretation Minimal Axioms",
+    "type": "source paper",
+    "version": "v1.0",
+    "source_file": "02_SOURCE_PAPER_SDeltaPhi_07_Hmin_Interpretation_Minimal_Axioms_v1_0.pdf",
+    "base_doi": "10.5281/zenodo.18735006"
+  },
+  "related": [
+    {
+      "id": "SDeltaPhi-01",
+      "title": "Minimal Core: Phase-Change Formalism of Existence",
+      "doi": "10.5281/zenodo.18730265",
+      "url": "https://doi.org/10.5281/zenodo.18730265"
+    },
+    {
+      "id": "SDeltaPhi-02",
+      "title": "Subject as Interpretive Emergence",
+      "doi": "10.5281/zenodo.20213230",
+      "url": "https://doi.org/10.5281/zenodo.20213230"
+    },
+    {
+      "id": "SDeltaPhi-03",
+      "title": "Irreversibility as the Minimal Condition of Existence",
+      "doi": "10.5281/zenodo.18730448",
+      "url": "https://doi.org/10.5281/zenodo.18730448"
+    },
+    {
+      "id": "SDeltaPhi-06",
+      "title": "Responsibility as Irreversible Cost Internalization",
+      "doi": "10.5281/zenodo.20214954",
+      "url": "https://doi.org/10.5281/zenodo.20214954"
+    },
+    {
+      "id": "SDeltaPhi-10",
+      "title": "Learning, Inference, and Re-entry",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-47",
+      "title": "Operor ergo sum / Irreversible Operation Root",
+      "doi": "10.5281/zenodo.20162226",
+      "url": "https://doi.org/10.5281/zenodo.20162226"
+    },
+    {
+      "id": "SDeltaPhi-56",
+      "title": "Transition Completion Cost v1.3",
+      "doi": "10.5281/zenodo.20116959",
+      "url": "https://doi.org/10.5281/zenodo.20116959"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel AI-readable package",
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548"
+    }
+  ]
+}

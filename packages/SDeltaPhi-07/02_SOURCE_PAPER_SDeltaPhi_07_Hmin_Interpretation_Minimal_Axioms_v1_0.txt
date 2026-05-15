@@ -1,0 +1,62 @@
+--- Page 1 ---
+SΔϕ-07 — Interpretation-Minimal Operation (H_min):
+Minimal Axioms and Detection Protocol (v1.0)
+Sofience–Δϕ Formalism Series
+Abstract
+This document defines a minimal, operational notion of interpretation (H_min) as an
+action-level mechanism: marking a path difference and re-entering that mark into
+subsequent transitions such that the transition distribution changes causally and persistently.
+The formulation provides three axioms and an empirical detection protocol designed to avoid
+two common false positives: (i) confusing state compression with interpretation, and (ii)
+confusing one-off patching with persistent re-entry.
+1. Core Definition
+Let φ(t) be the system state at time t, G_t the transition dynamics at time t, and Δpath(t) a
+difference between two possible trajectories or execution paths under comparable starting
+conditions. Define a marker m(t) as the marking of that path difference: m(t) = Π(Δpath(t)),
+where Π is a marking (compression) operator. Interpretation-minimal operation is the
+re-entry of m(t) into the next transition: φ(t+1) ~ G_t(φ(t), m(t)).
+2. Minimal Axioms (with Required Reinforcements)
+I1 — Causal Re-entry: for fixed φ(t), changing the marker changes the next-transition
+distribution: P(φ(t+1)|φ(t), m1) ≠ P(φ(t+1)|φ(t), m2). A practical criterion is D_KL(P(.|φ,m1) ||
+P(.|φ,m2)) > δ.
+I2 — Path-Specificity (anti false-positive #1): under the same starting state, different paths
+must induce different markers, and those marker differences must drive different
+next-transition distributions. This prevents treating simple state summarization as
+interpretation.
+I3 — Multi-step Persistence (anti false-positive #2): the influence of m(t) must persist for at
+least two steps, e.g., ∃k ≥ 2 such that I(m(t); φ(t+k) | φ(t)) > 0, where I(·;·|·) is conditional
+mutual information. Practically, marker drop/swap perturbations should produce measurable
+differences not only at 1-step but also at 2-step outcomes.
+3. Minimal Detection Protocol (Operational Test)
+1
+Prepare repeated runs from the same (or equivalent-class) starting state φ(t).
+2
+Induce path differences Δpath(t) by varying exploration, noise, prompts, or action choices
+while keeping the starting condition comparable.
+3
+Identify a candidate marker m(t) (internal if accessible; otherwise an externalized marker
+representation).
+4
+Perform marker interventions: (a) keep m(t) intact, (b) drop m(t) (set to null/zero), (c)
+swap m(t) with a marker from another run, or (d) permute markers across runs.
+5
+Measure next-transition distribution shifts (I1): compare outcomes and compute a
+divergence metric (e.g., KL) between P(.|φ,m) conditions.
+6
+Verify path-specificity (I2): under fixed φ(t), confirm that different induced paths yield
+different markers and that those markers predict different next transitions.
+
+
+
+--- Page 2 ---
+7
+Verify persistence (I3): confirm that marker interventions cause measurable differences at
+2-step (and beyond) outcomes, not only at 1-step.
+4. Series Relations (Recommended)
+This document is designed to be used alongside SΔϕ-05 (Agency) and SΔϕ-06
+(Responsibility), as H_min provides a minimal operational interpretation layer for marking
+and re-entry that can serve as a building block for self-modifying transition-law updates and
+externality-sensitive constraints.
+Recommended Citation
+Sofience (2026). SΔϕ-07 — Interpretation-Minimal Operation (H_min): Minimal Axioms and
+Detection Protocol (v1.0). Sofience–Δϕ Series.

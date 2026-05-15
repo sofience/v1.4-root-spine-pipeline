@@ -1,0 +1,66 @@
+id: SDeltaPhi-07
+title: "H_min: Interpretation Minimal Axioms"
+canonical_version: "v1.1"
+source_version: "v1.0"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20215608"
+package_url: "https://doi.org/10.5281/zenodo.20215608"
+creator: "Sofience"
+type: "h_min_interpretation_minimal_axioms_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  DeltaPhi does not automatically become subject, memory, time, meaning, or responsibility.
+  DeltaPhi must pass through a minimal interpretation layer: H_min.
+
+formulae:
+  core: "H_min(DeltaPhi) = Trace Detection + Difference Registration + Boundary Assignment + Temporal Ordering + Subject/Object Positioning + Meaning Stabilization + Re-entry Availability"
+  pipeline: "Operation -> DeltaPhi -> H_min -> Interpretation -> Attribution"
+  warning: "Interpretation is not identical to operation, memory, time, subject, responsibility, or truth."
+
+axioms:
+  trace_detection:
+    definition: "Something is detected as trace, signal, event, difference, output, action, or state-change."
+  difference_registration:
+    definition: "The trace registers as a difference relative to prior state, expected state, boundary, context, or comparison class."
+  boundary_assignment:
+    definition: "The interpretation layer assigns a boundary that locates the difference."
+  temporal_ordering:
+    definition: "The interpretation layer orders before/after, prior/subsequent, cause/effect, or sequence."
+  subject_object_positioning:
+    definition: "The interpretation layer positions actor, receiver, object, environment, system, or relation."
+  meaning_stabilization:
+    definition: "The interpretation stabilizes enough to be communicated, audited, revised, or used in the next step."
+  reentry_availability:
+    definition: "The interpretation preserves a path for revision, correction, or re-entry."
+
+interpretation_status_scale:
+  H0: "No interpretation."
+  H1: "Trace detected."
+  H2: "Difference registered."
+  H3: "Boundary assigned."
+  H4: "Temporally ordered and positioned."
+  H5: "Stable revisable interpretation."
+
+risk_types:
+  interpretation_overclaim: "A trace exists -> therefore meaning is settled."
+  interpretation_erasure: "Meaning is not fully settled -> therefore no interpretation exists."
+  boundary_collapse: "Difference detected without boundary assignment."
+  subject_object_confusion: "Trace attributed to wrong actor, object, system, or relation."
+  reentry_closure: "Interpretation stabilized in a way that prevents revision."
+
+recommended_use:
+  - interpretation audit
+  - meaning stabilization audit
+  - misinterpretation diagnosis
+  - subject attribution audit
+  - memory/time interpretation audit
+  - responsibility attribution audit
+  - interpretive re-entry audit
+
+do_not_use_as:
+  - proof that every trace has settled meaning
+  - erasure of partial interpretation
+  - replacement for truth verification
+  - replacement for memory analysis
+  - replacement for TCC analysis when interpretive transition cost is central

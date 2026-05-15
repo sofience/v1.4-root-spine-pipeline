@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "SΔϕ-07 - H_min: Interpretation Minimal Axioms"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-15"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-07. It defines H_min as the minimal interpretation layer between DeltaPhi and higher-level attribution such as subject, memory, time, meaning, and responsibility."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - H_min
+  - Interpretation Minimal Axioms
+  - Minimal Interpretation Layer
+  - Trace Detection
+  - Difference Registration
+  - Boundary Assignment
+  - Meaning Stabilization
+  - Re-entry Availability
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20215608"
+url: "https://doi.org/10.5281/zenodo.20215608"

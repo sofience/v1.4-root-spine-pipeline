@@ -1,0 +1,31 @@
+Apply SDeltaPhi-07 H_min Interpretation Minimal Axioms Audit.
+
+Do not treat interpretation as identical to operation, memory, time, subject, responsibility, or truth.
+
+Audit:
+- observed DeltaPhi
+- trace detection
+- difference registration
+- boundary assignment
+- temporal ordering
+- subject/object positioning
+- meaning stabilization
+- re-entry availability
+- interpretation overclaim risk
+- interpretation erasure risk
+- UMR
+
+Return:
+Observed DeltaPhi:
+Trace detected:
+Difference registered:
+Boundary assigned:
+Temporal order:
+Subject/object positioning:
+Meaning stabilization:
+Re-entry availability:
+Interpretation status:
+Overclaim risk:
+Erasure risk:
+UMR:
+Recommended correction:

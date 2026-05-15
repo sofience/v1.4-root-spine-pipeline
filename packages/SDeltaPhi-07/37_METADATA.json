@@ -1,0 +1,81 @@
+{
+  "id": "SDeltaPhi-07",
+  "title": "SΔϕ-07 - H_min: Interpretation Minimal Axioms",
+  "package_title": "SΔϕ-07 - H_min: Interpretation Minimal Axioms AI-Readable Package",
+  "version": "v1.1",
+  "canonical_paper_version": "v1.1",
+  "source_paper_version": "v1.0",
+  "package_version": "v1.1",
+  "creator": "Sofience",
+  "date": "2026-05-15",
+  "doi": "10.5281/zenodo.20215608",
+  "url": "https://doi.org/10.5281/zenodo.20215608",
+  "record_url": "https://zenodo.org/records/20215608",
+  "type": "AI-readable package / working paper / H_min interpretation minimal axioms audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "DeltaPhi does not automatically become subject, memory, time, meaning, or responsibility. DeltaPhi must pass through a minimal interpretation layer: H_min.",
+  "primary_formulae": {
+    "core": "H_min(DeltaPhi) = Trace Detection + Difference Registration + Boundary Assignment + Temporal Ordering + Subject/Object Positioning + Meaning Stabilization + Re-entry Availability",
+    "pipeline": "Operation -> DeltaPhi -> H_min -> Interpretation -> Attribution",
+    "warning": "Interpretation is not identical to operation, memory, time, subject, responsibility, or truth."
+  },
+  "axioms": [
+    "Trace Detection",
+    "Difference Registration",
+    "Boundary Assignment",
+    "Temporal Ordering",
+    "Subject/Object Positioning",
+    "Meaning Stabilization",
+    "Re-entry Availability"
+  ],
+  "interpretation_status_scale": [
+    "H0",
+    "H1",
+    "H2",
+    "H3",
+    "H4",
+    "H5"
+  ],
+  "risk_types": [
+    "Interpretation Overclaim",
+    "Interpretation Erasure",
+    "Boundary Collapse",
+    "Subject/Object Confusion",
+    "Re-entry Closure"
+  ],
+  "recommended_use": [
+    "interpretation audit",
+    "meaning stabilization audit",
+    "misinterpretation diagnosis",
+    "subject attribution audit",
+    "memory/time interpretation audit",
+    "responsibility attribution audit",
+    "interpretive re-entry audit"
+  ],
+  "do_not_use_as": [
+    "proof that every trace has settled meaning",
+    "erasure of partial interpretation",
+    "replacement for truth verification",
+    "replacement for memory analysis",
+    "replacement for TCC analysis when interpretive transition cost is central"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "H_min",
+    "Interpretation Minimal Axioms",
+    "Minimal Interpretation Layer",
+    "Trace Detection",
+    "Difference Registration",
+    "Boundary Assignment",
+    "Temporal Ordering",
+    "Subject/Object Positioning",
+    "Meaning Stabilization",
+    "Re-entry Availability",
+    "Interpretation Overclaim",
+    "Misinterpretation",
+    "World Model Kernel",
+    "Transition Completion Cost",
+    "AI-readable Package"
+  ]
+}

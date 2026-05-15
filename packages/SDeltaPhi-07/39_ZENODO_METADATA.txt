@@ -1,0 +1,72 @@
+# Zenodo Metadata - SΔϕ-07 H_min Interpretation Minimal Axioms AI-Readable Package
+
+## Title
+
+SΔϕ-07 - H_min: Interpretation Minimal Axioms (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 - AI-readable package
+
+## Publication date
+
+2026-05-15
+
+## DOI
+
+10.5281/zenodo.20215608
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-07 defines H_min as the minimal interpretation layer within the Sofience-Δϕ Formalism Series. The central claim is that DeltaPhi does not automatically become subject, memory, time, meaning, or responsibility. DeltaPhi must pass through a minimal interpretation layer: H_min.
+
+This AI-readable package extends the source SΔϕ-07 paper on H_min: Interpretation Minimal Axioms. It defines the minimal conditions under which raw operation, trace, or phase-change becomes interpretable: trace detection, difference registration, boundary assignment, temporal ordering, subject/object positioning, meaning stabilization, and re-entry availability.
+
+The package decomposes SΔϕ-07 into operational files for AI ingestion, including a canonical v1.1 paper, source v1.0 paper and extracted text, core declaration, AI quickstart, minimal prompt, H_min schema, axiom files for trace detection, difference registration, boundary assignment, temporal ordering, subject/object positioning, meaning stabilization, and re-entry availability, interpretation status scale, interpretation versus operation/memory/time/subject/responsibility distinctions, risk files for interpretation overclaim, interpretation erasure, boundary collapse, subject/object confusion, re-entry closure, interpretation transition cost, misinterpretation re-entry cost, output templates, misreadings, relation files, metadata, citation file, DOI references, license, and manifest.
+
+SΔϕ-56 v1.3 is included only as a relation and auxiliary cost module. SΔϕ-07 defines H_min itself. SΔϕ-56 measures the cost of changing, repairing, or completing an interpretation transition when misinterpretation, reinterpretation, or re-entry after interpretive failure is involved.
+
+The framework is intended for interpretation audit, meaning stabilization audit, misinterpretation diagnosis, subject attribution audit, memory/time interpretation audit, responsibility attribution audit, and interpretive re-entry audit. It should not be used as proof that every trace has settled meaning, erasure of partial interpretation, replacement for truth verification, replacement for memory analysis, or replacement for TCC analysis when interpretive transition cost is central.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; H_min; Interpretation Minimal Axioms; Minimal Interpretation Layer; Trace Detection; Difference Registration; Boundary Assignment; Temporal Ordering; Subject/Object Positioning; Meaning Stabilization; Re-entry Availability; Interpretation Overclaim; Misinterpretation; World Model Kernel; Transition Completion Cost; AI-readable Package.
+
+## Related identifiers
+
+- SΔϕ-01 - Minimal Core / Phase-Change Formalism of Existence: https://doi.org/10.5281/zenodo.18730265 ; Relation: References
+- SΔϕ-02 - Subject as Interpretive Emergence AI-Readable Package: https://doi.org/10.5281/zenodo.20213230 ; Relation: References
+- SΔϕ-03 - Irreversibility as the Minimal Condition of Existence: https://doi.org/10.5281/zenodo.18730448 ; Relation: References
+- SΔϕ-06 - Responsibility as Irreversible Cost Internalization AI-Readable Package: https://doi.org/10.5281/zenodo.20214954 ; Relation: References
+- SΔϕ-10 - Learning, Inference, and Re-entry: Relation: References
+- SΔϕ-47 - Operor ergo sum / Irreversible Operation Root: https://doi.org/10.5281/zenodo.20162226 ; Relation: References
+- SΔϕ-56 - Transition Completion Cost: Friction Coefficients, Disclosure-to-Re-entry Cost, and FIP as TCC Differential (v1.3): https://doi.org/10.5281/zenodo.20116959 ; Relation: References
+- SΔϕ-62 - World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548 ; Relation: References
+
+## Original source DOI
+
+SΔϕ-07 - H_min: Interpretation Minimal Axioms: https://doi.org/10.5281/zenodo.18735006 ; Relation: IsNewVersionOf
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-07 - H_min: Interpretation Minimal Axioms (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20215608
