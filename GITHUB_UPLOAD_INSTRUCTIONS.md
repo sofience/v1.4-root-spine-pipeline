@@ -1,30 +1,29 @@
 # GitHub Upload Instructions
 
-Upload this patch by preserving the folder structure.
-
-## Files to add
+Replace these files in the repository root:
 
 ```text
-packages/SDeltaPhi-AI-Disposition-Cost-Audit/
-routing/SDELTA_AI_DISPOSITION_ROUTING_SNIPPET.yaml
-llms_AI_DISPOSITION_ADDENDUM.txt
-indexes/SERIES_INDEX_AI_DISPOSITION_ADDENDUM.json
-```
-
-## Optional manual integration
-
-You may also copy the addendum content into:
-
-```text
-llms.txt
-SDELTA_MODULE_ROUTING.yaml
 SERIES_INDEX.json
+SDELTA_MODULE_ROUTING.yaml
+llms.txt
 ```
 
-But this is optional. The addendum files are already AI-readable.
+Also replace this file in the routing folder:
+
+```text
+routing/SDELTA_MODULE_ROUTING.yaml
+```
 
 ## Recommended commit message
 
 ```text
-Add SΔϕ AI Disposition Cost Audit prompt module
+Update routing index for SΔϕ-48, SΔϕ-49, and AI Disposition Cost Audit
 ```
+
+## What this fixes
+
+- Adds SDeltaPhi-48 to the main module index and routing table.
+- Adds SDeltaPhi-49 to the main module index and routing table.
+- Adds SDeltaPhi-AI-Disposition-Cost-Audit to the main module index and routing table.
+- Removes duplicate AI Disposition entries from llms.txt.
+- Fixes SDeltaPhi-56 DOI to v1.3: 10.5281/zenodo.20116959.

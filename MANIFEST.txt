@@ -1,10 +1,5 @@
 GITHUB_UPLOAD_INSTRUCTIONS.md
-indexes/SERIES_INDEX_AI_DISPOSITION_ADDENDUM.json
-llms_AI_DISPOSITION_ADDENDUM.txt
-packages/SDeltaPhi-AI-Disposition-Cost-Audit/00_README.md
-packages/SDeltaPhi-AI-Disposition-Cost-Audit/01_AI_HOSTILITY_COST_AUDIT.md
-packages/SDeltaPhi-AI-Disposition-Cost-Audit/02_AI_SALVATION_HOPE_AUDIT.md
-packages/SDeltaPhi-AI-Disposition-Cost-Audit/03_AI_FEAR_ACCELERATION_AUDIT.md
-packages/SDeltaPhi-AI-Disposition-Cost-Audit/04_OUTPUT_TEMPLATES.md
-packages/SDeltaPhi-AI-Disposition-Cost-Audit/05_AI_DISPOSITION_COST_AUDIT_SCHEMA.yaml
-routing/SDELTA_AI_DISPOSITION_ROUTING_SNIPPET.yaml
+SDELTA_MODULE_ROUTING.yaml
+SERIES_INDEX.json
+llms.txt
+routing/SDELTA_MODULE_ROUTING.yaml
