@@ -1,0 +1,27 @@
+{
+  "package": "SΔϕ-56 Transition Completion Cost v1.3",
+  "doi": "10.5281/zenodo.20116959",
+  "files": [
+    "00_README.md",
+    "01_AI_QUICKSTART.md",
+    "02_AI_MINIMAL_PROMPT.txt",
+    "03_FILE_MANIFEST.json",
+    "SDeltaPhi_56_Transition_Completion_Cost_v1_3_DOI_20116959.docx",
+    "SDeltaPhi_56_Transition_Completion_Cost_v1_3_DOI_20116959.md",
+    "SDeltaPhi_56_Transition_Completion_Cost_v1_3_DOI_20116959.pdf",
+    "SDeltaPhi_56_Transition_Completion_Cost_v1_3_DOI_20116959.txt",
+    "examples/example_ai_disclosure_path.md",
+    "examples/example_whistleblowing_tcc_gap.md",
+    "machine/sdelta_phi_56_tcc_v1_3.friction_coefficients.yaml",
+    "machine/sdelta_phi_56_tcc_v1_3.schema.json",
+    "machine/sdelta_phi_56_tcc_v1_3.scoring_rubric.yaml",
+    "machine/sdelta_phi_56_tcc_v1_3.tcc_formula.json",
+    "metadata/CITATION.cff",
+    "metadata/SDeltaPhi_56_Transition_Completion_Cost_v1_3.bib",
+    "metadata/checksums.sha256",
+    "metadata/datacite_metadata.json",
+    "metadata/schema_org.jsonld",
+    "metadata/zenodo_fields.txt",
+    "zenodo_fields.txt"
+  ]
+}

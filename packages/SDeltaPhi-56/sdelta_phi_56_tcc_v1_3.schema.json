@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SΔϕ-56 TCC v1.3 estimate schema",
+  "type": "object",
+  "properties": {
+    "path": {
+      "type": "string"
+    },
+    "tcc_mode": {
+      "enum": [
+        "low",
+        "medium",
+        "high",
+        "extra-high",
+        "gate-risk"
+      ]
+    },
+    "main_friction": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "cost_bearer": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "disclosure_pressure": {
+      "type": "string"
+    },
+    "umr": {
+      "type": "string"
+    },
+    "rvp": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "path",
+    "tcc_mode",
+    "main_friction",
+    "cost_bearer",
+    "umr",
+    "rvp"
+  ]
+}

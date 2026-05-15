@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "SΔϕ-56 — Transition Completion Cost: Friction-Adjusted Re-entry Cost, Disclosure Path Differential, and Restabilization Grammar"
+version: "v1.3"
+doi: "10.5281/zenodo.20116959"
+date-released: "2026-05-11"
+authors:
+  - name: "Sofience"
+message: "If you use this TCC v1.3 framework, please cite the Zenodo DOI."
+license: "CC-BY-4.0"

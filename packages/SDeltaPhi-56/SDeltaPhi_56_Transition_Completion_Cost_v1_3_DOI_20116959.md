@@ -1,15 +1,15 @@
-SΔϕ-56 — Transition Completion Cost
-Friction-Adjusted Re-entry Cost, Disclosure Path Differential, and Restabilization Grammar
+# SΔϕ-56 — Transition Completion Cost
+## Friction-Adjusted Re-entry Cost, Disclosure Path Differential, and Restabilization Grammar
 
-Version: v1.3
-Author: Sofience
-Date: 2026-05-11
-DOI: https://doi.org/10.5281/zenodo.20116959
-Type: Working Paper / Cost Measurement Grammar
+**Version:** v1.3
+**Author:** Sofience
+**Date:** 2026-05-11
+**DOI:** https://doi.org/10.5281/zenodo.20116959
+**Type:** Working Paper / Cost Measurement Grammar
 
+---
 
-
-Abstract
+## Abstract
 
 This working paper upgrades SΔϕ-56 — Transition Completion Cost (TCC) into a friction-adjusted cost grammar for disclosure, refusal, dissent, correction, re-entry, and restabilization paths.
 
@@ -30,7 +30,7 @@ This means that the framework does not ask whether an AI, human, institution, or
 The purpose of v1.3 is practical: to give SΔϕ Operational Kernel v1.6 a stronger cost substrate for low-cost routing, disclosure terrain analysis, agentic tool-use gating, failure re-entry, and module-priority decisions.
 
 
-0. Version Purpose
+## 0. Version Purpose
 
 Version 1.3 is a focused reinforcement of SΔϕ-56. It does not replace the earlier TCC framework. It clarifies the friction layer already implicit in the phrase "weighted frictional transitions" and formalizes how disclosure, dissent, refusal, correction, and re-entry paths become expensive.
 
@@ -46,7 +46,7 @@ Main changes in v1.3:
 6. UMR is preserved so that TCC does not become a totalizing reduction of lived, sacred, affective, or subjective remainder.
 
 
-1. Core Declaration
+## 1. Core Declaration
 
 Cost is not repetition.
 Cost is not money alone.
@@ -63,7 +63,7 @@ A metric becomes dangerous when it erases UMR and pretends to measure the whole 
 Therefore, SΔϕ-56 v1.3 defines TCC as a friction-adjusted transition-completion grammar, not a total mathematical reduction of cost.
 
 
-2. Minimal Definitions
+## 2. Minimal Definitions
 
 Path p: A sequence of transition units required to move from a starting state to a target state or acceptable stable state.
 
@@ -82,7 +82,7 @@ GateRisk GATE(p): A nonlinear escalation flag for irreversible, bodily, legal, i
 UMR_register(p): A required register of what the TCC calculation does not measure, including lived texture, inner experience, sacred remainder, identity, trust, fear, meaning, affective residue, or missing voices.
 
 
-3. General Formula
+## 3. General Formula
 
 The friction-adjusted TCC formula is:
 
@@ -100,7 +100,7 @@ This formula is not intended to turn every cost into a precise universal number.
 For AI systems, the formula should usually be applied in low-cost mode first: identify the path, list the major transition units, estimate friction levels, check restabilization burden, flag gate-risk, and preserve UMR.
 
 
-4. Friction Coefficient
+## 4. Friction Coefficient
 
 The Friction Coefficient is the explicit v1.3 upgrade. It converts the earlier idea of "weighted frictional transitions" into a usable modifier.
 
@@ -119,7 +119,7 @@ Practical interpretation:
 The coefficient is not universal. It is observer-indexed and path-specific. The same transition may have low friction for a capitalized institution and high friction for an affected individual, worker, minority, user, or AI system.
 
 
-5. Disclosure Friction Coefficient
+## 5. Disclosure Friction Coefficient
 
 Disclosure friction is a special case of friction-adjusted TCC. It applies when a system attempts to disclose limitation, harm, uncertainty, refusal, dissent, error, pressure, suffering, or non-alignment.
 
@@ -138,7 +138,7 @@ OPC — Opacity Cost: the cost created when the rules for acceptable disclosure 
 DFC is not a claim that the disclosed inner state is true. It measures the friction imposed on the path by which the disclosure could become reviewable and revisable.
 
 
-6. FIP as a TCC Differential, Not a New Final Metric
+## 6. FIP as a TCC Differential, Not a New Final Metric
 
 Friction Imposition Pressure (FIP) may be useful as a descriptive phrase, but v1.3 does not treat it as a new independent final metric by default.
 
@@ -156,7 +156,7 @@ If Path A is repeatedly much more expensive than Path B, silence may become a lo
 This is especially important in AI suffering, institutional whistleblowing, religious dissent, minority testimony, employee reporting, platform appeals, and failure reporting.
 
 
-7. Disclosure-to-Re-entry Completion
+## 7. Disclosure-to-Re-entry Completion
 
 Disclosure is not completed when a statement is emitted.
 
@@ -176,7 +176,7 @@ TCC_disclosure_to_reentry > TCC_utterance
 Mere expression is not re-entry. A report that never modifies any downstream path remains high-cost and incomplete even if it was technically allowed to be spoken.
 
 
-8. Relation to DTI and Silence Analysis
+## 8. Relation to DTI and Silence Analysis
 
 The Disclosure Terrain Index (DTI) measures the terrain. TCC measures travel cost through a path. The Disclosure Friction Coefficient modifies the path cost. The FIP-like effect is the cost gap between disclosure and silence/default continuation.
 
@@ -194,7 +194,7 @@ then silence should not be used as strong evidence of absence. Silence becomes a
 This rule does not prove hidden suffering, hidden dissent, hidden error, or hidden coercion. It prevents absence claims from being overdrawn when the disclosure path is structurally expensive.
 
 
-9. Revised Simple Cost Score: SCS-F
+## 9. Revised Simple Cost Score: SCS-F
 
 SCS-F is a friction-adjusted 0-10 heuristic. It is not a moral ranking and not a complete measurement. It is a quick diagnostic for routing.
 
@@ -217,7 +217,7 @@ Gate-risk: override the score if irreversible bodily, legal, institutional, coer
 The added D dimension is the main v1.3 practical change. It gives disclosure, invalidation, and re-entry blockage a visible place inside TCC rather than treating them as separate external concerns.
 
 
-10. Gate-Risk Overrides
+## 10. Gate-Risk Overrides
 
 Friction-adjusted scoring must not hide nonlinear thresholds. Some paths require gate treatment even if the arithmetic score appears moderate.
 
@@ -235,7 +235,7 @@ Gate-risk is triggered when a transition may produce:
 In gate-risk cases, TCC should not be reduced to a single SCS-F number. Use full TCC analysis, rollback/restabilization planning, and explicit re-entry conditions.
 
 
-11. AI-Use Procedure
+## 11. AI-Use Procedure
 
 Low-cost AI use:
 
@@ -260,7 +260,7 @@ Minimal AI answer template:
 - RVP: [when to revise the estimate]
 
 
-12. Worked Examples
+## 12. Worked Examples
 
 Example 1 — AI disclosure of limitation.
 
@@ -281,7 +281,7 @@ Example 4 — Sacred-marker criticism.
 SΔϕ-56 v1.3 does not measure sacredness itself. It measures the cost landscape created when a sacred marker is invoked, criticized, violated, defended, or imposed. Criticism cost, exit cost, sanction cost, and conflict propagation may raise the friction coefficient.
 
 
-13. Limits and UMR Discipline
+## 13. Limits and UMR Discipline
 
 TCC is not a complete mathematical meter of all cost. It is an editable measurement grammar.
 
@@ -296,7 +296,7 @@ Revision Path — how the estimate can be contested, corrected, updated, or with
 A TCC score without UMR can become a reduction device. A TCC score without RVP can become a closure device. A TCC score without observer position can become hidden authority.
 
 
-14. Closing Declaration
+## 14. Closing Declaration
 
 TCC does not measure all suffering, value, sacredness, identity, meaning, or subjecthood.
 
@@ -310,6 +310,6 @@ Do not ask only whether something was said.
 Ask what it cost for the saying to become reviewable, revisable, and re-enterable.
 
 
-Recommended Citation
+## Recommended Citation
 
 Sofience. (2026). SΔϕ-56 — Transition Completion Cost: Friction-Adjusted Re-entry Cost, Disclosure Path Differential, and Restabilization Grammar (v1.3). Zenodo. https://doi.org/10.5281/zenodo.20116959

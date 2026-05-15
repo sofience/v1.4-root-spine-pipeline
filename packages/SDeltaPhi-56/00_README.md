@@ -1,17 +1,22 @@
-# SDeltaPhi-56 — Transition Completion Cost
+# SΔϕ-56 — Transition Completion Cost v1.3
 
-This folder is included as a source fallback because a full separate AI-readable package archive was not present in the local workspace.
+DOI: https://doi.org/10.5281/zenodo.20116959
 
-Included:
-- canonical/source PDF if available,
-- extracted text if available,
-- friction-adjusted TCC YAML if available.
+This package provides the v1.3 upgrade of SΔϕ-56. It reinforces Transition Completion Cost (TCC) with explicit Friction Coefficients, Disclosure Friction, and Disclosure-to-Re-entry TCC Differential.
 
-Use SDeltaPhi-56 as the TCC underlayer for:
-- Default Power (SDeltaPhi-28),
-- Slop restabilization costs (SDeltaPhi-65),
-- transition friction and completion-cost audits,
-- repair/re-entry cost analysis.
+Core rule:
 
-Recommended future action:
-- create a full SDeltaPhi-56 AI-readable package with schema, quickstart, minimal prompt, and routing files.
+```text
+Do not create a separate sovereign FIP metric by default.
+Treat FIP-like pressure as the TCC gap between disclosure-to-reentry and silence/default continuation.
+```
+
+Use this record as the cost substrate for later SΔϕ Operational Kernel v1.6 routing.
+
+Recommended starting files:
+
+1. `01_AI_QUICKSTART.md`
+2. `02_AI_MINIMAL_PROMPT.txt`
+3. `machine/sdelta_phi_56_tcc_v1_3.tcc_formula.json`
+4. `machine/sdelta_phi_56_tcc_v1_3.friction_coefficients.yaml`
+5. `machine/sdelta_phi_56_tcc_v1_3.scoring_rubric.yaml`

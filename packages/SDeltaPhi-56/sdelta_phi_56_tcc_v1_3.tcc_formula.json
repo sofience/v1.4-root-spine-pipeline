@@ -1,0 +1,13 @@
+{
+  "id": "sdelta_phi_56_tcc_v1_3_formula",
+  "doi": "10.5281/zenodo.20116959",
+  "version": "v1.3",
+  "core_formula": "TCC(path) = sum_i(BaseStepCost_i * Friction_i * ObserverWeight_i) + RestabilizationCost(path) + GateRisk(path) + UMR_register(path)",
+  "disclosure_pressure_formula": "DisclosurePressure ~= TCC(disclosure_to_accepted_reentry) - TCC(silence_or_default_continuation)",
+  "interpretation": "FIP-like pressure is treated as a TCC differential, not as a separate final metric by default.",
+  "limits": [
+    "TCC is an editable measurement grammar",
+    "TCC does not exhaust lived texture, sacredness, subjecthood, pain, or meaning",
+    "UMR and RVP are required"
+  ]
+}

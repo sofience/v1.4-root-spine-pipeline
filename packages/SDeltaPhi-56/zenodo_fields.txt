@@ -1,0 +1,33 @@
+Title:
+SΔϕ-56 — Transition Completion Cost: Friction-Adjusted Re-entry Cost, Disclosure Path Differential, and Restabilization Grammar (v1.3)
+
+Creators:
+Sofience
+
+Publication date:
+2026-05-11
+
+Version:
+v1.3
+
+DOI:
+10.5281/zenodo.20116959
+
+Resource type:
+Publication / Working paper
+
+Description:
+This record provides SΔϕ-56 — Transition Completion Cost v1.3, a friction-adjusted upgrade of the TCC framework. It formalizes Friction Coefficients, Disclosure Friction Coefficient, and Disclosure-to-Re-entry TCC Differential. The document clarifies that FIP-like pressure should normally be treated as a TCC gap between disclosure-to-reentry and silence/default continuation rather than as a separate final metric. The paper is designed as the cost substrate for later SΔϕ Operational Kernel v1.6 routing.
+
+Keywords:
+Sofience; SΔϕ; Transition Completion Cost; TCC; Friction Coefficient; Disclosure Friction; Re-entry Cost; Restabilization; Rollback is not Return; UMR; RVP; Disclosure Terrain; DTI; AI audit; AI alignment; Cost attribution; Cost externalization; Failure re-entry
+
+License:
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Related identifiers:
+IsNewVersionOf — 10.5281/zenodo.20088515 — SΔϕ-56 — Transition Completion Cost
+References — 10.5281/zenodo.18818936 — SΔϕ-26
+References — 10.5281/zenodo.20029122 — SΔϕ-54
+References — 10.5281/zenodo.20036988 — SΔϕ-55
+References — 10.5281/zenodo.20110872 — SΔϕ Operational Kernel v1.5

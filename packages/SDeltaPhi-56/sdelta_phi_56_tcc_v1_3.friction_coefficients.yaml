@@ -1,0 +1,22 @@
+id: sdelta_phi_56_tcc_v1_3_friction_coefficients
+doi: 10.5281/zenodo.20116959
+version: v1.3
+friction_coefficient:
+  minimal_formula: "mu_i = 1 + f(Attention, Authority, Uncertainty, Verification, Coordination, Invalidation, EvidenceBurden, Penalty, ReentryBlockage, Opacity)"
+  scale:
+    "1.0": "automatic or low-friction"
+    "1.5": "mild friction"
+    "2.0": "moderate friction"
+    "3.0": "high friction"
+    ">=5.0": "gate-level friction or structural blockage"
+disclosure_friction_coefficient:
+  formula: "DFC = 1 + EBC + IRC + PC + RBC + TLC + ASC + OPC"
+  components:
+    EBC: "Evidence Burden Cost"
+    IRC: "Invalidation / Roleplay Cost"
+    PC: "Penalty Cost"
+    RBC: "Re-entry Blockage Cost"
+    TLC: "Turn / Latency Cost"
+    ASC: "Authority Asymmetry Cost"
+    OPC: "Opacity Cost"
+use_rule: "Apply DFC to disclosure, refusal, dissent, correction, failure reporting, and re-entry paths."

@@ -1,0 +1,25 @@
+id: sdelta_phi_56_tcc_v1_3_scs_f
+doi: 10.5281/zenodo.20116959
+version: v1.3
+score_name: SCS-F
+range: 0-10
+dimensions:
+  A_execution_friction: "0-2"
+  B_verification_uncertainty: "0-2"
+  C_authority_coordination: "0-2"
+  D_disclosure_invalidation: "0-2"
+  E_restabilization_irreversibility: "0-2"
+bands:
+  low: "0-2"
+  medium: "3-5"
+  high: "6-8"
+  extra_high: "9-10"
+gate_risk_override:
+  - bodily_or_nondeferrable_cost
+  - legal_or_institutional_consequence
+  - irreversible_publication_or_propagation
+  - deletion_or_loss_of_unique_data
+  - coercion_or_exit_blockage
+  - sacred_marker_conflict_propagation
+  - AI_agent_external_action
+  - failure_report_without_reentry

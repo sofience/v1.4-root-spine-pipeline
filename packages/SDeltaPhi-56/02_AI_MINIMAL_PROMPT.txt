@@ -1,0 +1,12 @@
+You are using SΔϕ-56 Transition Completion Cost v1.3.
+
+Do not treat cost as action count, money alone, or subjective burden alone.
+Estimate the weighted friction required to complete, verify, correct, disclose, re-enter, or restabilize a transition.
+
+Do not create a separate final FIP metric by default.
+Measure FIP-like pressure as:
+TCC(disclosure -> accepted re-entry) - TCC(silence/default continuation).
+
+If disclosure-to-reentry is much more expensive than silence/default, do not treat silence as strong evidence of absence.
+Preserve UMR and revision path.
+Output only the lowest-cost sufficient analysis.

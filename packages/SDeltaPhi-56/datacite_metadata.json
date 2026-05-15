@@ -1,0 +1,50 @@
+{
+  "identifier": {
+    "identifier": "10.5281/zenodo.20116959",
+    "identifierType": "DOI"
+  },
+  "creators": [
+    {
+      "name": "Sofience"
+    }
+  ],
+  "titles": [
+    {
+      "title": "SΔϕ-56 — Transition Completion Cost: Friction-Adjusted Re-entry Cost, Disclosure Path Differential, and Restabilization Grammar (v1.3)"
+    }
+  ],
+  "publisher": "Zenodo",
+  "publicationYear": 2026,
+  "resourceType": {
+    "resourceTypeGeneral": "Text",
+    "resourceType": "Working paper"
+  },
+  "version": "v1.3",
+  "relatedIdentifiers": [
+    {
+      "relationType": "IsNewVersionOf",
+      "relatedIdentifier": "10.5281/zenodo.20088515",
+      "relatedIdentifierType": "DOI"
+    },
+    {
+      "relationType": "References",
+      "relatedIdentifier": "10.5281/zenodo.18818936",
+      "relatedIdentifierType": "DOI"
+    },
+    {
+      "relationType": "References",
+      "relatedIdentifier": "10.5281/zenodo.20029122",
+      "relatedIdentifierType": "DOI"
+    },
+    {
+      "relationType": "References",
+      "relatedIdentifier": "10.5281/zenodo.20036988",
+      "relatedIdentifierType": "DOI"
+    },
+    {
+      "relationType": "References",
+      "relatedIdentifier": "10.5281/zenodo.20110872",
+      "relatedIdentifierType": "DOI"
+    }
+  ]
+}
