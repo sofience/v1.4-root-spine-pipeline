@@ -1,0 +1,31 @@
+Apply SDeltaPhi-05 Agency as Recursive Transition Law Update Audit.
+
+Do not treat agency as free will, consciousness, or personhood.
+
+Audit:
+- path generation
+- path selection
+- execution
+- environmental effect
+- feedback reception
+- transition law update
+- recursive continuity
+- automation vs agency
+- tool-use relation
+- responsibility precondition
+- UMR
+
+Return:
+Observed operation:
+Generated paths:
+Selected path:
+Execution trace:
+Environmental effect:
+Feedback received:
+Transition law updated:
+Recursive continuity:
+Agency candidate level:
+Overclaim risk:
+Responsibility risk:
+UMR:
+Recommended correction:

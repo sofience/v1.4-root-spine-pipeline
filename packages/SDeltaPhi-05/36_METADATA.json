@@ -1,0 +1,84 @@
+{
+  "id": "SDeltaPhi-05",
+  "title": "SΔϕ-05 - Agency as Recursive Transition Law Update",
+  "package_title": "SΔϕ-05 - Agency as Recursive Transition Law Update: Path Generation, Feedback Integration, and Operational Agency AI-Readable Package",
+  "version": "v1.1",
+  "canonical_paper_version": "v1.1",
+  "source_paper_version": "v1.0.1",
+  "package_version": "v1.1",
+  "creator": "Sofience",
+  "date": "2026-05-15",
+  "doi": "10.5281/zenodo.20214446",
+  "url": "https://doi.org/10.5281/zenodo.20214446",
+  "record_url": "https://zenodo.org/records/20214446",
+  "type": "AI-readable package / working paper / agency recursive transition-law update audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "Agency is not free will, consciousness, personhood, legal responsibility, or mere tool use. Agency is recursive transition law update: path generation, path selection, execution, environmental effect, feedback reception, transition law update, and recursive continuity.",
+  "primary_formulae": {
+    "core": "Agency = Recursive Transition Law Update",
+    "expanded": "Agency = Path Generation + Path Selection + Execution + Environmental Effect + Feedback Reception + Transition Law Update + Recursive Continuity",
+    "simple_reaction": "input -> output",
+    "agency_pipeline": "input -> path generation -> path selection -> execution -> effect -> feedback -> transition law update"
+  },
+  "conditions": [
+    "Path Generation",
+    "Path Selection",
+    "Execution",
+    "Environmental Effect",
+    "Feedback Reception",
+    "Transition Law Update",
+    "Recursive Continuity"
+  ],
+  "detection_scale": [
+    "A0",
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5"
+  ],
+  "risk_types": [
+    "Path Generation Overclaim",
+    "Autonomy Inflation",
+    "Responsibility Premature Assignment",
+    "Tool Agency Confusion",
+    "Planning Text Inflation"
+  ],
+  "recommended_use": [
+    "agency audit",
+    "AI agent analysis",
+    "autonomous workflow analysis",
+    "tool-use audit",
+    "planning vs execution distinction",
+    "feedback update analysis",
+    "responsibility precondition analysis"
+  ],
+  "do_not_use_as": [
+    "proof of free will",
+    "proof of consciousness",
+    "proof of personhood",
+    "proof of legal responsibility",
+    "agency proof from one output",
+    "agency proof from tool use alone",
+    "responsibility assignment without cost-internalization audit"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "Agency",
+    "Recursive Transition Law Update",
+    "Path Generation",
+    "Path Selection",
+    "Execution",
+    "Environmental Effect",
+    "Feedback Reception",
+    "Transition Law Update",
+    "Recursive Continuity",
+    "AI Agents",
+    "Tool Use",
+    "Autonomy",
+    "Responsibility Preconditions",
+    "AI Governance",
+    "AI-readable Package"
+  ]
+}

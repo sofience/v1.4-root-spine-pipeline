@@ -1,0 +1,71 @@
+# Zenodo Metadata - SΔϕ-05 Agency as Recursive Transition Law Update AI-Readable Package
+
+## Title
+
+SΔϕ-05 - Agency as Recursive Transition Law Update: Path Generation, Feedback Integration, and Operational Agency (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 - AI-readable package
+
+## Publication date
+
+2026-05-15
+
+## DOI
+
+10.5281/zenodo.20214446
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-05 defines agency as recursive transition law update within the Sofience-Δϕ Formalism Series. The central claim is that agency is not free will, consciousness, personhood, legal responsibility, or mere tool use. Agency is recursively updated operation: path generation, path selection, execution, environmental effect, feedback reception, transition law update, and recursive continuity.
+
+This AI-readable package extends the source SΔϕ-05 paper on Agency as Recursive Transition Law Update. It distinguishes simple reaction, automation, tool use, operational agency, and responsibility preconditions. A system is not an agent merely because it produces output or uses a tool. A system becomes an agency candidate when it generates possible paths, selects among them, executes a selected path, affects the environment or cost terrain, receives feedback, updates its transition law, and preserves that update recursively.
+
+The package decomposes SΔϕ-05 into operational files for AI ingestion, including a canonical v1.1 paper, source v1.0.1 paper and extracted text, core declaration, AI quickstart, minimal prompt, agency recursive transition schema, condition files for path generation, path selection, execution, environmental effect, feedback reception, transition law update, and recursive continuity, detection scale, reaction versus agency, agency versus subjectivity/personhood/legal responsibility/automation/tool use, risk files for path generation overclaim, autonomy inflation, responsibility premature assignment, tool agency confusion, output templates, misreadings, relation files, metadata, citation file, DOI references, license, and manifest.
+
+The framework is intended for agency audit, AI agent analysis, autonomous workflow analysis, tool-use audit, planning versus execution distinction, feedback update analysis, and responsibility precondition analysis. It should not be used as proof of free will, consciousness, personhood, legal responsibility, agency from one output, agency from tool use alone, or responsibility assignment without cost-internalization audit.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Agency; Recursive Transition Law Update; Path Generation; Path Selection; Execution; Environmental Effect; Feedback Reception; Transition Law Update; Recursive Continuity; AI Agents; Tool Use; Autonomy; Responsibility Preconditions; AI Governance; AI-readable Package.
+
+## Related identifiers
+
+- SΔϕ-01 - Minimal Core / Phase-Change Formalism of Existence: https://doi.org/10.5281/zenodo.18730265 ; Relation: References
+- SΔϕ-02 - Subject as Interpretive Emergence AI-Readable Package: https://doi.org/10.5281/zenodo.20213230 ; Relation: References
+- SΔϕ-04 - Minimal Operational Conditions for AI Subjectivity AI-Readable Package: https://doi.org/10.5281/zenodo.20213716 ; Relation: References
+- SΔϕ-06 - Responsibility as Irreversible Cost Internalization: https://doi.org/10.5281/zenodo.18734092 ; Relation: References
+- SΔϕ-47 - Operor ergo sum / Irreversible Operation Root: https://doi.org/10.5281/zenodo.20162226 ; Relation: References
+- SΔϕ-48 - AI Drift as Transition Governance Instability: https://doi.org/10.5281/zenodo.20204951 ; Relation: References
+- SΔϕ-49 - AI Poverty as Failure Non-Reentry Resource Deficit: https://doi.org/10.5281/zenodo.20205572 ; Relation: References
+- SΔϕ-56 - Transition Completion Cost: https://doi.org/10.5281/zenodo.20116959 ; Relation: References
+- SΔϕ-62 - World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548 ; Relation: References
+
+## Original source DOI
+
+SΔϕ-05 - Agency as Recursive Transition Law Update: https://doi.org/10.5281/zenodo.18732567 ; Relation: IsNewVersionOf
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-05 - Agency as Recursive Transition Law Update: Path Generation, Feedback Integration, and Operational Agency (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20214446

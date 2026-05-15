@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "SΔϕ-05 - Agency as Recursive Transition Law Update: Path Generation, Feedback Integration, and Operational Agency"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-15"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-05. It defines agency as recursive transition law update through path generation, path selection, execution, environmental effect, feedback reception, transition-law update, and recursive continuity."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Agency
+  - Recursive Transition Law Update
+  - Path Generation
+  - Path Selection
+  - Execution
+  - Feedback Integration
+  - AI Agents
+  - Responsibility Preconditions
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20214446"
+url: "https://doi.org/10.5281/zenodo.20214446"

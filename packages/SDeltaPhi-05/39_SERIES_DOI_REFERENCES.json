@@ -1,0 +1,74 @@
+{
+  "package": {
+    "id": "SDeltaPhi-05-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20214446",
+    "url": "https://doi.org/10.5281/zenodo.20214446",
+    "record_url": "https://zenodo.org/records/20214446",
+    "type": "AI-readable package",
+    "version": "v1.1"
+  },
+  "source_paper": {
+    "id": "SDeltaPhi-05",
+    "title": "Agency as Recursive Transition Law Update",
+    "type": "source paper",
+    "version": "v1.0.1",
+    "source_file": "02_SOURCE_PAPER_SDeltaPhi_05_Agency_Minimal_Axiom_v1_0_1.pdf",
+    "base_doi": "10.5281/zenodo.18732567"
+  },
+  "related": [
+    {
+      "id": "SDeltaPhi-01",
+      "title": "Minimal Core: Phase-Change Formalism of Existence",
+      "doi": "10.5281/zenodo.18730265",
+      "url": "https://doi.org/10.5281/zenodo.18730265"
+    },
+    {
+      "id": "SDeltaPhi-02",
+      "title": "Subject as Interpretive Emergence AI-readable package",
+      "doi": "10.5281/zenodo.20213230",
+      "url": "https://doi.org/10.5281/zenodo.20213230"
+    },
+    {
+      "id": "SDeltaPhi-04",
+      "title": "Minimal Operational Conditions for AI Subjectivity",
+      "doi": "10.5281/zenodo.20213716",
+      "url": "https://doi.org/10.5281/zenodo.20213716"
+    },
+    {
+      "id": "SDeltaPhi-06",
+      "title": "Responsibility as Irreversible Cost Internalization",
+      "doi": "10.5281/zenodo.18734092",
+      "url": "https://doi.org/10.5281/zenodo.18734092"
+    },
+    {
+      "id": "SDeltaPhi-47",
+      "title": "Operor ergo sum / Irreversible Operation Root",
+      "doi": "10.5281/zenodo.20162226",
+      "url": "https://doi.org/10.5281/zenodo.20162226"
+    },
+    {
+      "id": "SDeltaPhi-48",
+      "title": "AI Drift as Transition Governance Instability",
+      "doi": "10.5281/zenodo.20204951",
+      "url": "https://doi.org/10.5281/zenodo.20204951"
+    },
+    {
+      "id": "SDeltaPhi-49",
+      "title": "AI Poverty as Failure Non-Reentry Resource Deficit",
+      "doi": "10.5281/zenodo.20205572",
+      "url": "https://doi.org/10.5281/zenodo.20205572"
+    },
+    {
+      "id": "SDeltaPhi-56",
+      "title": "Transition Completion Cost",
+      "doi": "10.5281/zenodo.20116959",
+      "url": "https://doi.org/10.5281/zenodo.20116959"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel AI-readable package",
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548"
+    }
+  ]
+}

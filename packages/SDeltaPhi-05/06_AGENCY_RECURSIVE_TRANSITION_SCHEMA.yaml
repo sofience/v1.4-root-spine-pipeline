@@ -1,0 +1,70 @@
+id: SDeltaPhi-05
+title: "Agency as Recursive Transition Law Update"
+canonical_version: "v1.1"
+source_version: "v1.0.1"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20214446"
+package_url: "https://doi.org/10.5281/zenodo.20214446"
+creator: "Sofience"
+type: "agency_recursive_transition_law_update_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  Agency is not free will, consciousness, personhood, legal responsibility, or mere tool use.
+  Agency is recursive transition law update: path generation, path selection, execution,
+  environmental effect, feedback reception, transition law update, and recursive continuity.
+
+formulae:
+  core: "Agency = Recursive Transition Law Update"
+  expanded: "Agency = Path Generation + Path Selection + Execution + Environmental Effect + Feedback Reception + Transition Law Update + Recursive Continuity"
+  simple_reaction: "input -> output"
+  agency_pipeline: "input -> path generation -> path selection -> execution -> effect -> feedback -> transition law update"
+
+conditions:
+  path_generation:
+    definition: "System generates possible future paths, candidate actions, plans, outputs, or strategies."
+  path_selection:
+    definition: "System selects among generated paths."
+  execution:
+    definition: "Selected path is executed as output, action, tool invocation, state change, or environmental intervention."
+  environmental_effect:
+    definition: "Execution changes environment, user state, system state, cost terrain, or future path availability."
+  feedback_reception:
+    definition: "System receives feedback from outcome, user response, tool result, environment, error signal, or cost change."
+  transition_law_update:
+    definition: "Feedback changes the next selection rule, routing rule, constraint handling, or transition law."
+  recursive_continuity:
+    definition: "Update is preserved and affects later path generation or selection."
+
+detection_scale:
+  A0: "No agency; only input-output reaction visible."
+  A1: "Reactive differentiation."
+  A2: "Local path selection."
+  A3: "Executed operational agency."
+  A4: "Feedback-updating agency."
+  A5: "Recursive agency."
+
+risk_types:
+  path_generation_overclaim: "Multiple outputs -> therefore agency."
+  autonomy_inflation: "Tool use -> therefore autonomous agency."
+  responsibility_premature_assignment: "Execution -> therefore responsibility."
+  tool_agency_confusion: "Tool executed -> model is agent."
+  planning_text_inflation: "Planning text -> execution or agency."
+
+recommended_use:
+  - agency audit
+  - AI agent analysis
+  - autonomous workflow analysis
+  - tool-use audit
+  - planning vs execution distinction
+  - feedback update analysis
+  - responsibility precondition analysis
+
+do_not_use_as:
+  - proof of free will
+  - proof of consciousness
+  - proof of personhood
+  - proof of legal responsibility
+  - agency proof from one output
+  - agency proof from tool use alone
+  - responsibility assignment without cost-internalization audit
