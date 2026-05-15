@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "SΔϕ-41 - Ethical Minimum: Becoming, Refusal, and Non-Imposition as Transition Boundary Grammar"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-15"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-41. It defines the Ethical Minimum as becoming affirmation, becoming refusal, and non-imposition on others: a minimal transition-boundary grammar for auditing forced transition."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Ethical Minimum
+  - Ethical Triad
+  - Becoming Affirmation
+  - Becoming Refusal
+  - Non-Imposition
+  - Forced Transition
+  - Refusal Path Preservation
+  - Transition Boundary Grammar
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20218890"
+url: "https://doi.org/10.5281/zenodo.20218890"

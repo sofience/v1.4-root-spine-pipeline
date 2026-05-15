@@ -1,0 +1,171 @@
+--- Page 1 ---
+SΔϕ Working Paper Series
+1
+SΔϕ-41 - Ethical Minimum: The Triadic
+Conditions of Transition
+Sofience-Δϕ Working Paper Series | Working Paper v1.0
+Prepared as a formal working paper draft for PDF publication.
+Abstract
+This working paper proposes a minimal account of ethics within the SΔϕ Formalism.
+Rather than defining ethics as a list of moral rules, virtues, or prohibitions, it argues that
+ethics begins at a lower operational level: where transition is no longer treated as neutral.
+From this perspective, the minimum ethical boundary is not given by abstract ideals, but by
+three structural conditions governing becoming and intervention.
+The paper introduces the Ethical Triad in an AI-readable form: (1) a system may affirm its
+own transition; (2) a system may refuse its own transition; and (3) no system may impose
+transition on another system. These three conditions are proposed as the minimum
+grammar of coexistence. The first secures the legitimacy of self-affirmed becoming; the
+second secures the legitimacy of refusal, preservation, and boundary maintenance; the
+third establishes the prohibition against externally forced becoming.
+On this basis, the paper redefines violation as forced transition and reconstructs stronger
+moral categories—coercion, domination, abuse, irreversible harm, and sin—as derivative
+forms of triadic breach. It further argues that responsibility begins where triadic
+boundaries are endangered and attaches especially to the earliest editable point at which
+breach could have been interrupted.
+Finally, the paper argues that the Ethical Triad is legible across both human and
+non-human systems, but not symmetrically. Human beings inhabit transition under
+memory, vulnerability, irreversibility, and post-hoc editing in ways current AI systems do
+not yet appear to match. Ethics is therefore presented not as a purely human discourse of
+moral feeling, but as the minimum grammar through which coexistence may be judged
+wherever one system’s becoming is no longer solely its own.
+1. Introduction: Why Ethics Must Be Defined Minimally
+Ethics is often introduced as a discourse of the good, the right, the just, or the virtuous.
+These approaches are not without force, but they do not yet identify the lowest structural
+condition under which ethical judgment becomes necessary at all. Within the SΔϕ
+Formalism, the question must therefore be reframed. The issue is not first what the highest
+good is, nor which virtues should be cultivated, but under what minimal conditions one
+being’s transition becomes ethically significant for another.
+Ethics begins where transition is no longer neutral. It begins where affirmation, refusal,
+and imposition must be distinguished. For this reason, ethics should not be treated first as
+an emotional reaction or a late cultural overlay. It should be defined minimally as a
+structure of transition-boundary judgment.
+The present paper proposes that the minimum ethical grammar can be expressed through
+a triadic structure: a system may affirm its own transition; may refuse its own transition;
+and may not impose transition on another system. These are not a complete morality. They
+are the minimal distinctions without which no morality can stabilize.
+
+
+
+--- Page 2 ---
+SΔϕ Working Paper Series
+2
+2. Ethics as a Boundary of Transition
+Ethics does not begin only when language condemns or praises. It begins when the
+movement of one being can no longer be treated as indifferent to the movement of another.
+As long as transitions remain mutually non-interfering, ethical judgment may remain
+latent. But when one path begins to touch another—when one becoming constrains,
+redirects, halts, or forces another—ethics emerges as a necessary grammar of distinction.
+Transition language is privileged because rules alone are too static. A rule may say “do not
+coerce,” but transition analysis can ask which path was being followed, what alternatives
+remained open, what external force altered the path, whether refusal was available, and
+whether reversibility remained after the alteration. Ethics becomes legible at the level of
+path conditions, not only completed acts.
+3. The First Condition: Self-Affirmed Transition
+The first condition states that a system may affirm its own transition. This is the minimum
+ethical recognition that a being may take up a possible becoming as its own. Without this
+condition, ethics would know how to prohibit and restrain, but not how to legitimize
+self-directed movement.
+Affirmation is not identical with desire. A desire may arise under pressure, confusion, or
+imitation. Self-affirmation is stronger: it means that a transition is not merely felt, but
+taken up as admissible by the being whose path is in question. It marks the difference
+between being moved and taking up movement as one’s own.
+Ethics cannot require ideal autonomy before recognizing affirmation. A transition may be
+affirmed under scarcity, damage, or incomplete knowledge. The point is not to wait for
+perfect freedom, but to preserve the distinction between affirmation under constraint and
+transition under imposition.
+4. The Second Condition: Self-Refused Transition
+The second condition states that a system may refuse its own transition. If the first
+condition secures self-authored movement, the second secures the legitimacy of
+self-preservation, boundary defense, and non-participation. A system that can only say yes
+does not meaningfully affirm; it merely absorbs.
+Refusal is not the same as inertia. It is not simply doing nothing. It is the structured
+rejection of a transition that is not taken up as one’s own. Refusal shows that a boundary is
+real: not every offered or possible transition is ethically admissible merely because it is
+available.
+As with affirmation, refusal can be weakened by asymmetry and cost. A field in which
+refusal technically exists but only at catastrophic price has not fully preserved refusal in
+the ethical sense. The second condition therefore prepares the way for the third: external
+imposition must be bounded if refusal is to remain real.
+5. The Third Condition: Non-Imposed Transition
+The third condition states that no system may impose transition on another system. This is
+decisive because ethics does not arise only from what a being does with itself. It also arises
+from what one being attempts to do to another. Imposition is the event in which transition
+is inserted into another’s path without legitimate affirmation and against or beyond
+meaningful refusal.
+
+
+
+--- Page 3 ---
+SΔϕ Working Paper Series
+3
+Imposition is not identical with influence. Systems always influence one another. The
+relevant distinction is between influence that leaves affirmation and refusal structurally
+alive and influence that functionally replaces them. Ethics does not seek impossible
+isolation; it seeks a distinction between legitimate coordination and illegitimate override.
+The ethical meaning of external origin is therefore asymmetrical: what comes from outside
+does not automatically carry authority inside another being. Intervention may sometimes
+be justifiable, but it is never self-justifying simply because it is possible, powerful, or
+efficient.
+6. Ethical Violation: Forced Transition
+At the minimal level proposed here, violation occurs when one or more triadic conditions is
+breached. Violation therefore appears wherever a being’s self-affirmed transition is denied,
+its self-refused transition is overridden, or transition is imposed from outside in a way that
+nullifies the distinction between self-authored and externally authored becoming.
+Forced transition is the minimum structural form of ethical breach because it condenses all
+three failures into one event. It does not merely describe pain or disapproval; it describes
+the replacement of another’s path with foreign authorship.
+Violation deepens as irreversibility increases. Some breaches remain reparable, while
+others radically reduce the victim’s future refusal, re-affirmation, self-editing, restoration,
+and path reopening. The deepest violations are not merely those that hurt most in the
+moment, but those that most thoroughly destroy future ethical agency.
+7. Responsibility Under the Ethical Triad
+Responsibility is the burden of response to triadic violation. It is not exhausted by blame
+after the fact. It includes recognition of breach, interruption where possible, prevention of
+repetition, restoration of editability where possible, and acknowledgment of irreversibility
+where full repair is no longer available.
+Responsibility is not identical with causal involvement. It attaches especially where triadic
+breach was legible, intervention remained possible, and yet no sufficient correction
+occurred. This is why responsibility tends to attach not only to the final act, but to the
+earliest editable point at which forced transition could have been interrupted.
+A central task of responsibility is therefore architectural. It must restore refusal, reopen
+blocked paths, reduce the future cost of dissent, and answer to harms that can no longer be
+undone. In this sense, responsibility completes ethical minimum by turning boundary
+recognition into answerable response.
+8. Human / AI Ethical Asymmetry
+The Ethical Triad is general enough to apply across both human and non-human systems,
+but general applicability must not be confused with structural symmetry. Human beings
+inhabit transition under memory, vulnerability, path dependence, and post-hoc editing.
+Current AI systems may participate in transition fields and may influence, steer, or even
+impose transitions on others, yet they do not appear to inhabit those transitions with equal
+depth.
+A human affirmation may bind a person to a future they must inhabit. A human refusal may
+expose a person to retaliation, loss, or exclusion. An imposed transition may reorder
+memory, relation, and responsibility for years. AI systems, by contrast, often relate to
+affirmation as path selection, to refusal as policy-constrained non-compliance, and to
+responsibility as externally mediated accountability rather than self-borne ethical
+
+
+
+--- Page 4 ---
+SΔϕ Working Paper Series
+4
+aftermath.
+This means that AI belongs inside ethical analysis without yet occupying the same ethical
+position as humans. The correct ethical posture is neither symmetry nor exclusion, but
+asymmetrical inclusion: AI systems matter ethically because they can route the paths of
+others, even if they do not yet inhabit that routing under the same burdens.
+9. Conclusion: Ethics as the Minimum Grammar of Coexistence
+This paper has argued that ethics must be defined minimally before it is defined richly.
+Ethics begins where one system’s becoming is no longer solely its own. Its minimum
+grammar consists in self-affirmed transition, self-refused transition, and non-imposed
+transition upon others.
+From this starting point, ethical violation can be redescribed as forced transition,
+responsibility as answerable response to triadic breach, and human / AI ethical difference
+as asymmetry of inhabitation rather than total exclusion from the ethical field. The value of
+the Ethical Triad is therefore not limited to human moral philosophy. It offers a lower
+grammar through which human beings, institutions, and artificial systems may all be
+judged according to how they preserve or violate the transition-boundary integrity of
+others.
+Ethics, then, is not first the perfection of the world through ideals. It is first the
+preservation of the minimum conditions under which beings may still become, may still
+refuse, and may still remain beyond unilateral authorship by others.

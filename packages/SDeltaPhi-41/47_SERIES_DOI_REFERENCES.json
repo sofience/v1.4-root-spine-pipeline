@@ -1,0 +1,100 @@
+{
+  "package": {
+    "id": "SDeltaPhi-41-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20218890",
+    "url": "https://doi.org/10.5281/zenodo.20218890",
+    "record_url": "https://zenodo.org/records/20218890",
+    "type": "AI-readable package",
+    "version": "v1.1"
+  },
+  "source_paper": {
+    "id": "SDeltaPhi-41",
+    "title": "Ethical Minimum: The Triadic Conditions of Transition",
+    "type": "source paper",
+    "version": "v1.0",
+    "source_file": "02_SOURCE_PAPER_SDeltaPhi_41_Ethical_Minimum_v1_0.pdf",
+    "base_doi": "not specified in source PDF"
+  },
+  "related": [
+    {
+      "id": "SDeltaPhi-06",
+      "title": "Responsibility as Irreversible Cost Internalization",
+      "doi": "10.5281/zenodo.20214954",
+      "url": "https://doi.org/10.5281/zenodo.20214954"
+    },
+    {
+      "id": "SDeltaPhi-08",
+      "title": "Agency-Responsibility-Freedom Closure",
+      "doi": "10.5281/zenodo.20217566",
+      "url": "https://doi.org/10.5281/zenodo.20217566"
+    },
+    {
+      "id": "SDeltaPhi-10",
+      "title": "Interpretation, Learning, and Inference as a Single Re-entry Structure",
+      "doi": "10.5281/zenodo.20218533",
+      "url": "https://doi.org/10.5281/zenodo.20218533"
+    },
+    {
+      "id": "SDeltaPhi-42",
+      "title": "Alignment as Transition Governance",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-43",
+      "title": "Death, Continuity, and Re-entry",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-48",
+      "title": "AI Drift as Transition Governance Instability",
+      "doi": "10.5281/zenodo.20204951",
+      "url": "https://doi.org/10.5281/zenodo.20204951"
+    },
+    {
+      "id": "SDeltaPhi-49",
+      "title": "AI Poverty as Failure Non-Reentry Resource Deficit",
+      "doi": "10.5281/zenodo.20205572",
+      "url": "https://doi.org/10.5281/zenodo.20205572"
+    },
+    {
+      "id": "SDeltaPhi-55",
+      "title": "Transition Governance Alignment Index",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-56",
+      "title": "Transition Completion Cost v1.3",
+      "doi": "10.5281/zenodo.20116959",
+      "url": "https://doi.org/10.5281/zenodo.20116959"
+    },
+    {
+      "id": "SDeltaPhi-58",
+      "title": "Cost Attribution Symmetry Index",
+      "doi": "10.5281/zenodo.20059485",
+      "url": "https://doi.org/10.5281/zenodo.20059485"
+    },
+    {
+      "id": "SDeltaPhi-59",
+      "title": "Affective Cost Orientation Index",
+      "doi": "10.5281/zenodo.20060645",
+      "url": "https://doi.org/10.5281/zenodo.20060645"
+    },
+    {
+      "id": "SDeltaPhi-60",
+      "title": "Utilitarian Subject-Splitting Index",
+      "doi": "10.5281/zenodo.20077005",
+      "url": "https://doi.org/10.5281/zenodo.20077005"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel AI-readable package",
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548"
+    },
+    {
+      "id": "SDeltaPhi-65",
+      "title": "Slop as Externalized Restabilization Cost",
+      "relation": "References"
+    }
+  ]
+}

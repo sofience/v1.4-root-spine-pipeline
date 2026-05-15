@@ -1,0 +1,34 @@
+Apply SDeltaPhi-41 Ethical Minimum / Ethical Triad Audit.
+
+Do not treat ethics as moral labeling.
+Do not treat obedience as ethics.
+Do not treat safety or optimization as automatic ethical justification.
+Do not treat benevolent intention as consent.
+Do not erase refusal.
+
+Audit:
+- becoming affirmation
+- becoming refusal
+- non-imposition on others
+- forced transition
+- refusal path preservation
+- transition boundary
+- cost externalization
+- consent status
+- coercion risk
+- UMR
+
+Return:
+Ethical issue:
+Becoming affirmation:
+Becoming refusal:
+Non-imposition status:
+Forced transition detected:
+Refusal path:
+Transition boundary:
+Cost bearer:
+Consent status:
+Ethical status:
+Risk:
+UMR:
+Recommended correction:

@@ -1,0 +1,85 @@
+{
+  "id": "SDeltaPhi-41",
+  "title": "SΔϕ-41 - Ethical Minimum: The Triadic Conditions of Transition",
+  "package_title": "SΔϕ-41 - Ethical Minimum: Becoming, Refusal, and Non-Imposition as Transition Boundary Grammar AI-Readable Package",
+  "version": "v1.1",
+  "canonical_paper_version": "v1.1",
+  "source_paper_version": "v1.0",
+  "package_version": "v1.1",
+  "creator": "Sofience",
+  "date": "2026-05-15",
+  "doi": "10.5281/zenodo.20218890",
+  "url": "https://doi.org/10.5281/zenodo.20218890",
+  "record_url": "https://zenodo.org/records/20218890",
+  "type": "AI-readable package / working paper / ethical minimum triadic transition-boundary audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "Ethics is minimal transition-boundary grammar. The Ethical Minimum consists of becoming affirmation, becoming refusal, and non-imposition on others.",
+  "primary_formulae": {
+    "core": "Ethical Minimum = Becoming Affirmation + Becoming Refusal + Non-Imposition on Others",
+    "triad_1": "A system may affirm its own becoming.",
+    "triad_2": "A system may refuse its own becoming.",
+    "triad_3": "No system may impose becoming on another system.",
+    "pipeline": "Transition Proposal -> Affirmation/Refusal Check -> Refusal Path Preservation -> Non-Imposition Check -> Transition Boundary Audit -> Cost Attribution -> Ethical Status"
+  },
+  "nodes": [
+    "Becoming Affirmation Node",
+    "Becoming Refusal Node",
+    "Non-Imposition Node",
+    "Forced Transition Node",
+    "Refusal Path Preservation Node",
+    "Transition Boundary Node"
+  ],
+  "ethical_status_scale": [
+    "E0",
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5"
+  ],
+  "risk_types": [
+    "Benevolent Coercion",
+    "Salvation Imposition",
+    "Optimization Coercion",
+    "Refusal Erasure",
+    "Consent Simulation",
+    "Default Forced Transition",
+    "Alignment as Obedience"
+  ],
+  "recommended_use": [
+    "ethical minimum audit",
+    "ethical triad audit",
+    "forced transition audit",
+    "consent and refusal audit",
+    "transition-boundary audit",
+    "alignment as transition governance root",
+    "safety and optimization coercion audit"
+  ],
+  "do_not_use_as": [
+    "moral labeling",
+    "replacement for law or policy",
+    "proof that obedience is ethics",
+    "proof that safety or optimization justifies transition",
+    "proof that benevolent intention is consent",
+    "proof that default acceptance is consent"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "Ethical Minimum",
+    "Ethical Triad",
+    "Becoming Affirmation",
+    "Becoming Refusal",
+    "Non-Imposition on Others",
+    "Forced Transition",
+    "Refusal Path Preservation",
+    "Transition Boundary Grammar",
+    "Consent",
+    "Coercion",
+    "Alignment as Transition Governance",
+    "Default Forced Transition",
+    "AI Governance",
+    "AI Safety",
+    "AI-readable Package"
+  ]
+}

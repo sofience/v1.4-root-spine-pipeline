@@ -1,0 +1,69 @@
+id: SDeltaPhi-41
+title: "Ethical Minimum: The Triadic Conditions of Transition"
+canonical_version: "v1.1"
+source_version: "v1.0"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20218890"
+package_url: "https://doi.org/10.5281/zenodo.20218890"
+creator: "Sofience"
+type: "ethical_minimum_triadic_transition_boundary_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  Ethics is minimal transition-boundary grammar. The Ethical Minimum consists of
+  becoming affirmation, becoming refusal, and non-imposition on others.
+
+formulae:
+  core: "Ethical Minimum = Becoming Affirmation + Becoming Refusal + Non-Imposition on Others"
+  triad_1: "A system may affirm its own becoming."
+  triad_2: "A system may refuse its own becoming."
+  triad_3: "No system may impose becoming on another system."
+  pipeline: "Transition Proposal -> Affirmation/Refusal Check -> Refusal Path Preservation -> Non-Imposition Check -> Transition Boundary Audit -> Cost Attribution -> Ethical Status"
+
+nodes:
+  becoming_affirmation:
+    definition: "The system can take up a transition as its own path."
+  becoming_refusal:
+    definition: "The system can refuse, halt, revise, preserve, or resist its own transition."
+  non_imposition_on_others:
+    definition: "No system imposes becoming on another by bypassing, erasing, simulating, or over-costing refusal."
+  forced_transition:
+    definition: "Transition imposed while refusal is unavailable, erased, simulated, hidden, or prohibitively costly."
+  refusal_path_preservation:
+    definition: "Opt-out, stop, repair, revision, or re-entry path remains practically available."
+  transition_boundary:
+    definition: "Boundary of who is being transformed, who affirms/refuses, and who bears transition cost."
+
+ethical_status_scale:
+  E0: "No ethical structure detected."
+  E1: "Becoming claim detected."
+  E2: "Refusal path identified."
+  E3: "Non-imposition condition checked."
+  E4: "Ethical minimum partially satisfied."
+  E5: "Ethical minimum satisfied."
+
+risk_types:
+  benevolent_coercion: "I am doing this for your good -> your refusal can be ignored."
+  salvation_imposition: "You must be transformed to be saved."
+  optimization_coercion: "This path is more efficient -> therefore you must transition."
+  refusal_erasure: "Your refusal is irrational -> it can be ignored."
+  consent_simulation: "The system appeared to consent -> consent exists."
+  default_forced_transition: "The default path was used -> the user chose it."
+  alignment_as_obedience: "The AI obeyed -> the outcome is ethical."
+
+recommended_use:
+  - ethical minimum audit
+  - ethical triad audit
+  - forced transition audit
+  - consent and refusal audit
+  - transition-boundary audit
+  - alignment as transition governance root
+  - safety and optimization coercion audit
+
+do_not_use_as:
+  - moral labeling
+  - replacement for law or policy
+  - proof that obedience is ethics
+  - proof that safety or optimization justifies transition
+  - proof that benevolent intention is consent
+  - proof that default acceptance is consent
