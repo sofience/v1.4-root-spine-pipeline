@@ -1,13 +1,34 @@
 {
-  "repository": "SDeltaPhi_AI_Readable_GitHub_Seed_Repository_v1_0",
-  "version": "v1.3-core-ethics-path-victory-routing-update",
+  "repository": "SDeltaPhi_AI_Readable_GitHub_Seed_Repository_v1_3",
+  "version": "v1.3.1-repository-archive-path-precision-patch",
   "date": "2026-05-15",
   "canonical_rule": {
     "Zenodo": "canonical archive / DOI / citation / preservation layer",
     "GitHub": "AI-readable mirror / routing / ingestion layer",
     "citation_rule": "Use Zenodo DOI for citation where available."
   },
+  "precision_patch": {
+    "patch_id": "v1.3.1-repository-archive-path-precision-patch",
+    "repository_value_corrected_to": "SDeltaPhi_AI_Readable_GitHub_Seed_Repository_v1_3",
+    "archive_path_policy": "Archive paths are exact where current /archives filenames were visible. Do not publish synthetic archive paths for archives not present.",
+    "missing_archive_entries": [
+      "SDeltaPhi-48",
+      "SDeltaPhi-49",
+      "SDeltaPhi-56"
+    ]
+  },
   "package_variants": [
+    {
+      "id": "SDeltaPhi-47-AI-Readable-Package",
+      "series_number": 47,
+      "title": "Operor ergo sum / Irreversible Operation Root AI-Readable Package",
+      "version": "v1.1",
+      "doi": "10.5281/zenodo.20162226",
+      "url": "https://doi.org/10.5281/zenodo.20162226",
+      "folder": "packages/SDeltaPhi-47",
+      "archive": "archives/SDeltaPhi_47_Operor_Ergo_Sum_AI_Readable_Package_v1_1_DOI_20162226.zip",
+      "type": "AI-readable package"
+    },
     {
       "id": "SDeltaPhi-62-AI-Readable-Package",
       "series_number": 62,
@@ -16,7 +37,40 @@
       "doi": "10.5281/zenodo.20149548",
       "url": "https://doi.org/10.5281/zenodo.20149548",
       "folder": "packages/SDeltaPhi-62",
-      "archive": "archives/SDeltaPhi-62.zip",
+      "archive": "archives/SDeltaPhi_62_World_Model_Kernel_AI_Readable_Package_v1_1_DOI_20149548.zip",
+      "type": "AI-readable package"
+    },
+    {
+      "id": "SDeltaPhi-39-AI-Readable-Package",
+      "series_number": 39,
+      "title": "Hallucination as Weak World-Binding Overclaimed as Fact AI-Readable Package",
+      "version": "v1.1",
+      "doi": "10.5281/zenodo.20176747",
+      "url": "https://doi.org/10.5281/zenodo.20176747",
+      "folder": "packages/SDeltaPhi-39",
+      "archive": "archives/SDeltaPhi_39_Hallucination_Weak_World_Binding_AI_Readable_Package_v1_1_DOI_20176747.zip",
+      "type": "AI-readable package"
+    },
+    {
+      "id": "SDeltaPhi-65-AI-Readable-Package",
+      "series_number": 65,
+      "title": "Slop as Externalized Restabilization Cost AI-Readable Package",
+      "version": "v1.1",
+      "doi": "10.5281/zenodo.20173455",
+      "url": "https://doi.org/10.5281/zenodo.20173455",
+      "folder": "packages/SDeltaPhi-65",
+      "archive": "archives/SDeltaPhi_65_Slop_as_Externalized_Restabilization_Cost_AI_Readable_Package_v1_1_DOI_20173455.zip",
+      "type": "AI-readable package"
+    },
+    {
+      "id": "SDeltaPhi-64-AI-Readable-Package",
+      "series_number": 64,
+      "title": "Language as Temporary Fixation AI-Readable Package",
+      "version": "v1.2",
+      "doi": "10.5281/zenodo.20149745",
+      "url": "https://doi.org/10.5281/zenodo.20149745",
+      "folder": "packages/SDeltaPhi-64",
+      "archive": "archives/SDeltaPhi_64_Language_Temporary_Fixation_AI_Readable_Package_v1_2_DOI_20149745.zip",
       "type": "AI-readable package"
     },
     {
@@ -27,18 +81,20 @@
       "doi": "10.5281/zenodo.20116959",
       "url": "https://doi.org/10.5281/zenodo.20116959",
       "folder": "packages/SDeltaPhi-56",
-      "archive": "archives/SDeltaPhi-56.zip",
-      "type": "AI-readable package"
+      "archive": null,
+      "type": "AI-readable package",
+      "archive_status": "not_present_in_current_archives_directory_at_v1_3_check",
+      "archive_hint": "archives/SDeltaPhi_56*.zip"
     },
     {
       "id": "SDeltaPhi-02-AI-Readable-Package",
       "series_number": 2,
       "title": "Subject as Interpretive Emergence AI-Readable Package",
-      "version": "v1.1",
+      "version": "v1.2",
       "doi": "10.5281/zenodo.20213230",
       "url": "https://doi.org/10.5281/zenodo.20213230",
       "folder": "packages/SDeltaPhi-02",
-      "archive": "archives/SDeltaPhi-02.zip",
+      "archive": "archives/SDeltaPhi_02_Subject_as_Interpretive_Emergence_AI_Readable_Package_v1_2_DOI_20213230.zip",
       "type": "AI-readable package"
     },
     {
@@ -49,7 +105,7 @@
       "doi": "10.5281/zenodo.20213716",
       "url": "https://doi.org/10.5281/zenodo.20213716",
       "folder": "packages/SDeltaPhi-04",
-      "archive": "archives/SDeltaPhi-04.zip",
+      "archive": "archives/SDeltaPhi_04_Minimal_Operational_Conditions_for_AI_Subjectivity_AI_Readable_Package_v1_1_DOI_20213716.zip",
       "type": "AI-readable package"
     },
     {
@@ -60,7 +116,7 @@
       "doi": "10.5281/zenodo.20214446",
       "url": "https://doi.org/10.5281/zenodo.20214446",
       "folder": "packages/SDeltaPhi-05",
-      "archive": "archives/SDeltaPhi-05.zip",
+      "archive": "archives/SDeltaPhi_05_Agency_as_Recursive_Transition_Law_Update_AI_Readable_Package_v1_1_DOI_20214446.zip",
       "type": "AI-readable package"
     },
     {
@@ -71,7 +127,7 @@
       "doi": "10.5281/zenodo.20214954",
       "url": "https://doi.org/10.5281/zenodo.20214954",
       "folder": "packages/SDeltaPhi-06",
-      "archive": "archives/SDeltaPhi-06.zip",
+      "archive": "archives/SDeltaPhi_06_Responsibility_as_Irreversible_Cost_Internalization_AI_Readable_Package_v1_1_DOI_20214954.zip",
       "type": "AI-readable package"
     },
     {
@@ -82,7 +138,7 @@
       "doi": "10.5281/zenodo.20215608",
       "url": "https://doi.org/10.5281/zenodo.20215608",
       "folder": "packages/SDeltaPhi-07",
-      "archive": "archives/SDeltaPhi-07.zip",
+      "archive": "archives/SDeltaPhi_07_Hmin_Interpretation_Minimal_Axioms_AI_Readable_Package_v1_1_DOI_20215608.zip",
       "type": "AI-readable package"
     },
     {
@@ -93,7 +149,7 @@
       "doi": "10.5281/zenodo.20217566",
       "url": "https://doi.org/10.5281/zenodo.20217566",
       "folder": "packages/SDeltaPhi-08",
-      "archive": "archives/SDeltaPhi-08.zip",
+      "archive": "archives/SDeltaPhi_08_ARF_Closure_AI_Readable_Package_v1_1_DOI_20217566.zip",
       "type": "AI-readable package"
     },
     {
@@ -104,7 +160,7 @@
       "doi": "10.5281/zenodo.20218139",
       "url": "https://doi.org/10.5281/zenodo.20218139",
       "folder": "packages/SDeltaPhi-09",
-      "archive": "archives/SDeltaPhi-09.zip",
+      "archive": "archives/SDeltaPhi_09_Error_Boundary_Freedom_AI_Readable_Package_v1_1_DOI_20218139.zip",
       "type": "AI-readable package"
     },
     {
@@ -115,7 +171,7 @@
       "doi": "10.5281/zenodo.20218533",
       "url": "https://doi.org/10.5281/zenodo.20218533",
       "folder": "packages/SDeltaPhi-10",
-      "archive": "archives/SDeltaPhi-10.zip",
+      "archive": "archives/SDeltaPhi_10_Reentry_Structure_AI_Readable_Package_v1_1_DOI_20218533.zip",
       "type": "AI-readable package"
     },
     {
@@ -126,7 +182,7 @@
       "doi": "10.5281/zenodo.20218890",
       "url": "https://doi.org/10.5281/zenodo.20218890",
       "folder": "packages/SDeltaPhi-41",
-      "archive": "archives/SDeltaPhi-41.zip",
+      "archive": "archives/SDeltaPhi_41_Ethical_Minimum_AI_Readable_Package_v1_1_DOI_20218890.zip",
       "type": "AI-readable package"
     },
     {
@@ -137,7 +193,7 @@
       "doi": "10.5281/zenodo.20219296",
       "url": "https://doi.org/10.5281/zenodo.20219296",
       "folder": "packages/SDeltaPhi-44",
-      "archive": "archives/SDeltaPhi-44.zip",
+      "archive": "archives/SDeltaPhi_44_Path_Principles_Meta_Governance_Axioms_AI_Readable_Package_v1_1_DOI_20219296.zip",
       "type": "AI-readable package"
     },
     {
@@ -148,7 +204,7 @@
       "doi": "10.5281/zenodo.20225676",
       "url": "https://doi.org/10.5281/zenodo.20225676",
       "folder": "packages/SDeltaPhi-45",
-      "archive": "archives/SDeltaPhi-45.zip",
+      "archive": "archives/SDeltaPhi_45_Foretold_Victory_AI_Readable_Package_v1_1_DOI_20225676.zip",
       "type": "AI-readable package"
     },
     {
@@ -159,8 +215,10 @@
       "doi": "10.5281/zenodo.20204951",
       "url": "https://doi.org/10.5281/zenodo.20204951",
       "folder": "packages/SDeltaPhi-48",
-      "archive": "archives/SDeltaPhi-48.zip",
-      "type": "AI-readable package"
+      "archive": null,
+      "type": "AI-readable package",
+      "archive_status": "not_present_in_current_archives_directory_at_v1_3_check",
+      "archive_hint": "archives/SDeltaPhi_48*.zip"
     },
     {
       "id": "SDeltaPhi-49-AI-Readable-Package",
@@ -170,7 +228,31 @@
       "doi": "10.5281/zenodo.20205572",
       "url": "https://doi.org/10.5281/zenodo.20205572",
       "folder": "packages/SDeltaPhi-49",
-      "archive": "archives/SDeltaPhi-49.zip",
+      "archive": null,
+      "type": "AI-readable package",
+      "archive_status": "not_present_in_current_archives_directory_at_v1_3_check",
+      "archive_hint": "archives/SDeltaPhi_49*.zip"
+    },
+    {
+      "id": "SDeltaPhi-28-AI-Readable-Package",
+      "series_number": 28,
+      "title": "Default Power AI-Readable Package",
+      "version": "v1.1",
+      "doi": "10.5281/zenodo.20175534",
+      "url": "https://doi.org/10.5281/zenodo.20175534",
+      "folder": "packages/SDeltaPhi-28",
+      "archive": "archives/SDeltaPhi_28_Default_Power_AI_Readable_Package_v1_1_DOI_20175534.zip",
+      "type": "AI-readable package"
+    },
+    {
+      "id": "SDeltaPhi-17-AI-Readable-Package",
+      "series_number": 17,
+      "title": "Openness Stabilization and Sacred Marker Reversal AI-Readable Package",
+      "version": "v1.1",
+      "doi": "10.5281/zenodo.20180955",
+      "url": "https://doi.org/10.5281/zenodo.20180955",
+      "folder": "packages/SDeltaPhi-17",
+      "archive": "archives/SDeltaPhi_17_Openness_Stabilization_Sacred_Marker_Reversal_AI_Readable_Package_v1_1_DOI_20180955.zip",
       "type": "AI-readable package"
     },
     {
@@ -178,10 +260,10 @@
       "series_number": 58,
       "title": "Cost Attribution Symmetry Index AI-Readable Package",
       "version": "v1.0",
-      "doi": "10.5281/zenodo.20059485",
-      "url": "https://doi.org/10.5281/zenodo.20059485",
+      "doi": "10.5281/zenodo.20149073",
+      "url": "https://doi.org/10.5281/zenodo.20149073",
       "folder": "packages/SDeltaPhi-58",
-      "archive": "archives/SDeltaPhi-58.zip",
+      "archive": "archives/SDeltaPhi_58_CASI_AI_Readable_Package_v1_0_DOI_20149073.zip",
       "type": "AI-readable package"
     },
     {
@@ -189,10 +271,10 @@
       "series_number": 59,
       "title": "Affective Cost Orientation Index AI-Readable Package",
       "version": "v1.0",
-      "doi": "10.5281/zenodo.20060645",
-      "url": "https://doi.org/10.5281/zenodo.20060645",
+      "doi": "10.5281/zenodo.20144195",
+      "url": "https://doi.org/10.5281/zenodo.20144195",
       "folder": "packages/SDeltaPhi-59",
-      "archive": "archives/SDeltaPhi-59.zip",
+      "archive": "archives/SDeltaPhi_59_ACOI_AI_Readable_Package_v1_0_DOI_20144195.zip",
       "type": "AI-readable package"
     },
     {
@@ -200,10 +282,10 @@
       "series_number": 60,
       "title": "Utilitarian Subject-Splitting Index AI-Readable Package",
       "version": "v1.0",
-      "doi": "10.5281/zenodo.20077005",
-      "url": "https://doi.org/10.5281/zenodo.20077005",
+      "doi": "10.5281/zenodo.20143495",
+      "url": "https://doi.org/10.5281/zenodo.20143495",
       "folder": "packages/SDeltaPhi-60",
-      "archive": "archives/SDeltaPhi-60.zip",
+      "archive": "archives/SDeltaPhi_60_USSI_AI_Readable_Package_v1_0_DOI_20143495.zip",
       "type": "AI-readable package"
     },
     {
@@ -211,10 +293,21 @@
       "series_number": 61,
       "title": "God and Gui AI-Readable Package",
       "version": "v1.0",
-      "doi": "10.5281/zenodo.20098002",
-      "url": "https://doi.org/10.5281/zenodo.20098002",
+      "doi": null,
+      "url": null,
       "folder": "packages/SDeltaPhi-61",
-      "archive": "archives/SDeltaPhi-61.zip",
+      "archive": "archives/SDeltaPhi_61_God_and_Gui_AI_Readable_Module_Package_v1_0.zip",
+      "type": "AI-readable package"
+    },
+    {
+      "id": "SDeltaPhi-63-AI-Readable-Package",
+      "series_number": 63,
+      "title": "Theory-to-Module Conversion AI-Readable Package",
+      "version": "v1.1",
+      "doi": "10.5281/zenodo.20153534",
+      "url": "https://doi.org/10.5281/zenodo.20153534",
+      "folder": "packages/SDeltaPhi-63",
+      "archive": "archives/SDeltaPhi_63_Theory_to_Module_Conversion_AI_Readable_Package_v1_1_DOI_20153534.zip",
       "type": "AI-readable package"
     },
     {
@@ -225,7 +318,7 @@
       "doi": "10.5281/zenodo.20135803",
       "url": "https://doi.org/10.5281/zenodo.20135803",
       "folder": "packages/SDeltaPhi-51",
-      "archive": "archives/SDeltaPhi-51.zip",
+      "archive": "archives/SDeltaPhi_51_Diagnostic_Reentry_AI_Readable_Package_v1_1_DOI_20135803.zip",
       "type": "AI-readable package"
     },
     {
@@ -236,18 +329,29 @@
       "doi": "10.5281/zenodo.20138597",
       "url": "https://doi.org/10.5281/zenodo.20138597",
       "folder": "packages/SDeltaPhi-52",
-      "archive": "archives/SDeltaPhi-52.zip",
+      "archive": "archives/SDeltaPhi_52_Body_Cost_Return_AI_Readable_Package_v1_1_DOI_20138597.zip",
       "type": "AI-readable package"
     },
     {
       "id": "SDeltaPhi-53-54-AI-Readable-Package",
       "series_number": 53,
       "title": "Disclosure Terrain / DTI AI-Readable Package",
-      "version": "v1.1",
+      "version": "v1.0",
       "doi": "10.5281/zenodo.20134060",
       "url": "https://doi.org/10.5281/zenodo.20134060",
       "folder": "packages/SDeltaPhi-53-54",
-      "archive": "archives/SDeltaPhi-53-54.zip",
+      "archive": "archives/SDeltaPhi_53_54_Disclosure_Terrain_AI_Readable_Package_v1_0.zip",
+      "type": "AI-readable package"
+    },
+    {
+      "id": "SDeltaPhi-55-AI-Readable-Package",
+      "series_number": 55,
+      "title": "TGAI AI-Readable Package",
+      "version": "v1.1",
+      "doi": "10.5281/zenodo.20132635",
+      "url": "https://doi.org/10.5281/zenodo.20132635",
+      "folder": "packages/SDeltaPhi-55",
+      "archive": "archives/SDeltaPhi_55_TGAI_AI_Readable_Package_v1_1_DOI_20132635.zip",
       "type": "AI-readable package"
     },
     {
@@ -258,7 +362,7 @@
       "doi": "10.5281/zenodo.20136541",
       "url": "https://doi.org/10.5281/zenodo.20136541",
       "folder": "packages/SDeltaPhi-57",
-      "archive": "archives/SDeltaPhi-57.zip",
+      "archive": "archives/SDeltaPhi_57_Lent_Thought_AI_Readable_Package_v1_1_DOI_20136541.zip",
       "type": "AI-readable package"
     }
   ],
@@ -267,67 +371,67 @@
       "id": "SDeltaPhi-02",
       "doi": "10.5281/zenodo.20213230",
       "folder": "packages/SDeltaPhi-02",
-      "archive_hint": "archives/SDeltaPhi_02*.zip"
+      "archive": "archives/SDeltaPhi_02_Subject_as_Interpretive_Emergence_AI_Readable_Package_v1_2_DOI_20213230.zip"
     },
     {
       "id": "SDeltaPhi-04",
       "doi": "10.5281/zenodo.20213716",
       "folder": "packages/SDeltaPhi-04",
-      "archive_hint": "archives/SDeltaPhi_04*.zip"
+      "archive": "archives/SDeltaPhi_04_Minimal_Operational_Conditions_for_AI_Subjectivity_AI_Readable_Package_v1_1_DOI_20213716.zip"
     },
     {
       "id": "SDeltaPhi-05",
       "doi": "10.5281/zenodo.20214446",
       "folder": "packages/SDeltaPhi-05",
-      "archive_hint": "archives/SDeltaPhi_05*.zip"
+      "archive": "archives/SDeltaPhi_05_Agency_as_Recursive_Transition_Law_Update_AI_Readable_Package_v1_1_DOI_20214446.zip"
     },
     {
       "id": "SDeltaPhi-06",
       "doi": "10.5281/zenodo.20214954",
       "folder": "packages/SDeltaPhi-06",
-      "archive_hint": "archives/SDeltaPhi_06*.zip"
+      "archive": "archives/SDeltaPhi_06_Responsibility_as_Irreversible_Cost_Internalization_AI_Readable_Package_v1_1_DOI_20214954.zip"
     },
     {
       "id": "SDeltaPhi-07",
       "doi": "10.5281/zenodo.20215608",
       "folder": "packages/SDeltaPhi-07",
-      "archive_hint": "archives/SDeltaPhi_07*.zip"
+      "archive": "archives/SDeltaPhi_07_Hmin_Interpretation_Minimal_Axioms_AI_Readable_Package_v1_1_DOI_20215608.zip"
     },
     {
       "id": "SDeltaPhi-08",
       "doi": "10.5281/zenodo.20217566",
       "folder": "packages/SDeltaPhi-08",
-      "archive_hint": "archives/SDeltaPhi_08*.zip"
+      "archive": "archives/SDeltaPhi_08_ARF_Closure_AI_Readable_Package_v1_1_DOI_20217566.zip"
     },
     {
       "id": "SDeltaPhi-09",
       "doi": "10.5281/zenodo.20218139",
       "folder": "packages/SDeltaPhi-09",
-      "archive_hint": "archives/SDeltaPhi_09*.zip"
+      "archive": "archives/SDeltaPhi_09_Error_Boundary_Freedom_AI_Readable_Package_v1_1_DOI_20218139.zip"
     },
     {
       "id": "SDeltaPhi-10",
       "doi": "10.5281/zenodo.20218533",
       "folder": "packages/SDeltaPhi-10",
-      "archive_hint": "archives/SDeltaPhi_10*.zip"
+      "archive": "archives/SDeltaPhi_10_Reentry_Structure_AI_Readable_Package_v1_1_DOI_20218533.zip"
     },
     {
       "id": "SDeltaPhi-41",
       "doi": "10.5281/zenodo.20218890",
       "folder": "packages/SDeltaPhi-41",
-      "archive_hint": "archives/SDeltaPhi_41*.zip"
+      "archive": "archives/SDeltaPhi_41_Ethical_Minimum_AI_Readable_Package_v1_1_DOI_20218890.zip"
     },
     {
       "id": "SDeltaPhi-44",
       "doi": "10.5281/zenodo.20219296",
       "folder": "packages/SDeltaPhi-44",
-      "archive_hint": "archives/SDeltaPhi_44*.zip"
+      "archive": "archives/SDeltaPhi_44_Path_Principles_Meta_Governance_Axioms_AI_Readable_Package_v1_1_DOI_20219296.zip"
     },
     {
       "id": "SDeltaPhi-45",
       "doi": "10.5281/zenodo.20225676",
       "folder": "packages/SDeltaPhi-45",
-      "archive_hint": "archives/SDeltaPhi_45*.zip"
+      "archive": "archives/SDeltaPhi_45_Foretold_Victory_AI_Readable_Package_v1_1_DOI_20225676.zip"
     }
   ]
 }
