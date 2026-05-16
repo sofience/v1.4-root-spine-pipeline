@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "SΔϕ-45 - When Systems Win Before They Are Declared Victorious: Foretold Victory, Priced Function, and Public-Form Residuals"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-15"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-45. It defines foretold victory as the condition in which alternatives remain formally available but become too costly to restore as livable paths."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Foretold Victory
+  - Completed Victory
+  - Public Form
+  - Priced Function
+  - Public-Form Residual
+  - Restoration Cost
+  - Baseline Trust
+  - Rollback Imagination
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20225676"
+url: "https://doi.org/10.5281/zenodo.20225676"
