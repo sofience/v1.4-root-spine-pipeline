@@ -1,0 +1,75 @@
+{
+  "package": {
+    "id": "SDeltaPhi-44-AI-Readable-Package",
+    "doi": "10.5281/zenodo.20219296",
+    "url": "https://doi.org/10.5281/zenodo.20219296",
+    "record_url": "https://zenodo.org/records/20219296",
+    "type": "AI-readable package",
+    "version": "v1.1"
+  },
+  "source_paper": {
+    "id": "SDeltaPhi-44",
+    "title": "Path Principles as Meta-Governance Axioms",
+    "type": "source paper",
+    "version": "v1.0",
+    "source_file": "02_SOURCE_PAPER_SDeltaPhi_44_Path_Principles_Meta_Governance_Axioms_v1_0.pdf",
+    "base_doi": "not specified in source PDF"
+  },
+  "related": [
+    {
+      "id": "SDeltaPhi-17",
+      "title": "Openness Stabilization: Path Principles, Sacred Cost Markers, and Institutional Enforcement",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-22",
+      "title": "Authority Editing Protocols / finite-cost editability",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-41",
+      "title": "Ethical Minimum",
+      "doi": "10.5281/zenodo.20218890",
+      "url": "https://doi.org/10.5281/zenodo.20218890"
+    },
+    {
+      "id": "SDeltaPhi-42",
+      "title": "Alignment as Transition Governance",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-48",
+      "title": "AI Drift as Transition Governance Instability",
+      "doi": "10.5281/zenodo.20204951",
+      "url": "https://doi.org/10.5281/zenodo.20204951"
+    },
+    {
+      "id": "SDeltaPhi-49",
+      "title": "AI Poverty as Failure Non-Reentry Resource Deficit",
+      "doi": "10.5281/zenodo.20205572",
+      "url": "https://doi.org/10.5281/zenodo.20205572"
+    },
+    {
+      "id": "SDeltaPhi-55",
+      "title": "Transition Governance Alignment Index",
+      "relation": "References"
+    },
+    {
+      "id": "SDeltaPhi-56",
+      "title": "Transition Completion Cost v1.3",
+      "doi": "10.5281/zenodo.20116959",
+      "url": "https://doi.org/10.5281/zenodo.20116959"
+    },
+    {
+      "id": "SDeltaPhi-62",
+      "title": "World Model Kernel AI-readable package",
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548"
+    },
+    {
+      "id": "SDeltaPhi-65",
+      "title": "Slop as Externalized Restabilization Cost",
+      "relation": "References"
+    }
+  ]
+}

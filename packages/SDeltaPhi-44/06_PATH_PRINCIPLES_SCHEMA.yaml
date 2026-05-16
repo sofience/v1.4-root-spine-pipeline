@@ -1,0 +1,69 @@
+id: SDeltaPhi-44
+title: "Path Principles as Meta-Governance Axioms"
+canonical_version: "v1.1"
+source_version: "v1.0"
+package_version: "v1.1-ai-readable-package"
+package_doi: "10.5281/zenodo.20219296"
+package_url: "https://doi.org/10.5281/zenodo.20219296"
+creator: "Sofience"
+type: "path_principles_meta_governance_axioms_audit_module"
+license: "CC-BY-4.0"
+
+core_claim: >
+  A path does not close because it is forbidden. A path closes when continuing through it
+  becomes computationally non-viable, restoration-costly, structurally sealed, or unavailable
+  relative to alternative routes.
+
+formulae:
+  core: "Path Closure != Prohibition"
+  operational: "Operational Path Closure = Computational Non-Viability + Exponential Transition Cost + Restoration-Cost Burden + Structural Sealing + Available Route Collapse"
+  maxim: "Prohibition closes entrances. Cost and structure close paths."
+
+nodes:
+  prohibition:
+    definition: "Rule, policy, warning, refusal, or entrance block aimed at a route."
+  computational_non_viability:
+    definition: "Path becomes uncomputable, unreachable, or unselectable under available resources or constraints."
+  exponential_transition_cost:
+    definition: "Cost rises sharply enough that the path falls out of viable selection."
+  restoration_cost_burden:
+    definition: "Repair, undo, restoration, or re-entry cost dominates governance analysis."
+  structural_sealing:
+    definition: "Policy, interface, authority, tools, logging, audit, and rollback controls jointly seal the path."
+  available_route_collapse:
+    definition: "Alternative low-cost routes disappear or become non-viable."
+
+path_closure_scale:
+  PC0: "No path closure detected."
+  PC1: "Entrance prohibition only."
+  PC2: "Friction added."
+  PC3: "High-cost continuation."
+  PC4: "Partial structural sealing."
+  PC5: "Operational path closure."
+
+risk_types:
+  prohibition_theater: "It is prohibited -> therefore the path is closed."
+  rule_bypass: "Rule exists, but low-cost bypass routes remain."
+  false_closure: "Governance believes path is closed, but path remains open."
+  cost_externalization: "Restoration cost is pushed to users, victims, operators, or downstream systems."
+  restoration_cost_blindness: "Entrance blocking is counted while post-passage restoration cost is ignored."
+  governance_overclaim: "Policy exists -> governance works."
+  path_capture: "Path is closed for most actors but remains low-cost for privileged actors."
+
+recommended_use:
+  - path closure audit
+  - prohibition vs path closure audit
+  - governance rule audit
+  - safety policy audit
+  - alignment policy audit
+  - bypass risk audit
+  - restoration cost audit
+  - structural sealing audit
+
+do_not_use_as:
+  - proof that prohibition closes paths
+  - proof that policy existence equals governance success
+  - proof that enforcement equals structural sealing
+  - proof that safety rule equals path closure
+  - proof that blocked entrance equals impossible route
+  - proof that high friction equals closure

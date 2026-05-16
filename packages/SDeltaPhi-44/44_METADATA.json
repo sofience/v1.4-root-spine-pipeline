@@ -1,0 +1,84 @@
+{
+  "id": "SDeltaPhi-44",
+  "title": "SΔϕ-44 - Path Principles as Meta-Governance Axioms",
+  "package_title": "SΔϕ-44 - Path Principles as Meta-Governance Axioms: Computational Non-Viability, Restoration Cost, and Structural Path Closure AI-Readable Package",
+  "version": "v1.1",
+  "canonical_paper_version": "v1.1",
+  "source_paper_version": "v1.0",
+  "package_version": "v1.1",
+  "creator": "Sofience",
+  "date": "2026-05-15",
+  "doi": "10.5281/zenodo.20219296",
+  "url": "https://doi.org/10.5281/zenodo.20219296",
+  "record_url": "https://zenodo.org/records/20219296",
+  "type": "AI-readable package / working paper / path-principles meta-governance audit module",
+  "license": "CC-BY-4.0",
+  "core_claim": "A path does not close because it is forbidden. A path closes when continuing through it becomes computationally non-viable, restoration-costly, structurally sealed, or unavailable relative to alternative routes.",
+  "primary_formulae": {
+    "core": "Path Closure != Prohibition",
+    "operational": "Operational Path Closure = Computational Non-Viability + Exponential Transition Cost + Restoration-Cost Burden + Structural Sealing + Available Route Collapse",
+    "maxim": "Prohibition closes entrances. Cost and structure close paths."
+  },
+  "nodes": [
+    "Prohibition Node",
+    "Computational Non-Viability Node",
+    "Exponential Transition Cost Node",
+    "Restoration Cost Node",
+    "Structural Sealing Node",
+    "Available Route Collapse Node"
+  ],
+  "path_closure_scale": [
+    "PC-0",
+    "PC-1",
+    "PC-2",
+    "PC-3",
+    "PC-4",
+    "PC-5"
+  ],
+  "risk_types": [
+    "Prohibition Theater",
+    "Rule Bypass",
+    "False Closure",
+    "Cost Externalization",
+    "Restoration Cost Blindness",
+    "Governance Overclaim",
+    "Path Capture"
+  ],
+  "recommended_use": [
+    "path closure audit",
+    "prohibition vs path closure audit",
+    "governance rule audit",
+    "safety policy audit",
+    "alignment policy audit",
+    "bypass risk audit",
+    "restoration cost audit",
+    "structural sealing audit"
+  ],
+  "do_not_use_as": [
+    "proof that prohibition closes paths",
+    "proof that policy existence equals governance success",
+    "proof that enforcement equals structural sealing",
+    "proof that safety rule equals path closure",
+    "proof that blocked entrance equals impossible route",
+    "proof that high friction equals closure"
+  ],
+  "keywords": [
+    "SΔϕ",
+    "Sofience-DeltaPhi Formalism",
+    "Path Principles",
+    "Meta-Governance Axioms",
+    "Path Closure",
+    "Prohibition vs Path Closure",
+    "Computational Non-Viability",
+    "Exponential Transition Cost",
+    "Restoration Cost",
+    "Structural Sealing",
+    "Available Route Collapse",
+    "Bypass Risk",
+    "Prohibition Theater",
+    "Transition Completion Cost",
+    "AI Governance",
+    "AI Safety",
+    "AI-readable Package"
+  ]
+}

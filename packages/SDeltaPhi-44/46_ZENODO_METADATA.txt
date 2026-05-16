@@ -1,0 +1,74 @@
+# Zenodo Metadata - SΔϕ-44 Path Principles as Meta-Governance Axioms AI-Readable Package
+
+## Title
+
+SΔϕ-44 - Path Principles as Meta-Governance Axioms: Computational Non-Viability, Restoration Cost, and Structural Path Closure (v1.1, AI-Readable Package)
+
+## Upload type
+
+Publication
+
+## Publication type
+
+Working paper
+
+## Creator
+
+Sofience
+
+## Version
+
+v1.1 - AI-readable package
+
+## Publication date
+
+2026-05-15
+
+## DOI
+
+10.5281/zenodo.20219296
+
+## Language
+
+English
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description / Abstract
+
+SΔϕ-44 defines Path Principles as Meta-Governance Axioms within the Sofience-Δϕ Formalism Series. The central claim is that a path does not close merely because it is forbidden. A path closes when continuing through it becomes computationally non-viable, restoration-costly, structurally sealed, or unavailable relative to alternative routes.
+
+This AI-readable package extends the source SΔϕ-44 paper on Path Principles as Meta-Governance Axioms. It generalizes the path principles first formalized in SΔϕ-17: prohibition closes entrances, not paths; path closure requires computational infeasibility realized as exponential cost. SΔϕ-44 lifts that local path principle into a meta-governance axiom for AI safety, alignment, policy enforcement, refusal routing, authority editing, restoration cost, bypass risk, and structural closure.
+
+The package decomposes SΔϕ-44 into operational files for AI ingestion, including a canonical v1.1 paper, source v1.0 paper and extracted text, core declaration, AI quickstart, minimal prompt, path principles schema, condition files for prohibition versus path closure, computational non-viability, exponential transition cost, restoration-cost burden, structural sealing, and available route collapse, path closure status scale, five path principle files, distinction files for rule versus path, policy versus path geometry, prohibition versus computational infeasibility, enforcement versus structural closure, safety rule versus path cost, and alignment rule versus path governance, risk files for prohibition theater, rule bypass, false closure, cost externalization, restoration cost blindness, governance overclaim, and path capture, output templates, misreadings, relation files, metadata, citation file, DOI references, license, and manifest.
+
+SΔϕ-56 v1.3 is included only as a relation and auxiliary cost module. SΔϕ-44 defines Path Principles themselves. SΔϕ-56 measures transition cost, restoration cost, path reversal cost, repair cost, re-entry cost, bypass cost, and closure completion cost.
+
+The framework is intended for path closure audit, prohibition versus path closure audit, governance rule audit, safety policy audit, alignment policy audit, bypass risk audit, restoration cost audit, and structural sealing audit. It should not be used as proof that prohibition closes paths, proof that policy existence equals governance success, proof that enforcement equals structural sealing, proof that a safety rule equals path closure, proof that blocked entrance equals impossible route, or proof that high friction equals closure.
+
+## Keywords
+
+SΔϕ; Sofience-DeltaPhi Formalism; Path Principles; Meta-Governance Axioms; Path Closure; Prohibition vs Path Closure; Computational Non-Viability; Exponential Transition Cost; Restoration Cost; Structural Sealing; Available Route Collapse; Bypass Risk; Prohibition Theater; Transition Completion Cost; AI Governance; AI Safety; AI-readable Package.
+
+## Related identifiers
+
+- SΔϕ-17 - Openness Stabilization: Path Principles, Sacred Cost Markers, and Institutional Enforcement: Relation: References
+- SΔϕ-22 - Authority Editing Protocols / finite-cost editability: Relation: References
+- SΔϕ-41 - Ethical Minimum AI-Readable Package: https://doi.org/10.5281/zenodo.20218890 ; Relation: References
+- SΔϕ-42 - Alignment as Transition Governance: Relation: References
+- SΔϕ-48 - AI Drift as Transition Governance Instability: https://doi.org/10.5281/zenodo.20204951 ; Relation: References
+- SΔϕ-49 - AI Poverty as Failure Non-Reentry Resource Deficit: https://doi.org/10.5281/zenodo.20205572 ; Relation: References
+- SΔϕ-55 - Transition Governance Alignment Index: Relation: References
+- SΔϕ-56 - Transition Completion Cost: Friction Coefficients, Disclosure-to-Re-entry Cost, and FIP as TCC Differential (v1.3): https://doi.org/10.5281/zenodo.20116959 ; Relation: References
+- SΔϕ-62 - World Model Kernel AI-Readable Package: https://doi.org/10.5281/zenodo.20149548 ; Relation: References
+- SΔϕ-65 - Slop as Externalized Restabilization Cost: Relation: References
+
+## Original source
+
+SΔϕ-44 - Path Principles as Meta-Governance Axioms (source v1.0 PDF included). If a separate source DOI exists, add it as Relation: IsNewVersionOf.
+
+## Suggested citation
+
+Sofience. (2026). SΔϕ-44 - Path Principles as Meta-Governance Axioms: Computational Non-Viability, Restoration Cost, and Structural Path Closure (v1.1, AI-Readable Package). Zenodo. https://doi.org/10.5281/zenodo.20219296

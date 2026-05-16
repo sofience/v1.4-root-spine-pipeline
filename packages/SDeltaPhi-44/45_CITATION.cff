@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "SΔϕ-44 - Path Principles as Meta-Governance Axioms: Computational Non-Viability, Restoration Cost, and Structural Path Closure"
+authors:
+  - family-names: "Sofience"
+version: "v1.1"
+date-released: "2026-05-15"
+type: "article"
+abstract: "An AI-readable package for SΔϕ-44. It defines path closure as computational non-viability, exponential transition cost, restoration-cost burden, structural sealing, and available route collapse rather than mere prohibition."
+keywords:
+  - SΔϕ
+  - Sofience-DeltaPhi Formalism
+  - Path Principles
+  - Meta-Governance Axioms
+  - Path Closure
+  - Prohibition vs Path Closure
+  - Computational Non-Viability
+  - Restoration Cost
+  - Structural Sealing
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.20219296"
+url: "https://doi.org/10.5281/zenodo.20219296"
