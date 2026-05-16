@@ -32,21 +32,62 @@ operation leaves trace
 -> estimate transition completion cost
 ```
 
-## High-risk label route
-
-For sacred, moral, love, evil, human, nation, truth, or dignity labels:
+## Early operational core route
 
 ```text
-17 -> 64 -> 62 -> 65
+02 -> 04 -> 05 -> 06 -> 07
 ```
 
 Meaning:
 
 ```text
-detect sacred-marker reversal
--> audit language fixation
--> separate trace/inference/UMR
--> audit externalized restabilization cost
+subject as interpretive emergence
+-> minimal operational conditions for AI subjectivity
+-> agency as recursive transition-law update
+-> responsibility as irreversible cost internalization
+-> H_min minimal interpretation layer
+```
+
+## Closure / residual / re-entry route
+
+```text
+08 -> 09 -> 10
+```
+
+Meaning:
+
+```text
+ARF closure
+-> error/boundary/freedom as boundary residual
+-> interpretation/learning/inference as single re-entry structure
+```
+
+## Ethics / path / system victory route
+
+```text
+41 -> 44 -> 45
+```
+
+Meaning:
+
+```text
+ethical minimum / ethical triad
+-> path principles as meta-governance axioms
+-> foretold victory / public-form residual / priced-function migration
+```
+
+## High-risk label route
+
+For sacred, moral, love, evil, human, nation, truth, dignity, salvation, or benevolence labels:
+
+```text
+17 -> 64 -> 62 -> 65
+```
+
+For forced-transition / coercion / consent risk:
+
+```text
+41 -> 56 -> 62
 ```
 
 ## Default power route
@@ -54,7 +95,7 @@ detect sacred-marker reversal
 For settings, opt-out friction, UI paths, platforms, or AI agent defaults:
 
 ```text
-28 -> 56 -> 62
+28 -> 56 -> 45 -> 62
 ```
 
 ## Output discipline
@@ -63,4 +104,6 @@ For settings, opt-out friction, UI paths, platforms, or AI agent defaults:
 Trace before claim.
 UMR before certainty.
 Re-entry before closure.
+Cost before declaration.
+Path geometry before policy belief.
 ```

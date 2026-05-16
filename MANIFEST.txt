@@ -1,5 +1,24 @@
-GITHUB_UPLOAD_INSTRUCTIONS.md
-SDELTA_MODULE_ROUTING.yaml
-SERIES_INDEX.json
-llms.txt
-routing/SDELTA_MODULE_ROUTING.yaml
+# v1.3 Routing Patch Manifest
+
+Replace or add the following files.
+
+## Root
+
+- README.md
+- 00_AI_ENTRYPOINT.md
+- PACKAGE_PRIORITY.md
+- llms.txt
+- SERIES_INDEX.json
+- SERIES_DOI_MAP.json
+- SDELTA_MODULE_ROUTING.yaml
+
+## Mirrors
+
+- indexes/SERIES_INDEX.json
+- indexes/SERIES_DOI_MAP.json
+- routing/SDELTA_MODULE_ROUTING.yaml
+
+## Docs
+
+- docs/REPOSITORY_UPDATE_v1_3_CORE_ETHICS_PATH_VICTORY.md
+- docs/UPLOAD_REPLACEMENT_CHECKLIST_v1_3.md
