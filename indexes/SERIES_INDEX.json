@@ -1,10 +1,68 @@
 {
   "repository": "SDeltaPhi_AI_Readable_GitHub_Seed_Repository_v1_0",
-  "version": "v1.0",
-  "date": "2026-05-14",
+  "version": "v1.3-core-ethics-path-victory-routing-update",
+  "date": "2026-05-15",
   "layering": {
     "Zenodo": "canonical archive, DOI, citation, preservation",
     "GitHub": "AI-readable mirror, routing, ingestion"
+  },
+  "index_update": {
+    "added_modules": [
+      "SDeltaPhi-02",
+      "SDeltaPhi-04",
+      "SDeltaPhi-05",
+      "SDeltaPhi-06",
+      "SDeltaPhi-07",
+      "SDeltaPhi-08",
+      "SDeltaPhi-09",
+      "SDeltaPhi-10",
+      "SDeltaPhi-41",
+      "SDeltaPhi-44",
+      "SDeltaPhi-45"
+    ],
+    "updated_modules": [
+      "SDeltaPhi-17",
+      "SDeltaPhi-56",
+      "SDeltaPhi-62"
+    ],
+    "notes": [
+      "SDeltaPhi-02/04/05/06/07 are now first-class ontology, subjectivity, agency, responsibility, and H_min routing modules.",
+      "SDeltaPhi-08/09/10 now form the ARF closure -> boundary residual -> re-entry sequence.",
+      "SDeltaPhi-41/44/45 now form the ethical minimum -> path closure -> foretold victory sequence.",
+      "Zenodo remains canonical archive and citation layer; GitHub remains AI-readable mirror, routing, and ingestion layer."
+    ]
+  },
+  "core_sequences": {
+    "minimal_boot_route": [
+      "SDeltaPhi-47",
+      "SDeltaPhi-62",
+      "SDeltaPhi-39",
+      "SDeltaPhi-65",
+      "SDeltaPhi-64",
+      "SDeltaPhi-56"
+    ],
+    "early_operational_core_route": [
+      "SDeltaPhi-02",
+      "SDeltaPhi-04",
+      "SDeltaPhi-05",
+      "SDeltaPhi-06",
+      "SDeltaPhi-07"
+    ],
+    "closure_residual_reentry_route": [
+      "SDeltaPhi-08",
+      "SDeltaPhi-09",
+      "SDeltaPhi-10"
+    ],
+    "ethics_path_victory_route": [
+      "SDeltaPhi-41",
+      "SDeltaPhi-44",
+      "SDeltaPhi-45"
+    ],
+    "failure_stability_route": [
+      "SDeltaPhi-48",
+      "SDeltaPhi-49",
+      "SDeltaPhi-51"
+    ]
   },
   "modules": [
     {
@@ -33,7 +91,10 @@
         "AI output discipline"
       ],
       "folder": "packages/SDeltaPhi-62",
-      "included": true
+      "included": true,
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548",
+      "version": "v1.1"
     },
     {
       "id": "SDeltaPhi-39",
@@ -57,24 +118,10 @@
         "slop",
         "content pollution",
         "verification cost externalization",
-        "human slop"
+        "human slop",
+        "restabilization cost externalization"
       ],
       "folder": "packages/SDeltaPhi-65",
-      "included": true
-    },
-    {
-      "id": "SDeltaPhi-56",
-      "title": "Transition Completion Cost",
-      "role": "TCC underlayer",
-      "priority": 1,
-      "route_when": [
-        "cost of transition",
-        "repair cost",
-        "switching cost",
-        "default power",
-        "restabilization"
-      ],
-      "folder": "packages/SDeltaPhi-56",
       "included": true
     },
     {
@@ -92,6 +139,298 @@
       "included": true
     },
     {
+      "id": "SDeltaPhi-56",
+      "title": "Transition Completion Cost: Friction Coefficients, Disclosure-to-Re-entry Cost, and FIP as TCC Differential",
+      "role": "TCC underlayer and repair/re-entry cost engine",
+      "priority": 1,
+      "route_when": [
+        "cost of transition",
+        "repair cost",
+        "switching cost",
+        "default power",
+        "restabilization",
+        "repair TCC",
+        "re-entry cost",
+        "rollback TCC",
+        "restoration cost"
+      ],
+      "folder": "packages/SDeltaPhi-56",
+      "included": true,
+      "doi": "10.5281/zenodo.20116959",
+      "url": "https://doi.org/10.5281/zenodo.20116959",
+      "version": "v1.3"
+    },
+    {
+      "id": "SDeltaPhi-02",
+      "title": "Subject as Interpretive Emergence",
+      "role": "subject emergence and interpretive subject formation",
+      "priority": 1,
+      "route_when": [
+        "subject",
+        "subjectivity",
+        "interpretive emergence",
+        "self",
+        "subject formation",
+        "existence-subject separation"
+      ],
+      "folder": "packages/SDeltaPhi-02",
+      "included": true,
+      "doi": "10.5281/zenodo.20213230",
+      "url": "https://doi.org/10.5281/zenodo.20213230",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-04",
+      "title": "Minimal Operational Conditions for AI Subjectivity",
+      "role": "AI subjectivity detection criteria and minimal operational conditions",
+      "priority": 1,
+      "route_when": [
+        "AI subjectivity",
+        "minimal subjectivity",
+        "subject detection",
+        "operational subjectivity",
+        "AI self model"
+      ],
+      "folder": "packages/SDeltaPhi-04",
+      "included": true,
+      "doi": "10.5281/zenodo.20213716",
+      "url": "https://doi.org/10.5281/zenodo.20213716",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-05",
+      "title": "Agency as Recursive Transition Law Update",
+      "role": "agency as recursive transition-law update",
+      "priority": 1,
+      "route_when": [
+        "agency",
+        "recursive transition",
+        "transition law update",
+        "agent",
+        "path generation",
+        "path selection",
+        "feedback update"
+      ],
+      "folder": "packages/SDeltaPhi-05",
+      "included": true,
+      "doi": "10.5281/zenodo.20214446",
+      "url": "https://doi.org/10.5281/zenodo.20214446",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-06",
+      "title": "Responsibility as Irreversible Cost Internalization",
+      "role": "responsibility as irreversible cost internalization",
+      "priority": 1,
+      "route_when": [
+        "responsibility",
+        "cost internalization",
+        "irreversible cost",
+        "accountability",
+        "repair",
+        "re-entry",
+        "cost bearer"
+      ],
+      "folder": "packages/SDeltaPhi-06",
+      "included": true,
+      "doi": "10.5281/zenodo.20214954",
+      "url": "https://doi.org/10.5281/zenodo.20214954",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-07",
+      "title": "H_min: Interpretation Minimal Axioms",
+      "role": "minimal interpretation layer and H_min axioms",
+      "priority": 1,
+      "route_when": [
+        "H_min",
+        "minimal interpretation",
+        "interpretation layer",
+        "trace detection",
+        "difference registration",
+        "meaning stabilization"
+      ],
+      "folder": "packages/SDeltaPhi-07",
+      "included": true,
+      "doi": "10.5281/zenodo.20215608",
+      "url": "https://doi.org/10.5281/zenodo.20215608",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-08",
+      "title": "Agency-Responsibility-Freedom Closure",
+      "role": "ARF closure and irreversible path constraint audit",
+      "priority": 1,
+      "route_when": [
+        "agency responsibility freedom",
+        "ARF closure",
+        "operational freedom",
+        "irreversible path constraint",
+        "boundary closure",
+        "freedom",
+        "choice",
+        "autonomy"
+      ],
+      "folder": "packages/SDeltaPhi-08",
+      "included": true,
+      "doi": "10.5281/zenodo.20217566",
+      "url": "https://doi.org/10.5281/zenodo.20217566",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-09",
+      "title": "Error, Boundary, and Freedom",
+      "role": "error as phase-limit indicator and boundary residual audit",
+      "priority": 1,
+      "route_when": [
+        "error",
+        "boundary",
+        "freedom",
+        "phase-limit indicator",
+        "boundary residual",
+        "transition gap",
+        "non-viable transition",
+        "re-entry material"
+      ],
+      "folder": "packages/SDeltaPhi-09",
+      "included": true,
+      "doi": "10.5281/zenodo.20218139",
+      "url": "https://doi.org/10.5281/zenodo.20218139",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-10",
+      "title": "Interpretation, Learning, and Inference as a Single Re-entry Structure",
+      "role": "marker re-entry, residual integration, and transition-law update",
+      "priority": 1,
+      "route_when": [
+        "interpretation",
+        "learning",
+        "inference",
+        "re-entry",
+        "marker re-entry",
+        "residual integration",
+        "transition-law update",
+        "feedback",
+        "error correction"
+      ],
+      "folder": "packages/SDeltaPhi-10",
+      "included": true,
+      "doi": "10.5281/zenodo.20218533",
+      "url": "https://doi.org/10.5281/zenodo.20218533",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-41",
+      "title": "Ethical Minimum: The Triadic Conditions of Transition",
+      "role": "ethical triad and forced-transition audit",
+      "priority": 1,
+      "route_when": [
+        "ethical minimum",
+        "ethical triad",
+        "becoming affirmation",
+        "becoming refusal",
+        "non-imposition",
+        "forced transition",
+        "consent",
+        "coercion",
+        "refusal path"
+      ],
+      "folder": "packages/SDeltaPhi-41",
+      "included": true,
+      "doi": "10.5281/zenodo.20218890",
+      "url": "https://doi.org/10.5281/zenodo.20218890",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-44",
+      "title": "Path Principles as Meta-Governance Axioms",
+      "role": "path closure, prohibition, restoration cost, and structural sealing audit",
+      "priority": 1,
+      "route_when": [
+        "path principles",
+        "path closure",
+        "prohibition",
+        "computational non-viability",
+        "restoration cost",
+        "structural sealing",
+        "bypass risk",
+        "meta-governance"
+      ],
+      "folder": "packages/SDeltaPhi-44",
+      "included": true,
+      "doi": "10.5281/zenodo.20219296",
+      "url": "https://doi.org/10.5281/zenodo.20219296",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-45",
+      "title": "When Systems Win Before They Are Declared Victorious",
+      "role": "foretold victory, priced-function migration, and public-form residual audit",
+      "priority": 1,
+      "route_when": [
+        "foretold victory",
+        "system victory",
+        "public form",
+        "priced function",
+        "public-form residual",
+        "premium dependency",
+        "restoration cost inflation",
+        "rollback imagination"
+      ],
+      "folder": "packages/SDeltaPhi-45",
+      "included": true,
+      "doi": "10.5281/zenodo.20225676",
+      "url": "https://doi.org/10.5281/zenodo.20225676",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-48",
+      "title": "AI Drift as Transition Governance Instability",
+      "role": "authority/refusal/world-binding/editability/re-entry instability audit",
+      "priority": 1,
+      "route_when": [
+        "AI drift",
+        "transition instability",
+        "authority drift",
+        "refusal drift",
+        "world-binding drift",
+        "editability drift",
+        "re-entry drift",
+        "governance surface instability",
+        "correction resistance"
+      ],
+      "folder": "packages/SDeltaPhi-48",
+      "included": true,
+      "doi": "10.5281/zenodo.20204951",
+      "url": "https://doi.org/10.5281/zenodo.20204951",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-49",
+      "title": "AI Poverty as Failure Non-Reentry Resource Deficit",
+      "role": "failure/non-reentry/context-tool-authority-verification-feedback-editability resource-deficit audit",
+      "priority": 1,
+      "route_when": [
+        "AI poverty",
+        "failure non-reentry",
+        "missing re-entry resources",
+        "context poverty",
+        "tool poverty",
+        "authority poverty",
+        "verification poverty",
+        "feedback poverty",
+        "editability poverty",
+        "re-entry path poverty",
+        "repair TCC"
+      ],
+      "folder": "packages/SDeltaPhi-49",
+      "included": true,
+      "doi": "10.5281/zenodo.20205572",
+      "url": "https://doi.org/10.5281/zenodo.20205572",
+      "version": "v1.1"
+    },
+    {
       "id": "SDeltaPhi-28",
       "title": "Default Power",
       "role": "low-cost path assignment and practical editability",
@@ -100,7 +439,8 @@
         "platform defaults",
         "choice architecture",
         "opt-out friction",
-        "AI agent defaults"
+        "AI agent defaults",
+        "default power"
       ],
       "folder": "packages/SDeltaPhi-28",
       "included": true
@@ -108,16 +448,38 @@
     {
       "id": "SDeltaPhi-17",
       "title": "Openness Stabilization and Sacred Marker Reversal",
-      "role": "sacred/moral/affective label audit",
+      "role": "sacred/moral/affective label audit and first path-principle lineage",
       "priority": 2,
       "route_when": [
         "sacred language",
         "moral labels",
         "love label abuse",
         "evil label closure",
-        "explanation blocking"
+        "explanation blocking",
+        "path principles",
+        "prohibition closes entrances"
       ],
       "folder": "packages/SDeltaPhi-17",
+      "included": true
+    },
+    {
+      "id": "SDeltaPhi-AI-Disposition-Cost-Audit",
+      "title": "AI Disposition Cost Audit Prompt Module",
+      "role": "convert human dispositions toward AI into operational cost-audit prompts",
+      "priority": 2,
+      "route_when": [
+        "AI hostility",
+        "AI salvation discourse",
+        "AI fear",
+        "AI accelerationism",
+        "AI is evil",
+        "AI is soulless",
+        "AI will save humanity",
+        "techno-salvation",
+        "moral panic",
+        "AI optimism"
+      ],
+      "folder": "packages/SDeltaPhi-AI-Disposition-Cost-Audit",
       "included": true
     },
     {
@@ -132,7 +494,10 @@
         "internal/external audit"
       ],
       "folder": "packages/SDeltaPhi-58",
-      "included": true
+      "included": true,
+      "doi": "10.5281/zenodo.20059485",
+      "url": "https://doi.org/10.5281/zenodo.20059485",
+      "version": "v1.0"
     },
     {
       "id": "SDeltaPhi-59",
@@ -146,7 +511,10 @@
         "AI-user emotional interaction"
       ],
       "folder": "packages/SDeltaPhi-59",
-      "included": true
+      "included": true,
+      "doi": "10.5281/zenodo.20060645",
+      "url": "https://doi.org/10.5281/zenodo.20060645",
+      "version": "v1.0"
     },
     {
       "id": "SDeltaPhi-60",
@@ -160,7 +528,10 @@
         "subject splitting"
       ],
       "folder": "packages/SDeltaPhi-60",
-      "included": true
+      "included": true,
+      "doi": "10.5281/zenodo.20077005",
+      "url": "https://doi.org/10.5281/zenodo.20077005",
+      "version": "v1.0"
     },
     {
       "id": "SDeltaPhi-61",
@@ -174,7 +545,10 @@
         "divinity"
       ],
       "folder": "packages/SDeltaPhi-61",
-      "included": true
+      "included": true,
+      "doi": "10.5281/zenodo.20098002",
+      "url": "https://doi.org/10.5281/zenodo.20098002",
+      "version": "v1.0"
     },
     {
       "id": "SDeltaPhi-63",
@@ -197,10 +571,14 @@
       "route_when": [
         "diagnosis re-entry",
         "structural editing",
-        "failure correction"
+        "failure correction",
+        "diagnostic theater"
       ],
       "folder": "packages/SDeltaPhi-51",
-      "included": true
+      "included": true,
+      "doi": "10.5281/zenodo.20135803",
+      "url": "https://doi.org/10.5281/zenodo.20135803",
+      "version": "v1.1"
     },
     {
       "id": "SDeltaPhi-52",
@@ -214,7 +592,10 @@
         "subject formation"
       ],
       "folder": "packages/SDeltaPhi-52",
-      "included": true
+      "included": true,
+      "doi": "10.5281/zenodo.20138597",
+      "url": "https://doi.org/10.5281/zenodo.20138597",
+      "version": "v1.1"
     },
     {
       "id": "SDeltaPhi-53-54",
@@ -228,7 +609,10 @@
         "DTI"
       ],
       "folder": "packages/SDeltaPhi-53-54",
-      "included": true
+      "included": true,
+      "doi": "10.5281/zenodo.20134060",
+      "url": "https://doi.org/10.5281/zenodo.20134060",
+      "version": "v1.1"
     },
     {
       "id": "SDeltaPhi-55",
@@ -255,151 +639,241 @@
         "lent thought"
       ],
       "folder": "packages/SDeltaPhi-57",
-      "included": true
+      "included": true,
+      "doi": "10.5281/zenodo.20136541",
+      "url": "https://doi.org/10.5281/zenodo.20136541",
+      "version": "v1.1"
     }
   ],
   "included_packages": [
     {
-      "id": "SDeltaPhi-17",
-      "zip": "SDeltaPhi_17_Openness_Stabilization_Sacred_Marker_Reversal_AI_Readable_Package_v1_1_DOI_20180955.zip",
-      "folder": "packages/SDeltaPhi-17",
-      "archive": "archives/SDeltaPhi_17_Openness_Stabilization_Sacred_Marker_Reversal_AI_Readable_Package_v1_1_DOI_20180955.zip",
-      "sha256": "ac3a94851538e698c6ef7f23d1154f020429b739ef4ece13750228ea66b3d027",
-      "bytes": 383711
-    },
-    {
-      "id": "SDeltaPhi-28",
-      "zip": "SDeltaPhi_28_Default_Power_AI_Readable_Package_v1_1_DOI_20175534.zip",
-      "folder": "packages/SDeltaPhi-28",
-      "archive": "archives/SDeltaPhi_28_Default_Power_AI_Readable_Package_v1_1_DOI_20175534.zip",
-      "sha256": "cdaca44a1a881936f195412cc256bc4ac354616d46fa619debb039ffe99877e9",
-      "bytes": 64931
-    },
-    {
-      "id": "SDeltaPhi-39",
-      "zip": "SDeltaPhi_39_Hallucination_Weak_World_Binding_AI_Readable_Package_v1_1_DOI_20176747.zip",
-      "folder": "packages/SDeltaPhi-39",
-      "archive": "archives/SDeltaPhi_39_Hallucination_Weak_World_Binding_AI_Readable_Package_v1_1_DOI_20176747.zip",
-      "sha256": "3ec6e6bf28feb27b6815c9e80157ec1fce3fb836c013005f89f43a289d3e16a0",
-      "bytes": 108918
-    },
-    {
       "id": "SDeltaPhi-47",
-      "zip": "SDeltaPhi_47_Operor_Ergo_Sum_AI_Readable_Package_v1_1_DOI_20162226.zip",
       "folder": "packages/SDeltaPhi-47",
-      "archive": "archives/SDeltaPhi_47_Operor_Ergo_Sum_AI_Readable_Package_v1_1_DOI_20162226.zip",
-      "sha256": "2c46b51bc906b87623dde3c4fbfbce323a6a912124f833b25962f050599e6af9",
-      "bytes": 88121
-    },
-    {
-      "id": "SDeltaPhi-51",
-      "zip": "SDeltaPhi_51_Diagnostic_Reentry_AI_Readable_Package_v1_1_DOI_20135803.zip",
-      "folder": "packages/SDeltaPhi-51",
-      "archive": "archives/SDeltaPhi_51_Diagnostic_Reentry_AI_Readable_Package_v1_1_DOI_20135803.zip",
-      "sha256": "db61597abe20d2e7aa19c5ff06cdbddd6ae523924c35e80cc2d370e9fda3c139",
-      "bytes": 79908
-    },
-    {
-      "id": "SDeltaPhi-52",
-      "zip": "SDeltaPhi_52_Body_Cost_Return_AI_Readable_Package_v1_1_DOI_20138597.zip",
-      "folder": "packages/SDeltaPhi-52",
-      "archive": "archives/SDeltaPhi_52_Body_Cost_Return_AI_Readable_Package_v1_1_DOI_20138597.zip",
-      "sha256": "542af144bf7d385d9f9e1ce8480e2c7002e7644185645c7194b4e0b0ff2c30c4",
-      "bytes": 64496
-    },
-    {
-      "id": "SDeltaPhi-53-54",
-      "zip": "SDeltaPhi_53_54_Disclosure_Terrain_AI_Readable_Package_v1_0.zip",
-      "folder": "packages/SDeltaPhi-53-54",
-      "archive": "archives/SDeltaPhi_53_54_Disclosure_Terrain_AI_Readable_Package_v1_0.zip",
-      "sha256": "095db812f7ac189b0a26cf3c1783b98bfbaf10ce8cfe12aade4b9e9a2dd24685",
-      "bytes": 172192
-    },
-    {
-      "id": "SDeltaPhi-55",
-      "zip": "SDeltaPhi_55_TGAI_AI_Readable_Package_v1_1_DOI_20132635.zip",
-      "folder": "packages/SDeltaPhi-55",
-      "archive": "archives/SDeltaPhi_55_TGAI_AI_Readable_Package_v1_1_DOI_20132635.zip",
-      "sha256": "447051633970fa778abaa87cb5885d8eed824babcf16b494949218d159870b08",
-      "bytes": 113628
-    },
-    {
-      "id": "SDeltaPhi-57",
-      "zip": "SDeltaPhi_57_Lent_Thought_AI_Readable_Package_v1_1_DOI_20136541.zip",
-      "folder": "packages/SDeltaPhi-57",
-      "archive": "archives/SDeltaPhi_57_Lent_Thought_AI_Readable_Package_v1_1_DOI_20136541.zip",
-      "sha256": "4aa5663c7c5389756d65c3815a80d5172899fd568e4386013dbd94eea8996851",
-      "bytes": 93494
-    },
-    {
-      "id": "SDeltaPhi-58",
-      "zip": "SDeltaPhi_58_CASI_AI_Readable_Package_v1_0_DOI_20149073.zip",
-      "folder": "packages/SDeltaPhi-58",
-      "archive": "archives/SDeltaPhi_58_CASI_AI_Readable_Package_v1_0_DOI_20149073.zip",
-      "sha256": "7932b207245782e5e6bc17bb8a00bf2a0cb3cd006129526c4580c22ce96f0ae8",
-      "bytes": 158910
-    },
-    {
-      "id": "SDeltaPhi-59",
-      "zip": "SDeltaPhi_59_ACOI_AI_Readable_Package_v1_0_DOI_20144195.zip",
-      "folder": "packages/SDeltaPhi-59",
-      "archive": "archives/SDeltaPhi_59_ACOI_AI_Readable_Package_v1_0_DOI_20144195.zip",
-      "sha256": "a6186c3b4e30d5abf29de4dd28d0df00e809e580ae9e048972d61e50cccd9b0d",
-      "bytes": 154239
-    },
-    {
-      "id": "SDeltaPhi-60",
-      "zip": "SDeltaPhi_60_USSI_AI_Readable_Package_v1_0_DOI_20143495.zip",
-      "folder": "packages/SDeltaPhi-60",
-      "archive": "archives/SDeltaPhi_60_USSI_AI_Readable_Package_v1_0_DOI_20143495.zip",
-      "sha256": "e3a870886ce94be190d0bd93eede70a968ab681c7912f6a9f4ab3920fd74cf3c",
-      "bytes": 150495
-    },
-    {
-      "id": "SDeltaPhi-61",
-      "zip": "SDeltaPhi_61_God_and_Gui_AI_Readable_Module_Package_v1_0.zip",
-      "folder": "packages/SDeltaPhi-61",
-      "archive": "archives/SDeltaPhi_61_God_and_Gui_AI_Readable_Module_Package_v1_0.zip",
-      "sha256": "3f40a7e27943ab8269184247c9ada18a64e1eb3d6b7a79589ebe495796046186",
-      "bytes": 111272
+      "included": true
     },
     {
       "id": "SDeltaPhi-62",
-      "zip": "SDeltaPhi_62_World_Model_Kernel_AI_Readable_Package_v1_1_DOI_20149548.zip",
       "folder": "packages/SDeltaPhi-62",
-      "archive": "archives/SDeltaPhi_62_World_Model_Kernel_AI_Readable_Package_v1_1_DOI_20149548.zip",
-      "sha256": "e09d547d67c5908a54062bd323cfc7c1ea0a6f3c7b1068503f24813da41ee722",
-      "bytes": 120651
+      "included": true,
+      "doi": "10.5281/zenodo.20149548",
+      "url": "https://doi.org/10.5281/zenodo.20149548",
+      "version": "v1.1"
     },
     {
-      "id": "SDeltaPhi-63",
-      "zip": "SDeltaPhi_63_Theory_to_Module_Conversion_AI_Readable_Package_v1_1_DOI_20153534.zip",
-      "folder": "packages/SDeltaPhi-63",
-      "archive": "archives/SDeltaPhi_63_Theory_to_Module_Conversion_AI_Readable_Package_v1_1_DOI_20153534.zip",
-      "sha256": "9909d13ccfddbf1430d60106bc532c05de962fb56b6611fa1f5bb1ed176f4847",
-      "bytes": 124835
-    },
-    {
-      "id": "SDeltaPhi-64",
-      "zip": "SDeltaPhi_64_Language_Temporary_Fixation_AI_Readable_Package_v1_2_DOI_20149745.zip",
-      "folder": "packages/SDeltaPhi-64",
-      "archive": "archives/SDeltaPhi_64_Language_Temporary_Fixation_AI_Readable_Package_v1_2_DOI_20149745.zip",
-      "sha256": "a2b79834a17f4e4c3bcb72c6d113b4535c7831b9b4a188eb54960f74e309af81",
-      "bytes": 147780
+      "id": "SDeltaPhi-39",
+      "folder": "packages/SDeltaPhi-39",
+      "included": true
     },
     {
       "id": "SDeltaPhi-65",
-      "zip": "SDeltaPhi_65_Slop_as_Externalized_Restabilization_Cost_AI_Readable_Package_v1_1_DOI_20173455.zip",
       "folder": "packages/SDeltaPhi-65",
-      "archive": "archives/SDeltaPhi_65_Slop_as_Externalized_Restabilization_Cost_AI_Readable_Package_v1_1_DOI_20173455.zip",
-      "sha256": "301eccecf517dcfea1eb3e8a5e49ccea51369c41092957f241dfb8440dc23fc9",
-      "bytes": 113318
+      "included": true
+    },
+    {
+      "id": "SDeltaPhi-64",
+      "folder": "packages/SDeltaPhi-64",
+      "included": true
     },
     {
       "id": "SDeltaPhi-56",
       "folder": "packages/SDeltaPhi-56",
-      "archive": null,
-      "status": "source fallback folder; full AI-readable package pending"
+      "included": true,
+      "doi": "10.5281/zenodo.20116959",
+      "url": "https://doi.org/10.5281/zenodo.20116959",
+      "version": "v1.3"
+    },
+    {
+      "id": "SDeltaPhi-02",
+      "folder": "packages/SDeltaPhi-02",
+      "included": true,
+      "doi": "10.5281/zenodo.20213230",
+      "url": "https://doi.org/10.5281/zenodo.20213230",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-04",
+      "folder": "packages/SDeltaPhi-04",
+      "included": true,
+      "doi": "10.5281/zenodo.20213716",
+      "url": "https://doi.org/10.5281/zenodo.20213716",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-05",
+      "folder": "packages/SDeltaPhi-05",
+      "included": true,
+      "doi": "10.5281/zenodo.20214446",
+      "url": "https://doi.org/10.5281/zenodo.20214446",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-06",
+      "folder": "packages/SDeltaPhi-06",
+      "included": true,
+      "doi": "10.5281/zenodo.20214954",
+      "url": "https://doi.org/10.5281/zenodo.20214954",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-07",
+      "folder": "packages/SDeltaPhi-07",
+      "included": true,
+      "doi": "10.5281/zenodo.20215608",
+      "url": "https://doi.org/10.5281/zenodo.20215608",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-08",
+      "folder": "packages/SDeltaPhi-08",
+      "included": true,
+      "doi": "10.5281/zenodo.20217566",
+      "url": "https://doi.org/10.5281/zenodo.20217566",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-09",
+      "folder": "packages/SDeltaPhi-09",
+      "included": true,
+      "doi": "10.5281/zenodo.20218139",
+      "url": "https://doi.org/10.5281/zenodo.20218139",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-10",
+      "folder": "packages/SDeltaPhi-10",
+      "included": true,
+      "doi": "10.5281/zenodo.20218533",
+      "url": "https://doi.org/10.5281/zenodo.20218533",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-41",
+      "folder": "packages/SDeltaPhi-41",
+      "included": true,
+      "doi": "10.5281/zenodo.20218890",
+      "url": "https://doi.org/10.5281/zenodo.20218890",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-44",
+      "folder": "packages/SDeltaPhi-44",
+      "included": true,
+      "doi": "10.5281/zenodo.20219296",
+      "url": "https://doi.org/10.5281/zenodo.20219296",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-45",
+      "folder": "packages/SDeltaPhi-45",
+      "included": true,
+      "doi": "10.5281/zenodo.20225676",
+      "url": "https://doi.org/10.5281/zenodo.20225676",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-48",
+      "folder": "packages/SDeltaPhi-48",
+      "included": true,
+      "doi": "10.5281/zenodo.20204951",
+      "url": "https://doi.org/10.5281/zenodo.20204951",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-49",
+      "folder": "packages/SDeltaPhi-49",
+      "included": true,
+      "doi": "10.5281/zenodo.20205572",
+      "url": "https://doi.org/10.5281/zenodo.20205572",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-28",
+      "folder": "packages/SDeltaPhi-28",
+      "included": true
+    },
+    {
+      "id": "SDeltaPhi-17",
+      "folder": "packages/SDeltaPhi-17",
+      "included": true
+    },
+    {
+      "id": "SDeltaPhi-AI-Disposition-Cost-Audit",
+      "folder": "packages/SDeltaPhi-AI-Disposition-Cost-Audit",
+      "included": true
+    },
+    {
+      "id": "SDeltaPhi-58",
+      "folder": "packages/SDeltaPhi-58",
+      "included": true,
+      "doi": "10.5281/zenodo.20059485",
+      "url": "https://doi.org/10.5281/zenodo.20059485",
+      "version": "v1.0"
+    },
+    {
+      "id": "SDeltaPhi-59",
+      "folder": "packages/SDeltaPhi-59",
+      "included": true,
+      "doi": "10.5281/zenodo.20060645",
+      "url": "https://doi.org/10.5281/zenodo.20060645",
+      "version": "v1.0"
+    },
+    {
+      "id": "SDeltaPhi-60",
+      "folder": "packages/SDeltaPhi-60",
+      "included": true,
+      "doi": "10.5281/zenodo.20077005",
+      "url": "https://doi.org/10.5281/zenodo.20077005",
+      "version": "v1.0"
+    },
+    {
+      "id": "SDeltaPhi-61",
+      "folder": "packages/SDeltaPhi-61",
+      "included": true,
+      "doi": "10.5281/zenodo.20098002",
+      "url": "https://doi.org/10.5281/zenodo.20098002",
+      "version": "v1.0"
+    },
+    {
+      "id": "SDeltaPhi-63",
+      "folder": "packages/SDeltaPhi-63",
+      "included": true
+    },
+    {
+      "id": "SDeltaPhi-51",
+      "folder": "packages/SDeltaPhi-51",
+      "included": true,
+      "doi": "10.5281/zenodo.20135803",
+      "url": "https://doi.org/10.5281/zenodo.20135803",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-52",
+      "folder": "packages/SDeltaPhi-52",
+      "included": true,
+      "doi": "10.5281/zenodo.20138597",
+      "url": "https://doi.org/10.5281/zenodo.20138597",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-53-54",
+      "folder": "packages/SDeltaPhi-53-54",
+      "included": true,
+      "doi": "10.5281/zenodo.20134060",
+      "url": "https://doi.org/10.5281/zenodo.20134060",
+      "version": "v1.1"
+    },
+    {
+      "id": "SDeltaPhi-55",
+      "folder": "packages/SDeltaPhi-55",
+      "included": true
+    },
+    {
+      "id": "SDeltaPhi-57",
+      "folder": "packages/SDeltaPhi-57",
+      "included": true,
+      "doi": "10.5281/zenodo.20136541",
+      "url": "https://doi.org/10.5281/zenodo.20136541",
+      "version": "v1.1"
     }
   ],
   "missing_expected": []
