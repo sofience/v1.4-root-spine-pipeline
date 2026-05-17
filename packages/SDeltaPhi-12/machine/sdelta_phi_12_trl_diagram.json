@@ -1,0 +1,14 @@
+{
+  "diagram_id": "SDeltaPhi-12_TRL",
+  "name": "Trace Regulation Loop",
+  "nodes": [
+    "DeltaPhi event",
+    "Irreversibility test",
+    "Trace candidate",
+    "Memory re-entry",
+    "Forgetting",
+    "Feasible path set Omega update",
+    "Next selection"
+  ],
+  "caption": "The system persists only when memory re-entry and forgetting remain coupled."
+}

@@ -1,0 +1,16 @@
+{
+  "heuristic_id": "SDeltaPhi-12_selective_memory_heuristic",
+  "reenter_traces_with": [
+    "high recurrence risk",
+    "high irreversibility magnitude",
+    "high future transition relevance",
+    "high repair / restoration cost if ignored"
+  ],
+  "compress_or_discard_traces_with": [
+    "low recurrence risk",
+    "low irreversibility magnitude",
+    "low future transition relevance",
+    "high storage burden but low directional constraint value"
+  ],
+  "goal": "Keep repeat-risk below threshold while maintaining a non-collapsed feasible path set."
+}

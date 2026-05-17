@@ -1,0 +1,62 @@
+module_id: "SDeltaPhi-12"
+title: "Memory and Forgetting as Irreversible Trace Regulation"
+version: "v1.0"
+role: "trace_regulation_persistence_mechanism"
+record_doi: "https://doi.org/10.5281/zenodo.18755685"
+depends_on:
+  -
+    module_id: "SDeltaPhi-11"
+    relation: "self and consciousness as boundary re-entry positions"
+    doi: "https://doi.org/10.5281/zenodo.18753403"
+  -
+    module_id: "SDeltaPhi-10"
+    relation: "interpretation, learning, and inference as single re-entry structure"
+    doi: "https://doi.org/10.5281/zenodo.18746509"
+  -
+    module_id: "SDeltaPhi-09"
+    relation: "error and boundary as phase-limit indicators"
+    doi: "https://doi.org/10.5281/zenodo.18745498"
+  -
+    module_id: "SDeltaPhi-03"
+    relation: "irreversibility condition"
+    doi: "https://doi.org/10.5281/zenodo.18730448"
+core_claim: "Memory and forgetting are not storage features but a minimal trace regulation mechanism enabling continued transition under irreversibility."
+entities:
+  irreversible_trace:
+    definition: "A transition whose effects cannot be undone within the accessible update space."
+    test: "RollbackCost(DeltaPhi_t) >> UpdateBudget"
+  memory:
+    definition: "Selective re-entry of irreversible traces into next transition selection."
+    formula: "M_t := H_M(DeltaPhi_0:t)"
+    function: "constraint injection"
+  forgetting:
+    definition: "Trace compression that preserves directional constraints while releasing degrees of freedom."
+    formula: "F_t := C(M_t)"
+    function: "constraint compression / path-space reopening"
+  effective_memory:
+    definition: "Regulated memory after compression/pruning/abstraction."
+    formula: "M_eff_t := C(H_M(DeltaPhi_0:t))"
+  feasible_path_set:
+    symbol: "Omega_t"
+    overload_condition: "|M_t| increases excessively implies |Omega_{t+1}| decreases toward 0"
+pathology_regimes:
+  drift_repeat:
+    condition: "Memory too weak"
+    risk: "catastrophic recurrence"
+  fixation_paralysis:
+    condition: "Forgetting too weak"
+    risk: "path-space collapse / self-locking"
+  adaptive_persistence:
+    condition: "balanced regulation"
+    result: "stable continuity plus exploration"
+routing:
+  use_when:
+    - "memory must be distinguished from storage"
+    - "forgetting must be distinguished from deletion"
+    - "repeated failure loops require trace regulation analysis"
+    - "fixation or paralysis requires overload analysis"
+    - "self-continuity requires effective memory analysis"
+  do_not_use_when:
+    - "the task only concerns database retrieval"
+    - "the task only asks for vector store implementation"
+    - "irreversible trace regulation is not structurally relevant"

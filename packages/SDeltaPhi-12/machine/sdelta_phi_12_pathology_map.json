@@ -1,0 +1,23 @@
+{
+  "module_id": "SDeltaPhi-12",
+  "regimes": [
+    {
+      "regime": "Drift / Repeat",
+      "condition": "Memory too weak",
+      "observable_behavior": "Repeated failure loops; no stable constraints",
+      "structural_risk": "Catastrophic recurrence"
+    },
+    {
+      "regime": "Fixation / Paralysis",
+      "condition": "Forgetting too weak",
+      "observable_behavior": "Overconstraint; feasible path-space collapse",
+      "structural_risk": "Stagnation / self-locking"
+    },
+    {
+      "regime": "Adaptive Persistence",
+      "condition": "Balanced regulation",
+      "observable_behavior": "Stable continuity + exploration",
+      "structural_risk": "Sustained re-entry"
+    }
+  ]
+}

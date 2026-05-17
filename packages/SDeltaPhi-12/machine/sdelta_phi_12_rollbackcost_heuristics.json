@@ -1,0 +1,11 @@
+{
+  "heuristic_id": "SDeltaPhi-12_rollbackcost_heuristics",
+  "formula": "RollbackCost ≈ w1*ExplanationCost + w2*RepairCost + w3*SocialLegalCost + w4*TimeToRestore",
+  "components": [
+    "explanation cost",
+    "repair / recovery cost",
+    "social / legal cost",
+    "time-to-restore"
+  ],
+  "use": "Estimate whether a trace should be treated as irreversible or high-priority for memory re-entry."
+}
