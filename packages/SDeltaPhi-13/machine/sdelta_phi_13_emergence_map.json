@@ -1,0 +1,20 @@
+{
+  "diagram_id": "SDeltaPhi-13_Attractor_Emergence_Map",
+  "steps": [
+    "DeltaPhi ongoing transitions",
+    "Memory / trace re-entry",
+    "Forgetting / compression-pruning",
+    "Trace regulation",
+    "Irreversible trace landscape",
+    "Attractor formation",
+    "Meaning / direction-bias",
+    "Value / fixation-deviation cost",
+    "Pain / trajectory tension"
+  ],
+  "dependency_note": "trace persistence -> attractor formation -> meaning/value/pain",
+  "absence_condition": {
+    "meaning": "undefined without trace persistence",
+    "value": "undefined without trace persistence",
+    "pain": "impossible without trace persistence"
+  }
+}

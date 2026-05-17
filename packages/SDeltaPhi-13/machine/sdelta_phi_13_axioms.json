@@ -1,0 +1,19 @@
+{
+  "module_id": "SDeltaPhi-13",
+  "axioms": [
+    {
+      "name": "Persistence condition",
+      "statement": "Phenomenal structures require irreversible trace persistence and regulation.",
+      "absence_condition": {
+        "meaning": "undefined",
+        "value": "undefined",
+        "pain": "impossible"
+      }
+    },
+    {
+      "name": "Attractor emergence",
+      "statement": "An attractor is a region toward which DeltaPhi trajectories stabilize under the irreversible trace landscape created by regulation."
+    }
+  ],
+  "dependency": "trace persistence -> attractor formation -> meaning/value/pain"
+}

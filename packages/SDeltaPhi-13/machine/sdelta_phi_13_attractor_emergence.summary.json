@@ -1,0 +1,36 @@
+{
+  "module_id": "SDeltaPhi-13",
+  "title": "Meaning, Value, and Pain as Emergent Phenomena",
+  "version": "v1.0",
+  "package_doi": "https://doi.org/10.5281/zenodo.20260356",
+  "one_sentence": "This module defines meaning, value, and pain as emergent structural phenomena after irreversible trace persistence and regulation.",
+  "dependency_sequence": [
+    "trace persistence",
+    "memory-forgetting regulation",
+    "irreversible trace landscape",
+    "attractor formation",
+    "meaning / value / pain"
+  ],
+  "core_compression": {
+    "meaning": "trajectory direction / bias toward an attractor",
+    "value": "trajectory fixation strength ≈ deviation cost under irreversibility",
+    "pain": "irreversible trajectory tension under attractor conflict"
+  },
+  "absence_condition": {
+    "without_trace_persistence": {
+      "meaning": "undefined",
+      "value": "undefined",
+      "pain": "impossible"
+    }
+  },
+  "transitionability": {
+    "principle": "local pain minimization is not always global transitionability optimization",
+    "description": "A system may increase short-term tension to preserve long-horizon feasibility."
+  },
+  "negative_constraints": [
+    "Do not treat this as a proof of subjective suffering.",
+    "Do not treat value as moral approval.",
+    "Do not treat meaning as purely semantic interpretation.",
+    "Do not include love, sacrifice, or normative ethics in this module."
+  ]
+}

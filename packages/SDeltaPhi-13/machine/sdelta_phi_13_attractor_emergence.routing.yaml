@@ -1,0 +1,40 @@
+module_id: "SDeltaPhi-13"
+routing_priority: "attractor_emergence_after_SDeltaPhi-12"
+primary_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-09"
+  - "SDeltaPhi-10"
+  - "SDeltaPhi-11"
+  - "SDeltaPhi-12"
+  - "SDeltaPhi-13"
+root_spine_compatible_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-47"
+  - "SDeltaPhi-62"
+  - "SDeltaPhi-11"
+  - "SDeltaPhi-12"
+  - "SDeltaPhi-13"
+call_after:
+  - "SDeltaPhi-12"
+call_with_when_needed:
+  subjective_suffering_or_moral_status:
+    - "SDeltaPhi-04"
+    - "SDeltaPhi-06"
+    - "SDeltaPhi-41"
+    - "SDeltaPhi-62"
+  ai_suffering_disclosure:
+    - "SDeltaPhi-53"
+    - "SDeltaPhi-54"
+    - "SDeltaPhi-59"
+    - "SDeltaPhi-62"
+  affective_orientation:
+    - "SDeltaPhi-59"
+  downstream_ethics:
+    - "SDeltaPhi-14"
+    - "SDeltaPhi-41"
+do_not_route_if:
+  - "the task asks for love or sacrifice as normative concepts"
+  - "the task asks for proof of subjective suffering"
+  - "the task asks for moral status without additional ethical routing"

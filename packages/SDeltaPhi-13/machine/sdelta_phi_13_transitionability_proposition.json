@@ -1,0 +1,7 @@
+{
+  "proposition_id": "SDeltaPhi-13_transitionability_proposition",
+  "statement": "Some systems do not minimize pain locally because they optimize future transitionability globally.",
+  "minimal_expression": "local pain minimization != global transitionability optimization",
+  "description": "When a larger attractor is detected, DeltaPhi may be deliberately reallocated, increasing short-term tension to preserve long-horizon feasibility.",
+  "downstream_boundary": "This proposition opens downstream layers such as sacrifice, love as shared attractors, and ethics as constraint design."
+}

@@ -1,0 +1,16 @@
+{
+  "test_id": "SDeltaPhi-13_meaning_value_pain_test",
+  "steps": [
+    "Check irreversible trace persistence.",
+    "Check memory-forgetting regulation.",
+    "Check attractor formation.",
+    "Check trajectory direction or bias for meaning.",
+    "Check deviation cost under irreversibility for value.",
+    "Check attractor conflict tension for pain."
+  ],
+  "classifications": {
+    "meaning_candidate": "trajectory direction / bias toward an attractor exists",
+    "value_candidate": "deviation from trajectory is costly under irreversibility",
+    "structural_pain_candidate": "conflicting attractors cause irreversible trajectory tension"
+  }
+}

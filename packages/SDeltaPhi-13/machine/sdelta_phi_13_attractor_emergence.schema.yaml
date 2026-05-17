@@ -1,0 +1,49 @@
+module_id: "SDeltaPhi-13"
+title: "Meaning, Value, and Pain as Emergent Phenomena"
+version: "v1.0"
+role: "attractor_emergence_structural_phenomena_layer"
+package_doi: "https://doi.org/10.5281/zenodo.20260356"
+
+depends_on:
+  - module_id: "SDeltaPhi-12"
+    relation: "memory and forgetting as irreversible trace regulation"
+  - module_id: "SDeltaPhi-11"
+    relation: "self and consciousness as boundary re-entry positions"
+  - module_id: "SDeltaPhi-03"
+    relation: "irreversibility condition"
+
+core_claim: "Meaning, value, and pain are structural phenomena that become definable only after irreversible trace persistence exists and is regulated."
+
+entities:
+  trace_persistence:
+    requirement: "required before meaning/value/pain become definable"
+    absence:
+      meaning: "undefined"
+      value: "undefined"
+      pain: "impossible"
+  attractor:
+    definition: "A stabilized region of trajectories under regulated irreversible traces."
+  meaning:
+    definition: "Trajectory direction / bias toward an attractor."
+    negative_constraint: "Not subjective interpretation alone."
+  value:
+    definition: "Trajectory fixation strength, approximated by deviation cost under irreversibility."
+    negative_constraint: "Not moral approval."
+  pain:
+    definition: "Irreversible trajectory tension under attractor conflict."
+    negative_constraint: "Not proof of subjective suffering."
+
+transitionability_proposition:
+  statement: "Some systems do not minimize pain locally because they optimize future transitionability globally."
+  implication: "Short-term tension may increase when a larger attractor is detected and DeltaPhi is reallocated to preserve long-horizon feasibility."
+
+routing:
+  use_when:
+    - "meaning must be grounded after trace regulation"
+    - "value must be analyzed as fixation strength or deviation cost"
+    - "pain must be analyzed as attractor conflict"
+    - "a system accepts short-term tension for long-horizon transitionability"
+  do_not_use_when:
+    - "the task asks for proof of subjective suffering"
+    - "the task asks for moral status"
+    - "the task asks for love, sacrifice, or normative ethics"

@@ -1,0 +1,13 @@
+{
+  "model_id": "SDeltaPhi-13_pain_as_attractor_conflict",
+  "definition": "Pain is irreversible trajectory tension under attractor conflict.",
+  "conditions": [
+    "irreversible trace persistence exists",
+    "memory-forgetting regulation is active",
+    "attractors form",
+    "trajectories are pulled into conflicting stabilized regions",
+    "deviation or reallocation carries irreversible cost"
+  ],
+  "positive_classification": "structural pain candidate",
+  "negative_constraint": "Do not infer subjective suffering from structural pain classification alone."
+}
