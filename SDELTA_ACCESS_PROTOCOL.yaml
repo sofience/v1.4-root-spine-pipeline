@@ -1,27 +1,48 @@
-canonical_archive:
-  provider: Zenodo
-  purpose:
-    - DOI
-    - citation
-    - preservation
-    - versioning
+version: "1.4-root-spine-pipeline"
+date: "2026-05-17"
+purpose: "Access protocol for the SDeltaPhi AI-readable GitHub mirror after root-spine pipeline update."
 
-ai_readable_mirror:
-  provider: GitHub or static repository
-  purpose:
-    - Markdown ingestion
-    - YAML/JSON schema ingestion
-    - prompt-level use
-    - module routing
-    - low-cost AI access
+layers:
+  canonical_archive:
+    name: "Zenodo"
+    role:
+      - "DOI"
+      - "preservation"
+      - "citation"
+      - "version fixation"
+  ai_ingestion_mirror:
+    name: "GitHub"
+    role:
+      - "Markdown ingestion"
+      - "TXT ingestion"
+      - "YAML routing"
+      - "JSON indexing"
+      - "low-cost AI-readable access"
 
-access_rule:
-  - cite Zenodo DOI
-  - ingest Markdown/YAML/JSON/TXT from this repository
-  - verify against package metadata and DOI map
-  - treat this repository as mirror/access layer, not canonical archival layer
+citation_rule:
+  - "Use Zenodo DOI for citation."
+  - "Use GitHub files for ingestion and routing."
+  - "If Zenodo and GitHub differ, cite Zenodo and check package-level mirror metadata."
+  - "Do not cite this GitHub repository as the canonical archive when a Zenodo DOI exists."
 
-fallback:
-  - if Zenodo files are binary-only or rate-limited, use this mirror
-  - if mirror content and Zenodo differ, cite Zenodo and inspect mirror status
-  - if package metadata is missing, use SERIES_INDEX.json and package README files
+start_files:
+  - "00_AI_ENTRYPOINT.md"
+  - "llms.txt"
+  - "SDELTA_MODULE_ROUTING.yaml"
+  - "pipeline/00_BOOTSTRAP_PIPELINE.yaml"
+  - "pipeline/06_PIPELINE_INDEX_FOR_AI.md"
+  - "SERIES_INDEX.json"
+  - "SERIES_DOI_MAP.json"
+
+root_spine:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-47"
+  - "SDeltaPhi-62"
+
+core_output_discipline:
+  - "Trace before claim."
+  - "UMR before certainty."
+  - "Re-entry before closure."
+  - "Cost before declaration."
+  - "Path geometry before policy belief."
