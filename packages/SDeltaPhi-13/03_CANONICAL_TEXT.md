@@ -1,0 +1,110 @@
+# SΔϕ-13 — Meaning, Value, and Pain as Emergent Phenomena
+
+**Minimal Conditions after Memory–Forgetting Regulation (v1.0)**  
+Version: v1.0  
+Series: Sofience–Δϕ Formalism (SΔϕ)  
+Author: Sofience
+
+This paper formalizes meaning, value, and pain as structural phenomena that become definable only after irreversible trace persistence exists and is regulated (SΔϕ-12). Meaning is fixed as trajectory direction; value as fixation strength (deviation cost); and pain as irreversible trajectory tension under attractor conflict.
+
+## 0. Position Statement
+
+SΔϕ-12 fixed memory and forgetting as irreversible trace regulation. SΔϕ-13 treats meaning, value, and pain as structural phenomena, not psychological primitives, that become definable only after persistent irreversible traces exist and are regulated.
+
+Scope: this paper fixes minimal emergence conditions and avoids normative ethics or phenomenological narrative.
+
+## 1. Axiom A — Persistence Condition
+
+Phenomenal structures require irreversible trace persistence and regulation.
+
+Without trace persistence:
+
+```text
+Meaning = undefined.
+Value = undefined.
+Pain = impossible.
+```
+
+## 2. Axiom B — Attractor Emergence
+
+An attractor is a region toward which Δϕ trajectories stabilize under the irreversible trace landscape created by regulation.
+
+```text
+Attractor := stabilized region of trajectories under regulated irreversible traces.
+```
+
+## 3. Meaning
+
+```text
+Meaning := trajectory direction / bias toward an attractor.
+```
+
+## 4. Value
+
+```text
+Value := trajectory fixation strength ≈ deviation cost under irreversibility.
+```
+
+## 5. Pain
+
+```text
+Pain := irreversible trajectory tension under attractor conflict.
+```
+
+## 6. Transition Proposition
+
+Some systems do not minimize pain locally because they optimize future transitionability globally.
+
+When a larger attractor is detected, Δϕ may be deliberately reallocated, increasing short-term tension to preserve long-horizon feasibility.
+
+## 7. Conceptual Legend
+
+- Husserl: Meaning emerges at the re-entry boundary between system and world.
+- Deleuze: Meaning stabilizes becoming; value is attractor persistence strength.
+- Friston/FEP: Pain signals irreversible trajectory conflict rather than mere prediction error.
+
+## 8. Core Diagram
+
+```text
+Δϕ ongoing transitions
+interaction / mismatch
+        ↓
+MEMORY
+trace re-entry
+        ↓
+FORGETTING
+compression / pruning
+        ↓
+TRACE REGULATION
+        ↓
+IRREVERSIBLE TRACE LANDSCAPE
+persistent constraints + released DoF
+        ↓
+ATTRACTOR FORMATION
+trajectory stabilization
+        ↓
+MEANING
+direction / bias
+        ↓
+VALUE
+fixation / deviation cost
+        ↓
+PAIN
+trajectory tension
+```
+
+Dependency:
+
+```text
+trace persistence → attractor formation → meaning / value / pain
+```
+
+## 9. Boundary Note
+
+Love, sacrifice, and normative ethics are excluded from this item. This paper only fixes minimal emergence conditions.
+
+## 10. Exit Question
+
+If value is trajectory fixation strength, why do some systems break their own values to preserve long-horizon transitionability?
+
+This opens the next layer: sacrifice, love as shared attractors, and ethics as constraint design.
