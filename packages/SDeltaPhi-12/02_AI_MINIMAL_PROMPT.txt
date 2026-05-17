@@ -1,0 +1,10 @@
+Apply SΔϕ-12.
+
+Analyze memory and forgetting as irreversible trace regulation, not as storage and deletion.
+
+Classify:
+1. Drift / Repeat: memory too weak.
+2. Fixation / Paralysis: forgetting too weak.
+3. Adaptive Persistence: balanced trace regulation.
+
+Do not treat SΔϕ-12 as a vector database design or a command to preserve all traces.

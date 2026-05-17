@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this AI-readable package, please cite it as below."
+title: "SΔϕ-12 AI-READABLE Package — Memory and Forgetting as Irreversible Trace Regulation (v1.0)"
+authors:
+  - name: "Sofience"
+    affiliation: "Independent Researcher"
+version: "v1.0"
+doi: "10.5281/zenodo.18755685"
+date-released: "2026"
+repository-code: "https://github.com/sofience/v1.4-root-spine-pipeline"
+keywords:
+  - "Sofience"
+  - "SΔϕ"
+  - "Memory"
+  - "Forgetting"
+  - "Irreversible trace"
+  - "Trace regulation"
+  - "Persistence"
+license: "CC-BY-4.0"
