@@ -1,0 +1,30 @@
+{
+  "module_id": "SDeltaPhi-01",
+  "axioms": [
+    {
+      "id": "A1",
+      "name": "State",
+      "statement": "A system can be represented by a state phi(t) at time t."
+    },
+    {
+      "id": "A2",
+      "name": "Phase Change",
+      "statement": "DeltaPhi(t) = phi(t + 1) - phi(t)."
+    },
+    {
+      "id": "A3",
+      "name": "Existence",
+      "statement": "Persistent structured phase change constitutes existence."
+    },
+    {
+      "id": "A4",
+      "name": "Interpretive Layer",
+      "statement": "Subject, memory, and time are outputs of H(DeltaPhi)."
+    },
+    {
+      "id": "A5",
+      "name": "Non-Ontological Subject",
+      "statement": "Subject is an interpretive interface, not the root of existence."
+    }
+  ]
+}

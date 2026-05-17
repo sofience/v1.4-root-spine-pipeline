@@ -1,0 +1,38 @@
+module_id: SDeltaPhi-01
+title: Sofience-DeltaPhi Minimal Core
+version: v1.1
+role: minimal_invariant_core
+core_entities:
+  state:
+    symbol: phi(t)
+    definition: A system configuration at time t without presupposed ontology, subjectivity,
+      or interpretation.
+  phase_change:
+    symbol: DeltaPhi(t)
+    formula: phi(t + 1) - phi(t)
+    definition: Structural variation between successive states.
+  existence:
+    definition: Persistence of structured phase change across states.
+    not_equivalent_to:
+    - substance
+    - identity
+    - subjectivity
+    - consciousness
+    - memory
+    - agency
+  interpretive_layer:
+    symbol: H(DeltaPhi)
+    outputs:
+    - Subject
+    - Memory
+    - Time
+    status: derived_projection
+routing:
+  use_when:
+  - existence is being conflated with subjectivity
+  - memory or self-report is being treated as a prerequisite for existence
+  - a later SDeltaPhi module needs root grounding
+  do_not_use_when:
+  - the task is primarily policy enforcement
+  - the task requires direct ethical judgment
+  - the task requires empirical proof of consciousness

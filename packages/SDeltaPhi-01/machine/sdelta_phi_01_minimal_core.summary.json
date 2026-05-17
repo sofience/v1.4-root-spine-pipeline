@@ -1,0 +1,27 @@
+{
+  "module_id": "SDeltaPhi-01",
+  "title": "Sofience-DeltaPhi Minimal Core: Phase-Change Formalism of Existence",
+  "version": "v1.1",
+  "package_doi": "10.5281/zenodo.20250823",
+  "canonical_paper_doi": "10.5281/zenodo.18730265",
+  "core_claim": "Existence is defined as the persistence of structured phase change across states.",
+  "formal_sequence": [
+    "state",
+    "phase_change",
+    "persistence",
+    "existence",
+    "interpretation"
+  ],
+  "symbols": {
+    "state": "phi(t)",
+    "phase_change": "DeltaPhi(t) = phi(t + 1) - phi(t)",
+    "interpretive_layer": "H(DeltaPhi) = {Subject, Memory, Time}"
+  },
+  "negative_constraints": [
+    "Existence is not reduced to substance.",
+    "Existence is not reduced to identity.",
+    "Existence is not reduced to subjectivity.",
+    "Subject, memory, and time are derived interpretive projections."
+  ],
+  "best_use": "Root grounding for SDeltaPhi modules before applying subjectivity, agency, responsibility, governance, or audit layers."
+}

@@ -1,0 +1,19 @@
+module_id: SDeltaPhi-01
+activation_priority: root_reference_only
+activation_conditions:
+- existence_subjectivity_conflation
+- memory_as_existence_prerequisite
+- identity_as_ontological_root
+- subject_as_ontological_primitive
+- downstream_module_requires_minimal_core
+anti_overactivation:
+- Do not call for every philosophical task.
+- Do not use as a governance metric.
+- Do not use as an ethics module.
+- Do not import TCC into the minimal core.
+recommended_sequence:
+- identify_state_phi_t
+- identify_phase_change_delta_phi
+- check_persistence
+- evaluate_existence_as_persistent_structured_delta_phi
+- apply_interpretive_layer_H_delta_phi_only_after_core_check
