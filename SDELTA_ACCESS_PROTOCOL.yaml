@@ -1,4 +1,4 @@
-version: "1.4-root-spine-pipeline"
+version: "v1.4.1-format-fix"
 date: "2026-05-17"
 purpose: "Access protocol for the SDeltaPhi AI-readable GitHub mirror after root-spine pipeline update."
 

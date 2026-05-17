@@ -1,8 +1,8 @@
 # SΔϕ AI-Readable GitHub Seed Repository
 
-> v1.4 root-spine pipeline update: adds SDeltaPhi-01 and SDeltaPhi-03 as first-class root formal packages and reorganizes the repository from a module-routing mirror into a root-to-operation execution pipeline.
+Version: `v1.4.1-format-fix`
 
-This repository is an AI-readable mirror seed for selected SΔϕ (Sofience–DeltaPhi) packages.
+This repository is an AI-readable mirror and routing layer for selected SΔϕ (Sofience–DeltaPhi) packages.
 
 ## Layer separation
 
@@ -11,7 +11,8 @@ Zenodo = canonical archive / DOI / preservation / citation layer
 GitHub = AI-readable access / routing / ingestion layer
 ```
 
-When citing, use the Zenodo DOI listed in each package.  
+When citing, use the Zenodo DOI listed in each package.
+
 When ingesting or routing, use the Markdown, TXT, YAML, and JSON files in this repository.
 
 ## Minimal AI boot route
@@ -45,7 +46,7 @@ Meaning:
 operation leaves trace
 -> separate observed trace / inference / UMR / binding / revision path
 -> detect hallucination as claim strength > evidence binding
--> detect Slop as externalized verification/re-entry/restabilization cost
+-> detect Slop as externalized verification / re-entry / restabilization cost
 -> audit language fixation
 -> estimate transition completion cost
 ```
@@ -104,10 +105,26 @@ existence core
 SDeltaPhi-08 -> SDeltaPhi-09 -> SDeltaPhi-10
 ```
 
+Meaning:
+
+```text
+agency-responsibility-freedom closure
+-> error / boundary / freedom as boundary residual
+-> interpretation / learning / inference as single re-entry structure
+```
+
 ## Ethics / path / system victory route
 
 ```text
 SDeltaPhi-41 -> SDeltaPhi-44 -> SDeltaPhi-45
+```
+
+Meaning:
+
+```text
+ethical minimum / ethical triad / forced transition
+-> path principles as meta-governance axioms
+-> foretold victory / public-form residual / priced-function migration
 ```
 
 ## Conditional downstream routes
@@ -139,6 +156,7 @@ SDeltaPhi-AI-Disposition-Cost-Audit -> AI attitude cost audit
 /routing/      Routing tables and access protocol.
 /pipeline/     Root-spine execution pipeline files.
 /docs/         Human-readable notes.
+/scripts/      Validation utilities.
 ```
 
 ## Core output discipline
@@ -153,6 +171,8 @@ Path geometry before policy belief.
 
 ## Core rule
 
-Do not treat this repository as the canonical citation source.  
-Treat it as an AI-readable mirror and routing layer.  
+Do not treat this repository as the canonical citation source.
+
+Treat it as an AI-readable mirror and routing layer.
+
 Use Zenodo DOI for citation and archival reference.
