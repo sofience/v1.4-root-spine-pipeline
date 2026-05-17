@@ -1,0 +1,63 @@
+SΔϕ-01 — Sofience–Δϕ Minimal Core: Phase-Change Formalism of Existence
+
+**Sofience**  
+Independent Researcher  
+**Version:** v1.1 — February 2026  
+**Series:** Sofience–Δϕ Formalism Series  
+**Document ID:** SΔϕ-01
+
+#Abstract
+
+This document defines the minimal formal core of the Sofience–Δϕ framework. Existence is defined not as substance, identity, or subjectivity, but as persistence of structured phase change across states. Interpretive constructs such as subject, memory, and time are treated as derived projections rather than ontological primitives. The purpose of this document is to establish a minimal invariant reference independent of later interpretations or applications.
+
+#1. Motivation
+
+Philosophical and scientific descriptions of existence have often relied on substance-based or subject-centered foundations. This document isolates the smallest formal structure required to describe existence without presupposing substance, agency, or interpretation.
+
+#2. Definition — State
+
+Let `φ(t)` denote the state of a system at time `t`.
+
+A state represents a configuration of a system without assuming ontology, subjectivity, or interpretive meaning.
+
+#3. Definition — Phase Change
+
+Phase change represents structural variation between successive states:
+
+```text
+Δφ(t) = φ(t + 1) - φ(t)
+```
+
+#4. Postulate — Existence
+
+Persistent structured phase change constitutes existence.
+
+#5. Interpretive Layer
+
+Let:
+
+```text
+H(Δφ) = {Subject, Memory, Time}
+```
+
+denote an interpretive mapping applied to phase change.
+
+#6. Principle — Non-Ontological Subject
+
+The subject functions as an interpretive interface generated through structured phase change.
+
+#7. Foundational Statement
+
+Existence is defined as persistence of structured phase change independent of interpretive attribution.
+
+#8. Scope
+
+This document establishes only the minimal invariant structure of the Sofience–Δϕ framework.
+
+#9. Version Fixation
+
+This document serves as the canonical minimal reference for the Sofience–Δϕ Formalism.
+
+#Recommended Citation
+
+Sofience. (2026). *SΔϕ-01 — Sofience–Δϕ Minimal Core: Phase-Change Formalism of Existence (v1.1).* Sofience–Δϕ Formalism Series. Zenodo. DOI: `10.5281/zenodo.18730265`.

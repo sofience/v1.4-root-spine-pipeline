@@ -1,0 +1,29 @@
+{
+  "package_id": "SDeltaPhi-01_AI_READABLE_PACKAGE_v1_1",
+  "module_id": "SDeltaPhi-01",
+  "title": "SΔϕ-01 AI-READABLE Package — Minimal Core: Phase-Change Formalism of Existence (v1.1)",
+  "version": "v1.1",
+  "package_doi": "10.5281/zenodo.20250823",
+  "canonical_paper_doi": "10.5281/zenodo.18730265",
+  "created_for": "AI-readable ingestion, routing, retrieval, citation, and low-cost reuse",
+  "root_statement": "Existence = persistent structured DeltaPhi. Subject, Memory, and Time = H(DeltaPhi).",
+  "files": [
+    "00_README.md",
+    "01_AI_QUICKSTART.md",
+    "02_AI_MINIMAL_PROMPT.txt",
+    "03_CANONICAL_TEXT.md",
+    "04_CANONICAL_TEXT.txt",
+    "05_CORE_DECLARATION.md",
+    "06_ROUTING_NOTES.md",
+    "07_DOWNSTREAM_COMPATIBILITY.md",
+    "08_RELATED_MODULES.json",
+    "CITATION.cff",
+    "LICENSE",
+    "canonical/SDeltaPhi_01_MinimalCore_v1_1.pdf",
+    "machine/sdelta_phi_01_minimal_core.axioms.json",
+    "machine/sdelta_phi_01_minimal_core.routing.yaml",
+    "machine/sdelta_phi_01_minimal_core.schema.yaml",
+    "machine/sdelta_phi_01_minimal_core.summary.json",
+    "metadata.yaml"
+  ]
+}

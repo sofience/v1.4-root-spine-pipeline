@@ -1,0 +1,35 @@
+{
+  "module_id": "SDeltaPhi-01",
+  "role": "minimal_invariant_core",
+  "package_doi": "10.5281/zenodo.20250823",
+  "canonical_paper_doi": "10.5281/zenodo.18730265",
+  "series_overview_doi": "10.5281/zenodo.18731366",
+  "upstream_modules": [],
+  "downstream_modules": [
+    {
+      "module_id": "SDeltaPhi-02",
+      "relation": "derives subject as interpretive emergence from DeltaPhi"
+    },
+    {
+      "module_id": "SDeltaPhi-03",
+      "relation": "extends phase-change persistence toward irreversibility"
+    },
+    {
+      "module_id": "SDeltaPhi-04",
+      "relation": "uses minimal core for AI subjectivity detection without conflating subjectivity and existence"
+    },
+    {
+      "module_id": "SDeltaPhi-47",
+      "relation": "uses minimal core to ground Operor ergo sum"
+    },
+    {
+      "module_id": "SDeltaPhi-56",
+      "relation": "applies transition completion cost to phase-change paths; not part of the minimal core"
+    },
+    {
+      "module_id": "SDeltaPhi-62",
+      "relation": "uses root state-change logic for trace, inference, UMR, and binding separation"
+    }
+  ],
+  "constraint": "Do not import downstream cost metrics into the minimal existence definition."
+}
