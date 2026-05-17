@@ -17,5 +17,6 @@
       "name": "Freedom coupling",
       "statement": "Forgetting is the minimal condition for freedom under irreversibility, but excessive forgetting increases repeat risk."
     }
-  ]
+  ],
+  "overload_formula": "|M_t| increases excessively implies |Omega_t+1| decreases toward 0"
 }

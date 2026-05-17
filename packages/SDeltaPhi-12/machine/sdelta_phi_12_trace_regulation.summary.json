@@ -2,7 +2,7 @@
   "module_id": "SDeltaPhi-12",
   "title": "Memory and Forgetting as Irreversible Trace Regulation",
   "version": "v1.0",
-  "record_doi": "https://doi.org/10.5281/zenodo.18755685",
+  "package_doi": "https://doi.org/10.5281/zenodo.20257739",
   "one_sentence": "This module defines memory and forgetting as the minimal trace regulation mechanism required for persistence under irreversibility.",
   "core_compression": {
     "memory": "selective re-entry of irreversible traces",

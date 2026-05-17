@@ -17,21 +17,16 @@ root_spine_compatible_route:
 call_after:
   - "SDeltaPhi-11"
 call_with_when_needed:
-  irreversibility_grounding:
-    - "SDeltaPhi-03"
-  boundary_error:
-    - "SDeltaPhi-09"
-  reentry_unity:
-    - "SDeltaPhi-10"
-  boundary_ontology:
-    - "SDeltaPhi-11"
   transition_cost:
     - "SDeltaPhi-56"
-  trace_inference_binding:
+  trace_inference_uncertainty_binding:
     - "SDeltaPhi-62"
-  pain_hope_value_next_layer:
-    - "SDeltaPhi-13"
+  affective_risk_signal:
+    - "SDeltaPhi-59"
+  embodiment_nondeferrable_cost:
+    - "SDeltaPhi-52"
 do_not_route_if:
-  - "the task only concerns database retrieval"
+  - "the task only asks for database memory"
   - "the task only asks for vector store implementation"
-  - "the word memory appears without trace regulation relevance"
+  - "the task only asks for retrieval infrastructure"
+  - "irreversible trace regulation is not structurally relevant"

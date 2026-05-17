@@ -2,14 +2,13 @@
   "test_id": "SDeltaPhi-12_memory_forgetting_balance_test",
   "steps": [
     "Check irreversible trace: RollbackCost(DeltaPhi_t) >> UpdateBudget.",
-    "Check memory strength: does the trace re-enter next transition selection?",
-    "Check forgetting strength: are constraints compressed or pruned enough to keep feasible path space open?",
-    "Check balance: repeat-risk below threshold and feasible path set non-collapsed."
+    "Check whether irreversible trace re-enters next transition selection.",
+    "Check whether constraints are compressed/pruned enough to keep feasible path space open.",
+    "Check whether repeat-risk remains below threshold while feasible path set remains non-collapsed."
   ],
-  "classifications": {
-    "memory_too_weak": "Drift / Repeat",
-    "forgetting_too_weak": "Fixation / Paralysis",
-    "balanced": "Adaptive Persistence"
-  },
-  "minimal_balance_proxy": "RepeatRisk < threshold and |Omega| > minimum"
+  "positive_classification": "adaptive persistence",
+  "negative_classifications": {
+    "memory_too_weak": "drift / repeat",
+    "forgetting_too_weak": "fixation / paralysis"
+  }
 }

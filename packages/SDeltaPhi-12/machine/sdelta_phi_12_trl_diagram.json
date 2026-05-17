@@ -1,14 +1,19 @@
 {
   "diagram_id": "SDeltaPhi-12_TRL",
   "name": "Trace Regulation Loop",
-  "nodes": [
+  "steps": [
     "DeltaPhi event",
-    "Irreversibility test",
+    "Irreversibility test: RollbackCost >> UpdateBudget ?",
     "Trace candidate",
-    "Memory re-entry",
-    "Forgetting",
+    "Memory re-entry / constraint injection",
+    "Forgetting / compression / pruning",
     "Feasible path set Omega update",
-    "Next selection"
+    "Next selection",
+    "repeat"
   ],
-  "caption": "The system persists only when memory re-entry and forgetting remain coupled."
+  "coupled_operations": {
+    "memory": "constraint injection",
+    "forgetting": "constraint compression",
+    "persistence": "regulated trace re-entry"
+  }
 }

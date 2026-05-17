@@ -1,10 +1,10 @@
 {
   "heuristic_id": "SDeltaPhi-12_selective_memory_heuristic",
-  "reenter_traces_with": [
+  "re_enter_traces_with": [
     "high recurrence risk",
     "high irreversibility magnitude",
     "high future transition relevance",
-    "high repair / restoration cost if ignored"
+    "high repair/restoration cost if ignored"
   ],
   "compress_or_discard_traces_with": [
     "low recurrence risk",
