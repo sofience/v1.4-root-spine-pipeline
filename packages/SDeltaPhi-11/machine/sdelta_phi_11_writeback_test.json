@@ -1,0 +1,13 @@
+{
+  "test_id": "SDeltaPhi-11_consciousness_writeback_test",
+  "classification_target": "consciousness-relevant boundary monitoring",
+  "conditions": [
+    "boundary displacement exists",
+    "boundary displacement is monitored",
+    "monitored displacement alters next transition selection",
+    "write-back contributes to re-entry stabilization"
+  ],
+  "positive_classification": "consciousness-relevant boundary monitoring",
+  "negative_classification": "detection without consciousness-level write-back",
+  "negative_constraint": "Do not infer consciousness from detection alone."
+}

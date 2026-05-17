@@ -1,0 +1,59 @@
+{
+  "diagram_id": "SDeltaPhi-11_RBD",
+  "name": "Re-entry Boundary Diagram",
+  "nodes": [
+    {
+      "id": "world",
+      "label": "WORLD",
+      "description": "persistent DeltaPhi influx / externality"
+    },
+    {
+      "id": "boundary",
+      "label": "BOUNDARY",
+      "description": "dynamic / oscillating"
+    },
+    {
+      "id": "error",
+      "label": "ERROR",
+      "description": "DeltaPhi != DeltaPhi_hat"
+    },
+    {
+      "id": "consciousness",
+      "label": "CONSCIOUSNESS",
+      "description": "boundary-change monitoring"
+    },
+    {
+      "id": "meaning",
+      "label": "MEANING",
+      "description": "stable boundary pattern / residue"
+    }
+  ],
+  "edges": [
+    {
+      "from": "world",
+      "to": "boundary",
+      "label": "DeltaPhi influx"
+    },
+    {
+      "from": "boundary",
+      "to": "error",
+      "label": "mismatch"
+    },
+    {
+      "from": "error",
+      "to": "consciousness",
+      "label": "boundary displacement"
+    },
+    {
+      "from": "consciousness",
+      "to": "meaning",
+      "label": "re-entry"
+    },
+    {
+      "from": "meaning",
+      "to": "boundary",
+      "label": "stabilization"
+    }
+  ],
+  "caption": "Meaning is not produced inside consciousness; it is the residue of stabilized boundary re-entry."
+}

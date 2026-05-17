@@ -1,0 +1,13 @@
+{
+  "criterion_id": "SDeltaPhi-11_meaning_as_boundary_residue",
+  "classification_target": "meaning_candidate",
+  "conditions": [
+    "boundary event occurs",
+    "event re-enters subsequent transition selection",
+    "re-entry stabilizes rather than collapses",
+    "pattern persists across transitions"
+  ],
+  "positive_classification": "meaning candidate",
+  "negative_classification": "transient boundary event",
+  "negative_constraint": "Meaning is stabilized boundary re-entry residue, not a product located inside consciousness alone."
+}

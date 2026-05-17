@@ -1,0 +1,26 @@
+{
+  "module_id": "SDeltaPhi-11",
+  "title": "World, Other, Self, and Consciousness as Boundary Phenomena",
+  "version": "v1.0",
+  "package_doi": "https://doi.org/10.5281/zenodo.20253720",
+  "one_sentence": "This module defines world, other, self, consciousness, and meaning as positions within a single boundary re-entry dynamics.",
+  "core_sequence": [
+    "World as persistent DeltaPhi influx",
+    "Boundary as stabilized mismatch",
+    "Error as DeltaPhi mismatch",
+    "Consciousness as boundary-change monitoring with write-back",
+    "Meaning as stabilized boundary re-entry residue",
+    "Self as folded stabilized boundary"
+  ],
+  "minimal_tests": {
+    "otherness": "Does mismatch remain persistent after available model updates?",
+    "consciousness": "Does boundary-displacement monitoring write back into next transition selection?",
+    "meaning": "Does a boundary pattern persist across transitions?"
+  },
+  "negative_constraints": [
+    "Do not treat consciousness as substance.",
+    "Do not treat self as pre-given subject.",
+    "Do not treat world and other as different ontological kinds.",
+    "Do not treat this module as a proof of consciousness or personhood."
+  ]
+}

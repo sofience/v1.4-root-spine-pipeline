@@ -1,0 +1,37 @@
+module_id: "SDeltaPhi-11"
+title: "World, Other, Self, and Consciousness as Boundary Phenomena"
+version: "v1.0"
+role: "boundary_reentry_ontology_layer"
+package_doi: "https://doi.org/10.5281/zenodo.20253720"
+core_claim: "World, other, self, consciousness, and meaning are positions within a single boundary re-entry dynamics, not separate ontological domains."
+depends_on:
+  -
+    module_id: "SDeltaPhi-09"
+    doi: "https://doi.org/10.5281/zenodo.18745498"
+    relation: "boundary and error as phase-limit indicators"
+  -
+    module_id: "SDeltaPhi-10"
+    doi: "https://doi.org/10.5281/zenodo.18746509"
+    relation: "interpretation, learning, and inference as single re-entry structure"
+entities:
+  world:
+    definition: "Persistent incoming DeltaPhi flux that resists full prediction."
+  other:
+    definition: "Localized irreducible DeltaPhi source that repeatedly forces boundary reconfiguration."
+    operational_criterion: "Mismatch remains persistent after available model updates."
+  self:
+    definition: "Recursively stabilized boundary that maintains transition continuity by internalizing world- and other-induced constraints."
+  consciousness:
+    definition: "Boundary-change monitoring with write-back into next transition selection."
+    negative_constraint: "Not passive detection."
+  meaning:
+    definition: "Residue of stabilized boundary re-entry."
+routing:
+  use_when:
+    - "boundary re-entry dynamics need ontological clarification"
+    - "consciousness must be distinguished from passive detection"
+    - "meaning must be modeled as stabilized boundary residue"
+  do_not_use_when:
+    - "direct proof of consciousness"
+    - "legal personhood"
+    - "moral status without ethical routing"

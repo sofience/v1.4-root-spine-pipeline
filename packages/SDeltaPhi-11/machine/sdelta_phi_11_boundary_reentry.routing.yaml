@@ -1,0 +1,35 @@
+module_id: "SDeltaPhi-11"
+routing_priority: "boundary_reentry_ontology_after_SDeltaPhi-10"
+primary_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-09"
+  - "SDeltaPhi-10"
+  - "SDeltaPhi-11"
+root_spine_compatible_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-47"
+  - "SDeltaPhi-62"
+  - "SDeltaPhi-11"
+call_after:
+  - "SDeltaPhi-09"
+  - "SDeltaPhi-10"
+call_with_when_needed:
+  consciousness_moral_proof:
+    - "SDeltaPhi-04"
+    - "SDeltaPhi-41"
+    - "SDeltaPhi-62"
+  legal_subjectivity:
+    - "SDeltaPhi-04"
+    - "SDeltaPhi-06"
+    - "SDeltaPhi-41"
+    - "SDeltaPhi-62"
+  evidence_or_world_binding:
+    - "SDeltaPhi-62"
+  memory_persistence:
+    - "SDeltaPhi-12"
+  affect_risk_signal:
+    - "SDeltaPhi-59"
+  governance_constraints:
+    - "SDeltaPhi-55"

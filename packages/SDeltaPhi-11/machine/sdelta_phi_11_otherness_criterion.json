@@ -1,0 +1,16 @@
+{
+  "criterion_id": "SDeltaPhi-11_otherness_criterion",
+  "classification_target": "Other",
+  "conditions": [
+    "incoming DeltaPhi mismatch exists",
+    "mismatch cannot be absorbed through ordinary model update",
+    "mismatch remains after available re-entry refinement",
+    "mismatch repeatedly forces boundary reconfiguration"
+  ],
+  "positive_classification": "Other",
+  "alternatives": {
+    "absorbed_update": "mismatch is absorbed by ordinary re-entry refinement",
+    "world_flux": "external but not localized or persistent",
+    "noise": "unstable and non-persistent mismatch"
+  }
+}

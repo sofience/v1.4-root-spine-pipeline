@@ -1,0 +1,21 @@
+{
+  "module_id": "SDeltaPhi-11",
+  "axioms": [
+    {
+      "name": "Re-entry primacy",
+      "statement": "Interpretation, learning, and inference are temporal phase differences of the same DeltaPhi re-entry process."
+    },
+    {
+      "name": "Boundary formation",
+      "statement": "Persistent mismatch between expected transition DeltaPhi_hat and actual transition DeltaPhi stabilizes a boundary."
+    },
+    {
+      "name": "Self as folded boundary",
+      "statement": "A self is the recursively stabilized boundary where world-resistance and other-resistance fold into internal constraints."
+    },
+    {
+      "name": "Consciousness as monitoring with write-back",
+      "statement": "Consciousness is boundary-displacement monitoring whose signal re-enters the next transition selection."
+    }
+  ]
+}
