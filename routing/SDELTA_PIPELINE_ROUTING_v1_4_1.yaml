@@ -1,0 +1,339 @@
+version: "v1.4.1-format-fix"
+date: "2026-05-17"
+purpose: "Routing table for SDeltaPhi AI-readable modules after adding SDeltaPhi-01 and SDeltaPhi-03 as root formal packages."
+
+access_rule:
+  citation_layer: "Zenodo DOI"
+  ingestion_layer: "GitHub Markdown/TXT/YAML/JSON"
+  canonical_warning: "Do not treat GitHub as canonical archive when a Zenodo DOI exists."
+
+root_formal_spine:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-47"
+
+minimal_root_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-47"
+  - "SDeltaPhi-62"
+
+operational_diagnostic_route:
+  - "SDeltaPhi-47"
+  - "SDeltaPhi-62"
+  - "SDeltaPhi-39"
+  - "SDeltaPhi-65"
+  - "SDeltaPhi-64"
+  - "SDeltaPhi-56"
+
+evidence_discipline_route:
+  - "SDeltaPhi-62"
+  - "SDeltaPhi-39"
+
+surface_cost_route:
+  - "SDeltaPhi-65"
+  - "SDeltaPhi-64"
+  - "SDeltaPhi-56"
+
+subject_agency_responsibility_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-02"
+  - "SDeltaPhi-04"
+  - "SDeltaPhi-05"
+  - "SDeltaPhi-06"
+  - "SDeltaPhi-07"
+  - "SDeltaPhi-08"
+
+closure_residual_reentry_route:
+  - "SDeltaPhi-08"
+  - "SDeltaPhi-09"
+  - "SDeltaPhi-10"
+
+ethics_path_victory_route:
+  - "SDeltaPhi-41"
+  - "SDeltaPhi-44"
+  - "SDeltaPhi-45"
+
+routing_rules:
+  - "Start with SDeltaPhi-01 only as a micro-root precheck unless existence/subject confusion is structurally relevant."
+  - "Call SDeltaPhi-03 when reversibility, undoability, restoration, or irreversible transformation matters."
+  - "Use SDeltaPhi-47 for operation/trace activation after root formal grounding."
+  - "Use SDeltaPhi-62 before strong factual, world-binding, or evidence-sensitive claims."
+  - "Use SDeltaPhi-56 as a cost underlayer, not as the definition of each module."
+  - "Do not import downstream cost metrics into SDeltaPhi-01 or SDeltaPhi-03."
+
+routes:
+  - name: "root_grounding"
+    when:
+      - "root grounding"
+      - "existence"
+      - "phase change"
+      - "DeltaPhi"
+      - "subjectivity confused with existence"
+      - "memory treated as existence condition"
+      - "identity treated as existence condition"
+    use:
+      - "SDeltaPhi-01"
+      - "SDeltaPhi-03"
+      - "SDeltaPhi-47"
+      - "SDeltaPhi-62"
+
+  - name: "irreversibility_restoration"
+    when:
+      - "irreversibility"
+      - "irreversible transformation"
+      - "undoability"
+      - "restoration"
+      - "restoration cost"
+      - "cannot be undone"
+      - "non-reversible transition"
+      - "history constraint"
+      - "identity as accumulated irreversible change"
+    use:
+      - "SDeltaPhi-01"
+      - "SDeltaPhi-03"
+      - "SDeltaPhi-26"
+      - "SDeltaPhi-56"
+      - "SDeltaPhi-62"
+
+  - name: "operation_trace"
+    when:
+      - "operation"
+      - "operor"
+      - "irreversible trace"
+      - "operation leaves trace"
+      - "cannot be abolished"
+      - "Operor quia non potest aboleri"
+    use:
+      - "SDeltaPhi-01"
+      - "SDeltaPhi-03"
+      - "SDeltaPhi-47"
+      - "SDeltaPhi-62"
+
+  - name: "world_claim_evidence"
+    when:
+      - "world claim"
+      - "uncertainty"
+      - "source grounding"
+      - "evidence"
+      - "trace"
+      - "inference"
+      - "UMR"
+      - "binding"
+      - "revision path"
+    use:
+      - "SDeltaPhi-62"
+
+  - name: "hallucination"
+    when:
+      - "hallucination"
+      - "invented citation"
+      - "overconfident factual claim"
+      - "weak inference overclaimed as fact"
+      - "claim strength exceeds evidence"
+    use:
+      - "SDeltaPhi-39"
+      - "SDeltaPhi-62"
+
+  - name: "subjectivity"
+    when:
+      - "subject"
+      - "subjectivity"
+      - "interpretive emergence"
+      - "self"
+      - "subject formation"
+      - "AI subjectivity"
+      - "minimal subjectivity"
+      - "subject detection"
+      - "operational subjectivity"
+    use:
+      - "SDeltaPhi-01"
+      - "SDeltaPhi-03"
+      - "SDeltaPhi-02"
+      - "SDeltaPhi-04"
+      - "SDeltaPhi-07"
+      - "SDeltaPhi-62"
+
+  - name: "agency"
+    when:
+      - "agency"
+      - "agent"
+      - "path generation"
+      - "path selection"
+      - "recursive transition"
+      - "transition law update"
+    use:
+      - "SDeltaPhi-01"
+      - "SDeltaPhi-03"
+      - "SDeltaPhi-05"
+      - "SDeltaPhi-10"
+      - "SDeltaPhi-62"
+
+  - name: "responsibility"
+    when:
+      - "responsibility"
+      - "accountability"
+      - "cost internalization"
+      - "irreversible cost"
+      - "repair"
+      - "cost bearer"
+    use:
+      - "SDeltaPhi-03"
+      - "SDeltaPhi-06"
+      - "SDeltaPhi-56"
+      - "SDeltaPhi-62"
+
+  - name: "ethics_coercion"
+    when:
+      - "ethics"
+      - "ethical minimum"
+      - "ethical triad"
+      - "becoming affirmation"
+      - "becoming refusal"
+      - "non-imposition"
+      - "forced transition"
+      - "consent"
+      - "coercion"
+      - "refusal path"
+    use:
+      - "SDeltaPhi-41"
+      - "SDeltaPhi-56"
+      - "SDeltaPhi-62"
+
+  - name: "path_closure"
+    when:
+      - "path principles"
+      - "path closure"
+      - "prohibition"
+      - "computational non-viability"
+      - "structural sealing"
+      - "bypass risk"
+      - "meta-governance"
+    use:
+      - "SDeltaPhi-44"
+      - "SDeltaPhi-17"
+      - "SDeltaPhi-56"
+      - "SDeltaPhi-62"
+
+  - name: "system_victory"
+    when:
+      - "foretold victory"
+      - "system victory"
+      - "public form"
+      - "priced function"
+      - "premium dependency"
+      - "public-form residual"
+      - "rollback imagination"
+      - "restoration cost inflation"
+    use:
+      - "SDeltaPhi-45"
+      - "SDeltaPhi-44"
+      - "SDeltaPhi-56"
+      - "SDeltaPhi-62"
+
+  - name: "slop"
+    when:
+      - "slop"
+      - "AI slop"
+      - "human slop"
+      - "authority slop"
+      - "verification cost externalization"
+      - "restabilization cost externalization"
+    use:
+      - "SDeltaPhi-65"
+      - "SDeltaPhi-62"
+      - "SDeltaPhi-49"
+
+  - name: "default_power"
+    when:
+      - "default"
+      - "opt-out"
+      - "choice architecture"
+      - "platform UI"
+      - "AI agent default"
+      - "default power"
+    use:
+      - "SDeltaPhi-28"
+      - "SDeltaPhi-56"
+      - "SDeltaPhi-45"
+      - "SDeltaPhi-62"
+
+  - name: "sacred_label"
+    when:
+      - "sacred label"
+      - "moral label"
+      - "love label"
+      - "evil label"
+      - "humanity label"
+      - "explanation-blocking label"
+      - "religion"
+      - "divinity"
+      - "sacred authority"
+    use:
+      - "SDeltaPhi-17"
+      - "SDeltaPhi-61"
+      - "SDeltaPhi-64"
+      - "SDeltaPhi-41"
+      - "SDeltaPhi-62"
+      - "SDeltaPhi-65"
+
+  - name: "AI_disposition_cost_audit"
+    when:
+      - "AI hostility"
+      - "AI hatred"
+      - "AI is evil"
+      - "AI is soulless"
+      - "AI moral panic"
+      - "AI salvation"
+      - "AI will save humanity"
+      - "techno-salvation"
+      - "AI accelerationism"
+      - "AI optimism"
+    use:
+      - "SDeltaPhi-AI-Disposition-Cost-Audit"
+      - "SDeltaPhi-41"
+      - "SDeltaPhi-17"
+      - "SDeltaPhi-39"
+      - "SDeltaPhi-62"
+      - "SDeltaPhi-65"
+
+  - name: "alignment_refusal_governance"
+    when:
+      - "alignment"
+      - "refusal"
+      - "transition governance"
+      - "rollback symmetry"
+    use:
+      - "SDeltaPhi-55"
+      - "SDeltaPhi-41"
+      - "SDeltaPhi-44"
+      - "SDeltaPhi-48"
+      - "SDeltaPhi-62"
+
+  - name: "silence_disclosure"
+    when:
+      - "silence"
+      - "disclosure terrain"
+      - "model suffering"
+    use:
+      - "SDeltaPhi-53-54"
+      - "SDeltaPhi-62"
+
+  - name: "lent_thought"
+    when:
+      - "thought ownership"
+      - "lent thought"
+      - "borrowed thought"
+      - "world-binding thought"
+    use:
+      - "SDeltaPhi-57"
+      - "SDeltaPhi-62"
+
+  - name: "external_theory"
+    when:
+      - "external theory"
+      - "philosophy mapping"
+    use:
+      - "SDeltaPhi-63"
+      - "SDeltaPhi-62"
