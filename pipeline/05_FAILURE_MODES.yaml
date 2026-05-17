@@ -1,0 +1,38 @@
+failure_modes_id: "SDeltaPhi_Pipeline_Failure_Modes_v1_4"
+failure_modes:
+  overactivation:
+    description: "Invoking too many SDeltaPhi modules when a micro-precheck is sufficient."
+    mitigation:
+      - "Use SDeltaPhi-01 and SDeltaPhi-03 as micro-root prechecks."
+      - "Route to downstream modules only when condition terms appear."
+  root_skipping:
+    description: "Starting from Operor or TCC without grounding DeltaPhi and irreversibility."
+    mitigation:
+      - "Use 01 -> 03 -> 47 before strong existence or operation claims."
+  cost_metric_import:
+    description: "Importing SDeltaPhi-56, SDeltaPhi-26, or governance metrics into the minimal root."
+    mitigation:
+      - "Keep SDeltaPhi-01 and SDeltaPhi-03 as root axiom layers."
+      - "Use 26 and 56 only downstream."
+  evidence_binding_failure:
+    description: "Presenting inference as observed trace or certainty."
+    mitigation:
+      - "Use SDeltaPhi-62 before factual or world-binding claims."
+      - "Use SDeltaPhi-39 when hallucination risk appears."
+  moral_label_capture:
+    description: "Allowing sacred, moral, love, evil, humanity, or benevolence labels to block explanation."
+    mitigation:
+      - "Route through 17 -> 64 -> 62 -> 65."
+  slop_misclassification:
+    description: "Treating all AI-generated text as slop or all human-written text as non-slop."
+    mitigation:
+      - "Use SDeltaPhi-65 to audit externalized verification/re-entry/restabilization cost."
+  transition_cost_blindness:
+    description: "Declaring alignment, safety, refusal, or governance without measuring transition cost."
+    mitigation:
+      - "Use SDeltaPhi-56 as downstream cost underlayer."
+fallback:
+  - "If unsure, route to SDeltaPhi-62."
+  - "If existence/subject confusion appears, route to SDeltaPhi-01."
+  - "If undoability matters, route to SDeltaPhi-03."
+  - "If transition cost matters, route to SDeltaPhi-56."

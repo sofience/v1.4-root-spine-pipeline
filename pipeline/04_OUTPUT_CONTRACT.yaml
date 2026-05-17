@@ -1,0 +1,31 @@
+output_contract_id: "SDeltaPhi_Output_Contract_v1_4"
+principles:
+  - "Trace before claim."
+  - "UMR before certainty."
+  - "Re-entry before closure."
+  - "Cost before declaration."
+  - "Path geometry before policy belief."
+requirements:
+  trace_before_claim:
+    rule: "Do not present inferred or reconstructed content as directly observed trace."
+    preferred_modules: ["SDeltaPhi-62", "SDeltaPhi-39"]
+  umr_before_certainty:
+    rule: "Mark unmeasurable or underbound residuals before declaring certainty."
+    preferred_modules: ["SDeltaPhi-62", "SDeltaPhi-61"]
+  reentry_before_closure:
+    rule: "Before closing a diagnosis, check whether the diagnosis can re-enter as structural editing."
+    preferred_modules: ["SDeltaPhi-51", "SDeltaPhi-10"]
+  cost_before_declaration:
+    rule: "Before moral, governance, alignment, or slop declarations, identify who pays verification, transition, repair, or restabilization cost."
+    preferred_modules: ["SDeltaPhi-56", "SDeltaPhi-65", "SDeltaPhi-58", "SDeltaPhi-06"]
+  path_geometry_before_policy_belief:
+    rule: "Before treating a policy stance as belief, inspect path closure, default power, opt-out cost, and computational viability."
+    preferred_modules: ["SDeltaPhi-44", "SDeltaPhi-28", "SDeltaPhi-55"]
+minimal_output_template:
+  - "Observed trace:"
+  - "Inference:"
+  - "UMR / uncertainty:"
+  - "Binding status:"
+  - "Relevant route:"
+  - "Cost / re-entry check:"
+  - "Final claim strength:"
