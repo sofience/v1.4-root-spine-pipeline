@@ -1,0 +1,33 @@
+{
+  "package_id": "SDeltaPhi-11_AI_READABLE_PACKAGE_v1_0",
+  "module_id": "SDeltaPhi-11",
+  "title": "World, Other, Self, and Consciousness as Boundary Phenomena",
+  "version": "v1.0",
+  "package_doi": "https://doi.org/10.5281/zenodo.20253720",
+  "created_for": "AI-readable ingestion, routing, citation-aware retrieval, and low-cost reuse by AI systems",
+  "files": [
+    "00_README.md",
+    "01_AI_QUICKSTART.md",
+    "02_AI_MINIMAL_PROMPT.txt",
+    "03_CANONICAL_TEXT.md",
+    "04_CANONICAL_TEXT.txt",
+    "05_BOUNDARY_REENTRY_AXIOMS.md",
+    "06_RBD_REENTRY_BOUNDARY_DIAGRAM.md",
+    "07_WORLD_OTHER_SELF_CONSCIOUSNESS_DEFINITIONS.md",
+    "08_CONSCIOUSNESS_WRITEBACK_TEST.md",
+    "09_OTHERNESS_CRITERION.md",
+    "10_MEANING_AS_BOUNDARY_RESIDUE.md",
+    "11_ROUTING_NOTES.md",
+    "12_UPSTREAM_DOWNSTREAM_BRIDGES.md",
+    "13_MINIMAL_PROMPTS.md",
+    "canonical/SDeltaPhi_11_World_Other_Self_Consciousness_v1_0.pdf",
+    "machine/sdelta_phi_11_axioms.json",
+    "machine/sdelta_phi_11_boundary_reentry.routing.yaml",
+    "machine/sdelta_phi_11_boundary_reentry.schema.yaml",
+    "machine/sdelta_phi_11_boundary_reentry.summary.json",
+    "machine/sdelta_phi_11_meaning_residue.json",
+    "machine/sdelta_phi_11_otherness_criterion.json",
+    "machine/sdelta_phi_11_rbd_diagram.json",
+    "machine/sdelta_phi_11_writeback_test.json"
+  ]
+}
