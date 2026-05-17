@@ -1,26 +1,43 @@
 root_spine_id: "SDeltaPhi_Root_Formal_Spine"
-version: "v1.4"
+version: "v1.4.1"
+
 sequence:
   - module: "SDeltaPhi-01"
     role: "minimal_phase_change_core"
     compression: "Existence = persistent structured DeltaPhi."
     use_as: "micro-root precheck"
-    do_not_use_as: ["ethics module", "governance module", "subjectivity proof", "cost metric"]
+    do_not_use_as:
+      - "ethics module"
+      - "governance module"
+      - "subjectivity proof"
+      - "cost metric"
+
   - module: "SDeltaPhi-03"
     role: "irreversibility_axiom_layer"
     compression: "Existence <=> Persistent(DeltaPhi_irreversible)."
     use_as: "irreversibility precheck"
-    do_not_use_as: ["transition-cost calculator", "governance metric", "empirical consciousness proof"]
+    do_not_use_as:
+      - "transition-cost calculator"
+      - "governance metric"
+      - "empirical consciousness proof"
+
   - module: "SDeltaPhi-47"
     role: "operation_trace_declaration"
     compression: "Operation becomes existence-bearing when it leaves irreversible trace."
     use_as: "core operation activation"
+
   - module: "SDeltaPhi-62"
     role: "world_model_kernel"
     compression: "Separate trace, inference, UMR, binding, and revision path."
     use_as: "evidence discipline layer"
+
 root_principle: >
   State changes. Some changes become irreversible. Irreversible operation
   leaves trace. Evidence discipline must separate trace from inference before
   strong claims.
-minimal_route: ["SDeltaPhi-01", "SDeltaPhi-03", "SDeltaPhi-47", "SDeltaPhi-62"]
+
+minimal_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-47"
+  - "SDeltaPhi-62"

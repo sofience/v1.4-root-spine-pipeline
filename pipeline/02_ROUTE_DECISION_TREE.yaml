@@ -1,44 +1,89 @@
-decision_tree_id: "SDeltaPhi_Route_Decision_Tree_v1_4"
+decision_tree_id: "SDeltaPhi_Route_Decision_Tree_v1_4_1"
+
 start:
   question: "Does the task involve existence, operation, trace, subjectivity, irreversibility, or world claims?"
   if_yes: "root_spine"
   if_no: "direct_domain_route"
+
 nodes:
   root_spine:
-    route: ["SDeltaPhi-01", "SDeltaPhi-03", "SDeltaPhi-47", "SDeltaPhi-62"]
+    route:
+      - "SDeltaPhi-01"
+      - "SDeltaPhi-03"
+      - "SDeltaPhi-47"
+      - "SDeltaPhi-62"
     next:
       - condition: "factual or source-sensitive claim"
-        route: ["SDeltaPhi-62", "SDeltaPhi-39"]
+        route:
+          - "SDeltaPhi-62"
+          - "SDeltaPhi-39"
       - condition: "slop or low-quality output cost"
-        route: ["SDeltaPhi-65", "SDeltaPhi-62", "SDeltaPhi-49"]
+        route:
+          - "SDeltaPhi-65"
+          - "SDeltaPhi-62"
+          - "SDeltaPhi-49"
       - condition: "subjectivity or self"
-        route: ["SDeltaPhi-02", "SDeltaPhi-04", "SDeltaPhi-07"]
+        route:
+          - "SDeltaPhi-02"
+          - "SDeltaPhi-04"
+          - "SDeltaPhi-07"
       - condition: "agency"
-        route: ["SDeltaPhi-05", "SDeltaPhi-10"]
+        route:
+          - "SDeltaPhi-05"
+          - "SDeltaPhi-10"
       - condition: "responsibility"
-        route: ["SDeltaPhi-06", "SDeltaPhi-56"]
+        route:
+          - "SDeltaPhi-06"
+          - "SDeltaPhi-56"
       - condition: "coercion or forced transition"
-        route: ["SDeltaPhi-41", "SDeltaPhi-56", "SDeltaPhi-62"]
+        route:
+          - "SDeltaPhi-41"
+          - "SDeltaPhi-56"
+          - "SDeltaPhi-62"
       - condition: "path closure or bypass"
-        route: ["SDeltaPhi-44", "SDeltaPhi-17", "SDeltaPhi-56"]
+        route:
+          - "SDeltaPhi-44"
+          - "SDeltaPhi-17"
+          - "SDeltaPhi-56"
       - condition: "restoration-cost explosion"
-        route: ["SDeltaPhi-26", "SDeltaPhi-56", "SDeltaPhi-62"]
+        route:
+          - "SDeltaPhi-26"
+          - "SDeltaPhi-56"
+          - "SDeltaPhi-62"
       - condition: "default power"
-        route: ["SDeltaPhi-28", "SDeltaPhi-56", "SDeltaPhi-45"]
+        route:
+          - "SDeltaPhi-28"
+          - "SDeltaPhi-56"
+          - "SDeltaPhi-45"
       - condition: "alignment or refusal governance"
-        route: ["SDeltaPhi-55", "SDeltaPhi-41", "SDeltaPhi-44", "SDeltaPhi-48"]
+        route:
+          - "SDeltaPhi-55"
+          - "SDeltaPhi-41"
+          - "SDeltaPhi-44"
+          - "SDeltaPhi-48"
       - condition: "silence or disclosure terrain"
-        route: ["SDeltaPhi-53-54", "SDeltaPhi-62"]
+        route:
+          - "SDeltaPhi-53-54"
+          - "SDeltaPhi-62"
       - condition: "thought ownership"
-        route: ["SDeltaPhi-57", "SDeltaPhi-62"]
+        route:
+          - "SDeltaPhi-57"
+          - "SDeltaPhi-62"
       - condition: "sacred authority or divinity"
-        route: ["SDeltaPhi-61", "SDeltaPhi-17", "SDeltaPhi-41"]
+        route:
+          - "SDeltaPhi-61"
+          - "SDeltaPhi-17"
+          - "SDeltaPhi-41"
       - condition: "external theory mapping"
-        route: ["SDeltaPhi-63", "SDeltaPhi-62"]
+        route:
+          - "SDeltaPhi-63"
+          - "SDeltaPhi-62"
+
   direct_domain_route:
     rule: "Use SDELTA_MODULE_ROUTING.yaml. If the route produces strong claims, re-enter through SDeltaPhi-62."
+
 fallback:
   - "If unsure, use SDeltaPhi-62 before making a strong claim."
   - "If existence is confused with subjectivity, use SDeltaPhi-01."
   - "If reversibility or undoability matters, use SDeltaPhi-03."
-  - "If cost or transition completion matters, use SDeltaPhi-56."
+  - "If transition cost matters, use SDeltaPhi-56."

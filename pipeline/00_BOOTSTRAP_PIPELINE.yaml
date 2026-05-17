@@ -1,5 +1,5 @@
 pipeline_id: "SDeltaPhi_AI_Readable_Pipeline"
-version: "1.4-root-spine-pipeline"
+version: "v1.4.1-format-fix"
 date: "2026-05-17"
 purpose: >
   Low-cost AI-readable pipeline for routing SDeltaPhi modules after adding
@@ -19,36 +19,43 @@ bootstrap_sequence:
     module: "SDeltaPhi-01"
     mode: "micro_precheck"
     function: "separate existence from subjectivity, identity, memory, agency, and interpretation"
+
   - step: 2
     name: "irreversibility_axiom"
     module: "SDeltaPhi-03"
     mode: "micro_precheck"
     function: "distinguish reversible variation from irreversible existence-bearing transformation"
+
   - step: 3
     name: "operation_trace"
     module: "SDeltaPhi-47"
     mode: "core_activation"
     function: "identify operation that leaves irreversible trace"
+
   - step: 4
     name: "evidence_discipline"
     module: "SDeltaPhi-62"
     mode: "required_for_world_claims"
     function: "separate trace, inference, UMR, binding, and revision path"
+
   - step: 5
     name: "hallucination_check"
     module: "SDeltaPhi-39"
     mode: "conditional"
     function: "detect claim strength exceeding evidence binding"
+
   - step: 6
     name: "slop_cost_check"
     module: "SDeltaPhi-65"
     mode: "conditional"
     function: "detect externalized verification, re-entry, and restabilization cost"
+
   - step: 7
     name: "language_fixation"
     module: "SDeltaPhi-64"
     mode: "conditional"
     function: "audit language as temporary fixation"
+
   - step: 8
     name: "transition_cost_underlayer"
     module: "SDeltaPhi-56"
