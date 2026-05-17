@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this AI-readable package, please cite it as below."
+title: "SΔϕ-03 AI-READABLE Package — Irreversibility as the Minimal Condition of Existence (v1.1)"
+authors:
+  - name: "Sofience"
+    affiliation: "Independent Researcher"
+version: "v1.1"
+doi: "10.5281/zenodo.20251725"
+date-released: "2026"
+repository-code: "https://github.com/sofience/SDeltaPhi_AI_Readable_GitHub_Seed_Repository_v1_3"
+keywords:
+  - "Sofience"
+  - "Sofience–DeltaPhi"
+  - "SDeltaPhi"
+  - "SΔϕ"
+  - "Irreversibility"
+  - "DeltaPhi Formalism"
+  - "Phase Change"
+  - "Operational Ontology"
+  - "AI-readable package"
+  - "Formal philosophy"
+abstract: "AI-readable structured package for SΔϕ-03, defining irreversibility as the minimal condition of existence and connecting the axiom to downstream modules including restoration-cost analysis, Operor declarations, TCC, and trace/inference/uncertainty separation."
+license: "CC-BY-4.0"
+references:
+  - type: article
+    title: "SΔϕ-03 — Irreversibility as the Minimal Condition of Existence (v1.1)"
+    authors:
+      - name: "Sofience"
+    doi: "10.5281/zenodo.18730448"

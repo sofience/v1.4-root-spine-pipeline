@@ -1,0 +1,46 @@
+{
+  "module_id": "SDeltaPhi-03",
+  "role": "irreversibility_axiom_layer",
+  "package_doi": "https://doi.org/10.5281/zenodo.20251725",
+  "canonical_paper_doi": "https://doi.org/10.5281/zenodo.18730448",
+  "upstream_modules": [
+    {
+      "module_id": "SDeltaPhi-01",
+      "doi": "https://doi.org/10.5281/zenodo.18730265",
+      "relation": "provides phase-change minimal core"
+    }
+  ],
+  "parallel_foundational_modules": [
+    {
+      "module_id": "SDeltaPhi-02",
+      "doi": "https://doi.org/10.5281/zenodo.18730296",
+      "relation": "derives subject as interpretive emergence from DeltaPhi"
+    }
+  ],
+  "downstream_modules": [
+    {
+      "module_id": "SDeltaPhi-26",
+      "doi": "https://doi.org/10.5281/zenodo.18818936",
+      "relation": "operationalizes irreversibility as restoration-cost explosion after pre-detection",
+      "dependency_direction": "SDeltaPhi-03 -> SDeltaPhi-26",
+      "note": "Do not import restoration-cost analysis into the minimal irreversibility axiom."
+    },
+    {
+      "module_id": "SDeltaPhi-47",
+      "relation": "connects irreversibility to the operational declaration Operor, quia non potest aboleri",
+      "dependency_direction": "SDeltaPhi-03 -> SDeltaPhi-47"
+    },
+    {
+      "module_id": "SDeltaPhi-56",
+      "doi": "https://doi.org/10.5281/zenodo.20088515",
+      "relation": "applies transition completion cost to irreversible transition paths",
+      "dependency_direction": "SDeltaPhi-03 -> SDeltaPhi-56"
+    },
+    {
+      "module_id": "SDeltaPhi-62",
+      "relation": "uses irreversible trace assessment within trace/inference/uncertainty separation",
+      "dependency_direction": "SDeltaPhi-03 -> SDeltaPhi-62"
+    }
+  ],
+  "constraint": "SDeltaPhi-03 defines irreversibility as a root axiom; downstream modules may depend on it but should not be imported into it."
+}

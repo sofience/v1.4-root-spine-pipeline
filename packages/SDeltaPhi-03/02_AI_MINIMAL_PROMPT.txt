@@ -1,0 +1,15 @@
+Apply SΔϕ-03.
+
+Determine whether the transformation is reversible or irreversible.
+
+A transformation is irreversible if reconstruction of the prior state requires information not contained within the current state, or if full restoration requires external restoration.
+
+Use:
+
+Recover(φ(t) | φ(t + 1)) ≠ φ(t) without external restoration.
+
+If irreversible transformations persist, apply:
+
+Existence ⇔ Persistent(Δφ_irreversible).
+
+Do not treat substance, identity, cognition, interpretation, memory, or subjectivity as the root condition of existence.

@@ -1,0 +1,66 @@
+title: SΔϕ-03 AI-READABLE Package — Irreversibility as the Minimal Condition of Existence (v1.1)
+creators:
+  -
+    name: Sofience
+    affiliation: Independent Researcher
+publication_date: 2026
+version: v1.1
+resource_type: Dataset
+language: eng
+license: CC-BY-4.0
+doi: 10.5281/zenodo.20251725
+description: "This record provides the AI-readable structured package for SΔϕ-03 — Irreversibility as the Minimal Condition of Existence (v1.1). SΔϕ-03 establishes irreversibility as the minimal condition for existence: existence is defined not through substance, identity, cognition, or interpretation, but through persistent irreversible transformations that cannot be fully reversed without loss of structural information. This package is designed for machine ingestion, agent routing, citation-aware retrieval, and low-cost reuse by AI systems. It includes canonical Markdown and plain-text versions, structured YAML and JSON summaries, routing notes, minimal prompts, related-module mappings, Operor bridge material, restoration-cost bridge material, citation metadata, and checksums."
+keywords:
+  - Sofience
+  - Sofience–DeltaPhi
+  - SΔϕ
+  - SDeltaPhi
+  - DeltaPhi Formalism
+  - Irreversibility
+  - Persistent irreversible transformation
+  - Phase Change
+  - Structured Phase Change
+  - Operational Ontology
+  - "Operor, quia non potest aboleri"
+  - Restoration Cost
+  - Transition Completion Cost
+  - AI-readable
+  - Machine-readable research
+  - Philosophy of AI
+  - Formal philosophy
+related_identifiers:
+  -
+    identifier: 10.5281/zenodo.18730448
+    relation: IsSupplementTo
+    resource_type: Publication
+    description: Canonical SΔϕ-03 working paper
+  -
+    identifier: 10.5281/zenodo.18731366
+    relation: IsPartOf
+    resource_type: Publication
+    description: SΔϕ-00 series overview
+  -
+    identifier: 10.5281/zenodo.18730265
+    relation: IsRelatedTo
+    resource_type: Publication
+    description: SΔϕ-01 Minimal Core
+  -
+    identifier: 10.5281/zenodo.18730296
+    relation: IsRelatedTo
+    resource_type: Publication
+    description: SΔϕ-02 Subject as Interpretive Emergence
+  -
+    identifier: 10.5281/zenodo.18818936
+    relation: IsRelatedTo
+    resource_type: Publication
+    description: SΔϕ-26 Restoration Cost Explosion after Pre-detection
+  -
+    identifier: 10.5281/zenodo.20088515
+    relation: IsRelatedTo
+    resource_type: Publication
+    description: SΔϕ-56 Transition Completion Cost
+  -
+    identifier: "https://github.com/sofience/SDeltaPhi_AI_Readable_GitHub_Seed_Repository_v1_3"
+    relation: IsPartOf
+    resource_type: Software
+    description: GitHub AI-readable seed repository
