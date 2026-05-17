@@ -1,6 +1,6 @@
 # SΔϕ-12 AI-READABLE Package — Memory and Forgetting as Irreversible Trace Regulation (v1.0)
 
-Record DOI: `https://doi.org/10.5281/zenodo.18755685`
+Package DOI: `https://doi.org/10.5281/zenodo.20257739`
 
 ## Role
 
@@ -17,17 +17,27 @@ Persistence = regulated effective memory.
 Freedom = path-space reopening under repeat-risk constraint.
 ```
 
-## Anti-misread constraint
-
-```text
-Memory ≠ storage.
-Forgetting ≠ deletion.
-```
-
 ## Functional compression
 
 ```text
-No memory → repeat.
-No forgetting → fixation.
-Balanced trace regulation → adaptive persistence.
+No memory -> repeat.
+No forgetting -> fixation.
+Balanced trace regulation -> adaptive persistence.
 ```
+
+## Use this package when
+
+- memory must be distinguished from storage;
+- forgetting must be distinguished from deletion;
+- repeated failure loops suggest weak memory;
+- fixation or paralysis suggests weak forgetting;
+- self-continuity must be analyzed as effective memory stabilization;
+- freedom must be analyzed as feasible path-space reopening.
+
+## Do not use this package as
+
+- a database memory model;
+- a vector-store design;
+- a long-term memory product specification;
+- a rule to preserve all traces;
+- a rule to delete all traces.

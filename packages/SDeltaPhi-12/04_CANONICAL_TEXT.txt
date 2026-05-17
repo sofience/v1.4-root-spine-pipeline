@@ -15,7 +15,7 @@ SΔϕ-11 fixed self as a folded boundary and consciousness as boundary-change mo
 
  2. Minimal definitions
 
- 2.1 Irreversible Trace
+ Irreversible trace
 
 A transition whose effects cannot be undone within the system’s accessible update space.
 
@@ -23,7 +23,7 @@ A transition whose effects cannot be undone within the system’s accessible upd
 Δϕ_t is irreversible if RollbackCost(Δϕ_t) >> UpdateBudget.
 
 
- 2.2 Memory
+ Memory
 
 Selective re-entry of irreversible traces into next transition selection.
 
@@ -31,7 +31,7 @@ Selective re-entry of irreversible traces into next transition selection.
 M_t := H_M(Δϕ_0:t)
 
 
- 2.3 Forgetting
+ Forgetting
 
 Trace compression that preserves directional constraints while releasing degrees of freedom.
 
@@ -41,15 +41,15 @@ F_t := C(M_t)
 
  3. Minimal axioms
 
-- **Axiom 1 — Trace necessity.** If irreversible traces do not re-enter selection, catastrophic repeats occur.
-- **Axiom 2 — Trace overload.** If all traces re-enter, feasible path space collapses (fixation/paralysis).
-- **Axiom 3 — Regulation.** Persistence requires regulated effective memory:
+- Trace necessity: if irreversible traces do not re-enter selection, catastrophic repeats occur.
+- Trace overload: if all traces re-enter, feasible path space collapses.
+- Regulation: persistence requires regulated effective memory.
 
 
 M_eff_t := C(H_M(Δϕ_0:t))
 
 
-- **Axiom 4 — Freedom coupling.** Forgetting is the minimal condition for freedom under irreversibility, but excessive forgetting increases repeat risk.
+- Freedom coupling: forgetting is the minimal condition for freedom under irreversibility, but excessive forgetting increases repeat risk.
 
 Trace overload:
 
@@ -57,41 +57,33 @@ Trace overload:
 |M_t| ↑↑ ⇒ |Ω_{t+1}| ↓ → 0
 
 
- 4. Mechanism: Trace Regulation Loop (TRL)
+ 4. Trace Regulation Loop
 
 
 Δϕ event
-(interaction / mismatch occurrence)
-        ↓
-Irreversibility test
-RollbackCost >> UpdateBudget ?
-        ↓
+  ↓
+Irreversibility test: RollbackCost >> UpdateBudget?
+  ↓
 Trace candidate
-(irreversible Δϕ to be re-entered)
-        ↓
-Memory re-entry
-(constraint injection)
-        ↓
-Forgetting
-(compression / pruning)
-        ↓
+  ↓
+Memory re-entry / constraint injection
+  ↓
+Forgetting / compression-pruning
+  ↓
 Feasible path set Ω update
-(constraints applied / released)
-        ↓
+  ↓
 Next selection
-(transition choice / execution)
-        ↺
-repeat
+  ↺ repeat
 
 
-Memory injects constraints; forgetting compresses/prunes constraints to prevent path-space collapse. The system persists only when both remain active.
+Memory injects constraints. Forgetting compresses/prunes constraints. The system persists only when both remain active.
 
  5. Pathology map
 
 | Regime | Condition | Observable behavior | Structural risk |
 |---|---|---|---|
-| Drift / Repeat | Memory too weak (M↓) | Repeated failure loops; no stable constraints | Catastrophic recurrence |
-| Fixation / Paralysis | Forgetting too weak (F↓) | Overconstraint; feasible path-space collapse | Stagnation / self-locking |
+| Drift / Repeat | Memory too weak | Repeated failure loops; no stable constraints | Catastrophic recurrence |
+| Fixation / Paralysis | Forgetting too weak | Overconstraint; feasible path-space collapse | Stagnation / self-locking |
 | Adaptive Persistence | Balanced regulation | Stable continuity + exploration | Sustained re-entry |
 
  6. Consequences
@@ -102,8 +94,8 @@ Memory injects constraints; forgetting compresses/prunes constraints to prevent 
 
  7. Notes
 
-RollbackCost may be approximated by explanation cost, repair/recovery cost, social/legal cost, and time-to-restore. A minimal selection heuristic is to re-enter traces with high recurrence risk and high irreversibility magnitude, while discarding low-impact traces via compression.
+RollbackCost may be approximated by explanation cost, repair/recovery cost, social/legal cost, and time-to-restore.
 
- 8. Position in the series
+A minimal selective memory heuristic is to re-enter traces with high recurrence risk and high irreversibility magnitude, while compressing low-impact traces.
 
-SΔϕ-12 derives directly from SΔϕ-11 and reframes persistence as regulated trace re-entry. It also relies on SΔϕ-09 and SΔϕ-10.
+A practical balance proxy is to keep repeat-risk below a threshold while maintaining a non-collapsed feasible path set.

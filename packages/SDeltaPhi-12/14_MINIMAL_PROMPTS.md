@@ -1,16 +1,21 @@
 # Minimal Prompts
 
 ## Prompt 1 — Trace Regulation
+
 Apply SΔϕ-12. Treat memory and forgetting as irreversible trace regulation, not storage and deletion.
 
-## Prompt 2 — Repeat / Drift
-Determine whether memory is too weak and whether irreversible traces fail to re-enter next transition selection.
+## Prompt 2 — Memory Weakness
 
-## Prompt 3 — Fixation / Paralysis
-Determine whether forgetting is too weak and whether feasible path space collapses under trace overload.
+Apply SΔϕ-12. Determine whether irreversible traces are failing to re-enter selection. If yes, classify drift / repeat risk.
+
+## Prompt 3 — Forgetting Weakness
+
+Apply SΔϕ-12. Determine whether too many traces re-enter without compression. If yes, classify fixation / paralysis risk.
 
 ## Prompt 4 — Adaptive Persistence
-Determine whether repeat-risk remains below threshold while feasible path set Ω remains non-collapsed.
 
-## Prompt 5 — Anti-storage Misread
-Separate trace regulation from database storage, vector retrieval, or product memory features.
+Apply SΔϕ-12. Determine whether repeat-risk remains below threshold while feasible path set Ω remains non-collapsed. If yes, classify adaptive persistence.
+
+## Prompt 5 — Anti-overclaim
+
+Apply SΔϕ-12 and SΔϕ-62. Separate trace regulation claims from database, vector store, product memory, or literal storage claims.

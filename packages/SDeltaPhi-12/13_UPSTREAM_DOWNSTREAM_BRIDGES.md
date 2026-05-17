@@ -9,7 +9,7 @@
 
 ## Core package
 
-SΔϕ-12 defines memory and forgetting as irreversible trace regulation.
+- SΔϕ-12: memory and forgetting as irreversible trace regulation.
 
 ## Downstream
 
@@ -17,7 +17,7 @@ SΔϕ-12 defines memory and forgetting as irreversible trace regulation.
 - SΔϕ-52: embodiment as non-deferrable cost return.
 - SΔϕ-56: Transition Completion Cost.
 - SΔϕ-59: Affective Cost Orientation.
-- SΔϕ-62: World Model Kernel.
+- SΔϕ-62: World Model Kernel for trace / inference / uncertainty / binding separation.
 
 ## Bridge principle
 

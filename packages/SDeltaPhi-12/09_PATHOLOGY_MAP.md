@@ -7,7 +7,7 @@
 | Adaptive Persistence | Balanced regulation | Stable continuity + exploration | Sustained re-entry |
 
 ```text
-No memory → repeat.
-No forgetting → fixation.
-Balanced trace regulation → adaptive persistence.
+No memory -> repeat.
+No forgetting -> fixation.
+Balanced trace regulation -> adaptive persistence.
 ```

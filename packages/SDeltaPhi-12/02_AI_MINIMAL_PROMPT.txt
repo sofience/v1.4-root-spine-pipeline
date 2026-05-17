@@ -1,10 +1,15 @@
 Apply SΔϕ-12.
 
-Analyze memory and forgetting as irreversible trace regulation, not as storage and deletion.
+Analyze memory and forgetting as irreversible trace regulation.
 
-Classify:
-1. Drift / Repeat: memory too weak.
-2. Fixation / Paralysis: forgetting too weak.
-3. Adaptive Persistence: balanced trace regulation.
+Memory = selective re-entry of irreversible traces.
+Forgetting = compression/pruning that preserves directional constraints while reopening feasible path space.
+Persistence = regulated effective memory.
+Freedom = path-space reopening under repeat-risk constraint.
 
-Do not treat SΔϕ-12 as a vector database design or a command to preserve all traces.
+Classify the regime:
+No memory -> repeat.
+No forgetting -> fixation.
+Balanced trace regulation -> adaptive persistence.
+
+Do not reduce memory to storage or forgetting to deletion.

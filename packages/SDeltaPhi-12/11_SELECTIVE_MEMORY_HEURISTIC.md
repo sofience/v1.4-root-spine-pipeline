@@ -22,3 +22,5 @@ Memory is selective re-entry, not total storage.
 RepeatRisk < threshold
 |Ω| > minimum
 ```
+
+Do not preserve all traces. Do not erase all traces. Regulate trace re-entry.
