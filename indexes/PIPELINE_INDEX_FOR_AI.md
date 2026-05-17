@@ -2,11 +2,12 @@
 
 ## Version
 
-v1.4-root-spine-pipeline
+v1.4.1-format-fix
 
 ## Why this update exists
 
-SDeltaPhi-01 and SDeltaPhi-03 are now first-class AI-readable packages.  
+SDeltaPhi-01 and SDeltaPhi-03 are now first-class AI-readable packages.
+
 The repository should therefore begin from a root formal spine rather than starting directly from SDeltaPhi-47.
 
 ## Minimal root route
