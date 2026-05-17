@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "SΔϕ-01 AI-READABLE Package — Minimal Core: Phase-Change Formalism of Existence (v1.1)"
+message: "If you use this AI-readable package, please cite both the package DOI and the canonical SΔϕ-01 paper DOI."
+type: dataset
+authors:
+  - family-names: "Sofience"
+    affiliation: "Independent Researcher"
+version: "v1.1"
+doi: "10.5281/zenodo.20250823"
+date-released: "2026"
+license: "CC-BY-4.0"
+keywords:
+  - "Sofience"
+  - "Sofience-DeltaPhi"
+  - "SDeltaPhi"
+  - "SΔϕ"
+  - "DeltaPhi Formalism"
+  - "Phase-Change Formalism"
+  - "Operational Ontology"
+  - "AI-readable package"
+references:
+  - type: article
+    title: "SΔϕ-01 — Sofience–Δϕ Minimal Core: Phase-Change Formalism of Existence (v1.1)"
+    authors:
+      - family-names: "Sofience"
+    doi: "10.5281/zenodo.18730265"

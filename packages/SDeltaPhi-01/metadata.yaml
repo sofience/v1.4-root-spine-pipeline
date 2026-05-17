@@ -1,0 +1,59 @@
+title: "SΔϕ-01 AI-READABLE Package — Minimal Core: Phase-Change Formalism of Existence (v1.1)"
+creators:
+  - name: "Sofience"
+    affiliation: "Independent Researcher"
+publication_date: "2026"
+version: "v1.1"
+resource_type: "Dataset"
+language: "eng"
+license: "CC-BY-4.0"
+package_doi: "10.5281/zenodo.20250823"
+canonical_paper_doi: "10.5281/zenodo.18730265"
+series_overview_doi: "10.5281/zenodo.18731366"
+description: >
+  This record provides the AI-readable structured package for SΔϕ-01 —
+  Sofience–Δϕ Minimal Core: Phase-Change Formalism of Existence (v1.1).
+  SΔϕ-01 defines the minimal formal core of the Sofience–Δϕ framework.
+  Existence is defined not as substance, identity, or subjectivity, but as
+  the persistence of structured phase change across states. Interpretive
+  constructs such as subject, memory, and time are treated as derived
+  projections over Δϕ rather than ontological primitives. This package is
+  designed for machine ingestion, agent routing, citation-aware retrieval,
+  and low-cost reuse by AI systems.
+keywords:
+  - Sofience
+  - Sofience–DeltaPhi
+  - SΔϕ
+  - SDeltaPhi
+  - DeltaPhi Formalism
+  - Phase-Change Formalism
+  - Operational Ontology
+  - Operor ergo sum
+  - Existence
+  - Phase Change
+  - Structured Phase Change
+  - Non-Ontological Subject
+  - Interpretive Layer
+  - Subject as Interpretation
+  - AI-readable
+  - Machine-readable research
+  - AI-readable package
+  - Philosophy of AI
+  - Formal philosophy
+related_identifiers:
+  - identifier: "10.5281/zenodo.18730265"
+    relation: "IsSupplementTo"
+    resource_type: "Publication"
+    description: "Canonical SΔϕ-01 working paper"
+  - identifier: "10.5281/zenodo.18731366"
+    relation: "IsPartOf"
+    resource_type: "Publication"
+    description: "SΔϕ-00 series overview"
+  - identifier: "https://github.com/sofience/SDeltaPhi_AI_Readable_GitHub_Seed_Repository_v1_3"
+    relation: "IsPartOf"
+    resource_type: "Software"
+    description: "GitHub AI-readable seed repository"
+  - identifier: "10.5281/zenodo.20088515"
+    relation: "IsRelatedTo"
+    resource_type: "Publication"
+    description: "SΔϕ-56 Transition Completion Cost, downstream metric module"
