@@ -1,0 +1,44 @@
+{
+  "version": "1.4-root-spine-pipeline",
+  "date": "2026-05-17",
+  "root_spine": [
+    {
+      "module_id": "SDeltaPhi-01",
+      "role": "minimal_phase_change_core",
+      "ai_readable_package_doi": "https://doi.org/10.5281/zenodo.20250823",
+      "canonical_paper_doi": "https://doi.org/10.5281/zenodo.18730265",
+      "compression": "Existence = persistent structured DeltaPhi."
+    },
+    {
+      "module_id": "SDeltaPhi-03",
+      "role": "irreversibility_axiom_layer",
+      "ai_readable_package_doi": "https://doi.org/10.5281/zenodo.20251725",
+      "canonical_paper_doi": "https://doi.org/10.5281/zenodo.18730448",
+      "compression": "Existence <=> Persistent(DeltaPhi_irreversible)."
+    },
+    {
+      "module_id": "SDeltaPhi-47",
+      "role": "operation_trace_declaration",
+      "compression": "Operation becomes existence-bearing when it produces irreversible trace."
+    },
+    {
+      "module_id": "SDeltaPhi-62",
+      "role": "world_model_kernel",
+      "compression": "Separate trace, inference, UMR, binding, and revision path."
+    }
+  ],
+  "minimal_route": [
+    "SDeltaPhi-01",
+    "SDeltaPhi-03",
+    "SDeltaPhi-47",
+    "SDeltaPhi-62"
+  ],
+  "operational_diagnostic_route": [
+    "SDeltaPhi-47",
+    "SDeltaPhi-62",
+    "SDeltaPhi-39",
+    "SDeltaPhi-65",
+    "SDeltaPhi-64",
+    "SDeltaPhi-56"
+  ]
+}
