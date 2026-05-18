@@ -1,0 +1,15 @@
+{
+  "distinction_id": "SDeltaPhi-15_trust_not_belief",
+  "trust": {
+    "target": "Other / relation",
+    "function": "opens a relational path",
+    "primary_risk": "betrayal / relation collapse",
+    "temporal_direction": "Future-other -> present evaluation"
+  },
+  "belief": {
+    "target": "World / model",
+    "function": "stabilizes a world hypothesis",
+    "primary_risk": "illusion / model mismatch",
+    "temporal_direction": "Past pattern -> fixed rule"
+  }
+}

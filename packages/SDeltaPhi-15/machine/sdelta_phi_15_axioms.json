@@ -1,0 +1,34 @@
+{
+  "module_id": "SDeltaPhi-15",
+  "axioms": [
+    {
+      "name": "Trust",
+      "statement": "Trust is a pre-commitment to unobserved future transitions of the other.",
+      "formula": "Trust := Insert(DeltaPhi_other^future) into Eval_self(t)",
+      "failure_mode": "betrayal = collapse of relational persistence"
+    },
+    {
+      "name": "Belief",
+      "statement": "Belief is a stabilized hypothesis about world-transition rules.",
+      "formula": "Belief := Fix(H(DeltaPhi_world))",
+      "failure_mode": "illusion = persistent mismatch with world DeltaPhi"
+    },
+    {
+      "name": "Hope",
+      "statement": "Hope is suspension of closure.",
+      "formula": "Hope := Suspend_Closure(Omega_future)",
+      "opposite": "Despair := Close(Omega_future)"
+    },
+    {
+      "name": "Promise",
+      "statement": "Promise is distributed commitment to future DeltaPhi.",
+      "formula": "Promise := SharedCommit(DeltaPhi_future)",
+      "minimal_condition": "requires at least two systems",
+      "break_condition": "Break(Promise) implies Collapse(A_shared)"
+    }
+  ],
+  "proposition": {
+    "name": "Temporal inversion of responsibility",
+    "formula": "FutureConstraint -> PresentActionRestriction"
+  }
+}

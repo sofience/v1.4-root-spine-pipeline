@@ -1,0 +1,21 @@
+{
+  "module_id": "SDeltaPhi-15",
+  "failure_modes": {
+    "trust": {
+      "failure_mode": "betrayal",
+      "structural_collapse": "collapse of relational persistence"
+    },
+    "belief": {
+      "failure_mode": "illusion",
+      "structural_collapse": "persistent mismatch with world DeltaPhi"
+    },
+    "hope": {
+      "failure_mode": "despair",
+      "structural_collapse": "closure of Omega_future"
+    },
+    "promise": {
+      "failure_mode": "Break(Promise)",
+      "structural_collapse": "Collapse(A_shared)"
+    }
+  }
+}

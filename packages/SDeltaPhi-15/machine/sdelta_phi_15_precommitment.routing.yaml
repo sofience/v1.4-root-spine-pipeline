@@ -1,0 +1,39 @@
+module_id: "SDeltaPhi-15"
+routing_priority: "precommitment_after_SDeltaPhi-14"
+primary_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-09"
+  - "SDeltaPhi-10"
+  - "SDeltaPhi-11"
+  - "SDeltaPhi-12"
+  - "SDeltaPhi-13"
+  - "SDeltaPhi-14"
+  - "SDeltaPhi-15"
+root_spine_compatible_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-47"
+  - "SDeltaPhi-62"
+  - "SDeltaPhi-11"
+  - "SDeltaPhi-12"
+  - "SDeltaPhi-13"
+  - "SDeltaPhi-14"
+  - "SDeltaPhi-15"
+call_after:
+  - "SDeltaPhi-14"
+call_with_when_needed:
+  religious_faith_or_sacred_commitment:
+    - "SDeltaPhi-61"
+    - "SDeltaPhi-62"
+  institutional_trust_or_governance:
+    - "SDeltaPhi-41"
+    - "SDeltaPhi-55"
+    - "SDeltaPhi-62"
+  relational_closure_failure:
+    - "SDeltaPhi-16"
+do_not_route_if:
+  - "the task asks only for religious faith"
+  - "the task asks only for legal contract doctrine"
+  - "the task asks only for romantic advice"
+  - "the task asks only for institutional trust systems without pre-commitment analysis"

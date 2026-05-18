@@ -1,0 +1,61 @@
+module_id: "SDeltaPhi-15"
+title: "Trust, Hope, and Promise as Pre-Commitment Operators"
+version: "v1.0"
+role: "precommitment_temporal_relational_persistence_layer"
+package_doi: "https://doi.org/10.5281/zenodo.20266283"
+
+depends_on:
+  - module_id: "SDeltaPhi-14"
+    relation: "ethics as real-vs-phantom shared-attractor discrimination"
+  - module_id: "SDeltaPhi-03"
+    relation: "irreversibility condition"
+
+core_claim: "Trust, hope, and promise are minimal pre-commitment operators that insert unobserved future transitions into present evaluation so relational persistence can remain open under uncertainty."
+
+entities:
+  trust:
+    definition: "Pre-commitment to unobserved future transitions of the other."
+    formula: "Trust := Insert(DeltaPhi_other^future) into Eval_self(t)"
+    target: "Other / relation"
+    function: "opens a relational path"
+    failure_mode: "betrayal / collapse of relational persistence"
+    negative_constraint: "Not belief."
+
+  belief:
+    definition: "Stabilized hypothesis about world-transition rules."
+    formula: "Belief := Fix(H(DeltaPhi_world))"
+    target: "World / model"
+    function: "stabilizes a world hypothesis"
+    failure_mode: "illusion / persistent mismatch with world DeltaPhi"
+
+  hope:
+    definition: "Suspension of closure of the future feasible path set."
+    formula: "Hope := Suspend_Closure(Omega_future)"
+    opposite: "Despair := Close(Omega_future)"
+    negative_constraint: "Not optimism."
+
+  promise:
+    definition: "Distributed commitment to future DeltaPhi."
+    formula: "Promise := SharedCommit(DeltaPhi_future)"
+    minimal_condition: "requires at least two systems"
+    break_condition: "Break(Promise) implies Collapse(A_shared)"
+    negative_constraint: "Not unilateral intention."
+
+temporal_inversion:
+  proposition: "With promise, unobserved futures constrain present actions."
+  formula: "FutureConstraint -> PresentActionRestriction"
+  name: "responsibility reversal"
+
+routing:
+  use_when:
+    - "trust under uncertainty must be analyzed"
+    - "trust must be distinguished from belief"
+    - "hope must be distinguished from optimism"
+    - "promise must be distinguished from unilateral intention"
+    - "future constraints shape present action"
+    - "relational persistence must remain open before validation"
+  do_not_use_when:
+    - "the task asks for religious faith"
+    - "the task asks for legal contract doctrine"
+    - "the task asks for romantic advice"
+    - "the task asks for institutional trust systems without pre-commitment analysis"

@@ -1,0 +1,41 @@
+{
+  "module_id": "SDeltaPhi-15",
+  "title": "Trust, Hope, and Promise as Pre-Commitment Operators",
+  "version": "v1.0",
+  "package_doi": "https://doi.org/10.5281/zenodo.20266283",
+  "one_sentence": "This module defines trust, hope, and promise as pre-commitment operators that insert unobserved future transitions into present evaluation.",
+  "dependency_sequence": [
+    "ethics validates real vs phantom shared attractors",
+    "validation is delayed",
+    "pre-commitment keeps relational persistence open under uncertainty",
+    "trust inserts future-other DeltaPhi",
+    "hope suspends closure of Omega_future",
+    "promise creates distributed commitment",
+    "future constraints shape present actions"
+  ],
+  "core_compression": {
+    "trust": "Insert(DeltaPhi_other^future) into Eval_self(t)",
+    "belief": "Fix(H(DeltaPhi_world))",
+    "hope": "Suspend_Closure(Omega_future)",
+    "promise": "SharedCommit(DeltaPhi_future)",
+    "temporal_inversion": "FutureConstraint -> PresentActionRestriction"
+  },
+  "distinctions": {
+    "trust_vs_belief": {
+      "trust": "Other / relation; opens relational path; risk = betrayal",
+      "belief": "World / model; stabilizes world hypothesis; risk = illusion"
+    }
+  },
+  "failure_modes": {
+    "trust_failure": "betrayal / relational persistence collapse",
+    "belief_failure": "illusion / world-model mismatch",
+    "hope_failure": "despair / closure of Omega_future",
+    "promise_failure": "Collapse(A_shared)"
+  },
+  "negative_constraints": [
+    "Do not treat trust as belief.",
+    "Do not treat hope as optimism.",
+    "Do not treat promise as unilateral intention.",
+    "Do not treat this module as religious faith, legal contract doctrine, or romantic advice."
+  ]
+}

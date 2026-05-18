@@ -1,0 +1,18 @@
+{
+  "test_id": "SDeltaPhi-15_promise_under_uncertainty_test",
+  "steps": [
+    "Check distributed commitment to future DeltaPhi.",
+    "Check that at least two systems are involved.",
+    "Check whether future-other DeltaPhi enters present self-evaluation.",
+    "Check whether Omega_future is held open rather than closed.",
+    "Check whether unobserved future commitment restricts present action.",
+    "Check whether breaking the promise would collapse A_shared."
+  ],
+  "classifications": [
+    "maintain promise under uncertainty",
+    "fragile trust without promise",
+    "despair / closure",
+    "phantom promise",
+    "broken promise / shared-attractor collapse"
+  ]
+}
