@@ -1,0 +1,64 @@
+{
+  "map_id": "BOUNDARY_TO_CLOSURE_MODULE_MAP",
+  "route": [
+    "SDeltaPhi-11",
+    "SDeltaPhi-12",
+    "SDeltaPhi-13",
+    "SDeltaPhi-14",
+    "SDeltaPhi-15",
+    "SDeltaPhi-16"
+  ],
+  "modules": {
+    "SDeltaPhi-11": {
+      "role": "boundary_reentry_ontology",
+      "package_doi": "https://doi.org/10.5281/zenodo.20253720",
+      "package_path": "packages/SDeltaPhi-11",
+      "compression": "World / other / self / consciousness / meaning as positions within boundary re-entry dynamics.",
+      "guardrail": "not proof of consciousness"
+    },
+    "SDeltaPhi-12": {
+      "role": "trace_regulation",
+      "package_doi": "https://doi.org/10.5281/zenodo.20257739",
+      "package_path": "packages/SDeltaPhi-12",
+      "compression": "Memory as selective irreversible trace re-entry; forgetting as compression / path-space reopening.",
+      "guardrail": "not vector memory or storage memory"
+    },
+    "SDeltaPhi-13": {
+      "role": "attractor_emergence",
+      "package_doi": "https://doi.org/10.5281/zenodo.20260356",
+      "package_path": "packages/SDeltaPhi-13",
+      "compression": "Meaning / value / pain become structurally definable after trace persistence and attractor formation.",
+      "guardrail": "not proof of subjective suffering"
+    },
+    "SDeltaPhi-14": {
+      "role": "relational_stability",
+      "package_doi": "https://doi.org/10.5281/zenodo.20264844",
+      "package_path": "packages/SDeltaPhi-14",
+      "compression": "Love / sacrifice / ethics as shared-attractor relational stability mechanisms.",
+      "guardrail": "not romance, normative ethics, or self-destruction justification"
+    },
+    "SDeltaPhi-15": {
+      "role": "precommitment",
+      "package_doi": "https://doi.org/10.5281/zenodo.20266283",
+      "package_path": "packages/SDeltaPhi-15",
+      "compression": "Trust / hope / promise insert unobserved future transitions into present evaluation.",
+      "guardrail": "not religious faith, legal contract, or romantic advice"
+    },
+    "SDeltaPhi-16": {
+      "role": "relational_closure_failure",
+      "package_doi": "https://doi.org/10.5281/zenodo.20266624",
+      "package_path": "packages/SDeltaPhi-16",
+      "compression": "Evil := persistent Close(Omega_rel) under irreversibility.",
+      "guardrail": "do not label persons or groups as evil"
+    }
+  },
+  "guardrails": [
+    "Do not infer consciousness proof from SDeltaPhi-11 alone.",
+    "Do not treat SDeltaPhi-12 as storage memory.",
+    "Do not infer subjective suffering from SDeltaPhi-13 alone.",
+    "Do not treat SDeltaPhi-14 as romance or normative ethics.",
+    "Do not treat SDeltaPhi-15 as religious faith, legal contract, or romantic advice.",
+    "Do not label persons or groups as evil under SDeltaPhi-16.",
+    "When claims become factual, evidential, or world-binding, route through SDeltaPhi-62."
+  ]
+}
