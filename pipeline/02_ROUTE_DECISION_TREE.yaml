@@ -1,7 +1,7 @@
 decision_tree_id: "SDeltaPhi_Route_Decision_Tree_v1_4_1"
 
 start:
-  question: "Does the task involve existence, operation, trace, subjectivity, irreversibility, or world claims?"
+  question: "Does the task involve existence, operation, trace, subjectivity, irreversibility, relation, closure, or world claims?"
   if_yes: "root_spine"
   if_no: "direct_domain_route"
 
@@ -27,14 +27,17 @@ nodes:
           - "SDeltaPhi-02"
           - "SDeltaPhi-04"
           - "SDeltaPhi-07"
+          - "SDeltaPhi-62"
       - condition: "agency"
         route:
           - "SDeltaPhi-05"
           - "SDeltaPhi-10"
+          - "SDeltaPhi-62"
       - condition: "responsibility"
         route:
           - "SDeltaPhi-06"
           - "SDeltaPhi-56"
+          - "SDeltaPhi-62"
       - condition: "coercion or forced transition"
         route:
           - "SDeltaPhi-41"
@@ -45,6 +48,7 @@ nodes:
           - "SDeltaPhi-44"
           - "SDeltaPhi-17"
           - "SDeltaPhi-56"
+          - "SDeltaPhi-62"
       - condition: "restoration-cost explosion"
         route:
           - "SDeltaPhi-26"
@@ -55,12 +59,14 @@ nodes:
           - "SDeltaPhi-28"
           - "SDeltaPhi-56"
           - "SDeltaPhi-45"
+          - "SDeltaPhi-62"
       - condition: "alignment or refusal governance"
         route:
           - "SDeltaPhi-55"
           - "SDeltaPhi-41"
           - "SDeltaPhi-44"
           - "SDeltaPhi-48"
+          - "SDeltaPhi-62"
       - condition: "silence or disclosure terrain"
         route:
           - "SDeltaPhi-53-54"
@@ -74,9 +80,37 @@ nodes:
           - "SDeltaPhi-61"
           - "SDeltaPhi-17"
           - "SDeltaPhi-41"
+          - "SDeltaPhi-62"
       - condition: "external theory mapping"
         route:
           - "SDeltaPhi-63"
+          - "SDeltaPhi-62"
+      - condition: "world / other / self / consciousness / meaning as boundary positions"
+        route:
+          - "SDeltaPhi-11"
+          - "SDeltaPhi-62"
+      - condition: "memory / forgetting / repeat / fixation / persistence as trace regulation"
+        route:
+          - "SDeltaPhi-12"
+          - "SDeltaPhi-56"
+          - "SDeltaPhi-62"
+      - condition: "meaning / value / pain as attractor emergence"
+        route:
+          - "SDeltaPhi-13"
+          - "SDeltaPhi-62"
+      - condition: "love / sacrifice / ethics as relational stability or shared attractor"
+        route:
+          - "SDeltaPhi-14"
+          - "SDeltaPhi-41"
+          - "SDeltaPhi-62"
+      - condition: "trust / hope / promise / delayed validation / future constraint"
+        route:
+          - "SDeltaPhi-15"
+          - "SDeltaPhi-62"
+      - condition: "evil / relational closure / validation cost explosion / identity lock / persistent closure"
+        route:
+          - "SDeltaPhi-16"
+          - "SDeltaPhi-56"
           - "SDeltaPhi-62"
 
   direct_domain_route:
@@ -87,3 +121,4 @@ fallback:
   - "If existence is confused with subjectivity, use SDeltaPhi-01."
   - "If reversibility or undoability matters, use SDeltaPhi-03."
   - "If transition cost matters, use SDeltaPhi-56."
+  - "If relational closure or high-risk relation labels appear, use SDeltaPhi-62 before applying SDeltaPhi-14/15/16."

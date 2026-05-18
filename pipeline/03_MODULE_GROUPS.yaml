@@ -36,7 +36,17 @@ groups:
       - "SDeltaPhi-08"
       - "SDeltaPhi-09"
       - "SDeltaPhi-10"
-    function: "Handle closure, boundary residual, error, learning, inference, and re-entry."
+    function: "Prepare boundary/re-entry material before boundary-to-closure continuation."
+
+  boundary_to_closure_spine:
+    modules:
+      - "SDeltaPhi-11"
+      - "SDeltaPhi-12"
+      - "SDeltaPhi-13"
+      - "SDeltaPhi-14"
+      - "SDeltaPhi-15"
+      - "SDeltaPhi-16"
+    function: "Route boundary re-entry ontology, trace regulation, attractor emergence, relational stability, pre-commitment, and relational closure failure."
 
   ethics_path_governance:
     modules:
@@ -79,3 +89,4 @@ default_module_order:
   - "evidence_discipline"
   - "surface_cost_discipline"
   - "conditional_domain_group"
+  - "boundary_to_closure_spine"

@@ -1,0 +1,56 @@
+spine_id: "BOUNDARY_TO_CLOSURE_SPINE"
+role: "Route from boundary re-entry ontology to relational closure failure."
+
+primary_route:
+  - "SDeltaPhi-08"
+  - "SDeltaPhi-09"
+  - "SDeltaPhi-10"
+  - "SDeltaPhi-11"
+  - "SDeltaPhi-12"
+  - "SDeltaPhi-13"
+  - "SDeltaPhi-14"
+  - "SDeltaPhi-15"
+  - "SDeltaPhi-16"
+
+continuation_route:
+  - "SDeltaPhi-11"
+  - "SDeltaPhi-12"
+  - "SDeltaPhi-13"
+  - "SDeltaPhi-14"
+  - "SDeltaPhi-15"
+  - "SDeltaPhi-16"
+
+compressed_route:
+  - module: "SDeltaPhi-11"
+    role: "boundary re-entry ontology"
+    compression: "world / other / self / consciousness / meaning as boundary positions"
+  - module: "SDeltaPhi-12"
+    role: "trace regulation"
+    compression: "memory = selective trace re-entry; forgetting = path-space reopening"
+  - module: "SDeltaPhi-13"
+    role: "attractor emergence"
+    compression: "meaning / value / pain emerge after regulated irreversible traces"
+  - module: "SDeltaPhi-14"
+    role: "relational stability"
+    compression: "love / sacrifice / ethics as shared-attractor mechanisms"
+  - module: "SDeltaPhi-15"
+    role: "pre-commitment"
+    compression: "trust / hope / promise insert unobserved future transitions into present evaluation"
+  - module: "SDeltaPhi-16"
+    role: "relational closure failure"
+    compression: "evil := persistent Close(Omega_rel) under irreversibility"
+
+activation_rule:
+  - "Do not activate the full spine by keyword alone."
+  - "Activate the smallest module that matches the structural condition."
+  - "Use SDeltaPhi-62 when factual, evidential, or world-binding claims appear."
+  - "Use SDeltaPhi-56 when transition cost, rollback cost, or completion cost becomes central."
+  - "Use SDeltaPhi-41/55 when governance or policy implications become central."
+
+guardrails:
+  - "SDeltaPhi-11 is not proof of consciousness."
+  - "SDeltaPhi-12 is not memory storage."
+  - "SDeltaPhi-13 is not proof of subjective suffering."
+  - "SDeltaPhi-14 is not romance, moral code, or self-destruction justification."
+  - "SDeltaPhi-15 is not religious faith, legal contract, or romantic promise."
+  - "SDeltaPhi-16 is not a moral label for persons, groups, or agents."
