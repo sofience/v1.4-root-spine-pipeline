@@ -1,0 +1,20 @@
+Apply SΔϕ-16.
+
+Analyze evil as persistent closure of relational futures under irreversibility.
+
+Classify:
+
+Evil := Close(Ω_rel).
+
+Error = local and potentially recoverable.
+Evil = persistent closure that makes recovery cost explode.
+
+Check closure-selection conditions:
+
+E1: Close(Ω_rel) appears as Stabilize(φ).
+E2: Cost_validate ≫ Cost_close.
+E3: Change ≈ IdentityCollapse ⇒ Δϕ_allowed → 0.
+
+Do not classify persons, groups, or agents as evil.
+Do not use this as theology, legal guilt, punishment theory, or moral condemnation.
+Classify closure dynamics only.
