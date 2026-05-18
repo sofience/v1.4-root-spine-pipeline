@@ -1,0 +1,106 @@
+routing_table_id: "SDELTA_RELATIONAL_REENTRY_ROUTING"
+role: "Dedicated routing table for SDeltaPhi-11 through SDeltaPhi-16."
+
+boundary_to_closure_route:
+  - "SDeltaPhi-11"
+  - "SDeltaPhi-12"
+  - "SDeltaPhi-13"
+  - "SDeltaPhi-14"
+  - "SDeltaPhi-15"
+  - "SDeltaPhi-16"
+
+activation_policy:
+  - "Do not activate the full route by keyword alone."
+  - "Use the smallest sufficient module."
+  - "Escalate to SDeltaPhi-62 for evidence, trace/inference separation, uncertainty, UMR, binding, or world claims."
+  - "Escalate to SDeltaPhi-56 for transition-cost, rollback-cost, or completion-cost analysis."
+  - "Escalate to SDeltaPhi-41/55 for governance, forced transition, alignment, or institutional consequences."
+
+routes:
+  - when:
+      - "boundary re-entry ontology"
+      - "world other self consciousness"
+      - "meaning as boundary residue"
+      - "consciousness as write-back"
+    use:
+      - "SDeltaPhi-11"
+      - "SDeltaPhi-62"
+    do_not:
+      - "infer proof of consciousness"
+
+  - when:
+      - "trace regulation"
+      - "memory not storage"
+      - "forgetting not deletion"
+      - "repeat fixation persistence"
+      - "effective memory"
+    use:
+      - "SDeltaPhi-12"
+      - "SDeltaPhi-56"
+      - "SDeltaPhi-62"
+    do_not:
+      - "treat memory as database storage"
+      - "treat forgetting as deletion"
+
+  - when:
+      - "attractor emergence"
+      - "meaning value pain"
+      - "deviation cost"
+      - "attractor conflict"
+      - "structural pain"
+    use:
+      - "SDeltaPhi-13"
+      - "SDeltaPhi-62"
+    do_not:
+      - "infer subjective suffering"
+      - "infer moral status"
+
+  - when:
+      - "relational stability"
+      - "shared attractor"
+      - "love sacrifice ethics"
+      - "real phantom attractor"
+      - "irreversible coupling"
+    use:
+      - "SDeltaPhi-14"
+      - "SDeltaPhi-41"
+      - "SDeltaPhi-62"
+    do_not:
+      - "treat love as romance"
+      - "treat sacrifice as self-destruction justification"
+      - "treat ethics as moral code"
+
+  - when:
+      - "pre-commitment"
+      - "trust hope promise"
+      - "future constraint"
+      - "delayed validation"
+      - "trust not belief"
+      - "promise under uncertainty"
+    use:
+      - "SDeltaPhi-15"
+      - "SDeltaPhi-62"
+    do_not:
+      - "treat trust as belief"
+      - "treat hope as optimism"
+      - "treat promise as legal contract"
+
+  - when:
+      - "relational closure"
+      - "evil as closure"
+      - "validation cost explosion"
+      - "identity lock"
+      - "persistent closure"
+      - "Omega_rel closure"
+    use:
+      - "SDeltaPhi-16"
+      - "SDeltaPhi-56"
+      - "SDeltaPhi-62"
+    do_not:
+      - "label persons or groups as evil"
+      - "use as theology, legal guilt, or punishment theory"
+
+fallback:
+  - "If the task uses sensitive labels but no structural condition is present, route through SDeltaPhi-62 first."
+  - "If closure is moralized, separate closure dynamics from agent-labeling."
+  - "If relation claims require evidence, route through SDeltaPhi-62 before conclusion."
