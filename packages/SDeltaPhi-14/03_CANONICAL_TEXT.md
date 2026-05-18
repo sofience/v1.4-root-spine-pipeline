@@ -1,0 +1,127 @@
+# SΔϕ-14 — Love, Sacrifice, and Ethics as Relational Stability Mechanisms
+
+**Relational Transition after Meaning (v1.0)**  
+Version: v1.0  
+Series: Sofience–Δϕ Formalism (SΔϕ)  
+Author: Sofience
+
+This paper introduces the relational layer after the emergence of meaning, value, and pain (SΔϕ-13). It defines irreversible coupling as an ontological shift from single-trajectory persistence to relational persistence. Love is treated as a corollary of shared-attractor formation, sacrifice as transition-weight redistribution toward shared stability, and ethics as the discrimination process between real and phantom shared attractors.
+
+## 0. Transition statement
+
+After meaning, value, and pain become definable (SΔϕ-13), the system is no longer structurally isolated. A new condition appears: transition becomes mutually coupled, and the unit of continuation shifts from the system to relational dynamics.
+
+## 1. Axiom 1 — Irreversible coupling
+
+Two systems become coupled when their transition laws cease to be independently evaluable and persist across irreversible updates.
+
+```text
+G_A = G_A(φ_A, φ_B)
+G_B = G_B(φ_B, φ_A)
+```
+
+Minimal condition:
+
+```text
+∂Δϕ_A/∂φ_B ≠ 0
+∂Δϕ_B/∂φ_A ≠ 0
+```
+
+The coupling must persist across updates.
+
+Ontological shift:
+
+```text
+Before coupling: existence = persistence of a trajectory.
+After coupling: existence = persistence of a relational field.
+```
+
+Irreversibility clause:
+
+```text
+Cost_rollback > Cost_co-adaptation
+```
+
+## 2. Corollary 1 — Love
+
+Love emerges when irreversible coupling causes another system’s persistence to enter the internal evaluation function, making separation a structural perturbation rather than a neutral transition.
+
+```text
+Eval_A(φ_A) → Eval_A(φ_A, φ_B)
+```
+
+and symmetrically for B.
+
+Freedom expands when the shared attractor stabilizes transition (process-stable).
+
+Freedom collapses when the shared attractor stabilizes state (state-fixed).
+
+## 3. Corollary 2 — Sacrifice
+
+Sacrifice is the intentional redistribution of transition weight from self-stability toward shared stability under irreversibility.
+
+It is not loss-as-failure but a change in the optimization unit.
+
+```text
+Sacrifice := weight redistribution (self trajectory → A_shared)
+```
+
+Minimal condition:
+
+```text
+Cost_shared_collapse > Cost_self_degradation
+```
+
+Self-destructive choices appear when preserving the shared attractor increases long-horizon transitionability despite short-term loss.
+
+## 4. Corollary 3 — Ethics
+
+Ethics emerges after sacrifice becomes possible, as the process that discriminates real shared attractors from phantom shared attractors. It is a stability mechanism preventing irreversible investment into non-converging dynamics.
+
+```text
+Ethics := discriminate(real A_shared, phantom A_shared) under irreversible commitment.
+```
+
+Pathological split:
+
+```text
+Real shared attractor → devotion / trust / stability.
+Phantom shared attractor → obsession / exploitation / collapse.
+```
+
+## 5. Structural maps
+
+```text
+IRREVERSIBLE COUPLING
+G_A(φ_A, φ_B), G_B(φ_B, φ_A)
+        ↓
+SHARED ATTRACTOR EMERGES
+A_shared = stable convergence of trajectories
+        ↓
+LOVE
+evaluation becomes co-determined
+        ↓
+SACRIFICE
+weight redistribution to A_shared
+        ↓
+ETHICS
+real vs phantom A_shared discrimination
+        ↓
+PATHOLOGICAL SPLIT
+real A_shared → devotion / trust / stability
+phantom A_shared → obsession / exploitation / collapse
+```
+
+Dependency:
+
+```text
+coupling → shared attractor → love → sacrifice → ethics validation
+```
+
+## 6. Boundary note
+
+This item does not introduce normative moral codes. It treats love, sacrifice, and ethics as stability mechanisms within coupled persistence. Institutional ethics, belief, and civilizational layers are deferred.
+
+## 7. Exit question
+
+If ethics is the discrimination of relation reality, what constitutes sufficient evidence to treat a shared attractor as real? This opens the trust layer (SΔϕ-15).

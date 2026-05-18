@@ -1,0 +1,18 @@
+Apply SΔϕ-14.
+
+Analyze love, sacrifice, and ethics as relational stability mechanisms after irreversible coupling and shared-attractor formation.
+
+Check:
+1. Is there mutual transition dependence?
+2. Does the coupling persist across irreversible updates?
+3. Is Cost_rollback > Cost_co-adaptation?
+4. Does a shared attractor form?
+5. Does the shared attractor preserve mutual transitionability?
+6. Is it real or phantom?
+
+Classify:
+Love = another system’s persistence enters internal evaluation.
+Sacrifice = transition-weight redistribution toward shared stability.
+Ethics = discrimination between real and phantom shared attractors.
+
+Do not treat this as romantic advice, moral code, self-destruction justification, legal judgment, or institutional ethics.
