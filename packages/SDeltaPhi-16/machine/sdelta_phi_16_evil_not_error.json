@@ -1,0 +1,15 @@
+{
+  "distinction_id": "SDeltaPhi-16_evil_not_error",
+  "error": {
+    "definition": "local and potentially recoverable mismatch",
+    "recoverability": "potentially recoverable",
+    "relational_future_status": "does not necessarily close Omega_rel"
+  },
+  "evil": {
+    "definition": "persistent relational closure under irreversibility",
+    "formula": "Evil := Close(Omega_rel)",
+    "recoverability": "recovery cost explodes",
+    "relational_future_status": "Omega_rel persistently closed"
+  },
+  "routing_rule": "Do not classify evil merely because an error occurred."
+}

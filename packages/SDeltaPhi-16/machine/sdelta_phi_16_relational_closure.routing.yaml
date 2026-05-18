@@ -1,0 +1,39 @@
+module_id: "SDeltaPhi-16"
+routing_priority: "relational_closure_after_SDeltaPhi-15"
+primary_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-09"
+  - "SDeltaPhi-10"
+  - "SDeltaPhi-11"
+  - "SDeltaPhi-12"
+  - "SDeltaPhi-13"
+  - "SDeltaPhi-14"
+  - "SDeltaPhi-15"
+  - "SDeltaPhi-16"
+root_spine_compatible_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-47"
+  - "SDeltaPhi-62"
+  - "SDeltaPhi-11"
+  - "SDeltaPhi-12"
+  - "SDeltaPhi-13"
+  - "SDeltaPhi-14"
+  - "SDeltaPhi-15"
+  - "SDeltaPhi-16"
+call_after:
+  - "SDeltaPhi-15"
+call_with_when_needed:
+  theological_evil:
+    - "SDeltaPhi-61"
+    - "SDeltaPhi-62"
+  governance_or_institutional_stabilization:
+    - "SDeltaPhi-41"
+    - "SDeltaPhi-55"
+    - "SDeltaPhi-62"
+do_not_route_if:
+  - "the task asks for theological evil without structural closure analysis"
+  - "the task asks for legal guilt"
+  - "the task asks for punishment"
+  - "the task labels persons or groups as evil"

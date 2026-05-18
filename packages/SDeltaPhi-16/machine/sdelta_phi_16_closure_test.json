@@ -1,0 +1,22 @@
+{
+  "test_id": "SDeltaPhi-16_evil_as_closure_test",
+  "steps": [
+    "Check whether Omega_rel exists.",
+    "Check whether Omega_rel is being closed.",
+    "Check whether closure persists across updates.",
+    "Check whether rollback cost explodes.",
+    "Check whether closure-selection conditions are present."
+  ],
+  "conditions": [
+    "E1: Close(Omega_rel) appears as Stabilize(phi)",
+    "E2: Cost_validate >> Cost_close",
+    "E3: Change approx IdentityCollapse -> DeltaPhi_allowed -> 0"
+  ],
+  "classifications": [
+    "recoverable error",
+    "temporary closure",
+    "persistent relational closure",
+    "evil as closure operator"
+  ],
+  "negative_constraint": "Do not classify evil as a moral label for agents. Classify closure dynamics."
+}

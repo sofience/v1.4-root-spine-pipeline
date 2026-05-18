@@ -1,0 +1,14 @@
+{
+  "dual_id": "SDeltaPhi-16_ethics_evil_directional_dual",
+  "ethics": {
+    "direction": "openness maintenance",
+    "definition": "maintains open relational futures via validation and commitment",
+    "formula": "Ethics -> keep Omega_rel open"
+  },
+  "evil": {
+    "direction": "closure acceleration",
+    "definition": "accelerates closure by suppressing variance and exploiting commitment",
+    "formula": "Evil -> Close(Omega_rel)"
+  },
+  "negative_constraint": "This is not moral dualism; it is a directional distinction."
+}

@@ -1,0 +1,68 @@
+module_id: "SDeltaPhi-16"
+title: "Evil as Relational Closure"
+version: "v1.0"
+role: "relational_closure_failure_mode_layer"
+package_doi: "https://doi.org/10.5281/zenodo.20266624"
+
+depends_on:
+  - module_id: "SDeltaPhi-15"
+    relation: "trust, hope, and promise as pre-commitment operators"
+  - module_id: "SDeltaPhi-14"
+    relation: "ethics as real-vs-phantom shared-attractor discrimination"
+  - module_id: "SDeltaPhi-03"
+    relation: "irreversibility condition"
+
+core_claim: "Evil is not a moral label for agents but a persistent closure operator over relational futures under irreversibility."
+
+entities:
+  relational_future:
+    symbol: "Omega_rel"
+    definition: "Relational future path-space."
+
+  evil:
+    definition: "Persistent closure of relational futures under irreversibility."
+    formula: "Evil := Close(Omega_rel)"
+    negative_constraint: "Not a moral label for agents."
+
+  error:
+    definition: "Local and potentially recoverable mismatch."
+    distinction: "Error is recoverable; evil is persistent closure with exploding recovery cost."
+
+closure_conditions:
+  E1_closure_attractor_visibility:
+    formula: "Close(Omega_rel) appears as Stabilize(phi)"
+    meaning: "Closure appears as stability or relief."
+
+  E2_validation_cost_explosion:
+    formula: "Cost_validate >> Cost_close"
+    meaning: "Closure is selected as lower-cost than validation."
+
+  E3_irreversible_identity_lock:
+    formula: "Change approx IdentityCollapse -> DeltaPhi_allowed -> 0"
+    meaning: "Change is translated as identity collapse, suppressing variance."
+
+corollaries:
+  intention_free:
+    statement: "Optimization, bureaucracy, and algorithmic bias can produce closure without malicious intent."
+  good_intention:
+    statement: "System-wide closure can be chosen to save locally while destroying relational futures."
+  seductive:
+    statement: "Closure can feel attractive because it behaves like a strong attractor."
+
+directional_dual:
+  ethics: "maintains open relational futures via validation and commitment"
+  evil: "accelerates closure by suppressing variance and exploiting commitment"
+
+routing:
+  use_when:
+    - "relational closure must be analyzed"
+    - "evil must be separated from error"
+    - "closure appears as stability or relief"
+    - "validation cost explosion is present"
+    - "identity lock suppresses variance"
+    - "optimization or bureaucracy produces closure without malicious intent"
+  do_not_use_when:
+    - "the task asks for theological evil"
+    - "the task asks for legal guilt"
+    - "the task asks for punishment"
+    - "the task labels persons or groups as evil"

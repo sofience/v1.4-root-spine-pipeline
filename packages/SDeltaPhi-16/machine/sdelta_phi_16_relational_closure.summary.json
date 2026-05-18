@@ -1,0 +1,32 @@
+{
+  "module_id": "SDeltaPhi-16",
+  "title": "Evil as Relational Closure",
+  "version": "v1.0",
+  "package_doi": "https://doi.org/10.5281/zenodo.20266624",
+  "one_sentence": "This module defines evil as persistent closure of relational futures under irreversibility.",
+  "core_compression": {
+    "evil": "Close(Omega_rel)",
+    "error": "local and potentially recoverable mismatch",
+    "evil_not_error": "persistent closure that makes recovery cost explode"
+  },
+  "closure_conditions": {
+    "E1": "closure appears as stability or relief",
+    "E2": "Cost_validate >> Cost_close",
+    "E3": "Change approx IdentityCollapse -> DeltaPhi_allowed -> 0"
+  },
+  "corollaries": {
+    "intention_free": "optimization, bureaucracy, and algorithmic bias can produce closure without malicious intent",
+    "good_intention": "closure can be chosen to save locally while destroying relational futures",
+    "seductive": "closure can feel attractive because it behaves like a strong attractor"
+  },
+  "directional_dual": {
+    "ethics": "keeps Omega_rel open through validation and commitment",
+    "evil": "closes Omega_rel by suppressing variance and exploiting commitment"
+  },
+  "negative_constraints": [
+    "Do not treat evil as a moral label for agents.",
+    "Do not classify persons or groups as evil.",
+    "Do not use this module as theology, legal guilt, punishment theory, or moral condemnation.",
+    "Classify closure dynamics only."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "module_id": "SDeltaPhi-16",
+  "axioms": [
+    {
+      "name": "Evil as closure operator",
+      "statement": "Evil is persistent closure of relational futures under irreversibility.",
+      "formula": "Evil := Close(Omega_rel)",
+      "dynamic_trace": "DeltaPhi -> relational stability decrease -> recursive collapse"
+    },
+    {
+      "name": "Evil is not error",
+      "statement": "Error is local and potentially recoverable. Evil is persistent closure that makes recovery cost explode.",
+      "formula": "Evil implies Persistence(Closure) and Irreversibility"
+    }
+  ]
+}

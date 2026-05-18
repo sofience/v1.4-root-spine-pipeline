@@ -1,0 +1,18 @@
+{
+  "conditions": {
+    "E1_closure_attractor_visibility": {
+      "formula": "Close(Omega_rel) appears as Stabilize(phi)",
+      "meaning": "closure appears as stability or relief"
+    },
+    "E2_validation_cost_explosion": {
+      "formula": "Cost_validate >> Cost_close",
+      "meaning": "closure is selected as a lower-cost path than validation"
+    },
+    "E3_irreversible_identity_lock": {
+      "formula": "Change approx IdentityCollapse -> DeltaPhi_allowed -> 0",
+      "meaning": "change is translated as identity collapse, suppressing variance"
+    }
+  },
+  "classification": "When E1, E2, and E3 reinforce each other, closure becomes a low-cost attractor.",
+  "negative_constraint": "Malicious intent is not required."
+}
