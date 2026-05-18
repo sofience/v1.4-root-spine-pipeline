@@ -1,0 +1,14 @@
+Apply SΔϕ-15.
+
+Analyze trust, hope, and promise as pre-commitment operators that insert unobserved future transitions into present evaluation.
+
+Classify:
+
+Trust = Insert(Δϕ_other^future) into Eval_self(t).
+Belief = Fix(H(Δϕ_world)).
+Hope = Suspend_Closure(Ω_future).
+Despair = Close(Ω_future).
+Promise = SharedCommit(Δϕ_future), requiring ≥2 systems.
+Temporal inversion = FutureConstraint → PresentActionRestriction.
+
+Do not treat this as religious faith, legal contract doctrine, romantic advice, moral exhortation, optimism, belief, or unilateral intention.
