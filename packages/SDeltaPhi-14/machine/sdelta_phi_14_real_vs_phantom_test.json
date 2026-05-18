@@ -1,0 +1,13 @@
+{
+  "test_id": "SDeltaPhi-14_real_vs_phantom_shared_attractor_test",
+  "steps": [
+    "Check irreversible coupling.",
+    "Check shared stability.",
+    "Check mutual transitionability.",
+    "Check exploitation/collapse risk."
+  ],
+  "classifications": {
+    "real_shared_attractor": "devotion / trust / stability",
+    "phantom_shared_attractor": "obsession / exploitation / collapse"
+  }
+}

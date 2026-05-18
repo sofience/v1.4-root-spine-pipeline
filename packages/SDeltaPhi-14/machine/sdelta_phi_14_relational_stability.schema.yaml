@@ -1,0 +1,59 @@
+module_id: "SDeltaPhi-14"
+title: "Love, Sacrifice, and Ethics as Relational Stability Mechanisms"
+version: "v1.0"
+role: "relational_stability_shared_attractor_validation_layer"
+package_doi: "https://doi.org/10.5281/zenodo.20264844"
+
+depends_on:
+  - module_id: "SDeltaPhi-13"
+    relation: "meaning, value, and pain as attractor-emergent structural phenomena"
+  - module_id: "SDeltaPhi-12"
+    relation: "memory and forgetting as irreversible trace regulation"
+  - module_id: "SDeltaPhi-03"
+    relation: "irreversibility condition"
+
+core_claim: "Love, sacrifice, and ethics are relational stability mechanisms that emerge after irreversible coupling and shared-attractor formation."
+
+entities:
+  irreversible_coupling:
+    definition: "Two systems become coupled when their transition laws cease to be independently evaluable and persist across irreversible updates."
+    formulas:
+      - "G_A = G_A(phi_A, phi_B)"
+      - "G_B = G_B(phi_B, phi_A)"
+      - "dDeltaPhi_A/dphi_B != 0"
+      - "dDeltaPhi_B/dphi_A != 0"
+    irreversibility_clause: "Cost_rollback > Cost_co_adaptation"
+  shared_attractor:
+    definition: "Stable convergence of coupled trajectories."
+    symbol: "A_shared"
+  love:
+    definition: "Another system's persistence enters internal evaluation."
+    formula: "Eval_A(phi_A) -> Eval_A(phi_A, phi_B)"
+    negative_constraint: "Not sentiment, romance, or preference alone."
+  sacrifice:
+    definition: "Intentional redistribution of transition weight from self-stability toward shared stability under irreversibility."
+    formula: "Sacrifice := weight redistribution (self trajectory -> A_shared)"
+    minimal_condition: "Cost_shared_collapse > Cost_self_degradation"
+    negative_constraint: "Not justification for self-destruction."
+  ethics:
+    definition: "Discrimination between real and phantom shared attractors under irreversible commitment."
+    formula: "Ethics := discriminate(real A_shared, phantom A_shared)"
+    negative_constraint: "Not a moral code."
+
+pathological_split:
+  real_shared_attractor:
+    result: "devotion / trust / stability"
+  phantom_shared_attractor:
+    result: "obsession / exploitation / collapse"
+
+routing:
+  use_when:
+    - "irreversible coupling is structurally relevant"
+    - "shared attractor formation must be evaluated"
+    - "love must be separated from sentiment"
+    - "sacrifice must be analyzed as weight redistribution"
+    - "ethics must be analyzed as real-vs-phantom attractor validation"
+  do_not_use_when:
+    - "the task asks for romantic advice"
+    - "the task asks for normative moral codes"
+    - "the task asks for legal judgment"

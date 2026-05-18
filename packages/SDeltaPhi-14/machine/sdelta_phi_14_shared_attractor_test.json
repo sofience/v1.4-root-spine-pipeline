@@ -1,0 +1,12 @@
+{
+  "test_id": "SDeltaPhi-14_shared_attractor_formation_test",
+  "conditions": [
+    "coupling exists",
+    "coupling persists across updates",
+    "trajectories co-stabilize",
+    "separation or collapse increases transition cost",
+    "co-adaptation becomes lower-cost than rollback"
+  ],
+  "positive_classification": "real shared attractor candidate",
+  "risk_classification": "phantom shared attractor candidate"
+}

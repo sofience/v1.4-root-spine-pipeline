@@ -1,0 +1,20 @@
+{
+  "module_id": "SDeltaPhi-14",
+  "axioms": [
+    {
+      "name": "Irreversible coupling",
+      "statement": "Two systems become coupled when their transition laws cease to be independently evaluable and persist across irreversible updates.",
+      "formulas": [
+        "G_A = G_A(phi_A, phi_B)",
+        "G_B = G_B(phi_B, phi_A)",
+        "dDeltaPhi_A/dphi_B != 0",
+        "dDeltaPhi_B/dphi_A != 0"
+      ],
+      "irreversibility_clause": "Cost_rollback > Cost_co_adaptation"
+    }
+  ],
+  "ontological_shift": {
+    "before_coupling": "existence = persistence of a trajectory",
+    "after_coupling": "existence = persistence of a relational field"
+  }
+}

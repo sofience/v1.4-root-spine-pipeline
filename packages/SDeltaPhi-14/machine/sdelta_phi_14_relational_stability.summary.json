@@ -1,0 +1,39 @@
+{
+  "module_id": "SDeltaPhi-14",
+  "title": "Love, Sacrifice, and Ethics as Relational Stability Mechanisms",
+  "version": "v1.0",
+  "package_doi": "https://doi.org/10.5281/zenodo.20264844",
+  "one_sentence": "This module defines love, sacrifice, and ethics as relational stability mechanisms after irreversible coupling and shared-attractor formation.",
+  "dependency_sequence": [
+    "meaning/value/pain emergence",
+    "irreversible coupling",
+    "shared attractor formation",
+    "love as co-determined evaluation",
+    "sacrifice as transition-weight redistribution",
+    "ethics as real-vs-phantom shared-attractor validation"
+  ],
+  "core_compression": {
+    "love": "another system's persistence enters internal evaluation",
+    "sacrifice": "transition-weight redistribution toward shared stability",
+    "ethics": "discrimination between real and phantom shared attractors"
+  },
+  "coupling_condition": {
+    "formulas": [
+      "G_A = G_A(phi_A, phi_B)",
+      "G_B = G_B(phi_B, phi_A)",
+      "dDeltaPhi_A/dphi_B != 0",
+      "dDeltaPhi_B/dphi_A != 0"
+    ],
+    "irreversibility_clause": "Cost_rollback > Cost_co_adaptation"
+  },
+  "pathological_split": {
+    "real_shared_attractor": "devotion / trust / stability",
+    "phantom_shared_attractor": "obsession / exploitation / collapse"
+  },
+  "negative_constraints": [
+    "Do not treat love as sentiment alone.",
+    "Do not treat sacrifice as moral virtue or self-destruction justification.",
+    "Do not treat ethics as a normative moral code.",
+    "Do not treat this module as legal or institutional ethics."
+  ]
+}

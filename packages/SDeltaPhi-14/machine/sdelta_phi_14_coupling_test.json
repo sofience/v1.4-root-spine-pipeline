@@ -1,0 +1,14 @@
+{
+  "test_id": "SDeltaPhi-14_irreversible_coupling_test",
+  "steps": [
+    "Check mutual transition dependence: dDeltaPhi_A/dphi_B != 0 and dDeltaPhi_B/dphi_A != 0.",
+    "Check persistence across irreversible updates.",
+    "Check whether Cost_rollback > Cost_co_adaptation."
+  ],
+  "classifications": [
+    "transient interaction",
+    "reversible coupling",
+    "irreversible coupling",
+    "relational field persistence"
+  ]
+}

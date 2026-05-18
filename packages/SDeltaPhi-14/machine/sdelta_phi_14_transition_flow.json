@@ -1,0 +1,16 @@
+{
+  "diagram_id": "SDeltaPhi-14_relational_transition_flow",
+  "steps": [
+    "irreversible coupling",
+    "shared attractor emerges",
+    "love / evaluation becomes co-determined",
+    "sacrifice / weight redistribution to A_shared",
+    "ethics / real vs phantom A_shared discrimination",
+    "pathological split"
+  ],
+  "dependency": "coupling -> shared attractor -> love -> sacrifice -> ethics validation",
+  "pathological_split": {
+    "real_A_shared": "devotion / trust / stability",
+    "phantom_A_shared": "obsession / exploitation / collapse"
+  }
+}

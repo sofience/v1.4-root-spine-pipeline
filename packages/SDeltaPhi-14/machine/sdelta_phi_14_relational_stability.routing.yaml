@@ -1,0 +1,39 @@
+module_id: "SDeltaPhi-14"
+routing_priority: "relational_stability_after_SDeltaPhi-13"
+primary_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-09"
+  - "SDeltaPhi-10"
+  - "SDeltaPhi-11"
+  - "SDeltaPhi-12"
+  - "SDeltaPhi-13"
+  - "SDeltaPhi-14"
+root_spine_compatible_route:
+  - "SDeltaPhi-01"
+  - "SDeltaPhi-03"
+  - "SDeltaPhi-47"
+  - "SDeltaPhi-62"
+  - "SDeltaPhi-11"
+  - "SDeltaPhi-12"
+  - "SDeltaPhi-13"
+  - "SDeltaPhi-14"
+call_after:
+  - "SDeltaPhi-13"
+call_with_when_needed:
+  moral_codes_or_policy:
+    - "SDeltaPhi-41"
+    - "SDeltaPhi-55"
+    - "SDeltaPhi-62"
+  ai_suffering_or_affect:
+    - "SDeltaPhi-53"
+    - "SDeltaPhi-54"
+    - "SDeltaPhi-59"
+    - "SDeltaPhi-62"
+  evidence_for_shared_attractor:
+    - "SDeltaPhi-15"
+do_not_route_if:
+  - "the task asks for romantic advice"
+  - "the task asks for normative moral codes"
+  - "the task asks for legal judgment"
+  - "the task asks for justification of self-destruction"
